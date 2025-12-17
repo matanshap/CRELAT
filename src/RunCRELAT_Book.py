@@ -33,8 +33,8 @@ def main():
     Book1.GenCoOc(15)
     Book1.TrainW2VModel(7, 15, output_dir)
     Book1.GenW2V()
-    #Book1.PloHM(0,False,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_CoOc_HM")
-    #Book1.PloHM(1,False,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_W2V_HM")
+    #Book1.PlotHM(0,False,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_CoOc_HM")
+    #Book1.PlotHM(1,False,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_W2V_HM")
     #Book1.PlotGraph(0,False,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_CoOc_Graph")
     #Book1.PlotGraph(1, False, "C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/A_Catcher_In_The_Rye_Graph")
     #Book1.SubGraph(0,1,True,"C:/Users/Dani2.OFER3090PC/Desktop/omrirafa/NLP/ReLAN/output/Great_Expectations_W2V_vs_CoOc_Graph")
@@ -53,10 +53,10 @@ def main():
 # entities_path = '/home/omrirafa/CRELAT/test/Harry Potter 1/Entities'
 # book_name = 'Harry Potter 1'
 # output_dir = '/home/omrirafa/CRELAT/test/output/Harry Potter 1'
-book_path = '../Data/The Model Millionaire/The Model Millionaire'
-entities_path = '../Data/The Model Millionaire/Entities'
-book_name = 'The Model Millionaire'
-output_dir = '../output/The Model Millionaire'
+book_path = 'Data/Shakespeare/Hamlet/Hamlet.txt'
+entities_path = 'Data/Shakespeare/Hamlet/Entities'
+book_name = 'Hamlet'
+output_dir = 'output/Hamlet'
 
 
 Book1 = Book.Book(book_path, entities_path, book_name)
@@ -67,7 +67,7 @@ Book1.GenCoOc(window_size=15)
 #Co-Occurances Graph
 Book1.PlotGraph(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_Graph")
 #Co-Occurances Heat Map
-Book1.PloHM(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_HeatMap")
+Book1.PlotHM(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_HeatMap")
 Book1.TrainW2VModel(7, 15, output_dir)
 Book1.GenW2V()
 #Bert
@@ -76,13 +76,14 @@ Book1.inference_bert()
 Book1.average_bert_embeddings()
 Book1.Gen_Bert_Pairs()
 #W2V Cosine Graph
-Book1.PlotGraph(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_Graph")
+Book1.PlotGraph(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_Graph.svg")
 #W2V Cosine HM
-Book1.PloHM(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_HeatMap")
+Book1.PlotHM(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_HeatMap.svg")
 #Cosine-Similarity minus Normalized Co-Occurances Graph (to highlight Gap)
-Book1.SubGraph(data_sel0=0,data_sel1=1,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_Minus_Cosine_Graph")
+Book1.SubGraph(data_sel0=0,data_sel1=1,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_Minus_Cosine_Graph.svg")
 #Excel file with the difference between the 2 metrics for each pair of characters
 Book1.SaveDiffList(save_path=f"{output_dir}/{book_name}_Diff_List.xls")
 #cluster pairs connection according to each metric (pairs with similar values will be assign to the same cluster)
 Book1.ClusterAll_new(save_path=f"{output_dir}/{book_name}_Clustered.xls",n_clusters=5)
 print("End Of script")
+

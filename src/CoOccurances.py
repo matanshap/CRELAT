@@ -70,7 +70,7 @@ def find_interactions(idx_dct, N):
 
 
 
-def CoOcCount(entities, book_text,window_size):
+def CoOcCount(entities, book_text, window_size):
     known_names = dict()
     for ent in entities:
         known_names[ent[0]] = ent[1:]

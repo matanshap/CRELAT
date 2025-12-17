@@ -14,7 +14,7 @@ import Clustering
 import BERT_Inference_Without_Finetune
 import torch
 class Book:
-    def __init__(self,book_txt_path, Entities_file_path,book_name):
+    def __init__(self,book_txt_path, Entities_file_path, book_name):
         file = open(book_txt_path, encoding="utf-8")
         line = file.read()
         tokens = line.split()
@@ -26,7 +26,7 @@ class Book:
         for line in file:
             stripped_line = line.strip()
             line_list = stripped_line.split()
-            entities.append(line_list)
+            entities.append([i.lower() for i in line_list])
         file.close()
         self.entities = entities
 
@@ -94,7 +94,7 @@ class Book:
         self.cls_averaged_bert = to_1d_tensors(self.cls_averaged_bert)
         self.bert_pairs_average_cls = BERT_Inference_Without_Finetune.Gen_Bert_Pairs(self.cls_averaged_bert)
 
-    def PloHM(self,data_sel,save_plot,save_path):
+    def PlotHM(self,data_sel,save_plot,save_path):
         if data_sel==0:
             data=self.co_occurances_raw
         elif data_sel==1:
@@ -179,9 +179,9 @@ class Book:
     #     self.entities_contexts = entity_contexts
     #
     def extract_entity_contexts(self, context_window=10):
-        self.entities_contexts = BERT_Inference_Without_Finetune.extract_entity_contexts(self.one_ref_list,self.entities)
+        self.entities_contexts = BERT_Inference_Without_Finetune.extract_entity_contexts(self.one_ref_list, self.entities, context_window)
     def inference_bert(self, model_name = 'bert-base-uncased'):
-        self.entities_embeddings_per_context_bert, self.cls_per_context = BERT_Inference_Without_Finetune.inference_bert(self.entities_contexts)
+        self.entities_embeddings_per_context_bert, self.cls_per_context = BERT_Inference_Without_Finetune.inference_bert(self.entities_contexts, model_name)
     def average_bert_embeddings(self):
         #take bert output token of the entity in all the context on which the entity appear and average them
         self.entities_embeddings_averaged_bert=dict()
@@ -214,13 +214,14 @@ class Book:
 
 
     def ClusterList(self,data_sel,save_path,n_clusters):
+        cluster = Clustering.Cluster(data, n_clusters)
         if data_sel==0:
             data = self.co_occurances_raw
             data_type = "Co-Occurances"
         elif data_sel==1:
             data=self.w2v_pairs
             data_type = "W2V Cosine Similarity"
-        clusters_labels,clusters_centers = Clustering.Cluster(data,n_clusters)
+        clusters_labels, clusters_centers = cluster.kmeans()
 
         new_list = []
         for label, couple in zip(clusters_labels, data):
@@ -228,14 +229,15 @@ class Book:
             temp_couple.append(label)
             new_list.append(temp_couple)
         new_list.sort(key=lambda x: x[2])
-        df = pd.DataFrame(new_list, columns=['Char1', 'Char2',data_type,'Cluster'])
+        df = pd.DataFrame(new_list, columns=['Char1', 'Char2', data_type,'Cluster'])
         df.to_csv(save_path, index=False, sep='\t')
         print("!")
-    def ClusterAll(self,save_path,n_clusters):
+        
+    def ClusterAll(self, save_path, n_clusters):
         data_cooc = self.co_occurances_raw
         data_w2v = self.w2v_pairs
-        clusters_labels_cooc,clusters_centers_cooc = Clustering.Cluster(data_cooc,n_clusters)
-        clusters_labels_w2v,clusters_centers_w2v = Clustering.Cluster(data_w2v,n_clusters)
+        clusters_labels_cooc,clusters_centers_cooc = Clustering.Cluster(data_cooc, n_clusters)
+        clusters_labels_w2v,clusters_centers_w2v = Clustering.Cluster(data_w2v, n_clusters)
 
         clusters_centers_cooc1 = sorted(list(clusters_centers_cooc))
         clusters_centers_w2v1 = sorted(list(clusters_centers_w2v))
@@ -313,31 +315,47 @@ class Book:
         data_w2v = self.w2v_pairs
         data_bert_ent_emb = self.bert_pairs_average_ent_emb  # New metric
         data_bert_cls = self.bert_pairs_average_cls  # New metric
+        cluster_cooc = Clustering.Cluster(data_cooc, n_clusters)
+        cluster_w2v = Clustering.Cluster(data_w2v, n_clusters)
+        cluster_bert_ent_emb = Clustering.Cluster(data_bert_ent_emb, n_clusters)
+        cluster_bert_cls = Clustering.Cluster(data_bert_cls, n_clusters)
 
-        # Perform clustering on the three datasets
-        clusters_labels_cooc, clusters_centers_cooc = Clustering.Cluster(data_cooc, n_clusters)
-        clusters_labels_w2v, clusters_centers_w2v = Clustering.Cluster(data_w2v, n_clusters)
-        clusters_labels_bert_ent_emb, clusters_centers_bert_ent_emb = Clustering.Cluster(data_bert_ent_emb, n_clusters)
-        clusters_labels_bert_cls, clusters_centers_bert_cls = Clustering.Cluster(data_bert_cls, n_clusters)
+        clusters_labels_cooc, clusters_centers_cooc = cluster_cooc.kmeans()
+        clusters_labels_w2v, clusters_centers_w2v = cluster_w2v.kmeans()
+        clusters_labels_bert_ent_emb, clusters_centers_bert_ent_emb = cluster_bert_ent_emb.kmeans()
+        clusters_labels_bert_cls, clusters_centers_bert_cls = cluster_bert_cls.kmeans()
 
+        clusters_labels_cooc_dbscan, clusters_centers_cooc_dbscan = cluster_cooc.dbscan()
+        clusters_labels_w2v_dbscan, clusters_centers_w2v_dbscan = cluster_w2v.dbscan()
+        clusters_labels_bert_ent_emb_dbscan, clusters_centers_bert_ent_emb_dbscan = cluster_bert_ent_emb.dbscan()
+        clusters_labels_bert_cls_dbscan, clusters_centers_bert_cls_dbscan = cluster_bert_cls.dbscan()
         # Sort the cluster centers
         clusters_centers_cooc1 = sorted(list(clusters_centers_cooc))
         clusters_centers_w2v1 = sorted(list(clusters_centers_w2v))
         clusters_centers_bert1_ent_emb = sorted(list(clusters_centers_bert_ent_emb))
         clusters_centers_bert1_cls = sorted(list(clusters_centers_bert_cls))
-
+        clusters_centers_cooc_dbscan1 = sorted(list(clusters_centers_cooc_dbscan))
+        clusters_centers_w2v_dbscan1 = sorted(list(clusters_centers_w2v_dbscan))
+        clusters_centers_bert_ent_emb_dbscan1 = sorted(list(clusters_centers_bert_ent_emb_dbscan))
+        clusters_centers_bert_cls_dbscan1 = sorted(list(clusters_centers_bert_cls_dbscan))
         # Create mappings for the cluster labels
         cooc_map = {i: clusters_centers_cooc1.index(center) for i, center in enumerate(clusters_centers_cooc)}
         w2v_map = {i: clusters_centers_w2v1.index(center) for i, center in enumerate(clusters_centers_w2v)}
         bert_ent_emb_map = {i: clusters_centers_bert1_ent_emb.index(center) for i, center in enumerate(clusters_centers_bert_ent_emb)}
         bert_cls_map = {i: clusters_centers_bert1_cls.index(center) for i, center in enumerate(clusters_centers_bert_cls)}
-
+        cooc_map_dbscan = {i: clusters_centers_cooc_dbscan1.index(center) for i, center in enumerate(clusters_centers_cooc_dbscan)}
+        w2v_map_dbscan = {i: clusters_centers_w2v_dbscan1.index(center) for i, center in enumerate(clusters_centers_w2v_dbscan)}
+        bert_ent_emb_map_dbscan = {i: clusters_centers_bert_ent_emb_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_ent_emb_dbscan)}
+        bert_cls_map_dbscan = {i: clusters_centers_bert_cls_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_cls_dbscan)}
         # Update cluster labels with the mappings
         clusters_labels_cooc = [cooc_map[label] for label in clusters_labels_cooc]
         clusters_labels_w2v = [w2v_map[label] for label in clusters_labels_w2v]
         clusters_labels_bert_ent_emb = [bert_ent_emb_map[label] for label in clusters_labels_bert_ent_emb]
         clusters_labels_bert_cls = [bert_cls_map[label] for label in clusters_labels_bert_cls]
-
+        clusters_labels_cooc_dbscan = [cooc_map_dbscan[label] for label in clusters_labels_cooc_dbscan]
+        clusters_labels_w2v_dbscan = [w2v_map_dbscan[label] for label in clusters_labels_w2v_dbscan]
+        clusters_labels_bert_ent_emb_dbscan = [bert_ent_emb_map_dbscan[label] for label in clusters_labels_bert_ent_emb_dbscan]
+        clusters_labels_bert_cls_dbscan = [bert_cls_map_dbscan[label] for label in clusters_labels_bert_cls_dbscan]
         # Append cluster labels to the original data and sort them
         def append_and_sort(data, labels):
             new_list = []

@@ -3,7 +3,7 @@ import torch
 from scipy import spatial
 
 
-def extract_entity_contexts(tokens,entities, context_window=10):
+def extract_entity_contexts(tokens, entities, context_window=10):
     # Tokenize the book text
     # Find the positions of each entity in the tokenized text
     lower_entities = [entity[0].lower() for entity in entities]

@@ -36,6 +36,8 @@ def TrainW2VModel(book_name, corpus_list, vector_size,window_size,output_path):
     for i in corpus_list:
         new_list[0].append(i)
 
+    
+
     # create a new Word2Vec model with the same parameters as the pre-trained model
     #fine_tuned_model = Word2Vec(sentences=new_list,vector_size=vector_size, min_count=5, window=window_size, sg=1)
 
@@ -78,6 +80,7 @@ def GenW2V(entities,vectors):
         first_entity = all_pairs[0][0][0]
     else:
         first_entity = all_pairs[0][0]
+    #print(vectors['vectors'])
     if isinstance(vectors['vectors'][first_entity], torch.Tensor):
         vectors['vectors'] = tensors_to_lists(vectors['vectors'])
     # compute cosine similarity

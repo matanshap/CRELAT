@@ -35,7 +35,9 @@ def PlotHM(raw_data, save_plot, save_path):
     matrix = matrix.reindex(index=characters[::-1], columns=characters[::-1])  # Reversed order
     matrix = matrix.fillna(0)
     # Create the heatmap using seaborn
-    ax = sns.heatmap(matrix, cmap='coolwarm', annot=True, fmt='.1f')
+    # Increase figure size to accommodate more precise numbers
+    plt.figure(figsize=(max(12, len(characters) * 0.8), max(10, len(characters) * 0.8)))
+    ax = sns.heatmap(matrix, cmap='coolwarm', annot=True, fmt='.3f', annot_kws={'size': 8})
 
     # Ensure same labels on both x and y axes
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right')
@@ -49,7 +51,7 @@ def PlotHM(raw_data, save_plot, save_path):
 
 
 
-def PlotCov(matrix,book_names):
+def PlotCov(matrix,book_names, save_path):
     # Create a seaborn heatmap
     sns.heatmap(matrix, annot=True, cmap="YlGnBu")
 
@@ -58,7 +60,7 @@ def PlotCov(matrix,book_names):
     plt.yticks([y + 0.5 for y in range(len(matrix))], book_names)
 
     # Display the plot
-    plt.show()
+    plt.savefig(save_path)
 
 def generate_random_colors(length):
     colors = []
@@ -68,30 +70,30 @@ def generate_random_colors(length):
         colors.append(color)
     return colors
 
-def PlotGraph(raw_data, save_plot, save_path,title,draw_edges = 1, num_of_books=1):
+def PlotGraph(raw_data, save_plot, save_path, title, draw_edges = 1, book_names=None):
     # Create an empty graph
     G = nx.Graph()
 
     #generate random colors list
-    colors = generate_random_colors(num_of_books)
+    # colors = generate_random_colors(len(book_names))
     # Add the nodes to the graph
-    if num_of_books>1:
+    if book_names is not None:
         for pair in raw_data:
-            G.add_node(pair[0],color=colors[pair[6]])
-            G.add_node(pair[1],color=colors[pair[7]])
+            G.add_node(pair[0],color= book_names.index(pair[4]))
+            G.add_node(pair[1],color= book_names.index(pair[5]))
     else:
         for pair in raw_data:
             G.add_node(pair[0])
             G.add_node(pair[1])
     # Add the edges to the graph with their weights
     for edge in raw_data:
-        G.add_edge(edge[0], edge[1], weight=round(edge[2],2))
+        G.add_edge(edge[0], edge[1], weight=edge[2])
     # Set the position of the nodes for visualization
     pos1 = nx.spring_layout(G,weight='weight', scale=10)
     # Draw the nodes and edges
     plt.figure(figsize=(16, 16))
     plt.title(title)
-    if num_of_books>1:
+    if book_names is not None:
         node_colors = [G.nodes[node]['color'] for node in G.nodes]
         nx.draw_networkx_nodes(G, pos1, node_size=400,node_color=node_colors)
     else:
@@ -117,7 +119,7 @@ def PlotGraph(raw_data, save_plot, save_path,title,draw_edges = 1, num_of_books=
     plt.axis('off')
     plt.close()
     print("(PlotGraph) Done")
-def PlotW2vEmbeddings2D(embeddings_dict,corpus_entities,entities_per_book):
+def PlotW2vEmbeddings2D(embeddings_dict, corpus_entities, entities_per_book, save_path):
     names = list(embeddings_dict.keys())
     book_labels = []
     for name in names:
@@ -152,9 +154,9 @@ def PlotW2vEmbeddings2D(embeddings_dict,corpus_entities,entities_per_book):
     plt.xlabel('Principal Component 1')
     plt.ylabel('Principal Component 2')
     plt.title('Visualization of Word Embeddings')
-    plt.show()
+    plt.savefig(save_path)
 
-def PlotW2vEmbeddings3D(embeddings_dict, corpus_entities, entities_per_book):
+def PlotW2vEmbeddings3D(embeddings_dict, corpus_entities, entities_per_book, save_path):
     names = list(embeddings_dict.keys())
     book_labels = []
     for name in names:
@@ -192,4 +194,4 @@ def PlotW2vEmbeddings3D(embeddings_dict, corpus_entities, entities_per_book):
     ax.set_zlabel('Principal Component 3')
     ax.set_title('Visualization of Word Embeddings')
 
-    plt.show()
+    plt.savefig(save_path)

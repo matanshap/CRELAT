@@ -1,0 +1,93 @@
+Char1,Char2,Cosine Similarity W2V,Same Book,Char Book,Char2 Book,Cosine Similarity BERT
+benvolio,hamlet,0.7259564579208185,0,Romeo And Juliet,Hamlet,0.7259564579208185
+abram,duncan,0.7697621962039579,0,Romeo And Juliet,Macbeth,0.7697621962039579
+king,macbeth,0.7948917323252209,0,Hamlet,Macbeth,0.7948917323252209
+macbeth,montague,0.7678974140404615,0,Macbeth,Romeo And Juliet,0.7678974140404615
+benvolio,lady,0.9999473404867776,1,Romeo And Juliet,Romeo And Juliet,0.9999473404867776
+benvolio,macbeth,0.7680848747608239,0,Romeo And Juliet,Macbeth,0.7680848747608239
+abram,malcolm,0.7704467056542416,0,Romeo And Juliet,Macbeth,0.7704467056542416
+montague,ophelia,0.7254486461154582,0,Romeo And Juliet,Hamlet,0.7254486461154582
+duncan,laertes,0.7964575795475993,0,Macbeth,Hamlet,0.7964575795475993
+malcolm,ophelia,0.7956177657555543,0,Macbeth,Hamlet,0.7956177657555543
+laertes,macbeth,0.795921136518133,0,Hamlet,Macbeth,0.795921136518133
+donalbain,ophelia,0.7942013570262202,0,Macbeth,Hamlet,0.7942013570262202
+donalbain,duncan,0.9999213118324434,1,Macbeth,Macbeth,0.9999213118324434
+queen,romeo,0.7259387361463743,0,Hamlet,Romeo And Juliet,0.7259387361463743
+duncan,king,0.7954139487582893,0,Macbeth,Hamlet,0.7954139487582893
+hamlet,malcolm,0.7961395046855042,0,Hamlet,Macbeth,0.7961395046855042
+duncan,montague,0.7668758331407075,0,Macbeth,Romeo And Juliet,0.7668758331407075
+donalbain,malcolm,0.9999221762757462,1,Macbeth,Macbeth,0.9999221762757462
+macbeth,ophelia,0.7947060642976509,0,Macbeth,Hamlet,0.7947060642976509
+king,queen,0.9999661425398659,1,Hamlet,Hamlet,0.9999661425398659
+abram,donalbain,0.7704471216626773,0,Romeo And Juliet,Macbeth,0.7704471216626773
+benvolio,laertes,0.7267336712908057,0,Romeo And Juliet,Hamlet,0.7267336712908057
+hamlet,lady,0.726977360974,0,Hamlet,Romeo And Juliet,0.726977360974
+benvolio,queen,0.7258248057996098,0,Romeo And Juliet,Hamlet,0.7258248057996098
+hamlet,macbeth,0.7952472395608361,0,Hamlet,Macbeth,0.7952472395608361
+lady,lady,1.0,1,Romeo And Juliet,Romeo And Juliet,1.0
+king,montague,0.7256906784019425,0,Hamlet,Romeo And Juliet,0.7256906784019425
+king,romeo,0.7257893877089697,0,Hamlet,Romeo And Juliet,0.7257893877089697
+lady,macbeth,0.77013924188517,1,Romeo And Juliet,Macbeth,0.77013924188517
+benvolio,king,0.7256741101885517,0,Romeo And Juliet,Hamlet,0.7256741101885517
+macbeth,malcolm,0.9999733737702091,1,Macbeth,Macbeth,0.9999733737702091
+benvolio,montague,0.9999476561213522,1,Romeo And Juliet,Romeo And Juliet,0.9999476561213522
+abram,hamlet,0.7285780902905418,0,Romeo And Juliet,Hamlet,0.7285780902905418
+benvolio,romeo,0.9999726645949091,1,Romeo And Juliet,Romeo And Juliet,0.9999726645949091
+laertes,queen,0.9998296130770182,1,Hamlet,Hamlet,0.9998296130770182
+abram,lady,0.9996402256393937,1,Romeo And Juliet,Romeo And Juliet,0.9996402256393937
+abram,queen,0.7284489074779688,0,Romeo And Juliet,Hamlet,0.7284489074779688
+abram,macbeth,0.770775534587583,0,Romeo And Juliet,Macbeth,0.770775534587583
+duncan,ophelia,0.7952346835711775,0,Macbeth,Hamlet,0.7952346835711775
+laertes,montague,0.7267471166077437,0,Hamlet,Romeo And Juliet,0.7267471166077437
+laertes,romeo,0.7268505873840337,0,Hamlet,Romeo And Juliet,0.7268505873840337
+abram,romeo,0.9996288530539661,1,Romeo And Juliet,Romeo And Juliet,0.9996288530539661
+king,laertes,0.9998481320905666,1,Hamlet,Hamlet,0.9998481320905666
+ophelia,queen,0.9999635336022853,1,Hamlet,Hamlet,0.9999635336022853
+donalbain,hamlet,0.7947143671330605,0,Macbeth,Hamlet,0.7947143671330605
+lady,laertes,0.7277560614027023,0,Romeo And Juliet,Hamlet,0.7277560614027023
+duncan,malcolm,0.9999708109183476,1,Macbeth,Macbeth,0.9999708109183476
+hamlet,queen,0.9999718124600329,1,Hamlet,Hamlet,0.9999718124600329
+king,ophelia,0.9999602819148539,1,Hamlet,Hamlet,0.9999602819148539
+lady,queen,0.7268557499258183,0,Romeo And Juliet,Hamlet,0.7268557499258183
+donalbain,lady,0.7698556997389465,1,Macbeth,Romeo And Juliet,0.7698556997389465
+donalbain,queen,0.7943479583171515,0,Macbeth,Hamlet,0.7943479583171515
+benvolio,ophelia,0.7254360204679607,0,Romeo And Juliet,Hamlet,0.7254360204679607
+donalbain,macbeth,0.9999224817690597,1,Macbeth,Macbeth,0.9999224817690597
+hamlet,romeo,0.7260918590452168,0,Hamlet,Romeo And Juliet,0.7260918590452168
+abram,benvolio,0.9995962195577411,1,Romeo And Juliet,Romeo And Juliet,0.9995962195577411
+benvolio,duncan,0.767052707309013,0,Romeo And Juliet,Macbeth,0.767052707309013
+abram,laertes,0.7293650432379888,0,Romeo And Juliet,Hamlet,0.7293650432379888
+lady,montague,0.9999344885097952,1,Romeo And Juliet,Romeo And Juliet,0.9999344885097952
+lady,romeo,0.9999420200877734,1,Romeo And Juliet,Romeo And Juliet,0.9999420200877734
+donalbain,romeo,0.7682391053906787,0,Macbeth,Romeo And Juliet,0.7682391053906787
+laertes,ophelia,0.9998427704094255,1,Hamlet,Hamlet,0.9998427704094255
+benvolio,malcolm,0.7677777188303206,0,Romeo And Juliet,Macbeth,0.7677777188303206
+macbeth,queen,0.7948666587791425,0,Macbeth,Hamlet,0.7948666587791425
+abram,ophelia,0.7280249733358056,0,Romeo And Juliet,Hamlet,0.7280249733358056
+abram,king,0.7282878182634902,0,Romeo And Juliet,Hamlet,0.7282878182634902
+abram,montague,0.9995905003134912,1,Romeo And Juliet,Romeo And Juliet,0.9995905003134912
+macbeth,romeo,0.7685610520929234,0,Macbeth,Romeo And Juliet,0.7685610520929234
+hamlet,laertes,0.9998533597969204,1,Hamlet,Hamlet,0.9998533597969204
+laertes,malcolm,0.7968278036394565,0,Hamlet,Macbeth,0.7968278036394565
+montague,queen,0.7258350387738985,0,Romeo And Juliet,Hamlet,0.7258350387738985
+donalbain,laertes,0.79540376193785,0,Macbeth,Hamlet,0.79540376193785
+malcolm,queen,0.7957782417507545,0,Macbeth,Hamlet,0.7957782417507545
+hamlet,ophelia,0.9999722514436169,1,Hamlet,Hamlet,0.9999722514436169
+duncan,hamlet,0.7957569469439296,0,Macbeth,Hamlet,0.7957569469439296
+ophelia,romeo,0.7255498441376297,0,Hamlet,Romeo And Juliet,0.7255498441376297
+hamlet,king,0.9999722217470594,1,Hamlet,Hamlet,0.9999722217470594
+lady,ophelia,0.7264598640384438,0,Romeo And Juliet,Hamlet,0.7264598640384438
+montague,romeo,0.9999419896453089,1,Romeo And Juliet,Romeo And Juliet,0.9999419896453089
+hamlet,montague,0.7259634190092531,0,Hamlet,Romeo And Juliet,0.7259634190092531
+duncan,lady,0.769117832526006,1,Macbeth,Romeo And Juliet,0.769117832526006
+malcolm,montague,0.7675901904233957,0,Macbeth,Romeo And Juliet,0.7675901904233957
+duncan,queen,0.7953951559736071,0,Macbeth,Hamlet,0.7953951559736071
+malcolm,romeo,0.7682281175326136,0,Macbeth,Romeo And Juliet,0.7682281175326136
+benvolio,donalbain,0.7677843342218457,0,Romeo And Juliet,Macbeth,0.7677843342218457
+donalbain,king,0.794375127458349,0,Macbeth,Hamlet,0.794375127458349
+duncan,macbeth,0.9999717253845416,1,Macbeth,Macbeth,0.9999717253845416
+donalbain,montague,0.7675988793172885,0,Macbeth,Romeo And Juliet,0.7675988793172885
+king,malcolm,0.7958016134826291,0,Hamlet,Macbeth,0.7958016134826291
+duncan,romeo,0.7675117146116502,0,Macbeth,Romeo And Juliet,0.7675117146116502
+lady,malcolm,0.7698379958092101,1,Romeo And Juliet,Macbeth,0.7698379958092101
+king,lady,0.7267009798290034,0,Hamlet,Romeo And Juliet,0.7267009798290034

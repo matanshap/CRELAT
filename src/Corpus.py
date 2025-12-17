@@ -16,8 +16,10 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
     names_list = []
     txt_path_list = []
     names_path_list = []
+    folder_names = os.listdir(books_dir)
+    book_names = []
     # Iterate over the folders in the specified directory
-    for folder_name in os.listdir(books_dir):
+    for folder_name in folder_names:
         folder_path = os.path.join(books_dir, folder_name)
 
         # Check if the item in the directory is a folder
@@ -34,11 +36,12 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
     book_object_list = []
     for cur_names_path, cur_txt_path in zip(names_path_list, txt_path_list):
         book_name = os.path.splitext(os.path.basename(cur_txt_path))[0]
-        cur_book = Book.Book(cur_txt_path, cur_names_path,book_name)
+        book_names.append(book_name)
+        cur_book = Book.Book(cur_txt_path, cur_names_path, book_name)
         cur_book.RemoveStopWords()
         cur_book.ToOneRef()
         cur_book.TrainW2VModel(w2v_vector_size, w2v_window, output_dir)
-        #cur_book.GenW2V()
+        cur_book.GenW2V()
         cur_book.GenCoOc(cooc_window)
         cur_book.extract_entity_contexts()
         cur_book.inference_bert()
@@ -53,7 +56,7 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
     books_entities_lists_sep = []
     for book in book_object_list:
         cur_entities = []
-        for character in book.entities[:entities_per_book]:
+        for character in book.entities:
             corpus_entities.append(character[0])
             cur_entities.append(character[0])
         books_entities_lists_sep.append(cur_entities)
@@ -71,11 +74,11 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
 
     print(1)
 
-    #Generate a Cosine Similarity file for the COrpus
-    all_pairs = W2V.GenW2V(corpus_entities,entities_vectors_dict_w2v)
-    all_pairs_bert = W2V.GenW2V(corpus_entities,entities_vectors_dict_bert)
+    #Generate a Cosine Similarity file for the Corpus
+    all_pairs = W2V.GenW2V(corpus_entities, entities_vectors_dict_w2v)
+    all_pairs_bert = W2V.GenW2V(corpus_entities, entities_vectors_dict_bert)
 
-    all_pairs, all_pairs_bert = order_lists(all_pairs,all_pairs_bert)
+    all_pairs, all_pairs_bert = order_lists(all_pairs, all_pairs_bert)
 
     #Same Book or Not indication
     for idx, pair in enumerate(all_pairs):
@@ -87,7 +90,7 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
         # Append the corresponding number to the sublist
         pair.append(1 if same_book else 0)
         for book in book_object_list:
-            cur_book_entities = [ent[0] for ent in book.entities][:entities_per_book]
+            cur_book_entities = [ent[0] for ent in book.entities]
             if char1 in cur_book_entities:
                 char1_book = book.book_name
             if char2 in cur_book_entities:
@@ -102,14 +105,14 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
     df.to_csv(output_dir+corpus_name+".csv", index=False, encoding='utf-8')
 
 
-    for i in range(0,len(all_pairs)):
-        char1_index = corpus_entities.index(all_pairs[i][0])
-        char2_index = corpus_entities.index(all_pairs[i][1])
+    # for i in range(0,len(all_pairs)):
+    #     char1_index = corpus_entities.index(all_pairs[i][0])
+    #     char2_index = corpus_entities.index(all_pairs[i][1])
 
-        char1_book_idx = char1_index//entities_per_book
-        char2_book_idx = char2_index//entities_per_book
-        all_pairs[i].append(char1_book_idx)
-        all_pairs[i].append(char2_book_idx)
+    #     char1_book_idx = char1_index//entities_per_book
+    #     char2_book_idx = char2_index//entities_per_book
+    #     all_pairs[i].append(char1_book_idx)
+    #     all_pairs[i].append(char2_book_idx)
 
 
     #all pairs [0] - char1
@@ -134,13 +137,22 @@ def Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_w
                 cov_option_1[book_names.index(i)][book_names.index(j)] = average
 
 
-    Graphs.PlotCov(cov_option_1,book_names)
+    Graphs.PlotCov(cov_option_1,book_names, output_dir+corpus_name+"_Cov_Matrix.svg")
 
 
 
-    #Graphs.PlotGraph(all_pairs,1,output_dir+corpus_name+"_W2V_Graph",corpus_name+"_W2V_Graph",0,5)
-    #Graphs.PlotW2vEmbeddings2D(entities_vectors_dict_w2v['vectors'],corpus_entities,entities_per_book)
-    #Graphs.PlotW2vEmbeddings3D(entities_vectors_dict_w2v['vectors'],corpus_entities,entities_per_book)
+    # Extract only the first 3 columns (char1, char2, value) for PlotHM
+    all_pairs_for_hm = [[pair[0], pair[1], pair[2]] for pair in all_pairs]
+    Graphs.PlotHM(all_pairs_for_hm, True, output_dir+corpus_name+"_W2V_HM.svg")
+    # all_pairs_for_hm_bert = [[pair[6], pair[1], pair[2]] for pair in all_pairs_bert]
+
+    Graphs.PlotHM(all_pairs_bert, True, output_dir+corpus_name+"_BERT_HM.svg")
+
+    Graphs.PlotGraph(all_pairs, 1, output_dir+corpus_name+"_W2V_Graph.svg", corpus_name+"_W2V_Graph", book_names=book_names)
+    Graphs.PlotW2vEmbeddings2D(entities_vectors_dict_w2v['vectors'], corpus_entities, entities_per_book, output_dir+corpus_name+"_W2V_Embeddings_2D.svg")
+    Graphs.PlotW2vEmbeddings3D(entities_vectors_dict_w2v['vectors'], corpus_entities, entities_per_book, output_dir+corpus_name+"_W2V_Embeddings_3D.svg")
+    Graphs.PlotW2vEmbeddings2D(entities_vectors_dict_bert['vectors'], corpus_entities, entities_per_book, output_dir+corpus_name+"_BERT_Embeddings_2D.svg")
+    Graphs.PlotW2vEmbeddings3D(entities_vectors_dict_bert['vectors'], corpus_entities, entities_per_book, output_dir+corpus_name+"_BERT_Embeddings_3D.svg")
 
     print("done")
     return book_object_list
@@ -160,11 +172,11 @@ def order_lists(list1, list2):
 
     return ordered_list1, ordered_list2
 
-books_dir =  '../../Data/Short_Stories'
-output_dir = "../test/Short Stories Corpus"
+books_dir =  'Data/Shakespeare'
+output_dir = "output/Shakespeare/"
 entities_per_book = 5
 w2v_vector_size = 200
 w2v_window = 7
 cooc_window = 15
-corpus_name = "Short Stories"
+corpus_name = "Shakespeare"
 book_object_list = Corpus_Main(books_dir, output_dir, entities_per_book, w2v_vector_size, w2v_window, cooc_window, corpus_name)
