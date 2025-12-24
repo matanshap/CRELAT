@@ -1,0 +1,81 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,234,25,#Adam_AYL #Orlando_AYL
+1,1,2,452,58,#Adam_AYL #Oliver_AYL #Orlando_AYL
+1,1,3,24,3,#Oliver_AYL
+1,1,4,31,6,#Dennis_AYL #Oliver_AYL
+1,1,5,10,2,#Oliver_AYL
+1,1,6,574,67,#Charles_AYL #Oliver_AYL
+1,1,7,96,10,#Oliver_AYL
+1,2,8,360,44,#Celia_AYL #Rosalind_AYL
+1,2,9,344,46,#Celia_AYL #Rosalind_AYL #Touchstone_AYL
+1,2,10,373,52,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL
+1,2,11,526,73,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL
+1,2,12,74,11,#ATTENDANTS_AYL #Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL
+1,2,13,219,31,#Celia_AYL #Orlando_AYL #Rosalind_AYL
+1,2,14,30,4,#Orlando_AYL
+1,2,15,207,26,#LORDS.FREDERICK.LeBeau_AYL #Orlando_AYL
+1,2,16,19,3,#Orlando_AYL
+1,3,17,276,37,#Celia_AYL #Rosalind_AYL
+1,3,18,408,56,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL
+1,3,19,399,52,#Celia_AYL #Rosalind_AYL
+2,1,20,194,25,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,1,21,303,42,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,1,22,36,6,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,2,23,24,3,#DukeFrederick_AYL #LORDS.FREDERICK_AYL
+2,2,24,32,4,#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL #LORDS.FREDERICK_AYL
+2,2,25,101,14,#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL #LORDS.FREDERICK.0.2_AYL #LORDS.FREDERICK_AYL
+2,3,26,610,77,#Adam_AYL #Orlando_AYL
+2,4,27,140,18,#Celia_AYL #Rosalind_AYL #Touchstone_AYL
+2,4,28,177,24,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL
+2,4,29,469,61,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL
+2,5,30,392,61,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,6,31,167,18,#Adam_AYL #Orlando_AYL
+2,7,32,17,2,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,7,33,42,5,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,7,34,652,83,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,7,35,395,51,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL
+2,7,36,235,32,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL
+2,7,37,242,39,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL
+3,1,38,147,18,#DukeFrederick_AYL #LORDS.FREDERICK_AYL #Oliver_AYL
+3,2,39,78,10,#Orlando_AYL
+3,2,40,613,75,#Corin_AYL #Touchstone_AYL
+3,2,41,232,39,#Corin_AYL #Rosalind_AYL #Touchstone_AYL
+3,2,42,217,41,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL
+3,2,43,656,90,#Celia_AYL #Rosalind_AYL
+3,2,44,301,43,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL
+3,2,45,1093,145,#Celia_AYL #Orlando_AYL #Rosalind_AYL
+3,3,46,480,62,#Audrey_AYL #Jaques_AYL #Touchstone_AYL
+3,3,47,291,43,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL
+3,3,48,17,2,#OliverMartext_AYL
+3,4,49,340,43,#Celia_AYL #Rosalind_AYL
+3,4,50,108,17,#Celia_AYL #Corin_AYL #Rosalind_AYL
+3,5,51,58,8,#Phoebe_AYL #Silvius_AYL
+3,5,52,622,77,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL
+3,5,53,497,65,#Phoebe_AYL #Silvius_AYL
+4,1,54,222,32,#Celia_AYL #Jaques_AYL #Rosalind_AYL
+4,1,55,65,9,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL
+4,1,56,1215,172,#Celia_AYL #Orlando_AYL #Rosalind_AYL
+4,1,57,151,18,#Celia_AYL #Rosalind_AYL
+4,2,58,7,1,#Jaques_AYL #LORDS.SENIOR_AYL
+4,2,59,40,6,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR_AYL
+4,2,60,36,6,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR_AYL
+4,3,61,36,5,#Celia_AYL #Rosalind_AYL
+4,3,62,532,73,#Celia_AYL #Rosalind_AYL #Silvius_AYL
+4,3,63,830,115,#Celia_AYL #Oliver_AYL #Rosalind_AYL
+5,1,64,59,9,#Audrey_AYL #Touchstone_AYL
+5,1,65,387,51,#Audrey_AYL #Touchstone_AYL #William_AYL
+5,1,66,17,4,#Audrey_AYL #Corin_AYL #Touchstone_AYL
+5,2,67,110,12,#Oliver_AYL #Orlando_AYL
+5,2,68,40,7,#Oliver_AYL #Orlando_AYL #Rosalind_AYL
+5,2,69,478,59,#Orlando_AYL #Rosalind_AYL
+5,2,70,359,52,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL
+5,3,71,36,5,#Audrey_AYL #Touchstone_AYL
+5,3,72,300,42,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL
+5,4,73,33,4,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL
+5,4,74,176,22,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL
+5,4,75,69,9,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL
+5,4,76,608,76,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL
+5,4,77,244,38,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL
+5,4,78,359,51,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL
+5,4,79,15,2,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL
+6,0,80,227,22,#Rosalind_AYL

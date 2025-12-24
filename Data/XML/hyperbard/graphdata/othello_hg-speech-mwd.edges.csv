@@ -1,0 +1,1210 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,27,3
+1,1,1,2,#Iago_Oth,#Iago_Oth #Roderigo_Oth,17,3
+1,1,1,3,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,10,1
+1,1,1,4,#Iago_Oth,#Iago_Oth #Roderigo_Oth,194,28
+1,1,1,5,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,9,1
+1,1,1,6,#Iago_Oth,#Iago_Oth #Roderigo_Oth,45,6
+1,1,1,7,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,6,1
+1,1,1,8,#Iago_Oth,#Iago_Oth #Roderigo_Oth,204,28
+1,1,1,9,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,14,2
+1,1,1,10,#Iago_Oth,#Iago_Oth #Roderigo_Oth,52,7
+1,1,1,11,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,8,1
+1,1,1,12,#Iago_Oth,#Iago_Oth #Roderigo_Oth,21,3
+1,1,1,13,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,6,1
+1,1,1,14,#Iago_Oth,#Iago_Oth #Roderigo_Oth,17,3
+1,1,2,15,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,13,2
+1,1,2,16,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,6,1
+1,1,2,17,#Iago_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,4,1
+1,1,2,18,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,5,1
+1,1,2,19,#Iago_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,56,8
+1,1,2,20,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,6,1
+1,1,2,21,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,8,1
+1,1,2,22,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,5,1
+1,1,2,23,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,4,1
+1,1,2,24,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,48,7
+1,1,2,25,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,3,1
+1,1,2,26,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,21,3
+1,1,2,27,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,3,1
+1,1,2,28,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,15,2
+1,1,2,29,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,12,2
+1,1,2,30,#Iago_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,55,6
+1,1,2,31,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,5,1
+1,1,2,32,#Iago_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,22,3
+1,1,2,33,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,4,1
+1,1,2,34,#Iago_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,4,1
+1,1,2,35,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,8,1
+1,1,2,36,#Roderigo_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,172,21
+1,1,2,37,#Brabantio_Oth,#Brabantio_Oth #Iago_Oth #Roderigo_Oth,31,5
+1,1,3,38,#Iago_Oth,#Iago_Oth #Roderigo_Oth,134,17
+1,1,4,39,#Brabantio_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,70,12
+1,1,4,40,#Roderigo_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,5,1
+1,1,4,41,#Brabantio_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,49,6
+1,1,4,42,#Roderigo_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,5,1
+1,1,4,43,#Brabantio_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,26,3
+1,1,4,44,#Roderigo_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,18,2
+1,1,4,45,#Brabantio_Oth,#Brabantio_Oth #Roderigo_Oth #SERVANTS.BRABANTIO_Oth,32,4
+1,2,5,46,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,48,6
+1,2,5,47,#Othello_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,5,1
+1,2,5,48,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,85,12
+1,2,5,49,#Othello_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,93,13
+1,2,5,50,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,13,2
+1,2,5,51,#Othello_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,21,3
+1,2,5,52,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Othello_Oth,5,1
+1,2,6,53,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,20,3
+1,2,6,54,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,16,3
+1,2,6,55,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,6,1
+1,2,6,56,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,69,10
+1,2,6,57,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,21,3
+1,2,7,58,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,5,1
+1,2,7,59,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,16,2
+1,2,7,60,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,4,1
+1,2,7,61,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,2,1
+1,2,7,62,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,2,1
+1,2,7,63,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth,2,1
+1,2,8,64,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,5,1
+1,2,8,65,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,3,1
+1,2,8,66,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #OFFICERS_Oth #Othello_Oth,8,1
+1,2,9,67,#Iago_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,11,2
+1,2,9,68,#Othello_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,3,1
+1,2,9,69,#Roderigo_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,5,1
+1,2,9,70,#Brabantio_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,4,2
+1,2,9,71,#Iago_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,8,1
+1,2,9,72,#Othello_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,23,4
+1,2,9,73,#Brabantio_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,161,21
+1,2,9,74,#Othello_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,36,5
+1,2,9,75,#Brabantio_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,16,3
+1,2,9,76,#Othello_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,31,5
+1,2,9,77,#OFFICERS_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,19,3
+1,2,9,78,#Brabantio_Oth,#ATTENDANTS_Oth #Brabantio_Oth #Cassio_Oth #Iago_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth,54,7
+1,3,10,79,#Duke_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS_Oth,10,2
+1,3,11,80,#SENATORS.0.1_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS_Oth,12,2
+1,3,11,81,#Duke_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS_Oth,5,1
+1,3,12,82,#SENATORS.0.2_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,38,5
+1,3,12,83,#Duke_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,26,4
+1,3,13,84,#Sailor_Oth,#Duke_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth #Sailor_Oth,6,1
+1,3,14,85,#OFFICERS.0.1_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth #Sailor_Oth,5,1
+1,3,14,86,#Duke_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth #Sailor_Oth,4,1
+1,3,14,87,#Sailor_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth #Sailor_Oth,18,3
+1,3,15,88,#Duke_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,6,1
+1,3,15,89,#SENATORS.0.1_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,107,15
+1,3,15,90,#Duke_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,8,1
+1,3,15,91,#OFFICERS.0.1_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,16,92,#MESSENGERS.X.1_Oth,#Duke_Oth #MESSENGERS.X.1_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,22,3
+1,3,16,93,#SENATORS.0.1_Oth,#Duke_Oth #MESSENGERS.X.1_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,9,1
+1,3,16,94,#MESSENGERS.X.1_Oth,#Duke_Oth #MESSENGERS.X.1_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,40,7
+1,3,17,95,#Duke_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,12,2
+1,3,17,96,#SENATORS.0.1_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,17,97,#Duke_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,7,2
+1,3,17,98,#SENATORS.0.1_Oth,#Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,7,1
+1,3,18,99,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,28,5
+1,3,18,100,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,56,8
+1,3,18,101,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,18,102,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,5,1
+1,3,18,103,#SENATORS.0.1_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,1,1
+1,3,18,104,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,36,6
+1,3,18,105,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,45,6
+1,3,18,106,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,25,4
+1,3,18,107,#Duke_Oth #SENATORS_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,6,1
+1,3,18,108,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,10,1
+1,3,18,109,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,5,1
+1,3,18,110,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,154,21
+1,3,18,111,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,98,13
+1,3,18,112,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,27,4
+1,3,18,113,#SENATORS.0.1_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,31,5
+1,3,18,114,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,51,7
+1,3,18,115,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,3,1
+1,3,18,116,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,8,1
+1,3,19,117,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,38,5
+1,3,19,118,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,3,1
+1,3,19,119,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Duke_Oth #OFFICERS.0.1_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,346,48
+1,3,20,120,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,30,5
+1,3,20,121,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,44,6
+1,3,20,122,#Desdemona_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,75,11
+1,3,20,123,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,84,10
+1,3,20,124,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,87,12
+1,3,20,125,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,95,13
+1,3,20,126,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,66,8
+1,3,20,127,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,71,11
+1,3,20,128,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,20,129,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,6,1
+1,3,20,130,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,2,1
+1,3,20,131,#Desdemona_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,40,6
+1,3,20,132,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,20,133,#Desdemona_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,99,12
+1,3,20,134,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,109,15
+1,3,20,135,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,22,3
+1,3,20,136,#SENATORS.0.1_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,1
+1,3,20,137,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,4,2
+1,3,20,138,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,34,5
+1,3,20,139,#Othello_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,35,6
+1,3,20,140,#Duke_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,25,5
+1,3,20,141,#SENATORS.0.1_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,6,1
+1,3,20,142,#Brabantio_Oth,#Brabantio_Oth #Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,18,2
+1,3,21,143,#Othello_Oth,#Cassio_Oth #Desdemona_Oth #Duke_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #OFFICERS_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth #SENATORS_Oth,5,1
+1,3,22,144,#Othello_Oth,#Desdemona_Oth #Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Othello_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,48,7
+1,3,23,145,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,1,1
+1,3,23,146,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,5,1
+1,3,23,147,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,6,1
+1,3,23,148,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,6,1
+1,3,23,149,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,5,1
+1,3,23,150,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,13,2
+1,3,23,151,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,23,3
+1,3,23,152,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,57,6
+1,3,23,153,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,24,2
+1,3,23,154,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,135,15
+1,3,23,155,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,3,1
+1,3,23,156,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,260,28
+1,3,23,157,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,13,2
+1,3,23,158,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,81,9
+1,3,23,159,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,7,1
+1,3,23,160,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,3,1
+1,3,23,161,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,5,1
+1,3,23,162,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,7,1
+1,3,23,163,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,3,1
+1,3,23,164,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,7,1
+1,3,23,165,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,3,1
+1,3,23,166,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,9,2
+1,3,23,167,#Roderigo_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #Roderigo_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,5,1
+1,3,24,168,#Iago_Oth,#Iago_Oth #OFFICERS.0.1_Oth #OFFICERS.0_Oth #SENATORS.0.1_Oth #SENATORS.0.2_Oth,187,22
+2,1,25,169,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #Montano_Oth,9,1
+2,1,25,170,#GENTLEMEN.1_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #Montano_Oth,19,3
+2,1,25,171,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #Montano_Oth,42,5
+2,1,25,172,#GENTLEMEN.2_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #Montano_Oth,56,9
+2,1,25,173,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #Montano_Oth,20,3
+2,1,26,174,#GENTLEMEN.3_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,36,5
+2,1,26,175,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,4,1
+2,1,26,176,#GENTLEMEN.3_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,33,5
+2,1,26,177,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,9,1
+2,1,26,178,#GENTLEMEN.3_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,32,4
+2,1,26,179,#Montano_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,53,7
+2,1,26,180,#GENTLEMEN.3_Oth,#GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,12,3
+2,1,27,181,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,32,4
+2,1,27,182,#Montano_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,4,1
+2,1,27,183,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Montano_Oth,25,4
+2,1,28,184,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,2,1
+2,1,28,185,#MESSENGERS.X.2_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,19,2
+2,1,28,186,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,8,1
+2,1,28,187,#GENTLEMEN.2_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,11,2
+2,1,28,188,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,15,2
+2,1,28,189,#GENTLEMEN.2_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,2,1
+2,1,29,190,#Montano_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,7,1
+2,1,29,191,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,32,5
+2,1,30,192,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,6,1
+2,1,30,193,#GENTLEMEN.2_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,7,1
+2,1,30,194,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,44,7
+2,1,30,195,#Montano_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,3,1
+2,1,30,196,#Cassio_Oth,#Cassio_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #MESSENGERS.X.2_Oth #Montano_Oth,68,9
+2,1,31,197,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,39,6
+2,1,31,198,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,13,2
+2,1,31,199,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,18,2
+2,1,31,200,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,8,1
+2,1,31,201,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,14,3
+2,1,31,202,#GENTLEMEN.2_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,12,2
+2,1,31,203,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.2_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,4,1
+2,1,32,204,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,31,4
+2,1,32,205,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,23,3
+2,1,32,206,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,5,1
+2,1,32,207,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,33,5
+2,1,32,208,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,7,1
+2,1,32,209,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,34,4
+2,1,32,210,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,5,1
+2,1,32,211,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,20,2
+2,1,32,212,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,6,1
+2,1,32,213,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,4,1
+2,1,32,214,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,10,2
+2,1,32,215,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,16,2
+2,1,32,216,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,9,1
+2,1,32,217,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,2,1
+2,1,32,218,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,21,3
+2,1,32,219,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,49,6
+2,1,32,220,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,9,1
+2,1,32,221,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,18,2
+2,1,32,222,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,3,1
+2,1,32,223,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,5,1
+2,1,32,224,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,17,2
+2,1,32,225,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,23,3
+2,1,32,226,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,17,2
+2,1,32,227,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,37,5
+2,1,32,228,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,93,11
+2,1,32,229,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,3,1
+2,1,32,230,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,7,1
+2,1,32,231,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,30,4
+2,1,32,232,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,16,2
+2,1,32,233,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,112,12
+2,1,32,234,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,3,1
+2,1,32,235,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,6,1
+2,1,32,236,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Roderigo_Oth,4,1
+2,1,33,237,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,4,1
+2,1,33,238,#Desdemona_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,3,1
+2,1,33,239,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,87,11
+2,1,33,240,#Desdemona_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,17,3
+2,1,33,241,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,36,5
+2,1,33,242,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,21,3
+2,1,33,243,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #GENTLEMEN.1_Oth #GENTLEMEN.3_Oth #Iago_Oth #MESSENGERS.X.2_Oth #Montano_Oth #Othello_Oth #Roderigo_Oth,93,13
+2,1,34,244,#Iago_Oth,#Iago_Oth #Roderigo_Oth,59,7
+2,1,34,245,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,6,1
+2,1,34,246,#Iago_Oth,#Iago_Oth #Roderigo_Oth,257,29
+2,1,34,247,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,12,2
+2,1,34,248,#Iago_Oth,#Iago_Oth #Roderigo_Oth,41,5
+2,1,34,249,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,9,1
+2,1,34,250,#Iago_Oth,#Iago_Oth #Roderigo_Oth,117,14
+2,1,34,251,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,1,1
+2,1,34,252,#Iago_Oth,#Iago_Oth #Roderigo_Oth,83,9
+2,1,34,253,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,12,2
+2,1,34,254,#Iago_Oth,#Iago_Oth #Roderigo_Oth,18,2
+2,1,34,255,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,1,1
+2,1,35,256,#Iago_Oth,#Iago_Oth,220,27
+2,2,36,257,#Herald_Oth,#Herald_Oth,101,12
+2,3,37,258,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Othello_Oth,18,3
+2,3,37,259,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Othello_Oth,17,3
+2,3,37,260,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Othello_Oth,38,7
+2,3,38,261,#Cassio_Oth,#Cassio_Oth #Iago_Oth,7,1
+2,3,38,262,#Iago_Oth,#Cassio_Oth #Iago_Oth,45,5
+2,3,38,263,#Cassio_Oth,#Cassio_Oth #Iago_Oth,5,1
+2,3,38,264,#Iago_Oth,#Cassio_Oth #Iago_Oth,7,1
+2,3,38,265,#Cassio_Oth,#Cassio_Oth #Iago_Oth,8,2
+2,3,38,266,#Iago_Oth,#Cassio_Oth #Iago_Oth,12,2
+2,3,38,267,#Cassio_Oth,#Cassio_Oth #Iago_Oth,8,2
+2,3,38,268,#Iago_Oth,#Cassio_Oth #Iago_Oth,11,1
+2,3,38,269,#Cassio_Oth,#Cassio_Oth #Iago_Oth,4,1
+2,3,38,270,#Iago_Oth,#Cassio_Oth #Iago_Oth,34,4
+2,3,38,271,#Cassio_Oth,#Cassio_Oth #Iago_Oth,25,4
+2,3,38,272,#Iago_Oth,#Cassio_Oth #Iago_Oth,12,2
+2,3,38,273,#Cassio_Oth,#Cassio_Oth #Iago_Oth,35,4
+2,3,38,274,#Iago_Oth,#Cassio_Oth #Iago_Oth,11,2
+2,3,38,275,#Cassio_Oth,#Cassio_Oth #Iago_Oth,3,1
+2,3,38,276,#Iago_Oth,#Cassio_Oth #Iago_Oth,10,1
+2,3,38,277,#Cassio_Oth,#Cassio_Oth #Iago_Oth,7,1
+2,3,39,278,#Iago_Oth,#Iago_Oth,128,18
+2,3,40,279,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,9,2
+2,3,40,280,#Montano_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,14,2
+2,3,40,281,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,35,7
+2,3,40,282,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,5,1
+2,3,40,283,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,28,4
+2,3,40,284,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,8,2
+2,3,40,285,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,30,4
+2,3,40,286,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,6,1
+2,3,40,287,#Montano_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,10,2
+2,3,40,288,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,61,10
+2,3,40,289,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,11,2
+2,3,40,290,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,5,1
+2,3,40,291,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,34,4
+2,3,40,292,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,4,1
+2,3,40,293,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,19,2
+2,3,40,294,#Iago_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,6,1
+2,3,40,295,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,74,8
+2,3,40,296,#GENTLEMEN_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,2,1
+2,3,40,297,#Cassio_Oth,#Cassio_Oth #GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,13,2
+2,3,41,298,#Montano_Oth,#GENTLEMEN_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,9,1
+2,3,42,299,#Iago_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,62,8
+2,3,42,300,#Montano_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,5,1
+2,3,42,301,#Iago_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,20,3
+2,3,42,302,#Montano_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,37,5
+2,3,43,303,#Iago_Oth,#Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,10,2
+2,3,44,304,#Montano_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,34,5
+2,3,44,305,#Iago_Oth,#Iago_Oth #Montano_Oth #SERVANTS_Oth,25,4
+2,3,45,306,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,5,1
+2,3,45,307,#Montano_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,4,1
+2,3,45,308,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,14,2
+2,3,45,309,#Roderigo_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,2,1
+2,3,45,310,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,4,1
+2,3,45,311,#Montano_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,10,2
+2,3,45,312,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,11,2
+2,3,45,313,#Montano_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,4,1
+2,3,45,314,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,1,1
+2,3,45,315,#Iago_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #Roderigo_Oth #SERVANTS_Oth,9,1
+2,3,46,316,#Iago_Oth,#Cassio_Oth #Iago_Oth #Montano_Oth #SERVANTS_Oth,40,6
+2,3,47,317,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,5,1
+2,3,47,318,#Montano_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,12,3
+2,3,47,319,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,4,1
+2,3,47,320,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,24,4
+2,3,47,321,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,83,10
+2,3,47,322,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,72,9
+2,3,47,323,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,8,1
+2,3,47,324,#Cassio_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,8,1
+2,3,47,325,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,53,7
+2,3,47,326,#Montano_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,59,9
+2,3,47,327,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,112,14
+2,3,47,328,#Montano_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,19,3
+2,3,47,329,#Iago_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,210,27
+2,3,47,330,#Othello_Oth,#ATTENDANTS_Oth #Cassio_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,26,4
+2,3,48,331,#Othello_Oth,#ATTENDANTS.0_Oth #ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,14,2
+2,3,48,332,#Desdemona_Oth,#ATTENDANTS.0_Oth #ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,5,1
+2,3,48,333,#Othello_Oth,#ATTENDANTS.0_Oth #ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Iago_Oth #Montano_Oth #Othello_Oth #SERVANTS_Oth,20,4
+2,3,49,334,#Othello_Oth,#ATTENDANTS.0_Oth #ATTENDANTS_Oth #Cassio_Oth #Desdemona_Oth #Iago_Oth #Othello_Oth #SERVANTS_Oth,29,5
+2,3,50,335,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,5,1
+2,3,50,336,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,4,1
+2,3,50,337,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,3,1
+2,3,50,338,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,27,4
+2,3,50,339,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,100,11
+2,3,50,340,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,59,7
+2,3,50,341,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,15,2
+2,3,50,342,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,3,1
+2,3,50,343,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,3,1
+2,3,50,344,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,43,6
+2,3,50,345,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,12,2
+2,3,50,346,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,24,3
+2,3,50,347,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,41,4
+2,3,50,348,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,58,6
+2,3,50,349,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,29,3
+2,3,50,350,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,8,1
+2,3,50,351,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,129,14
+2,3,50,352,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,4,1
+2,3,50,353,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,10,2
+2,3,50,354,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,30,4
+2,3,50,355,#Iago_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,13,2
+2,3,50,356,#Cassio_Oth,#ATTENDANTS.0_Oth #Cassio_Oth #Iago_Oth,4,1
+2,3,51,357,#Iago_Oth,#ATTENDANTS.0_Oth #Iago_Oth,217,27
+2,3,52,358,#Iago_Oth,#ATTENDANTS.0_Oth #Iago_Oth #Roderigo_Oth,3,1
+2,3,52,359,#Roderigo_Oth,#ATTENDANTS.0_Oth #Iago_Oth #Roderigo_Oth,64,7
+2,3,52,360,#Iago_Oth,#ATTENDANTS.0_Oth #Iago_Oth #Roderigo_Oth,102,13
+2,3,53,361,#Iago_Oth,#ATTENDANTS.0_Oth #Iago_Oth,50,7
+3,1,54,362,#Cassio_Oth,#Cassio_Oth #MUSICIANS_Oth,16,3
+3,1,55,363,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS_Oth,15,2
+3,1,56,364,#MUSICIANS.0.1_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,3,1
+3,1,56,365,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,7,1
+3,1,56,366,#MUSICIANS.0.1_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,5,1
+3,1,56,367,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,5,1
+3,1,56,368,#MUSICIANS.0.1_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,5,1
+3,1,56,369,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,37,4
+3,1,56,370,#MUSICIANS.0.1_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,5,1
+3,1,56,371,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,26,3
+3,1,56,372,#MUSICIANS.0.1_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,5,1
+3,1,56,373,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth #MUSICIANS_Oth,16,2
+3,1,57,374,#Cassio_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth,6,1
+3,1,57,375,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth,10,1
+3,1,57,376,#Cassio_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth,39,5
+3,1,57,377,#Clown_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth,16,2
+3,1,57,378,#Cassio_Oth,#Cassio_Oth #Clown_Oth #MUSICIANS.0.1_Oth,4,1
+3,1,58,379,#Cassio_Oth,#Cassio_Oth #Iago_Oth #MUSICIANS.0.1_Oth,4,1
+3,1,58,380,#Iago_Oth,#Cassio_Oth #Iago_Oth #MUSICIANS.0.1_Oth,6,1
+3,1,58,381,#Cassio_Oth,#Cassio_Oth #Iago_Oth #MUSICIANS.0.1_Oth,35,5
+3,1,58,382,#Iago_Oth,#Cassio_Oth #Iago_Oth #MUSICIANS.0.1_Oth,28,4
+3,1,58,383,#Cassio_Oth,#Cassio_Oth #Iago_Oth #MUSICIANS.0.1_Oth,6,1
+3,1,59,384,#Cassio_Oth,#Cassio_Oth #MUSICIANS.0.1_Oth,9,3
+3,1,60,385,#Emilia_Oth,#Cassio_Oth #Emilia_Oth #MUSICIANS.0.1_Oth,85,11
+3,1,60,386,#Cassio_Oth,#Cassio_Oth #Emilia_Oth #MUSICIANS.0.1_Oth,24,4
+3,1,60,387,#Emilia_Oth,#Cassio_Oth #Emilia_Oth #MUSICIANS.0.1_Oth,18,3
+3,1,60,388,#Cassio_Oth,#Cassio_Oth #Emilia_Oth #MUSICIANS.0.1_Oth,6,1
+3,2,61,389,#Othello_Oth,#GENTLEMEN_Oth #Iago_Oth #Othello_Oth,29,4
+3,2,61,390,#Iago_Oth,#GENTLEMEN_Oth #Iago_Oth #Othello_Oth,7,1
+3,2,61,391,#Othello_Oth,#GENTLEMEN_Oth #Iago_Oth #Othello_Oth,7,1
+3,2,62,392,#GENTLEMEN.0.1_Oth,#GENTLEMEN.0.1_Oth #GENTLEMEN_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,63,393,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,14,2
+3,3,63,394,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,15,2
+3,3,63,395,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,23,3
+3,3,63,396,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,15,3
+3,3,63,397,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,34,4
+3,3,63,398,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,41,6
+3,3,63,399,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,77,10
+3,3,64,400,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,64,401,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,64,402,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,6,1
+3,3,64,403,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,14,2
+3,3,64,404,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,4,1
+3,3,65,405,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,65,406,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,4,1
+3,3,65,407,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,9,1
+3,3,65,408,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,8,1
+3,3,65,409,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,19,3
+3,3,65,410,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,65,411,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,19,3
+3,3,65,412,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,65,413,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,52,7
+3,3,65,414,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,4,1
+3,3,65,415,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,23,3
+3,3,65,416,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,7,1
+3,3,65,417,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,65,418,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,5,1
+3,3,65,419,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,6,1
+3,3,65,420,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,3,1
+3,3,65,421,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,3,1
+3,3,65,422,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,13,2
+3,3,65,423,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,129,15
+3,3,65,424,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,14,2
+3,3,65,425,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,65,8
+3,3,65,426,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,21,3
+3,3,65,427,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,8,1
+3,3,65,428,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,8,1
+3,3,65,429,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth #Othello_Oth,14,2
+3,3,66,430,#Othello_Oth,#Iago_Oth #Othello_Oth,21,3
+3,3,66,431,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,66,432,#Othello_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,66,433,#Iago_Oth,#Iago_Oth #Othello_Oth,12,2
+3,3,66,434,#Othello_Oth,#Iago_Oth #Othello_Oth,10,1
+3,3,66,435,#Iago_Oth,#Iago_Oth #Othello_Oth,10,2
+3,3,66,436,#Othello_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,66,437,#Iago_Oth,#Iago_Oth #Othello_Oth,10,1
+3,3,66,438,#Othello_Oth,#Iago_Oth #Othello_Oth,8,1
+3,3,66,439,#Iago_Oth,#Iago_Oth #Othello_Oth,1,1
+3,3,66,440,#Othello_Oth,#Iago_Oth #Othello_Oth,12,2
+3,3,66,441,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,66,442,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,66,443,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,66,444,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,445,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,66,446,#Othello_Oth,#Iago_Oth #Othello_Oth,94,13
+3,3,66,447,#Iago_Oth,#Iago_Oth #Othello_Oth,7,1
+3,3,66,448,#Othello_Oth,#Iago_Oth #Othello_Oth,62,9
+3,3,66,449,#Iago_Oth,#Iago_Oth #Othello_Oth,13,2
+3,3,66,450,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,451,#Iago_Oth,#Iago_Oth #Othello_Oth,16,2
+3,3,66,452,#Othello_Oth,#Iago_Oth #Othello_Oth,7,1
+3,3,66,453,#Iago_Oth,#Iago_Oth #Othello_Oth,8,1
+3,3,66,454,#Othello_Oth,#Iago_Oth #Othello_Oth,29,5
+3,3,66,455,#Iago_Oth,#Iago_Oth #Othello_Oth,67,11
+3,3,66,456,#Othello_Oth,#Iago_Oth #Othello_Oth,22,3
+3,3,66,457,#Iago_Oth,#Iago_Oth #Othello_Oth,80,11
+3,3,66,458,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,459,#Iago_Oth,#Iago_Oth #Othello_Oth,57,9
+3,3,66,460,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,66,461,#Iago_Oth,#Iago_Oth #Othello_Oth,17,2
+3,3,66,462,#Othello_Oth,#Iago_Oth #Othello_Oth,1,1
+3,3,66,463,#Iago_Oth,#Iago_Oth #Othello_Oth,49,6
+3,3,66,464,#Othello_Oth,#Iago_Oth #Othello_Oth,2,1
+3,3,66,465,#Iago_Oth,#Iago_Oth #Othello_Oth,36,5
+3,3,66,466,#Othello_Oth,#Iago_Oth #Othello_Oth,141,17
+3,3,66,467,#Iago_Oth,#Iago_Oth #Othello_Oth,107,13
+3,3,66,468,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,469,#Iago_Oth,#Iago_Oth #Othello_Oth,21,3
+3,3,66,470,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,471,#Iago_Oth,#Iago_Oth #Othello_Oth,46,7
+3,3,66,472,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,66,473,#Iago_Oth,#Iago_Oth #Othello_Oth,9,1
+3,3,66,474,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,66,475,#Iago_Oth,#Iago_Oth #Othello_Oth,44,6
+3,3,66,476,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,66,477,#Iago_Oth,#Iago_Oth #Othello_Oth,30,5
+3,3,66,478,#Othello_Oth,#Iago_Oth #Othello_Oth,11,2
+3,3,66,479,#Iago_Oth,#Iago_Oth #Othello_Oth,11,1
+3,3,66,480,#Othello_Oth,#Iago_Oth #Othello_Oth,7,1
+3,3,66,481,#Iago_Oth,#Iago_Oth #Othello_Oth,80,11
+3,3,66,482,#Othello_Oth,#Iago_Oth #Othello_Oth,20,3
+3,3,66,483,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,66,484,#Othello_Oth,#Iago_Oth #Othello_Oth,17,2
+3,3,66,485,#Iago_Oth,#Iago_Oth #Othello_Oth,103,12
+3,3,66,486,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,66,487,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,67,488,#Othello_Oth,#Othello_Oth,165,20
+3,3,68,489,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,11,2
+3,3,68,490,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,18,3
+3,3,68,491,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+3,3,68,492,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+3,3,68,493,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,8,1
+3,3,68,494,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,20,3
+3,3,68,495,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,14,3
+3,3,68,496,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+3,3,69,497,#Emilia_Oth,#Emilia_Oth,82,10
+3,3,70,498,#Iago_Oth,#Emilia_Oth #Iago_Oth,7,1
+3,3,70,499,#Emilia_Oth,#Emilia_Oth #Iago_Oth,10,1
+3,3,70,500,#Iago_Oth,#Emilia_Oth #Iago_Oth,11,1
+3,3,70,501,#Emilia_Oth,#Emilia_Oth #Iago_Oth,1,1
+3,3,70,502,#Iago_Oth,#Emilia_Oth #Iago_Oth,5,1
+3,3,70,503,#Emilia_Oth,#Emilia_Oth #Iago_Oth,14,2
+3,3,70,504,#Iago_Oth,#Emilia_Oth #Iago_Oth,2,1
+3,3,70,505,#Emilia_Oth,#Emilia_Oth #Iago_Oth,19,3
+3,3,70,506,#Iago_Oth,#Emilia_Oth #Iago_Oth,5,1
+3,3,70,507,#Emilia_Oth,#Emilia_Oth #Iago_Oth,21,3
+3,3,70,508,#Iago_Oth,#Emilia_Oth #Iago_Oth,6,1
+3,3,70,509,#Emilia_Oth,#Emilia_Oth #Iago_Oth,17,3
+3,3,70,510,#Iago_Oth,#Emilia_Oth #Iago_Oth,6,1
+3,3,70,511,#Emilia_Oth,#Emilia_Oth #Iago_Oth,23,3
+3,3,70,512,#Iago_Oth,#Emilia_Oth #Iago_Oth,13,2
+3,3,71,513,#Iago_Oth,#Iago_Oth,69,9
+3,3,72,514,#Iago_Oth,#Iago_Oth #Othello_Oth,32,5
+3,3,72,515,#Othello_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,72,516,#Iago_Oth,#Iago_Oth #Othello_Oth,8,1
+3,3,72,517,#Othello_Oth,#Iago_Oth #Othello_Oth,24,3
+3,3,72,518,#Iago_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,72,519,#Othello_Oth,#Iago_Oth #Othello_Oth,61,7
+3,3,72,520,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,72,521,#Othello_Oth,#Iago_Oth #Othello_Oth,89,13
+3,3,72,522,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,72,523,#Othello_Oth,#Iago_Oth #Othello_Oth,40,5
+3,3,72,524,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,72,525,#Othello_Oth,#Iago_Oth #Othello_Oth,30,3
+3,3,72,526,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,72,527,#Othello_Oth,#Iago_Oth #Othello_Oth,38,6
+3,3,72,528,#Iago_Oth,#Iago_Oth #Othello_Oth,69,8
+3,3,72,529,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,72,530,#Iago_Oth,#Iago_Oth #Othello_Oth,14,2
+3,3,72,531,#Othello_Oth,#Iago_Oth #Othello_Oth,67,8
+3,3,72,532,#Iago_Oth,#Iago_Oth #Othello_Oth,22,3
+3,3,72,533,#Othello_Oth,#Iago_Oth #Othello_Oth,5,1
+3,3,72,534,#Iago_Oth,#Iago_Oth #Othello_Oth,18,3
+3,3,72,535,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,72,536,#Iago_Oth,#Iago_Oth #Othello_Oth,94,12
+3,3,72,537,#Othello_Oth,#Iago_Oth #Othello_Oth,7,1
+3,3,72,538,#Iago_Oth,#Iago_Oth #Othello_Oth,139,16
+3,3,72,539,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,72,540,#Iago_Oth,#Iago_Oth #Othello_Oth,6,2
+3,3,72,541,#Othello_Oth,#Iago_Oth #Othello_Oth,16,2
+3,3,72,542,#Iago_Oth,#Iago_Oth #Othello_Oth,12,2
+3,3,72,543,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+3,3,72,544,#Iago_Oth,#Iago_Oth #Othello_Oth,32,4
+3,3,72,545,#Othello_Oth,#Iago_Oth #Othello_Oth,10,1
+3,3,72,546,#Iago_Oth,#Iago_Oth #Othello_Oth,24,3
+3,3,72,547,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,72,548,#Iago_Oth,#Iago_Oth #Othello_Oth,17,2
+3,3,72,549,#Othello_Oth,#Iago_Oth #Othello_Oth,67,9
+3,3,72,550,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+3,3,72,551,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+3,3,72,552,#Iago_Oth,#Iago_Oth #Othello_Oth,8,1
+3,3,72,553,#Othello_Oth,#Iago_Oth #Othello_Oth,72,11
+3,3,72,554,#Iago_Oth,#Iago_Oth #Othello_Oth,49,8
+3,3,72,555,#Othello_Oth,#Iago_Oth #Othello_Oth,34,6
+3,3,72,556,#Iago_Oth,#Iago_Oth #Othello_Oth,13,2
+3,3,72,557,#Othello_Oth,#Iago_Oth #Othello_Oth,35,5
+3,3,72,558,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+3,4,73,559,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,8,2
+3,4,73,560,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,7,1
+3,4,73,561,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,2,1
+3,4,73,562,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,13,2
+3,4,73,563,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,5,1
+3,4,73,564,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,13,2
+3,4,73,565,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,6,1
+3,4,73,566,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,29,3
+3,4,73,567,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,10,2
+3,4,73,568,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,15,2
+3,4,73,569,#Desdemona_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,22,3
+3,4,73,570,#Clown_Oth,#Clown_Oth #Desdemona_Oth #Emilia_Oth,18,2
+3,4,74,571,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,7,1
+3,4,74,572,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+3,4,74,573,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,40,5
+3,4,74,574,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+3,4,74,575,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,16,2
+3,4,74,576,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,2
+3,4,75,577,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,19,2
+3,4,75,578,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,12,3
+3,4,75,579,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+3,4,75,580,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,2
+3,4,75,581,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+3,4,75,582,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,44,7
+3,4,75,583,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,14,2
+3,4,75,584,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,17,2
+3,4,75,585,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+3,4,75,586,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,3,1
+3,4,75,587,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+3,4,75,588,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,13,2
+3,4,75,589,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,3,1
+3,4,75,590,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+3,4,75,591,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+3,4,75,592,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,1,1
+3,4,75,593,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+3,4,75,594,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,119,15
+3,4,75,595,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,3,1
+3,4,75,596,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,53,7
+3,4,75,597,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+3,4,75,598,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,7,1
+3,4,75,599,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+3,4,75,600,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+3,4,75,601,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,8,1
+3,4,75,602,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,13,1
+3,4,75,603,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,3,1
+3,4,75,604,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+3,4,75,605,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+3,4,75,606,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,1,1
+3,4,75,607,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+3,4,75,608,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+3,4,75,609,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,26,3
+3,4,75,610,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,7,2
+3,4,75,611,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,2
+3,4,75,612,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+3,4,75,613,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+3,4,75,614,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+3,4,75,615,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,18,3
+3,4,75,616,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+3,4,75,617,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+3,4,75,618,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,1,1
+3,4,76,619,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,5,1
+3,4,76,620,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,21,3
+3,4,76,621,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,32,4
+3,4,77,622,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,6,1
+3,4,77,623,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,18,2
+3,4,77,624,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,9,1
+3,4,77,625,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,96,13
+3,4,77,626,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,80,10
+3,4,77,627,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,4,1
+3,4,77,628,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,10,2
+3,4,77,629,#Iago_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,52,6
+3,4,77,630,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth #Iago_Oth,4,1
+3,4,78,631,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,109,15
+3,4,78,632,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,18,3
+3,4,78,633,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,8,1
+3,4,78,634,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,31,4
+3,4,78,635,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,7,1
+3,4,78,636,#Emilia_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,2,1
+3,4,78,637,#Desdemona_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,26,3
+3,4,78,638,#Cassio_Oth,#Cassio_Oth #Desdemona_Oth #Emilia_Oth,5,1
+3,4,79,639,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,4,1
+3,4,79,640,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,24,4
+3,4,79,641,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,34,5
+3,4,79,642,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,33,5
+3,4,79,643,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,29,4
+3,4,79,644,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,33,6
+3,4,79,645,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,4,1
+3,4,79,646,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,40,4
+3,4,79,647,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,3,1
+3,4,79,648,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,21,3
+3,4,79,649,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,4,1
+3,4,79,650,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,6,1
+3,4,79,651,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,27,3
+3,4,79,652,#Cassio_Oth,#Bianca_Oth #Cassio_Oth,19,2
+3,4,79,653,#Bianca_Oth,#Bianca_Oth #Cassio_Oth,7,1
+4,1,80,654,#Iago_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,80,655,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+4,1,80,656,#Iago_Oth,#Iago_Oth #Othello_Oth,5,2
+4,1,80,657,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+4,1,80,658,#Iago_Oth,#Iago_Oth #Othello_Oth,17,2
+4,1,80,659,#Othello_Oth,#Iago_Oth #Othello_Oth,31,5
+4,1,80,660,#Iago_Oth,#Iago_Oth #Othello_Oth,16,2
+4,1,80,661,#Othello_Oth,#Iago_Oth #Othello_Oth,2,1
+4,1,80,662,#Iago_Oth,#Iago_Oth #Othello_Oth,18,2
+4,1,80,663,#Othello_Oth,#Iago_Oth #Othello_Oth,11,2
+4,1,80,664,#Iago_Oth,#Iago_Oth #Othello_Oth,21,3
+4,1,80,665,#Othello_Oth,#Iago_Oth #Othello_Oth,32,4
+4,1,80,666,#Iago_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,80,667,#Othello_Oth,#Iago_Oth #Othello_Oth,5,1
+4,1,80,668,#Iago_Oth,#Iago_Oth #Othello_Oth,44,7
+4,1,80,669,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,80,670,#Iago_Oth,#Iago_Oth #Othello_Oth,14,2
+4,1,80,671,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,80,672,#Iago_Oth,#Iago_Oth #Othello_Oth,10,1
+4,1,80,673,#Othello_Oth,#Iago_Oth #Othello_Oth,2,1
+4,1,80,674,#Iago_Oth,#Iago_Oth #Othello_Oth,1,1
+4,1,80,675,#Othello_Oth,#Iago_Oth #Othello_Oth,2,1
+4,1,80,676,#Iago_Oth,#Iago_Oth #Othello_Oth,7,1
+4,1,80,677,#Othello_Oth,#Iago_Oth #Othello_Oth,76,10
+4,1,80,678,#Iago_Oth,#Iago_Oth #Othello_Oth,31,6
+4,1,81,679,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,3,1
+4,1,81,680,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,3,1
+4,1,81,681,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,16,2
+4,1,81,682,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,5,1
+4,1,81,683,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,50,7
+4,1,82,684,#Iago_Oth,#Iago_Oth #Othello_Oth,10,1
+4,1,82,685,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,82,686,#Iago_Oth,#Iago_Oth #Othello_Oth,15,2
+4,1,82,687,#Othello_Oth,#Iago_Oth #Othello_Oth,8,1
+4,1,82,688,#Iago_Oth,#Iago_Oth #Othello_Oth,14,2
+4,1,82,689,#Othello_Oth,#Iago_Oth #Othello_Oth,4,1
+4,1,82,690,#Iago_Oth,#Iago_Oth #Othello_Oth,73,9
+4,1,82,691,#Othello_Oth,#Iago_Oth #Othello_Oth,6,1
+4,1,82,692,#Iago_Oth,#Iago_Oth #Othello_Oth,124,16
+4,1,82,693,#Othello_Oth,#Iago_Oth #Othello_Oth,19,3
+4,1,82,694,#Iago_Oth,#Iago_Oth #Othello_Oth,68,9
+4,1,83,695,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,29,4
+4,1,83,696,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,13,2
+4,1,83,697,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,22,3
+4,1,83,698,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,3,1
+4,1,83,699,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,5,1
+4,1,83,700,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,7,1
+4,1,83,701,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,10,1
+4,1,83,702,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,9,1
+4,1,83,703,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,4,1
+4,1,83,704,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,14,2
+4,1,83,705,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,13,2
+4,1,83,706,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,3,1
+4,1,83,707,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,7,1
+4,1,83,708,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,22,3
+4,1,83,709,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,8,1
+4,1,83,710,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,8,1
+4,1,83,711,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,3,1
+4,1,83,712,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,6,1
+4,1,83,713,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,5,1
+4,1,83,714,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,26,3
+4,1,83,715,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,8,1
+4,1,83,716,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,37,5
+4,1,83,717,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,11,2
+4,1,83,718,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,16,2
+4,1,83,719,#Othello_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,26,3
+4,1,83,720,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,6,1
+4,1,83,721,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,6,1
+4,1,84,722,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Iago_Oth #Othello_Oth,17,3
+4,1,84,723,#Bianca_Oth,#Bianca_Oth #Cassio_Oth #Iago_Oth #Othello_Oth,83,8
+4,1,84,724,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Iago_Oth #Othello_Oth,9,1
+4,1,84,725,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Iago_Oth #Othello_Oth,7,1
+4,1,84,726,#Bianca_Oth,#Bianca_Oth #Cassio_Oth #Iago_Oth #Othello_Oth,19,3
+4,1,85,727,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,4,1
+4,1,85,728,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,9,1
+4,1,85,729,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,4,1
+4,1,85,730,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,4,1
+4,1,85,731,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,15,2
+4,1,85,732,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,4,1
+4,1,85,733,#Iago_Oth,#Cassio_Oth #Iago_Oth #Othello_Oth,5,1
+4,1,86,734,#Othello_Oth,#Iago_Oth #Othello_Oth,6,2
+4,1,86,735,#Iago_Oth,#Iago_Oth #Othello_Oth,9,1
+4,1,86,736,#Othello_Oth,#Iago_Oth #Othello_Oth,2,1
+4,1,86,737,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+4,1,86,738,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+4,1,86,739,#Iago_Oth,#Iago_Oth #Othello_Oth,26,3
+4,1,86,740,#Othello_Oth,#Iago_Oth #Othello_Oth,16,2
+4,1,86,741,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+4,1,86,742,#Othello_Oth,#Iago_Oth #Othello_Oth,49,5
+4,1,86,743,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+4,1,86,744,#Othello_Oth,#Iago_Oth #Othello_Oth,35,4
+4,1,86,745,#Iago_Oth,#Iago_Oth #Othello_Oth,6,1
+4,1,86,746,#Othello_Oth,#Iago_Oth #Othello_Oth,13,2
+4,1,86,747,#Iago_Oth,#Iago_Oth #Othello_Oth,3,1
+4,1,86,748,#Othello_Oth,#Iago_Oth #Othello_Oth,17,2
+4,1,86,749,#Iago_Oth,#Iago_Oth #Othello_Oth,23,3
+4,1,86,750,#Othello_Oth,#Iago_Oth #Othello_Oth,8,1
+4,1,86,751,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+4,1,86,752,#Othello_Oth,#Iago_Oth #Othello_Oth,3,1
+4,1,86,753,#Iago_Oth,#Iago_Oth #Othello_Oth,2,1
+4,1,86,754,#Othello_Oth,#Iago_Oth #Othello_Oth,24,3
+4,1,86,755,#Iago_Oth,#Iago_Oth #Othello_Oth,16,2
+4,1,86,756,#Othello_Oth,#Iago_Oth #Othello_Oth,9,2
+4,1,86,757,#Iago_Oth,#Iago_Oth #Othello_Oth,14,2
+4,1,86,758,#Othello_Oth,#Iago_Oth #Othello_Oth,7,2
+4,1,86,759,#Iago_Oth,#Iago_Oth #Othello_Oth,5,1
+4,1,87,760,#Iago_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,12,2
+4,1,87,761,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,5,1
+4,1,87,762,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,5,1
+4,1,87,763,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,9,1
+4,1,87,764,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,7,1
+4,1,87,765,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,7,1
+4,1,87,766,#Iago_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,11,2
+4,1,87,767,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,7,1
+4,1,87,768,#Iago_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,1,87,769,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,17,2
+4,1,87,770,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,5,1
+4,1,87,771,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,1,87,772,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,9,2
+4,1,87,773,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,17,2
+4,1,87,774,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,18,2
+4,1,87,775,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,3,1
+4,1,87,776,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,1,87,777,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,3,1
+4,1,87,778,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,4,1
+4,1,87,779,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,20,3
+4,1,87,780,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,8,1
+4,1,87,781,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,1,1
+4,1,87,782,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,1,87,783,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,7,1
+4,1,87,784,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,3,1
+4,1,87,785,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,1,1
+4,1,87,786,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,5,1
+4,1,87,787,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,24,3
+4,1,87,788,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,24,4
+4,1,87,789,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,7,1
+4,1,87,790,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,12,2
+4,1,87,791,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,1,1
+4,1,87,792,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,1,87,793,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,6,1
+4,1,87,794,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,4,1
+4,1,87,795,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,73,9
+4,1,88,796,#Othello_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth #Othello_Oth,25,4
+4,1,89,797,#Lodovico_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,39,5
+4,1,89,798,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,4,2
+4,1,89,799,#Lodovico_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,10,1
+4,1,89,800,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,27,3
+4,1,89,801,#Lodovico_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,4,1
+4,1,89,802,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,16,2
+4,1,89,803,#Lodovico_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,16,3
+4,1,89,804,#Iago_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,43,7
+4,1,89,805,#Lodovico_Oth,#ATTENDANTS_Oth #Iago_Oth #Lodovico_Oth,9,1
+4,2,90,806,#Othello_Oth,#Emilia_Oth #Othello_Oth,5,1
+4,2,90,807,#Emilia_Oth,#Emilia_Oth #Othello_Oth,7,1
+4,2,90,808,#Othello_Oth,#Emilia_Oth #Othello_Oth,8,1
+4,2,90,809,#Emilia_Oth,#Emilia_Oth #Othello_Oth,18,2
+4,2,90,810,#Othello_Oth,#Emilia_Oth #Othello_Oth,5,1
+4,2,90,811,#Emilia_Oth,#Emilia_Oth #Othello_Oth,3,1
+4,2,90,812,#Othello_Oth,#Emilia_Oth #Othello_Oth,7,1
+4,2,90,813,#Emilia_Oth,#Emilia_Oth #Othello_Oth,1,1
+4,2,90,814,#Othello_Oth,#Emilia_Oth #Othello_Oth,10,1
+4,2,90,815,#Emilia_Oth,#Emilia_Oth #Othello_Oth,3,1
+4,2,90,816,#Othello_Oth,#Emilia_Oth #Othello_Oth,2,1
+4,2,90,817,#Emilia_Oth,#Emilia_Oth #Othello_Oth,66,8
+4,2,90,818,#Othello_Oth,#Emilia_Oth #Othello_Oth,5,1
+4,2,91,819,#Othello_Oth,#Othello_Oth,38,4
+4,2,92,820,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+4,2,92,821,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+4,2,92,822,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,2
+4,2,92,823,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+4,2,92,824,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+4,2,92,825,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,25,5
+4,2,93,826,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,19,3
+4,2,93,827,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+4,2,93,828,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,9,1
+4,2,93,829,#Othello_Oth,#Desdemona_Oth #Othello_Oth,27,5
+4,2,93,830,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,5,1
+4,2,93,831,#Othello_Oth,#Desdemona_Oth #Othello_Oth,9,1
+4,2,93,832,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,10,1
+4,2,93,833,#Othello_Oth,#Desdemona_Oth #Othello_Oth,5,1
+4,2,93,834,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,47,6
+4,2,93,835,#Othello_Oth,#Desdemona_Oth #Othello_Oth,145,18
+4,2,93,836,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,8,1
+4,2,93,837,#Othello_Oth,#Desdemona_Oth #Othello_Oth,38,5
+4,2,93,838,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,7,1
+4,2,93,839,#Othello_Oth,#Desdemona_Oth #Othello_Oth,78,11
+4,2,93,840,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+4,2,93,841,#Othello_Oth,#Desdemona_Oth #Othello_Oth,5,1
+4,2,93,842,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,29,4
+4,2,93,843,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+4,2,93,844,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+4,2,93,845,#Othello_Oth,#Desdemona_Oth #Othello_Oth,3,1
+4,2,93,846,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,4,1
+4,2,93,847,#Othello_Oth,#Desdemona_Oth #Othello_Oth,20,3
+4,2,94,848,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,38,5
+4,2,95,849,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,16,2
+4,2,95,850,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,3,1
+4,2,95,851,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,8,1
+4,2,95,852,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,2,1
+4,2,95,853,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,5,1
+4,2,95,854,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+4,2,95,855,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,6,1
+4,2,95,856,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,38,5
+4,2,95,857,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+4,2,96,858,#Desdemona_Oth,#Desdemona_Oth,25,3
+4,2,97,859,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,10,1
+4,2,97,860,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,33,4
+4,2,97,861,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,5,1
+4,2,97,862,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,21,3
+4,2,97,863,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,5,1
+4,2,97,864,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,4,2
+4,2,97,865,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,10,1
+4,2,97,866,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,18,2
+4,2,97,867,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,4,1
+4,2,97,868,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,11,1
+4,2,97,869,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,9,1
+4,2,97,870,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,25,4
+4,2,97,871,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,5,1
+4,2,97,872,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,10,1
+4,2,97,873,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,4,1
+4,2,97,874,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,31,4
+4,2,97,875,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,9,1
+4,2,97,876,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,8,1
+4,2,97,877,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,73,11
+4,2,97,878,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,3,1
+4,2,97,879,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,26,3
+4,2,97,880,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,6,1
+4,2,97,881,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,138,19
+4,2,97,882,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,23,3
+4,2,97,883,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,4,1
+4,2,97,884,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Iago_Oth,30,4
+4,2,98,885,#Iago_Oth,#Iago_Oth #Roderigo_Oth,3,1
+4,2,98,886,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,10,2
+4,2,98,887,#Iago_Oth,#Iago_Oth #Roderigo_Oth,4,1
+4,2,98,888,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,54,6
+4,2,98,889,#Iago_Oth,#Iago_Oth #Roderigo_Oth,5,1
+4,2,98,890,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,15,2
+4,2,98,891,#Iago_Oth,#Iago_Oth #Roderigo_Oth,5,1
+4,2,98,892,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,52,7
+4,2,98,893,#Iago_Oth,#Iago_Oth #Roderigo_Oth,5,1
+4,2,98,894,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,30,3
+4,2,98,895,#Iago_Oth,#Iago_Oth #Roderigo_Oth,2,1
+4,2,98,896,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,42,5
+4,2,98,897,#Iago_Oth,#Iago_Oth #Roderigo_Oth,4,1
+4,2,98,898,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,11,2
+4,2,98,899,#Iago_Oth,#Iago_Oth #Roderigo_Oth,49,6
+4,2,98,900,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,4,1
+4,2,98,901,#Iago_Oth,#Iago_Oth #Roderigo_Oth,67,8
+4,2,98,902,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,10,2
+4,2,98,903,#Iago_Oth,#Iago_Oth #Roderigo_Oth,14,2
+4,2,98,904,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,12,2
+4,2,98,905,#Iago_Oth,#Iago_Oth #Roderigo_Oth,34,4
+4,2,98,906,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,6,1
+4,2,98,907,#Iago_Oth,#Iago_Oth #Roderigo_Oth,12,2
+4,2,98,908,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,8,1
+4,2,98,909,#Iago_Oth,#Iago_Oth #Roderigo_Oth,117,11
+4,2,98,910,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,7,1
+4,2,98,911,#Iago_Oth,#Iago_Oth #Roderigo_Oth,5,1
+4,3,99,912,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,9,1
+4,3,99,913,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,9,1
+4,3,99,914,#Lodovico_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,8,1
+4,3,99,915,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,5,1
+4,3,99,916,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,6,1
+4,3,99,917,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,2,1
+4,3,99,918,#Othello_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,20,3
+4,3,99,919,#Desdemona_Oth,#ATTENDANTS_Oth #Desdemona_Oth #Emilia_Oth #Lodovico_Oth #Othello_Oth,4,1
+4,3,100,920,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,10,1
+4,3,100,921,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,20,3
+4,3,100,922,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,2,1
+4,3,100,923,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,20,3
+4,3,100,924,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,7,1
+4,3,100,925,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,27,3
+4,3,100,926,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,11,1
+4,3,100,927,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,24,3
+4,3,100,928,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+4,3,100,929,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,73,8
+4,3,100,930,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,6,1
+4,3,100,931,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,10,2
+4,3,100,932,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+4,3,100,933,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,3,1
+4,3,100,934,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,19,2
+4,3,100,935,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,92,15
+4,3,100,936,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,3,1
+4,3,100,937,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,39,6
+4,3,100,938,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,5,1
+4,3,100,939,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,31,4
+4,3,100,940,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,6,2
+4,3,100,941,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,10,1
+4,3,100,942,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,4,1
+4,3,100,943,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,5,1
+4,3,100,944,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,16,2
+4,3,100,945,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,10,1
+4,3,100,946,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,14,2
+4,3,100,947,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,7,1
+4,3,100,948,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,67,7
+4,3,100,949,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,13,2
+4,3,100,950,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,31,4
+4,3,100,951,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,9,1
+4,3,100,952,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth,176,21
+4,3,100,953,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth,19,2
+5,1,101,954,#Iago_Oth,#Iago_Oth #Roderigo_Oth,43,6
+5,1,101,955,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,9,1
+5,1,101,956,#Iago_Oth,#Iago_Oth #Roderigo_Oth,10,1
+5,1,101,957,#Roderigo_Oth,#Iago_Oth #Roderigo_Oth,26,3
+5,1,101,958,#Iago_Oth,#Iago_Oth #Roderigo_Oth,101,12
+5,1,102,959,#Roderigo_Oth,#Cassio_Oth #Iago_Oth #Roderigo_Oth,9,1
+5,1,102,960,#Cassio_Oth,#Cassio_Oth #Iago_Oth #Roderigo_Oth,22,3
+5,1,102,961,#Roderigo_Oth,#Cassio_Oth #Iago_Oth #Roderigo_Oth,4,1
+5,1,103,962,#Cassio_Oth,#Cassio_Oth #Roderigo_Oth,8,1
+5,1,104,963,#Othello_Oth,#Cassio_Oth #Othello_Oth #Roderigo_Oth,8,1
+5,1,104,964,#Roderigo_Oth,#Cassio_Oth #Othello_Oth #Roderigo_Oth,5,1
+5,1,104,965,#Othello_Oth,#Cassio_Oth #Othello_Oth #Roderigo_Oth,4,1
+5,1,104,966,#Cassio_Oth,#Cassio_Oth #Othello_Oth #Roderigo_Oth,6,1
+5,1,104,967,#Othello_Oth,#Cassio_Oth #Othello_Oth #Roderigo_Oth,52,8
+5,1,105,968,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,105,969,#Gratiano_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,105,970,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,2,1
+5,1,105,971,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,1,1
+5,1,105,972,#Roderigo_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,3,1
+5,1,105,973,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,24,3
+5,1,105,974,#Roderigo_Oth,#Cassio_Oth #Gratiano_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,106,975,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,1,1
+5,1,106,976,#Gratiano_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,10,2
+5,1,106,977,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,10,2
+5,1,106,978,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,4,1
+5,1,106,979,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,6,1
+5,1,106,980,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,7,1
+5,1,106,981,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,3,1
+5,1,106,982,#Gratiano_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,106,983,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,7,1
+5,1,106,984,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,106,985,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,12,2
+5,1,106,986,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,8,1
+5,1,106,987,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,12,2
+5,1,106,988,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,13,3
+5,1,106,989,#Roderigo_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,4,1
+5,1,106,990,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,4,1
+5,1,106,991,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,5,1
+5,1,106,992,#Roderigo_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,6,1
+5,1,106,993,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,28,4
+5,1,106,994,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,7,1
+5,1,106,995,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,2,1
+5,1,106,996,#Lodovico_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,2,1
+5,1,106,997,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,9,1
+5,1,106,998,#Gratiano_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,1,1
+5,1,106,999,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,4,1
+5,1,106,1000,#Cassio_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,6,1
+5,1,106,1001,#Iago_Oth,#Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,11,2
+5,1,107,1002,#Bianca_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,10,1
+5,1,107,1003,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,5,1
+5,1,107,1004,#Bianca_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,11,2
+5,1,107,1005,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,16,2
+5,1,107,1006,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,1,1
+5,1,107,1007,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,13,1
+5,1,107,1008,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,14,2
+5,1,107,1009,#Bianca_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,7,1
+5,1,107,1010,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,44,7
+5,1,107,1011,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,3,1
+5,1,107,1012,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,7,1
+5,1,107,1013,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,3,1
+5,1,107,1014,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,18,3
+5,1,107,1015,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,6,1
+5,1,107,1016,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,9,1
+5,1,107,1017,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,1,1
+5,1,107,1018,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,45,7
+5,1,107,1019,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,10,1
+5,1,107,1020,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Roderigo_Oth,11,1
+5,1,108,1021,#Iago_Oth,#Bianca_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,48,7
+5,1,109,1022,#Emilia_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,10,2
+5,1,109,1023,#Iago_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,22,3
+5,1,109,1024,#Emilia_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,6,1
+5,1,109,1025,#Iago_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,22,3
+5,1,109,1026,#Bianca_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,10,1
+5,1,109,1027,#Iago_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,10,1
+5,1,109,1028,#Emilia_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,5,1
+5,1,109,1029,#Bianca_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,15,2
+5,1,109,1030,#Emilia_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,6,1
+5,1,109,1031,#Iago_Oth,#Bianca_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth,48,6
+5,2,110,1032,#Othello_Oth,#Desdemona_Oth #Othello_Oth,191,24
+5,2,110,1033,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1034,#Othello_Oth,#Desdemona_Oth #Othello_Oth,2,1
+5,2,110,1035,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,7,1
+5,2,110,1036,#Othello_Oth,#Desdemona_Oth #Othello_Oth,5,1
+5,2,110,1037,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1038,#Othello_Oth,#Desdemona_Oth #Othello_Oth,18,3
+5,2,110,1039,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,9,2
+5,2,110,1040,#Othello_Oth,#Desdemona_Oth #Othello_Oth,26,3
+5,2,110,1041,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,110,1042,#Othello_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1043,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1044,#Othello_Oth,#Desdemona_Oth #Othello_Oth,5,1
+5,2,110,1045,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,11,1
+5,2,110,1046,#Othello_Oth,#Desdemona_Oth #Othello_Oth,1,1
+5,2,110,1047,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,32,4
+5,2,110,1048,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,110,1049,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,7,1
+5,2,110,1050,#Othello_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1051,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,37,5
+5,2,110,1052,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,110,1053,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1054,#Othello_Oth,#Desdemona_Oth #Othello_Oth,13,3
+5,2,110,1055,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,13,2
+5,2,110,1056,#Othello_Oth,#Desdemona_Oth #Othello_Oth,13,2
+5,2,110,1057,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1058,#Othello_Oth,#Desdemona_Oth #Othello_Oth,32,5
+5,2,110,1059,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1060,#Othello_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1061,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,32,4
+5,2,110,1062,#Othello_Oth,#Desdemona_Oth #Othello_Oth,37,5
+5,2,110,1063,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,18,3
+5,2,110,1064,#Othello_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1065,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,3,1
+5,2,110,1066,#Othello_Oth,#Desdemona_Oth #Othello_Oth,5,1
+5,2,110,1067,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,2,1
+5,2,110,1068,#Othello_Oth,#Desdemona_Oth #Othello_Oth,1,1
+5,2,110,1069,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,5,1
+5,2,110,1070,#Othello_Oth,#Desdemona_Oth #Othello_Oth,12,2
+5,2,110,1071,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,8,1
+5,2,110,1072,#Othello_Oth,#Desdemona_Oth #Othello_Oth,14,2
+5,2,110,1073,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,7,1
+5,2,110,1074,#Othello_Oth,#Desdemona_Oth #Othello_Oth,9,1
+5,2,110,1075,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,9,1
+5,2,110,1076,#Othello_Oth,#Desdemona_Oth #Othello_Oth,2,1
+5,2,110,1077,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,7,1
+5,2,110,1078,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,110,1079,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,110,1080,#Othello_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1081,#Desdemona_Oth,#Desdemona_Oth #Othello_Oth,6,1
+5,2,110,1082,#Othello_Oth,#Desdemona_Oth #Othello_Oth,4,1
+5,2,111,1083,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+5,2,111,1084,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,28,4
+5,2,111,1085,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+5,2,111,1086,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,2
+5,2,111,1087,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,11,1
+5,2,111,1088,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,92,11
+5,2,111,1089,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,14,2
+5,2,111,1090,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,26,4
+5,2,111,1091,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,8,1
+5,2,111,1092,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1093,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+5,2,111,1094,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,21,3
+5,2,111,1095,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,2
+5,2,111,1096,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+5,2,111,1097,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+5,2,111,1098,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,13,2
+5,2,111,1099,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+5,2,111,1100,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+5,2,111,1101,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1102,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,22,3
+5,2,111,1103,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+5,2,111,1104,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+5,2,111,1105,#Desdemona_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,12,2
+5,2,111,1106,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+5,2,111,1107,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,3,2
+5,2,111,1108,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+5,2,111,1109,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+5,2,111,1110,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,13,2
+5,2,111,1111,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,10,1
+5,2,111,1112,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+5,2,111,1113,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,1
+5,2,111,1114,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,5,1
+5,2,111,1115,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,16,2
+5,2,111,1116,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,33,4
+5,2,111,1117,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1118,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1119,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,6,1
+5,2,111,1120,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,28,4
+5,2,111,1121,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1122,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,23,3
+5,2,111,1123,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,2,1
+5,2,111,1124,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,9,2
+5,2,111,1125,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,14,2
+5,2,111,1126,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,17,3
+5,2,111,1127,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,28,3
+5,2,111,1128,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,1,1
+5,2,111,1129,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,17,3
+5,2,111,1130,#Othello_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,4,1
+5,2,111,1131,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Othello_Oth,56,6
+5,2,112,1132,#Montano_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,7,1
+5,2,112,1133,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,18,2
+5,2,112,1134,#Gratiano_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,4,1
+5,2,112,1135,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,35,4
+5,2,112,1136,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,19,2
+5,2,112,1137,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,9,1
+5,2,112,1138,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,2,1
+5,2,112,1139,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,25,3
+5,2,112,1140,#Iago_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,8,1
+5,2,112,1141,#Emilia_Oth,#Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,19,2
+5,2,113,1142,#Bianca_Oth #Cassio_Oth #Gratiano_Oth #Montano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,3,1
+5,2,113,1143,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,8,1
+5,2,113,1144,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,8,1
+5,2,113,1145,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,4,1
+5,2,113,1146,#Montano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,3,1
+5,2,113,1147,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,26,4
+5,2,113,1148,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,10,1
+5,2,113,1149,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,23,3
+5,2,113,1150,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,3,1
+5,2,113,1151,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,19,3
+5,2,113,1152,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,30,5
+5,2,113,1153,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,48,6
+5,2,113,1154,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,59,8
+5,2,113,1155,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,5,1
+5,2,113,1156,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,4,1
+5,2,113,1157,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,33,4
+5,2,113,1158,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,6,1
+5,2,113,1159,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,3,1
+5,2,113,1160,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,6,1
+5,2,113,1161,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,39,6
+5,2,113,1162,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,2,1
+5,2,113,1163,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,16,2
+5,2,113,1164,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,3,1
+5,2,113,1165,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,23,4
+5,2,113,1166,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,14,2
+5,2,113,1167,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,9,1
+5,2,113,1168,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Montano_Oth #Othello_Oth,9,1
+5,2,114,1169,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Montano_Oth #Othello_Oth,6,1
+5,2,114,1170,#Montano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Montano_Oth #Othello_Oth,39,5
+5,2,115,1171,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Othello_Oth,22,4
+5,2,115,1172,#Emilia_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Othello_Oth,50,7
+5,2,115,1173,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Othello_Oth,26,3
+5,2,116,1174,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Othello_Oth,17,2
+5,2,116,1175,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Othello_Oth,18,2
+5,2,116,1176,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Othello_Oth,4,1
+5,2,116,1177,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Othello_Oth,185,23
+5,2,117,1178,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,8,1
+5,2,117,1179,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,8,1
+5,2,117,1180,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,8,1
+5,2,117,1181,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,20,2
+5,2,117,1182,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,5,1
+5,2,117,1183,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,6,1
+5,2,117,1184,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,17,2
+5,2,117,1185,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,22,3
+5,2,117,1186,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,18,3
+5,2,117,1187,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,15,2
+5,2,117,1188,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,1,1
+5,2,117,1189,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,7,1
+5,2,117,1190,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,25,3
+5,2,117,1191,#Iago_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,17,2
+5,2,117,1192,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,4,1
+5,2,117,1193,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,5,1
+5,2,117,1194,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,4,1
+5,2,117,1195,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,43,8
+5,2,117,1196,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,2,1
+5,2,117,1197,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,5,1
+5,2,117,1198,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,34,5
+5,2,117,1199,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,15,3
+5,2,117,1200,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,28,4
+5,2,117,1201,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,4,1
+5,2,117,1202,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,43,6
+5,2,117,1203,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,65,8
+5,2,117,1204,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,152,21
+5,2,117,1205,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,3,1
+5,2,117,1206,#Gratiano_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,6,1
+5,2,117,1207,#Othello_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,18,2
+5,2,117,1208,#Cassio_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,16,2
+5,2,117,1209,#Lodovico_Oth,#Bianca_Oth #Cassio_Oth #Desdemona_Oth #Emilia_Oth #Gratiano_Oth #Iago_Oth #Lodovico_Oth #Montano_Oth #OFFICERS_Oth #Othello_Oth,83,12

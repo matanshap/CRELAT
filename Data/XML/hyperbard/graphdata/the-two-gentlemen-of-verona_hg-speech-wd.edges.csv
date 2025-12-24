@@ -1,0 +1,139 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Proteus_TGV,#Proteus_TGV #Valentine_TGV,147,20
+1,1,1,#Valentine_TGV,#Proteus_TGV #Valentine_TGV,337,44
+1,1,2,#Proteus_TGV,#Proteus_TGV,56,7
+1,1,3,#Proteus_TGV,#Proteus_TGV #Speed_TGV,216,34
+1,1,3,#Speed_TGV,#Proteus_TGV #Speed_TGV,357,47
+1,1,4,#Proteus_TGV,#Proteus_TGV,23,3
+1,2,5,#Julia_TGV,#Julia_TGV #Lucetta_TGV,192,26
+1,2,5,#Lucetta_TGV,#Julia_TGV #Lucetta_TGV,194,26
+1,2,6,#Julia_TGV,#Julia_TGV,135,17
+1,2,7,#Julia_TGV,#Julia_TGV #Lucetta_TGV,126,18
+1,2,7,#Lucetta_TGV,#Julia_TGV #Lucetta_TGV,161,23
+1,2,8,#Julia_TGV,#Julia_TGV,203,26
+1,2,9,#Julia_TGV,#Julia_TGV #Lucetta_TGV,29,4
+1,2,9,#Lucetta_TGV,#Julia_TGV #Lucetta_TGV,52,6
+1,3,10,#Antonio_TGV,#Antonio_TGV #Pantino_TGV,131,18
+1,3,10,#Pantino_TGV,#Antonio_TGV #Pantino_TGV,185,26
+1,3,11,#Antonio_TGV,#Antonio_TGV #Pantino_TGV #Proteus_TGV,131,17
+1,3,11,#Proteus_TGV,#Antonio_TGV #Pantino_TGV #Proteus_TGV,125,17
+1,3,12,#Proteus_TGV,#Proteus_TGV,83,10
+1,3,13,#Pantino_TGV,#Pantino_TGV #Proteus_TGV,16,2
+1,3,13,#Proteus_TGV,#Pantino_TGV #Proteus_TGV,16,2
+2,1,14,#Speed_TGV,#Speed_TGV #Valentine_TGV,441,56
+2,1,14,#Valentine_TGV,#Speed_TGV #Valentine_TGV,221,37
+2,1,15,#Speed_TGV,#Speed_TGV #Sylvia_TGV #Valentine_TGV,40,7
+2,1,15,#Sylvia_TGV,#Speed_TGV #Sylvia_TGV #Valentine_TGV,141,19
+2,1,15,#Valentine_TGV,#Speed_TGV #Sylvia_TGV #Valentine_TGV,105,16
+2,1,16,#Speed_TGV,#Speed_TGV #Valentine_TGV,239,34
+2,1,16,#Valentine_TGV,#Speed_TGV #Valentine_TGV,51,11
+2,2,17,#Julia_TGV,#Julia_TGV #Proteus_TGV,30,4
+2,2,17,#Proteus_TGV,#Julia_TGV #Proteus_TGV,86,12
+2,2,18,#Proteus_TGV,#Proteus_TGV,24,3
+2,2,19,#Pantino_TGV,#Pantino_TGV #Proteus_TGV,6,1
+2,2,19,#Proteus_TGV,#Pantino_TGV #Proteus_TGV,12,2
+2,3,20,#Lance_TGV,#Crab_TGV #Lance_TGV,341,34
+2,3,21,#Lance_TGV,#Crab_TGV #Lance_TGV #Pantino_TGV,92,12
+2,3,21,#Pantino_TGV,#Crab_TGV #Lance_TGV #Pantino_TGV,104,16
+2,4,22,#Speed_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,14,3
+2,4,22,#Sylvia_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,36,8
+2,4,22,#Thurio_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,70,12
+2,4,22,#Valentine_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,129,24
+2,4,23,#Duke_TGV,#Duke_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,130,18
+2,4,23,#Valentine_TGV,#Duke_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,163,21
+2,4,24,#Sylvia_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,40,5
+2,4,24,#Thurio_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,10,1
+2,4,24,#Valentine_TGV,#Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,57,7
+2,4,25,#Proteus_TGV,#Proteus_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,39,5
+2,4,25,#Sylvia_TGV,#Proteus_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,48,6
+2,4,25,#Valentine_TGV,#Proteus_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,40,6
+2,4,26,#SERVANTS.1_TGV,#Proteus_TGV #SERVANTS.1_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,9,1
+2,4,26,#Sylvia_TGV,#Proteus_TGV #SERVANTS.1_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,5,1
+2,4,27,#Proteus_TGV,#Proteus_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,6,1
+2,4,27,#Sylvia_TGV,#Proteus_TGV #Speed_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,29,5
+2,4,28,#Proteus_TGV,#Proteus_TGV #Speed_TGV #Valentine_TGV,133,21
+2,4,28,#Valentine_TGV,#Proteus_TGV #Speed_TGV #Valentine_TGV,413,57
+2,4,29,#Proteus_TGV,#Proteus_TGV,188,23
+2,5,30,#Lance_TGV,#Crab_TGV #Lance_TGV #Speed_TGV,236,32
+2,5,30,#Speed_TGV,#Crab_TGV #Lance_TGV #Speed_TGV,140,21
+2,6,31,#Proteus_TGV,#Proteus_TGV,326,43
+2,7,32,#Julia_TGV,#Julia_TGV #Lucetta_TGV,557,72
+2,7,32,#Lucetta_TGV,#Julia_TGV #Lucetta_TGV,149,18
+3,1,33,#Duke_TGV,#Duke_TGV #Proteus_TGV #Thurio_TGV,15,2
+3,1,34,#Duke_TGV,#Duke_TGV #Proteus_TGV,146,19
+3,1,34,#Proteus_TGV,#Duke_TGV #Proteus_TGV,228,29
+3,1,35,#Duke_TGV,#Duke_TGV #Valentine_TGV,658,84
+3,1,35,#Valentine_TGV,#Duke_TGV #Valentine_TGV,325,39
+3,1,36,#Valentine_TGV,#Valentine_TGV,144,18
+3,1,37,#Lance_TGV,#Lance_TGV #Proteus_TGV #Valentine_TGV,43,8
+3,1,37,#Proteus_TGV,#Lance_TGV #Proteus_TGV #Valentine_TGV,317,47
+3,1,37,#Valentine_TGV,#Lance_TGV #Proteus_TGV #Valentine_TGV,128,21
+3,1,38,#Lance_TGV,#Lance_TGV,172,17
+3,1,39,#Lance_TGV,#Lance_TGV #Speed_TGV,456,59
+3,1,39,#Speed_TGV,#Lance_TGV #Speed_TGV,198,37
+3,1,40,#Lance_TGV,#Lance_TGV,26,3
+3,2,41,#Duke_TGV,#Duke_TGV #Thurio_TGV,56,7
+3,2,41,#Thurio_TGV,#Duke_TGV #Thurio_TGV,22,3
+3,2,42,#Duke_TGV,#Duke_TGV #Proteus_TGV #Thurio_TGV,249,34
+3,2,42,#Proteus_TGV,#Duke_TGV #Proteus_TGV #Thurio_TGV,308,43
+3,2,42,#Thurio_TGV,#Duke_TGV #Proteus_TGV #Thurio_TGV,85,11
+4,1,43,#OUTLAWS.1_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV,7,1
+4,1,43,#OUTLAWS.2_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV,10,1
+4,1,44,#OUTLAWS.1_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Speed_TGV #Valentine_TGV,104,14
+4,1,44,#OUTLAWS.2_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Speed_TGV #Valentine_TGV,85,13
+4,1,44,#OUTLAWS.3_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Speed_TGV #Valentine_TGV,165,20
+4,1,44,#Speed_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Speed_TGV #Valentine_TGV,27,4
+4,1,44,#Valentine_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Speed_TGV #Valentine_TGV,144,23
+4,2,45,#Proteus_TGV,#Proteus_TGV,136,18
+4,2,46,#Proteus_TGV,#MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,31,4
+4,2,46,#Thurio_TGV,#MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,36,5
+4,2,47,#Host_TGV,#Host_TGV #Julia_TGV #MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,140,22
+4,2,47,#Julia_TGV,#Host_TGV #Julia_TGV #MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,104,20
+4,2,47,#Proteus_TGV,#Host_TGV #Julia_TGV #MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,106,18
+4,2,47,#Thurio_TGV,#Host_TGV #Julia_TGV #MUSICIANS_TGV #Proteus_TGV #Thurio_TGV,4,2
+4,2,48,#Julia_TGV,#Host_TGV #Julia_TGV #Proteus_TGV #Sylvia_TGV,37,5
+4,2,48,#Proteus_TGV,#Host_TGV #Julia_TGV #Proteus_TGV #Sylvia_TGV,125,16
+4,2,48,#Sylvia_TGV,#Host_TGV #Julia_TGV #Proteus_TGV #Sylvia_TGV,215,29
+4,2,49,#Proteus_TGV,#Host_TGV #Julia_TGV #Proteus_TGV,11,2
+4,2,50,#Host_TGV,#Host_TGV #Julia_TGV,18,3
+4,2,50,#Julia_TGV,#Host_TGV #Julia_TGV,27,4
+4,3,51,#Eglamour_TGV,#Eglamour_TGV,25,4
+4,3,52,#Eglamour_TGV,#Eglamour_TGV #Sylvia_TGV,94,15
+4,3,52,#Sylvia_TGV,#Eglamour_TGV #Sylvia_TGV,225,32
+4,4,53,#Lance_TGV,#Crab_TGV #Lance_TGV,404,40
+4,4,54,#Julia_TGV,#Crab_TGV #Julia_TGV #Lance_TGV #Proteus_TGV,9,1
+4,4,54,#Lance_TGV,#Crab_TGV #Julia_TGV #Lance_TGV #Proteus_TGV,82,11
+4,4,54,#Proteus_TGV,#Crab_TGV #Julia_TGV #Lance_TGV #Proteus_TGV,79,11
+4,4,55,#Julia_TGV,#Julia_TGV #Proteus_TGV,70,10
+4,4,55,#Proteus_TGV,#Julia_TGV #Proteus_TGV,145,21
+4,4,56,#Julia_TGV,#Julia_TGV,145,19
+4,4,57,#Julia_TGV,#Julia_TGV #Sylvia_TGV,330,46
+4,4,57,#Sylvia_TGV,#Julia_TGV #Sylvia_TGV,200,30
+4,4,58,#Julia_TGV,#Julia_TGV,215,27
+5,1,59,#Eglamour_TGV,#Eglamour_TGV,48,6
+5,1,60,#Eglamour_TGV,#Eglamour_TGV #Sylvia_TGV,25,3
+5,1,60,#Sylvia_TGV,#Eglamour_TGV #Sylvia_TGV,22,3
+5,2,61,#Julia_TGV,#Julia_TGV #Proteus_TGV #Thurio_TGV,62,8
+5,2,61,#Proteus_TGV,#Julia_TGV #Proteus_TGV #Thurio_TGV,77,11
+5,2,61,#Thurio_TGV,#Julia_TGV #Proteus_TGV #Thurio_TGV,70,11
+5,2,62,#Duke_TGV,#Duke_TGV #Julia_TGV #Proteus_TGV #Thurio_TGV,126,17
+5,2,62,#Proteus_TGV,#Duke_TGV #Julia_TGV #Proteus_TGV #Thurio_TGV,3,2
+5,2,62,#Thurio_TGV,#Duke_TGV #Julia_TGV #Proteus_TGV #Thurio_TGV,2,1
+5,2,63,#Thurio_TGV,#Julia_TGV #Proteus_TGV #Thurio_TGV,32,4
+5,2,64,#Proteus_TGV,#Julia_TGV #Proteus_TGV,16,2
+5,2,65,#Julia_TGV,#Julia_TGV,18,2
+5,3,66,#OUTLAWS.1_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Sylvia_TGV,19,3
+5,3,66,#OUTLAWS.2_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Sylvia_TGV,4,1
+5,3,66,#OUTLAWS.3_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Sylvia_TGV,39,5
+5,3,66,#Sylvia_TGV,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Sylvia_TGV,15,2
+5,3,67,#OUTLAWS.1_TGV,#OUTLAWS.1_TGV #Sylvia_TGV,23,3
+5,3,67,#Sylvia_TGV,#OUTLAWS.1_TGV #Sylvia_TGV,7,1
+5,4,68,#Valentine_TGV,#Valentine_TGV,131,18
+5,4,69,#Julia_TGV,#Julia_TGV #Proteus_TGV #Sylvia_TGV #Valentine_TGV,141,20
+5,4,69,#Proteus_TGV,#Julia_TGV #Proteus_TGV #Sylvia_TGV #Valentine_TGV,288,42
+5,4,69,#Sylvia_TGV,#Julia_TGV #Proteus_TGV #Sylvia_TGV #Valentine_TGV,155,21
+5,4,69,#Valentine_TGV,#Julia_TGV #Proteus_TGV #Sylvia_TGV #Valentine_TGV,212,30
+5,4,70,#Duke_TGV,#Duke_TGV #Julia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Proteus_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,149,20
+5,4,70,#OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV,#Duke_TGV #Julia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Proteus_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,6,1
+5,4,70,#Thurio_TGV,#Duke_TGV #Julia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Proteus_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,41,5
+5,4,70,#Valentine_TGV,#Duke_TGV #Julia_TGV #OUTLAWS.1_TGV #OUTLAWS.2_TGV #OUTLAWS.3_TGV #Proteus_TGV #Sylvia_TGV #Thurio_TGV #Valentine_TGV,221,29

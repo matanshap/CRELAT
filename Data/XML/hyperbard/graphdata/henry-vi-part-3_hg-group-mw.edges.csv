@@ -1,0 +1,108 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,272,34,#EdwardIV_3H6 #Montague_3H6 #Norfolk_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Warwick_2H6 #York_1H6
+1,1,2,119,15,#EdwardIV_3H6 #Montague_3H6 #Norfolk_3H6 #RichardIII_R3 #Warwick_2H6 #York_1H6
+1,1,3,972,124,#Clifford_3H6 #EdwardIV_3H6 #Exeter_3H6 #HenryVI_1H6 #Montague_3H6 #Norfolk_3H6 #Northumberland_3H6 #RichardIII_R3 #SOLDIERS.LANCASTER_3H6 #Warwick_2H6 #Westmorland_3H6 #York_1H6
+1,1,4,139,19,#Clifford_3H6 #EdwardIV_3H6 #Exeter_3H6 #HenryVI_1H6 #Montague_3H6 #Norfolk_3H6 #Northumberland_3H6 #RichardIII_R3 #SOLDIERS.LANCASTER_3H6 #SOLDIERS.YORK_3H6 #Warwick_2H6 #Westmorland_3H6 #York_1H6
+1,1,5,164,22,#EdwardIV_3H6 #Exeter_3H6 #HenryVI_1H6 #Montague_3H6 #Norfolk_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Warwick_2H6 #York_1H6
+1,1,6,9,1,#Exeter_3H6 #HenryVI_1H6
+1,1,7,428,56,#Exeter_3H6 #HenryVI_1H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+1,1,8,84,10,#Exeter_3H6 #HenryVI_1H6
+1,2,9,22,3,#EdwardIV_3H6 #Montague_3H6 #RichardIII_R3
+1,2,10,344,44,#EdwardIV_3H6 #Montague_3H6 #RichardIII_R3 #York_1H6
+1,2,11,42,5,#EdwardIV_3H6 #MESSENGERS.X.1_3H6 #Montague_3H6 #RichardIII_R3 #York_1H6
+1,2,12,72,10,#EdwardIV_3H6 #Montague_3H6 #RichardIII_R3 #York_1H6
+1,2,13,115,14,#EdwardIV_3H6 #HughMortimer_3H6 #JohnMortimer_3H6 #RichardIII_R3 #York_1H6
+1,3,14,9,1,#Rutland_3H6 #Tutor_3H6
+1,3,15,58,8,#Clifford_3H6 #Rutland_3H6 #SOLDIERS.LANCASTER_3H6 #Tutor_3H6
+1,3,16,342,44,#Clifford_3H6 #Rutland_3H6 #SOLDIERS.LANCASTER_3H6
+1,4,17,213,26,#York_1H6
+1,4,18,1256,160,#Clifford_3H6 #Northumberland_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #SOLDIERS.LANCASTER_3H6 #York_1H6
+2,1,19,333,42,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+2,1,20,197,25,#EdwardIV_3H6 #MESSENGERS.X.2_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+2,1,21,226,29,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+2,1,22,879,110,#EdwardIV_3H6 #Montague_3H6 #RichardIII_R3 #SOLDIERS.WARWICK_3H6 #SOLDIERS.YORK_3H6 #Warwick_2H6
+2,1,23,36,5,#EdwardIV_3H6 #MESSENGERS.X.3_3H6 #Montague_3H6 #RichardIII_R3 #SOLDIERS.WARWICK_3H6 #SOLDIERS.YORK_3H6 #Warwick_2H6
+2,2,24,520,66,#Clifford_3H6 #HenryVI_1H6 #Northumberland_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+2,2,25,46,6,#Clifford_3H6 #HenryVI_1H6 #MESSENGERS.X.4_3H6 #Northumberland_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+2,2,26,65,9,#Clifford_3H6 #HenryVI_1H6 #Northumberland_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+2,2,27,775,100,#Clarence_3H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Montague_3H6 #Norfolk_3H6 #Northumberland_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Warwick_2H6
+2,3,28,41,5,#Warwick_2H6
+2,3,29,16,2,#EdwardIV_3H6 #Warwick_2H6
+2,3,30,51,6,#Clarence_3H6 #EdwardIV_3H6 #Warwick_2H6
+2,3,31,349,43,#Clarence_3H6 #EdwardIV_3H6 #RichardIII_R3 #Warwick_2H6
+2,4,32,87,11,#Clifford_3H6 #RichardIII_R3
+2,4,33,16,2,#RichardIII_R3 #Warwick_2H6
+2,5,34,428,54,#HenryVI_1H6
+2,5,35,203,24,#HenryVI_1H6 #Son_3H6
+2,5,36,279,35,#Father_3H6 #HenryVI_1H6 #Son_3H6
+2,5,37,76,9,#Father_3H6 #HenryVI_1H6
+2,5,38,15,2,#HenryVI_1H6
+2,5,39,115,15,#Exeter_3H6 #HenryVI_1H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+2,6,40,235,29,#Clifford_3H6
+2,6,41,643,82,#Clarence_3H6 #Clifford_3H6 #EdwardIV_3H6 #Montague_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Warwick_2H6
+3,1,42,106,12,#GAMEKEEPERS.1_3H6 #GAMEKEEPERS.2_3H6
+3,1,43,747,88,#GAMEKEEPERS.1_3H6 #GAMEKEEPERS.2_3H6 #HenryVI_1H6
+3,2,44,992,119,#ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #QueenElizabeth_3H6 #RichardIII_R3
+3,2,45,24,3,#ATTENDANTS.EDWARD.1_3H6 #ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #QueenElizabeth_3H6 #RichardIII_R3
+3,2,46,23,3,#ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #QueenElizabeth_3H6 #RichardIII_R3
+3,2,47,574,72,#RichardIII_R3
+3,3,48,340,45,#Bourbon_3H6 #KingLewis_3H6 #LadyBona_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6
+3,3,49,921,125,#Bourbon_3H6 #KingLewis_3H6 #LadyBona_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #Warwick_2H6
+3,3,50,570,73,#Bourbon_3H6 #KingLewis_3H6 #LadyBona_3H6 #MESSENGERS.Post_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #Warwick_2H6
+3,3,51,177,23,#Bourbon_3H6 #KingLewis_3H6 #LadyBona_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #Warwick_2H6
+3,3,52,81,10,#Warwick_2H6
+4,1,53,63,8,#Clarence_3H6 #Montague_3H6 #RichardIII_R3 #Somerset_3H6
+4,1,54,599,76,#ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #Hastings_3H6 #Montague_3H6 #Pembroke_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Somerset_3H6 #Stafford_3H6
+4,1,55,319,43,#ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #Hastings_3H6 #MESSENGERS.Post_3H6 #Montague_3H6 #Pembroke_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Somerset_3H6 #Stafford_3H6
+4,1,56,74,9,#ATTENDANTS.EDWARD_3H6 #EdwardIV_3H6 #Hastings_3H6 #MESSENGERS.Post_3H6 #Montague_3H6 #Pembroke_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Stafford_3H6
+4,1,57,132,16,#ATTENDANTS.EDWARD_3H6 #EdwardIV_3H6 #Hastings_3H6 #MESSENGERS.Post_3H6 #Montague_3H6 #QueenElizabeth_3H6 #RichardIII_R3
+4,2,58,16,2,#Oxford_3H6 #SOLDIERS.FRENCH_3H6 #Warwick_2H6
+4,2,59,206,28,#Clarence_3H6 #Oxford_3H6 #SOLDIERS.FRENCH_3H6 #Somerset_3H6 #Warwick_2H6
+4,3,60,177,22,#WATCHMEN.1_3H6 #WATCHMEN.2_3H6 #WATCHMEN.3_3H6
+4,3,61,32,5,#Clarence_3H6 #Oxford_3H6 #SOLDIERS.FRENCH_3H6 #Somerset_3H6 #WATCHMEN.1_3H6 #WATCHMEN.2_3H6 #WATCHMEN.3_3H6 #Warwick_2H6
+4,3,62,246,34,#Clarence_3H6 #EdwardIV_3H6 #Oxford_3H6 #SOLDIERS.FRENCH_3H6 #Somerset_3H6 #Warwick_2H6
+4,3,63,40,5,#Clarence_3H6 #Oxford_3H6 #Warwick_2H6
+4,4,64,281,36,#QueenElizabeth_3H6 #Rivers_3H6
+4,5,65,104,13,#Hastings_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Stanley_3H6
+4,5,66,130,18,#EdwardIV_3H6 #Hastings_3H6 #Huntsman_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Stanley_3H6
+4,6,67,590,78,#Clarence_3H6 #HenryVII_R3 #HenryVI_1H6 #Lieutenant_3H6 #Montague_3H6 #Oxford_3H6 #Somerset_3H6 #Warwick_2H6
+4,6,68,85,12,#Clarence_3H6 #HenryVII_R3 #HenryVI_1H6 #Lieutenant_3H6 #MESSENGERS.Post_3H6 #Montague_3H6 #Oxford_3H6 #Somerset_3H6 #Warwick_2H6
+4,6,69,111,15,#HenryVII_R3 #Oxford_3H6 #Somerset_3H6
+4,7,70,126,16,#EdwardIV_3H6 #Hastings_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+4,7,71,111,13,#ALDERMEN_3H6 #EdwardIV_3H6 #Hastings_3H6 #MayorOfYork_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+4,7,72,43,5,#EdwardIV_3H6 #Hastings_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+4,7,73,46,5,#ALDERMEN_3H6 #EdwardIV_3H6 #Hastings_3H6 #MayorOfYork_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+4,7,74,249,31,#ALDERMEN_3H6 #EdwardIV_3H6 #Hastings_3H6 #MayorOfYork_3H6 #Montgomery_3H6 #RichardIII_R3 #SOLDIERS.MONTGOMERY_3H6 #SOLDIERS.YORK_3H6
+4,7,75,136,18,#ALDERMEN_3H6 #EdwardIV_3H6 #Hastings_3H6 #MayorOfYork_3H6 #Montgomery_3H6 #RichardIII_R3 #SOLDIERS.MONTGOMERY_3H6 #SOLDIERS.YORK.0.1_3H6 #SOLDIERS.YORK_3H6
+4,8,76,235,32,#Clarence_3H6 #Exeter_3H6 #HenryVI_1H6 #Montague_3H6 #Oxford_3H6 #Warwick_2H6
+4,8,77,150,19,#Exeter_3H6 #HenryVI_1H6
+4,8,78,55,6,#EdwardIV_3H6 #Exeter_3H6 #HenryVI_1H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+4,8,79,47,7,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+5,1,80,24,3,#MESSENGERS.1_3H6 #MESSENGERS.2_3H6 #MayorOfCoventry_3H6 #Warwick_2H6
+5,1,81,23,3,#MESSENGERS.2_3H6 #MayorOfCoventry_3H6 #Warwick_2H6
+5,1,82,76,9,#MayorOfCoventry_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,83,357,43,#EdwardIV_3H6 #MayorOfCoventry_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,84,11,2,#EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.OXFORD_3H6 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,85,50,6,#EdwardIV_3H6 #MayorOfCoventry_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,86,8,1,#EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,87,21,3,#EdwardIV_3H6 #MayorOfCoventry_3H6 #Montague_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.MONTAGUE_3H6 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,88,13,2,#EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,89,31,4,#EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.SOMERSET_3H6 #SOLDIERS.YORK_3H6 #Somerset_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,90,283,37,#Clarence_3H6 #EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.CLARENCE_3H6 #SOLDIERS.YORK_3H6 #Somerville_3H6 #Warwick_2H6
+5,1,91,8,1,#Clarence_3H6 #EdwardIV_3H6 #MayorOfCoventry_3H6 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.CLARENCE_3H6 #SOLDIERS.YORK_3H6 #Somerville_3H6
+5,2,92,34,4,#EdwardIV_3H6 #Warwick_2H6
+5,2,93,208,25,#Warwick_2H6
+5,2,94,182,23,#Oxford_3H6 #Somerset_3H6 #Warwick_2H6
+5,3,95,191,24,#Clarence_3H6 #EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+5,4,96,480,59,#Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #SOLDIERS.LANCASTER_3H6 #Somerset_3H6
+5,4,97,14,2,#MESSENGERS.X.5_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #SOLDIERS.LANCASTER_3H6 #Somerset_3H6
+5,4,98,40,5,#Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #SOLDIERS.LANCASTER_3H6 #Somerset_3H6
+5,4,99,134,16,#Clarence_3H6 #EdwardIV_3H6 #Oxford_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #RichardIII_R3 #SOLDIERS.LANCASTER_3H6 #SOLDIERS.YORK_3H6 #Somerset_3H6
+5,5,100,64,8,#Clarence_3H6 #EdwardIV_3H6 #Oxford_3H6 #QueenMargaret_1H6 #RichardIII_R3 #SOLDIERS.YORK_3H6 #Somerset_3H6
+5,5,101,24,3,#Clarence_3H6 #EdwardIV_3H6 #QueenMargaret_1H6 #RichardIII_R3 #SOLDIERS.YORK_3H6
+5,5,102,297,39,#Clarence_3H6 #EdwardIV_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #RichardIII_R3 #SOLDIERS.YORK.0.2_3H6 #SOLDIERS.YORK_3H6
+5,5,103,275,34,#Clarence_3H6 #EdwardIV_3H6 #PrinceEdward_3H6 #QueenMargaret_1H6 #SOLDIERS.YORK.0.2_3H6 #SOLDIERS.YORK_3H6
+5,5,104,65,8,#Clarence_3H6 #EdwardIV_3H6 #SOLDIERS.YORK.0.2_3H6
+5,6,105,50,6,#HenryVI_1H6 #Lieutenant_3H6 #RichardIII_R3
+5,6,106,707,88,#HenryVI_1H6 #RichardIII_R3
+5,7,107,364,47,#ATTENDANTS.EDWARD_3H6 #Clarence_3H6 #EdwardIV_3H6 #EdwardV.Infant_3H6 #Hastings_3H6 #Nurse_3H6 #QueenElizabeth_3H6 #RichardIII_R3

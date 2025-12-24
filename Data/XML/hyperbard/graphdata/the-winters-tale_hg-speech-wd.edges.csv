@@ -1,0 +1,172 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Archidamus_WT,#Archidamus_WT #Camillo_WT,176,23
+1,1,1,#Camillo_WT,#Archidamus_WT #Camillo_WT,179,25
+1,2,2,#Hermione_WT,#ATTENDANTS_WT #Camillo_WT #Hermione_WT #Leontes_WT #Mamillius_WT #Polixenes_WT,510,71
+1,2,2,#Leontes_WT,#ATTENDANTS_WT #Camillo_WT #Hermione_WT #Leontes_WT #Mamillius_WT #Polixenes_WT,639,95
+1,2,2,#Mamillius_WT,#ATTENDANTS_WT #Camillo_WT #Hermione_WT #Leontes_WT #Mamillius_WT #Polixenes_WT,15,3
+1,2,2,#Polixenes_WT,#ATTENDANTS_WT #Camillo_WT #Hermione_WT #Leontes_WT #Mamillius_WT #Polixenes_WT,399,61
+1,2,3,#Camillo_WT,#Camillo_WT #Leontes_WT #Mamillius_WT,4,1
+1,2,3,#Leontes_WT,#Camillo_WT #Leontes_WT #Mamillius_WT,213,29
+1,2,3,#Mamillius_WT,#Camillo_WT #Leontes_WT #Mamillius_WT,6,1
+1,2,4,#Camillo_WT,#Camillo_WT #Leontes_WT,403,61
+1,2,4,#Leontes_WT,#Camillo_WT #Leontes_WT,700,100
+1,2,5,#Camillo_WT,#Camillo_WT,109,14
+1,2,6,#Camillo_WT,#Camillo_WT #Polixenes_WT,327,48
+1,2,6,#Polixenes_WT,#Camillo_WT #Polixenes_WT,499,71
+2,1,7,#Hermione_WT,#Hermione_WT #LADIES_WT #Mamillius_WT,12,2
+2,1,8,#LADIES.0.1_WT,#Hermione_WT #LADIES.0.1_WT #LADIES_WT #Mamillius_WT,13,3
+2,1,8,#Mamillius_WT,#Hermione_WT #LADIES.0.1_WT #LADIES_WT #Mamillius_WT,24,3
+2,1,9,#Hermione_WT,#Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Mamillius_WT,69,9
+2,1,9,#LADIES.0.1_WT,#Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Mamillius_WT,36,6
+2,1,9,#LADIES.0.2_WT,#Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Mamillius_WT,21,4
+2,1,9,#Mamillius_WT,#Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Mamillius_WT,106,15
+2,1,10,#Leontes_WT,#ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT #Mamillius_WT,9,1
+2,1,11,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT #Mamillius_WT,39,6
+2,1,11,#Hermione_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT #Mamillius_WT,4,1
+2,1,11,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT #Mamillius_WT,203,28
+2,1,12,#Hermione_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT,250,34
+2,1,12,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Hermione_WT #LADIES.0.1_WT #LADIES.0.2_WT #LADIES_WT #Leontes_WT,270,39
+2,1,13,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #LADIES.0.1_WT #LADIES.0.2_WT #Leontes_WT,89,13
+2,1,13,#Antigonus_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #LADIES.0.1_WT #LADIES.0.2_WT #Leontes_WT,219,31
+2,1,13,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #LADIES.0.1_WT #LADIES.0.2_WT #Leontes_WT,307,44
+2,2,14,#Paulina_WT,#ATTENDANTS.PAULINA_WT #Paulina_WT,32,5
+2,2,15,#Jailer_WT,#ATTENDANTS.PAULINA.0.1_WT #ATTENDANTS.PAULINA_WT #Jailer_WT #Paulina_WT,36,7
+2,2,15,#Paulina_WT,#ATTENDANTS.PAULINA.0.1_WT #ATTENDANTS.PAULINA_WT #Jailer_WT #Paulina_WT,51,9
+2,2,16,#Jailer_WT,#ATTENDANTS.PAULINA.0.1_WT #Jailer_WT #Paulina_WT,9,1
+2,2,16,#Paulina_WT,#ATTENDANTS.PAULINA.0.1_WT #Jailer_WT #Paulina_WT,5,1
+2,2,17,#Paulina_WT,#ATTENDANTS.PAULINA.0.1_WT #Paulina_WT,12,2
+2,2,18,#Jailer_WT,#ATTENDANTS.PAULINA.0.1_WT #Jailer_WT #LADIES.Emilia_WT #Paulina_WT,27,4
+2,2,18,#LADIES.Emilia_WT,#ATTENDANTS.PAULINA.0.1_WT #Jailer_WT #LADIES.Emilia_WT #Paulina_WT,142,21
+2,2,18,#Paulina_WT,#ATTENDANTS.PAULINA.0.1_WT #Jailer_WT #LADIES.Emilia_WT #Paulina_WT,205,30
+2,3,19,#Leontes_WT,#Leontes_WT,78,9
+2,3,20,#Leontes_WT,#Leontes_WT #SERVANTS.X.1_WT,49,8
+2,3,20,#SERVANTS.X.1_WT,#Leontes_WT #SERVANTS.X.1_WT,13,3
+2,3,21,#Leontes_WT,#Leontes_WT,69,9
+2,3,22,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS_WT,4,1
+2,3,22,#Antigonus_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS_WT,2,1
+2,3,22,#Paulina_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS_WT,30,4
+2,3,23,#Antigonus_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,59,10
+2,3,23,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,191,35
+2,3,23,#Paulina_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,589,83
+2,3,23,#SERVANTS.0_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Paulina_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,12,2
+2,3,24,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,58,7
+2,3,24,#ATTENDANTS_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,13,2
+2,3,24,#Antigonus_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,119,18
+2,3,24,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Antigonus_WT #Leontes_WT #Perdita.Infant_WT #SERVANTS.0_WT #SERVANTS_WT,322,41
+2,3,25,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Leontes_WT #SERVANTS.0_WT #SERVANTS_WT,6,2
+2,3,26,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Leontes_WT #SERVANTS.0_WT #SERVANTS.X.2_WT #SERVANTS_WT,10,2
+2,3,26,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Leontes_WT #SERVANTS.0_WT #SERVANTS.X.2_WT #SERVANTS_WT,69,10
+2,3,26,#SERVANTS.X.2_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Leontes_WT #SERVANTS.0_WT #SERVANTS.X.2_WT #SERVANTS_WT,31,5
+3,1,27,#Cleomenes_WT,#Cleomenes_WT #Dion_WT,60,11
+3,1,27,#Dion_WT,#Cleomenes_WT #Dion_WT,111,16
+3,2,28,#Leontes_WT,#ATTENDANTS_WT #Leontes_WT #OFFICERS_WT,59,8
+3,2,29,#OFFICERS.0.1_WT,#ATTENDANTS_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT,14,2
+3,2,30,#Hermione_WT,#ATTENDANTS_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,646,84
+3,2,30,#Leontes_WT,#ATTENDANTS_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,127,18
+3,2,30,#OFFICERS.0.1_WT,#ATTENDANTS_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,80,11
+3,2,31,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,15,3
+3,2,32,#Hermione_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #Paulina_WT,35,5
+3,2,33,#ATTENDANTS_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,6,1
+3,2,33,#Cleomenes_WT #Dion_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,4,1
+3,2,33,#Hermione_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,1,1
+3,2,33,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,27,4
+3,2,33,#OFFICERS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT,99,14
+3,2,34,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT #SERVANTS.X.1_WT,49,10
+3,2,34,#Paulina_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT #SERVANTS.X.1_WT,15,2
+3,2,34,#SERVANTS.X.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #Hermione_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #OFFICERS_WT #Paulina_WT #SERVANTS.X.1_WT,32,5
+3,2,35,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #SERVANTS.X.1_WT,138,20
+3,2,36,#ATTENDANTS.0.1_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #Paulina_WT #SERVANTS.X.1_WT,27,5
+3,2,36,#Leontes_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #Paulina_WT #SERVANTS.X.1_WT,113,15
+3,2,36,#Paulina_WT,#ATTENDANTS.0.1_WT #ATTENDANTS_WT #Cleomenes_WT #Dion_WT #LADIES_WT #Leontes_WT #OFFICERS.0.1_WT #Paulina_WT #SERVANTS.X.1_WT,457,60
+3,3,37,#Antigonus_WT,#Antigonus_WT #Perdita.Infant_WT #Sailor_WT,40,7
+3,3,37,#Sailor_WT,#Antigonus_WT #Perdita.Infant_WT #Sailor_WT,80,11
+3,3,38,#Antigonus_WT,#Antigonus_WT #Perdita.Infant_WT,346,46
+3,3,39,#Shepherd_WT,#Perdita.Infant_WT #Shepherd_WT,174,19
+3,3,40,#Shepherd_WT,#Perdita.Infant_WT #Shepherd_WT #ShepherdsSon_WT,197,25
+3,3,40,#ShepherdsSon_WT,#Perdita.Infant_WT #Shepherd_WT #ShepherdsSon_WT,311,37
+4,1,41,#Chorus_WT,#Chorus_WT,266,33
+4,2,42,#Camillo_WT,#Camillo_WT #Polixenes_WT,142,16
+4,2,42,#Polixenes_WT,#Camillo_WT #Polixenes_WT,335,41
+4,3,43,#Autolycus_WT,#Autolycus_WT,243,31
+4,3,44,#Autolycus_WT,#Autolycus_WT #ShepherdsSon_WT,328,46
+4,3,44,#ShepherdsSon_WT,#Autolycus_WT #ShepherdsSon_WT,347,47
+4,3,45,#Autolycus_WT,#Autolycus_WT,70,9
+4,4,46,#Florizell_WT,#Florizell_WT #Perdita_WT,239,35
+4,4,46,#Perdita_WT,#Florizell_WT #Perdita_WT,196,28
+4,4,47,#Camillo_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,34,5
+4,4,47,#Dorcas_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,12,2
+4,4,47,#Florizell_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,135,18
+4,4,47,#Mopsa_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,4,1
+4,4,47,#Perdita_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,448,68
+4,4,47,#Polixenes_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,155,24
+4,4,47,#Shepherd_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,239,29
+4,4,47,#ShepherdsSon_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,17,3
+4,4,48,#Perdita_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,11,2
+4,4,48,#Polixenes_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,5,1
+4,4,48,#SERVANTS.SHEPHERD.1_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,211,25
+4,4,48,#ShepherdsSon_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,57,9
+4,4,49,#Perdita_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,8,1
+4,4,49,#ShepherdsSon_WT,#Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,14,2
+4,4,50,#Autolycus_WT,#Autolycus_WT #Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,318,47
+4,4,50,#Dorcas_WT,#Autolycus_WT #Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,55,11
+4,4,50,#Mopsa_WT,#Autolycus_WT #Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,138,20
+4,4,50,#ShepherdsSon_WT,#Autolycus_WT #Camillo_WT #Dorcas_WT #Florizell_WT #MUSICIANS_WT #Mopsa_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #SHEPHERDS_WT #Shepherd_WT #ShepherdsSon_WT,186,26
+4,4,51,#Autolycus_WT,#Autolycus_WT #Camillo_WT #Florizell_WT #MUSICIANS_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD_WT #Shepherd_WT,51,10
+4,4,52,#Polixenes_WT,#Camillo_WT #Florizell_WT #MUSICIANS_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #Shepherd_WT,14,2
+4,4,52,#SERVANTS.SHEPHERD.1_WT,#Camillo_WT #Florizell_WT #MUSICIANS_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #Shepherd_WT,104,14
+4,4,52,#Shepherd_WT,#Camillo_WT #Florizell_WT #MUSICIANS_WT #Perdita_WT #Polixenes_WT #SERVANTS.SHEPHERD.1_WT #SERVANTS.SHEPHERD_WT #Shepherd_WT,35,5
+4,4,53,#Camillo_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Polixenes_WT #Shepherd_WT,5,1
+4,4,53,#Florizell_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Polixenes_WT #Shepherd_WT,263,41
+4,4,53,#Perdita_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Polixenes_WT #Shepherd_WT,26,4
+4,4,53,#Polixenes_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Polixenes_WT #Shepherd_WT,493,73
+4,4,53,#Shepherd_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Polixenes_WT #Shepherd_WT,59,11
+4,4,54,#Camillo_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Shepherd_WT,8,2
+4,4,54,#Perdita_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Shepherd_WT,82,11
+4,4,54,#Shepherd_WT,#Camillo_WT #Florizell_WT #Perdita_WT #Shepherd_WT,99,15
+4,4,55,#Camillo_WT,#Camillo_WT #Florizell_WT #Perdita_WT,590,88
+4,4,55,#Florizell_WT,#Camillo_WT #Florizell_WT #Perdita_WT,450,68
+4,4,55,#Perdita_WT,#Camillo_WT #Florizell_WT #Perdita_WT,47,8
+4,4,56,#Autolycus_WT,#Autolycus_WT #Camillo_WT #Florizell_WT #Perdita_WT,285,33
+4,4,56,#Camillo_WT,#Autolycus_WT #Camillo_WT #Florizell_WT #Perdita_WT,245,37
+4,4,56,#Florizell_WT,#Autolycus_WT #Camillo_WT #Florizell_WT #Perdita_WT,45,8
+4,4,56,#Perdita_WT,#Autolycus_WT #Camillo_WT #Florizell_WT #Perdita_WT,21,4
+4,4,57,#Autolycus_WT,#Autolycus_WT,137,14
+4,4,58,#Autolycus_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,651,79
+4,4,58,#Shepherd_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,213,30
+4,4,58,#ShepherdsSon_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,350,48
+4,4,59,#Autolycus_WT,#Autolycus_WT,119,12
+5,1,60,#Cleomenes_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS_WT,76,13
+5,1,60,#Dion_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS_WT,75,11
+5,1,60,#Leontes_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS_WT,210,32
+5,1,60,#Paulina_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS_WT,332,50
+5,1,61,#Leontes_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS.X.3_WT #SERVANTS_WT,53,9
+5,1,61,#Paulina_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS.X.3_WT #SERVANTS_WT,71,11
+5,1,61,#SERVANTS.X.3_WT,#Cleomenes_WT #Dion_WT #Leontes_WT #Paulina_WT #SERVANTS.X.3_WT #SERVANTS_WT,119,18
+5,1,62,#Leontes_WT,#Dion_WT #Leontes_WT #Paulina_WT,47,8
+5,1,62,#Paulina_WT,#Dion_WT #Leontes_WT #Paulina_WT,25,4
+5,1,63,#Florizell_WT,#Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,153,24
+5,1,63,#Leontes_WT,#Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,275,38
+5,1,64,#ATTENDANTS.X_WT,#ATTENDANTS.X_WT #Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,172,24
+5,1,64,#Florizell_WT,#ATTENDANTS.X_WT #Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,106,16
+5,1,64,#Leontes_WT,#ATTENDANTS.X_WT #Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,138,21
+5,1,64,#Paulina_WT,#ATTENDANTS.X_WT #Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,30,5
+5,1,64,#Perdita_WT,#ATTENDANTS.X_WT #Cleomenes_WT #Dion_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #SERVANTS_WT,16,3
+5,2,65,#ATTENDANTS.1_WT,#ATTENDANTS.1_WT #Autolycus_WT,146,18
+5,2,65,#Autolycus_WT,#ATTENDANTS.1_WT #Autolycus_WT,18,3
+5,2,66,#ATTENDANTS.1_WT,#ATTENDANTS.1_WT #ATTENDANTS.2_WT #Autolycus_WT,11,2
+5,2,66,#ATTENDANTS.2_WT,#ATTENDANTS.1_WT #ATTENDANTS.2_WT #Autolycus_WT,32,4
+5,2,67,#ATTENDANTS.1_WT,#ATTENDANTS.1_WT #ATTENDANTS.2_WT #ATTENDANTS.3_WT #Autolycus_WT,64,10
+5,2,67,#ATTENDANTS.2_WT,#ATTENDANTS.1_WT #ATTENDANTS.2_WT #ATTENDANTS.3_WT #Autolycus_WT,94,13
+5,2,67,#ATTENDANTS.3_WT,#ATTENDANTS.1_WT #ATTENDANTS.2_WT #ATTENDANTS.3_WT #Autolycus_WT,594,70
+5,2,68,#Autolycus_WT,#Autolycus_WT,102,12
+5,2,69,#Autolycus_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,73,9
+5,2,69,#Shepherd_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,56,8
+5,2,69,#ShepherdsSon_WT,#Autolycus_WT #Shepherd_WT #ShepherdsSon_WT,315,38
+5,3,70,#Leontes_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,61,9
+5,3,70,#Paulina_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,107,14
+5,3,71,#Camillo_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,48,7
+5,3,71,#Hermione_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,57,9
+5,3,71,#Leontes_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,481,70
+5,3,71,#Paulina_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,429,65
+5,3,71,#Perdita_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,43,8
+5,3,71,#Polixenes_WT,#ATTENDANTS_WT #Camillo_WT #Florizell_WT #Hermione_WT #Leontes_WT #Paulina_WT #Perdita_WT #Polixenes_WT,60,10

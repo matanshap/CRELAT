@@ -1,0 +1,922 @@
+act,scene,stagegroup,stagegroup_raw,setting,onstage,speaker,n_lines,n_tokens
+0,1,1,1,1,#Hostess_Shr #Sly_Shr,#Sly_Shr,1,5
+0,1,1,1,2,#Hostess_Shr #Sly_Shr,#Hostess_Shr,1,6
+0,1,1,1,3,#Hostess_Shr #Sly_Shr,#Sly_Shr,4,26
+0,1,1,1,4,#Hostess_Shr #Sly_Shr,#Hostess_Shr,2,10
+0,1,1,1,5,#Hostess_Shr #Sly_Shr,#Sly_Shr,2,16
+0,1,1,1,6,#Hostess_Shr #Sly_Shr,#Hostess_Shr,2,10
+0,1,2,2,7,#Sly_Shr,#Sly_Shr,3,22
+0,1,3,3,8,#HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,6,48
+0,1,4,4,9,#HUNTSMEN.0.1_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.1_Shr,4,34
+0,1,4,4,10,#HUNTSMEN.0.1_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,4,32
+0,1,4,4,11,#HUNTSMEN.0.1_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.1_Shr,1,4
+0,1,5,5,12,#HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,2,10
+0,1,6,6,13,#HUNTSMEN.0.2_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.2_Shr,2,20
+0,1,6,6,14,#HUNTSMEN.0.2_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,9,66
+0,1,7,7,15,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.3_Shr,1,8
+0,1,7,7,16,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.2_Shr,1,9
+0,1,7,7,17,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,26,197
+0,1,7,7,18,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#HUNTSMEN.0.3_Shr,3,28
+0,1,7,7,19,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #HUNTSMEN_Shr #Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,2,18
+0,1,8,8,20,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #SERVANTS.LORD_Shr,#Lord_Shr,3,21
+0,1,9,9,21,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,1,5
+0,1,9,9,22,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#SERVANTS.LORD.0.1_Shr,2,12
+0,1,9,9,23,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,1,4
+0,1,10,10,24,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,1,5
+0,1,10,10,25,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#PLAYERS_Shr,1,4
+0,1,10,10,26,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,1,8
+0,1,11,11,27,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#PLAYERS.0.1_Shr,1,8
+0,1,11,11,28,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,5,39
+0,1,12,12,29,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS.0.2_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#PLAYERS.0.2_Shr,1,8
+0,1,12,12,30,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS.0.2_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,11,84
+0,1,12,12,31,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS.0.2_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#PLAYERS.0.1_Shr,2,16
+0,1,12,12,32,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS.0.2_Shr #PLAYERS_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr,#Lord_Shr,3,22
+0,1,13,13,33,#HUNTSMEN.0.2_Shr #HUNTSMEN.0.3_Shr #Lord_Shr #PLAYERS.0.1_Shr #PLAYERS.0.2_Shr #SERVANTS.LORD_Shr,#Lord_Shr,35,263
+0,2,14,16,34,#Lord_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,8
+0,2,15,17,35,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.1_Shr,1,10
+0,2,16,18,36,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.2_Shr,1,9
+0,2,17,19,37,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.3_Shr,1,7
+0,2,17,19,38,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,8,71
+0,2,17,19,39,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,4,31
+0,2,17,19,40,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,9,78
+0,2,17,19,41,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.3_Shr,1,9
+0,2,17,19,42,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.2_Shr,1,9
+0,2,17,19,43,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,19,149
+0,2,17,19,44,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.1_Shr,2,17
+0,2,17,19,45,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.2_Shr,5,38
+0,2,17,19,46,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,3,24
+0,2,17,19,47,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.3_Shr,4,32
+0,2,17,19,48,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,3,23
+0,2,17,19,49,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.1_Shr,4,32
+0,2,17,19,50,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,8,71
+0,2,17,19,51,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.2_Shr,5,47
+0,2,17,19,52,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,18
+0,2,17,19,53,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.1_Shr,8,61
+0,2,17,19,54,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,7
+0,2,17,19,55,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#SERVANTS.LORD.0.3_Shr,6,51
+0,2,17,19,56,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,8
+0,2,17,19,57,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr #SERVANTS.LORD_Shr,1,1
+0,2,17,19,58,#Lord_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,9
+0,2,18,20,59,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,1,5
+0,2,18,20,60,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,13
+0,2,18,20,61,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,1,9
+0,2,18,20,62,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,20
+0,2,18,20,63,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,2,16
+0,2,18,20,64,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,9
+0,2,18,20,65,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,1,1
+0,2,18,20,66,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,5
+0,2,18,20,67,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Lord_Shr,1,8
+0,2,18,20,68,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,16
+0,2,18,20,69,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,2,16
+0,2,18,20,70,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,16
+0,2,18,20,71,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,7,56
+0,2,18,20,72,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,4,34
+0,2,19,21,73,#Lord_Shr #Messenger_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Messenger_Shr,9,61
+0,2,19,21,74,#Lord_Shr #Messenger_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,7
+0,2,20,22,75,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,2,11
+0,2,20,22,76,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,1,9
+0,2,20,22,77,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,1,3
+0,2,20,22,78,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Page_Shr,1,6
+0,2,20,22,79,#Lord_Shr #Page_Shr #SERVANTS.LORD.0.1_Shr #SERVANTS.LORD.0.2_Shr #SERVANTS.LORD.0.3_Shr #SERVANTS.LORD.0_Shr #SERVANTS.LORD_Shr #Sly_Shr,#Sly_Shr,3,21
+1,1,21,24,80,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,24,174
+1,1,21,24,81,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,16,113
+1,1,21,24,82,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,5,35
+1,1,22,25,83,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,7
+1,1,22,25,84,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+1,1,22,25,85,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Baptista_Shr,7,55
+1,1,22,25,86,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,2,16
+1,1,22,25,87,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Katherine_Shr,2,17
+1,1,22,25,88,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,3,17
+1,1,22,25,89,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Katherine_Shr,5,45
+1,1,22,25,90,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,1,8
+1,1,22,25,91,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,1,5
+1,1,22,25,92,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,15
+1,1,22,25,93,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,3,15
+1,1,22,25,94,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+1,1,22,25,95,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Baptista_Shr,4,33
+1,1,22,25,96,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Katherine_Shr,2,15
+1,1,22,25,97,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,4,29
+1,1,22,25,98,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,7
+1,1,22,25,99,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,3,16
+1,1,22,25,100,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,3,22
+1,1,22,25,101,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Baptista_Shr,2,9
+1,1,23,26,102,#Baptista_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Baptista_Shr,10,72
+1,1,24,27,103,#Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Tranio_Shr,#Katherine_Shr,3,31
+1,1,25,28,104,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,8,77
+1,1,25,28,105,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,6,53
+1,1,25,28,106,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,1,4
+1,1,25,28,107,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,1,9
+1,1,25,28,108,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,1,4
+1,1,25,28,109,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,1,4
+1,1,25,28,110,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,3,25
+1,1,25,28,111,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,5,39
+1,1,25,28,112,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,3,23
+1,1,25,28,113,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,8,70
+1,1,25,28,114,#Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,4,36
+1,1,26,29,115,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,17
+1,1,26,29,116,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,11,87
+1,1,26,29,117,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,4,31
+1,1,26,29,118,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,2,14
+1,1,26,29,119,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,17
+1,1,26,29,120,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,4,35
+1,1,26,29,121,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,3,27
+1,1,26,29,122,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,3,26
+1,1,26,29,123,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,9,71
+1,1,26,29,124,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,3,24
+1,1,26,29,125,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,9
+1,1,26,29,126,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,4
+1,1,26,29,127,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,12
+1,1,26,29,128,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,4
+1,1,26,29,129,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,3,14
+1,1,26,29,130,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,6
+1,1,26,29,131,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,4,30
+1,1,26,29,132,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,12,98
+1,1,26,29,133,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,8,54
+1,1,26,29,134,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,3,24
+1,1,27,30,135,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,2,9
+1,1,27,30,136,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Biondello_Shr,3,28
+1,1,27,30,137,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,10,79
+1,1,27,30,138,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Biondello_Shr,1,5
+1,1,27,30,139,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,2,14
+1,1,27,30,140,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Biondello_Shr,1,9
+1,1,27,30,141,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,9,56
+1,1,27,30,142,#Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,4,29
+1,1,28,32,143,#SERVANTS.LORD.0.1_Shr,#SERVANTS.LORD.0.1_Shr,1,10
+1,1,29,33,144,#SERVANTS.LORD.0.1_Shr #Sly_Shr,#Sly_Shr,2,16
+1,1,30,34,145,#Page_Shr #SERVANTS.LORD.0.1_Shr #Sly_Shr,#Page_Shr,1,5
+1,1,30,34,146,#Page_Shr #SERVANTS.LORD.0.1_Shr #Sly_Shr,#Sly_Shr,2,12
+1,2,31,36,147,#Grumio_Shr #Petruchio_Shr,#Petruchio_Shr,5,37
+1,2,31,36,148,#Grumio_Shr #Petruchio_Shr,#Grumio_Shr,2,14
+1,2,31,36,149,#Grumio_Shr #Petruchio_Shr,#Petruchio_Shr,1,7
+1,2,31,36,150,#Grumio_Shr #Petruchio_Shr,#Grumio_Shr,2,17
+1,2,31,36,151,#Grumio_Shr #Petruchio_Shr,#Petruchio_Shr,2,18
+1,2,31,36,152,#Grumio_Shr #Petruchio_Shr,#Grumio_Shr,3,20
+1,2,31,36,153,#Grumio_Shr #Petruchio_Shr,#Petruchio_Shr,3,23
+1,2,31,36,154,#Grumio_Shr #Petruchio_Shr,#Grumio_Shr,1,7
+1,2,31,36,155,#Grumio_Shr #Petruchio_Shr,#Petruchio_Shr,2,8
+1,2,32,37,156,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,3,20
+1,2,32,37,157,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,2,17
+1,2,32,37,158,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,3,18
+1,2,32,37,159,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,8,76
+1,2,32,37,160,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,3,24
+1,2,32,37,161,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,4,35
+1,2,32,37,162,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,1,8
+1,2,32,37,163,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,5,38
+1,2,32,37,164,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,9,73
+1,2,32,37,165,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,6,52
+1,2,32,37,166,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,12,90
+1,2,32,37,167,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,6,54
+1,2,32,37,168,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,10,79
+1,2,32,37,169,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,4,33
+1,2,32,37,170,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,4,22
+1,2,32,37,171,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Petruchio_Shr,6,48
+1,2,32,37,172,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,10,101
+1,2,32,37,173,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,12,83
+1,2,32,37,174,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,2,13
+1,2,32,37,175,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Hortensio_Shr,7,52
+1,2,32,37,176,#Grumio_Shr #Hortensio_Shr #Petruchio_Shr,#Grumio_Shr,2,17
+1,2,33,38,177,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,9
+1,2,33,38,178,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Hortensio_Shr,2,13
+1,2,33,38,179,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,6
+1,2,33,38,180,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,10,80
+1,2,33,38,181,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Lucentio_Shr,5,40
+1,2,33,38,182,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,1,8
+1,2,33,38,183,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,8
+1,2,33,38,184,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Petruchio_Shr,1,2
+1,2,33,38,185,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Hortensio_Shr,2,7
+1,2,33,38,186,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,8,60
+1,2,33,38,187,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Hortensio_Shr,5,39
+1,2,33,38,188,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,1,9
+1,2,33,38,189,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,6
+1,2,33,38,190,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Hortensio_Shr,7,57
+1,2,33,38,191,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,2,14
+1,2,33,38,192,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Petruchio_Shr,2,17
+1,2,33,38,193,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,1,7
+1,2,33,38,194,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Petruchio_Shr,3,24
+1,2,33,38,195,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,4,36
+1,2,33,38,196,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Petruchio_Shr,1,3
+1,2,33,38,197,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,9
+1,2,33,38,198,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Petruchio_Shr,13,108
+1,2,33,38,199,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,4
+1,2,33,38,200,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,3,16
+1,2,33,38,201,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Hortensio_Shr,2,13
+1,2,33,38,202,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Gremio_Shr,1,9
+1,2,33,38,203,#Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr,#Grumio_Shr,1,10
+1,2,34,39,204,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,3,26
+1,2,34,39,205,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Biondello_Shr,2,12
+1,2,34,39,206,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,3
+1,2,34,39,207,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,8
+1,2,34,39,208,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,10
+1,2,34,39,209,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,1,10
+1,2,34,39,210,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+1,2,34,39,211,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Lucentio_Shr,1,3
+1,2,34,39,212,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,2,19
+1,2,34,39,213,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,9
+1,2,34,39,214,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,10
+1,2,34,39,215,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,2,15
+1,2,34,39,216,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,5
+1,2,34,39,217,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,6
+1,2,34,39,218,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,2,14
+1,2,34,39,219,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,1,7
+1,2,34,39,220,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,10,76
+1,2,34,39,221,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,7
+1,2,34,39,222,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Lucentio_Shr,1,10
+1,2,34,39,223,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,1,8
+1,2,34,39,224,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,2,16
+1,2,34,39,225,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,3,25
+1,2,34,39,226,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,1,10
+1,2,34,39,227,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,2,15
+1,2,34,39,228,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,6,46
+1,2,34,39,229,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,6,54
+1,2,34,39,230,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,4,33
+1,2,34,39,231,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,5,38
+1,2,34,39,232,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Biondello_Shr #Grumio_Shr,1,7
+1,2,34,39,233,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,2,15
+2,1,35,41,234,#Bianca_Shr #Katherine_Shr,#Bianca_Shr,7,58
+2,1,35,41,235,#Bianca_Shr #Katherine_Shr,#Katherine_Shr,2,17
+2,1,35,41,236,#Bianca_Shr #Katherine_Shr,#Bianca_Shr,3,23
+2,1,35,41,237,#Bianca_Shr #Katherine_Shr,#Katherine_Shr,1,7
+2,1,35,41,238,#Bianca_Shr #Katherine_Shr,#Bianca_Shr,2,18
+2,1,35,41,239,#Bianca_Shr #Katherine_Shr,#Katherine_Shr,2,15
+2,1,35,41,240,#Bianca_Shr #Katherine_Shr,#Bianca_Shr,4,34
+2,1,35,41,241,#Bianca_Shr #Katherine_Shr,#Katherine_Shr,1,10
+2,1,36,42,242,#Baptista_Shr #Bianca_Shr #Katherine_Shr,#Baptista_Shr,9,50
+2,1,36,42,243,#Baptista_Shr #Bianca_Shr #Katherine_Shr,#Katherine_Shr,1,8
+2,1,36,42,244,#Baptista_Shr #Bianca_Shr #Katherine_Shr,#Baptista_Shr,1,8
+2,1,37,43,245,#Baptista_Shr #Katherine_Shr,#Katherine_Shr,6,54
+2,1,38,44,246,#Baptista_Shr,#Baptista_Shr,2,11
+2,1,39,45,247,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,4
+2,1,39,45,248,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,8
+2,1,39,45,249,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,15
+2,1,39,45,250,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,7
+2,1,39,45,251,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,1,8
+2,1,39,45,252,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,15,112
+2,1,39,45,253,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,3,27
+2,1,39,45,254,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,18
+2,1,39,45,255,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,19
+2,1,39,45,256,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,13
+2,1,39,45,257,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,10
+2,1,39,45,258,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,3,19
+2,1,39,45,259,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,10
+2,1,39,45,260,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,10,76
+2,1,39,45,261,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,4,29
+2,1,39,45,262,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,14,105
+2,1,39,45,263,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,8
+2,1,39,45,264,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,1,6
+2,1,39,45,265,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,6,35
+2,1,40,46,266,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA.1_Shr #Tranio_Shr,#Baptista_Shr,3,20
+2,1,41,47,267,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,3,26
+2,1,41,47,268,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,7,57
+2,1,41,47,269,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,15
+2,1,41,47,270,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,5,38
+2,1,41,47,271,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,18
+2,1,41,47,272,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,8,69
+2,1,41,47,273,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,17
+2,1,41,47,274,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,16
+2,1,42,48,275,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,10
+2,1,42,48,276,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,1,9
+2,1,42,48,277,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,8
+2,1,42,48,278,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,2,15
+2,1,42,48,279,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,1,10
+2,1,42,48,280,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Hortensio_Shr,13,101
+2,1,42,48,281,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,3,29
+2,1,42,48,282,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,5,41
+2,1,42,48,283,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,1,8
+2,1,43,49,284,#Petruchio_Shr,#Petruchio_Shr,13,111
+2,1,44,50,285,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,286,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,2,18
+2,1,44,50,287,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,10,80
+2,1,44,50,288,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,4,23
+2,1,44,50,289,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,4
+2,1,44,50,290,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,3
+2,1,44,50,291,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,8
+2,1,44,50,292,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,293,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,294,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,295,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,2,17
+2,1,44,50,296,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,2,19
+2,1,44,50,297,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,4
+2,1,44,50,298,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,2,6
+2,1,44,50,299,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,8
+2,1,44,50,300,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,301,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,10
+2,1,44,50,302,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,8
+2,1,44,50,303,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,8
+2,1,44,50,304,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,10
+2,1,44,50,305,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,2,13
+2,1,44,50,306,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,3
+2,1,44,50,307,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,2
+2,1,44,50,308,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,309,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,2,16
+2,1,44,50,310,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,3
+2,1,44,50,311,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,312,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,3,22
+2,1,44,50,313,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,314,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,6
+2,1,44,50,315,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,316,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,10
+2,1,44,50,317,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,10
+2,1,44,50,318,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,319,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,9
+2,1,44,50,320,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,4
+2,1,44,50,321,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,4
+2,1,44,50,322,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,6
+2,1,44,50,323,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,5
+2,1,44,50,324,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,7
+2,1,44,50,325,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,10
+2,1,44,50,326,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,4
+2,1,44,50,327,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,3
+2,1,44,50,328,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,3
+2,1,44,50,329,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,10
+2,1,44,50,330,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,9
+2,1,44,50,331,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,16,125
+2,1,44,50,332,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,7
+2,1,44,50,333,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,4,33
+2,1,44,50,334,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,8
+2,1,44,50,335,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,7
+2,1,44,50,336,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,7
+2,1,44,50,337,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,4
+2,1,44,50,338,#Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,4
+2,1,44,50,339,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,12,104
+2,1,45,51,340,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,16
+2,1,45,51,341,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,9
+2,1,45,51,342,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,2,14
+2,1,45,51,343,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,8
+2,1,45,51,344,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Katherine_Shr,5,39
+2,1,45,51,345,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,9,73
+2,1,45,51,346,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Katherine_Shr,1,7
+2,1,45,51,347,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr,2,9
+2,1,45,51,348,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Tranio_Shr,2,9
+2,1,45,51,349,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,16,134
+2,1,45,51,350,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Baptista_Shr,2,19
+2,1,45,51,351,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Gremio_Shr #Tranio_Shr,1,7
+2,1,45,51,352,#Baptista_Shr #Gremio_Shr #Katherine_Shr #Petruchio_Shr #Tranio_Shr,#Petruchio_Shr,4,32
+2,1,46,52,353,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,1,7
+2,1,46,52,354,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Baptista_Shr,2,15
+2,1,46,52,355,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,2,16
+2,1,46,52,356,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Baptista_Shr,1,9
+2,1,46,52,357,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,4,33
+2,1,46,52,358,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,2,17
+2,1,46,52,359,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,1,9
+2,1,46,52,360,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,1,5
+2,1,46,52,361,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,2,11
+2,1,46,52,362,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,1,7
+2,1,46,52,363,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Baptista_Shr,5,38
+2,1,46,52,364,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,17,126
+2,1,46,52,365,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,10,71
+2,1,46,52,366,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,5,39
+2,1,46,52,367,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,4,32
+2,1,46,52,368,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,4,29
+2,1,46,52,369,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,2,17
+2,1,46,52,370,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Baptista_Shr,4,34
+2,1,46,52,371,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Tranio_Shr,1,9
+2,1,46,52,372,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,1,10
+2,1,46,52,373,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Baptista_Shr,8,49
+2,1,46,52,374,#Baptista_Shr #Gremio_Shr #Tranio_Shr,#Gremio_Shr,1,3
+2,1,47,53,375,#Gremio_Shr #Tranio_Shr,#Gremio_Shr,5,40
+2,1,48,54,376,#Tranio_Shr,#Tranio_Shr,8,69
+3,1,49,56,377,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,3,20
+3,1,49,56,378,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,5,34
+3,1,49,56,379,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,6,46
+3,1,49,56,380,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,1,9
+3,1,49,56,381,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,9,68
+3,1,49,56,382,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,1,9
+3,1,49,56,383,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,2,7
+3,1,49,56,384,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,1,4
+3,1,49,56,385,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,3,15
+3,1,49,56,386,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,1,2
+3,1,49,56,387,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,6,52
+3,1,49,56,388,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,2,5
+3,1,49,56,389,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,1,7
+3,1,49,56,390,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,2,8
+3,1,49,56,391,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,4,40
+3,1,49,56,392,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,1,5
+3,1,49,56,393,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,1,4
+3,1,49,56,394,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,4,33
+3,1,49,56,395,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,1,8
+3,1,49,56,396,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,2,13
+3,1,49,56,397,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,5,41
+3,1,49,56,398,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,2,17
+3,1,49,56,399,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Lucentio_Shr,3,22
+3,1,49,56,400,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,7,50
+3,1,49,56,401,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,1,8
+3,1,49,56,402,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Hortensio_Shr,1,6
+3,1,49,56,403,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr,#Bianca_Shr,9,73
+3,1,50,57,404,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA.1_Shr,#SERVANTS.BAPTISTA.1_Shr,3,23
+3,1,50,57,405,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA.1_Shr,#Bianca_Shr,1,8
+3,1,50,57,406,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA.1_Shr,#Lucentio_Shr,1,9
+3,1,51,58,407,#Hortensio_Shr,#Hortensio_Shr,6,52
+3,2,52,60,408,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Katherine_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,7,54
+3,2,52,60,409,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Katherine_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,13,108
+3,2,52,60,410,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Katherine_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,5,37
+3,2,52,60,411,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Katherine_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,1,7
+3,2,53,61,412,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,3,26
+3,2,54,62,413,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,2,12
+3,2,54,62,414,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,10
+3,2,54,62,415,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,2,10
+3,2,54,62,416,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,3
+3,2,54,62,417,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,1,3
+3,2,54,62,418,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,2
+3,2,54,62,419,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,1,3
+3,2,54,62,420,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,5
+3,2,54,62,421,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,1,10
+3,2,54,62,422,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,1,7
+3,2,54,62,423,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,21,174
+3,2,54,62,424,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,4
+3,2,54,62,425,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,7,65
+3,2,54,62,426,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,2,15
+3,2,54,62,427,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,8
+3,2,54,62,428,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,1,5
+3,2,54,62,429,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,6
+3,2,54,62,430,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,1,4
+3,2,54,62,431,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,4
+3,2,54,62,432,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,2,12
+3,2,54,62,433,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,4
+3,2,54,62,434,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Biondello_Shr,5,22
+3,2,55,63,435,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,8
+3,2,55,63,436,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,4
+3,2,55,63,437,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,6
+3,2,55,63,438,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,5
+3,2,55,63,439,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,2,9
+3,2,55,63,440,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,6,43
+3,2,55,63,441,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,5,39
+3,2,55,63,442,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,3,23
+3,2,55,63,443,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,7,59
+3,2,55,63,444,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,2,17
+3,2,55,63,445,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,8
+3,2,55,63,446,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,9
+3,2,55,63,447,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,9,68
+3,2,56,64,448,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,3,24
+3,2,56,64,449,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,9
+3,2,57,65,450,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,10,75
+3,2,57,65,451,#Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,5,38
+3,2,57,65,452,#Lucentio_Shr #Tranio_Shr,#Tranio_Shr,6,36
+3,2,58,66,453,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,7
+3,2,58,66,454,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,1,8
+3,2,58,66,455,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+3,2,58,66,456,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,2,17
+3,2,58,66,457,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,6
+3,2,58,66,458,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,1,9
+3,2,58,66,459,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,9
+3,2,58,66,460,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,9,81
+3,2,58,66,461,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+3,2,58,66,462,#Gremio_Shr #Lucentio_Shr #Tranio_Shr,#Gremio_Shr,17,137
+3,2,59,67,463,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,5,45
+3,2,59,67,464,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,7
+3,2,59,67,465,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,8,64
+3,2,59,67,466,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,1,8
+3,2,59,67,467,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,4
+3,2,59,67,468,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Gremio_Shr,1,4
+3,2,59,67,469,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,3
+3,2,59,67,470,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,1,4
+3,2,59,67,471,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,3
+3,2,59,67,472,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,1,5
+3,2,59,67,473,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,2,17
+3,2,59,67,474,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,1,6
+3,2,59,67,475,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,3
+3,2,59,67,476,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Grumio_Shr,2,11
+3,2,59,67,477,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,8,65
+3,2,59,67,478,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,1,8
+3,2,59,67,479,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,2,17
+3,2,59,67,480,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Gremio_Shr,1,8
+3,2,59,67,481,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Katherine_Shr,3,23
+3,2,59,67,482,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Petruchio_Shr,19,146
+3,2,60,68,483,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,9
+3,2,60,68,484,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Gremio_Shr,1,9
+3,2,60,68,485,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,1,8
+3,2,60,68,486,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Lucentio_Shr,1,7
+3,2,60,68,487,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Bianca_Shr,1,7
+3,2,60,68,488,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Gremio_Shr,1,6
+3,2,60,68,489,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,7,39
+3,2,60,68,490,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Tranio_Shr,1,8
+3,2,60,68,491,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #SERVANTS.BAPTISTA_Shr #Tranio_Shr,#Baptista_Shr,1,7
+4,1,61,70,492,#Grumio_Shr,#Grumio_Shr,11,110
+4,1,62,71,493,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,6
+4,1,62,71,494,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,3,32
+4,1,62,71,495,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,8
+4,1,62,71,496,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,2,12
+4,1,62,71,497,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,9
+4,1,62,71,498,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,4,31
+4,1,62,71,499,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,8
+4,1,62,71,500,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,6,56
+4,1,62,71,501,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,2,10
+4,1,62,71,502,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,4,29
+4,1,62,71,503,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,2,9
+4,1,62,71,504,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,2,12
+4,1,62,71,505,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,7
+4,1,62,71,506,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,7,54
+4,1,62,71,507,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,8
+4,1,62,71,508,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,2,12
+4,1,62,71,509,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,1
+4,1,62,71,510,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,2,12
+4,1,62,71,511,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,5
+4,1,62,71,512,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,3
+4,1,62,71,513,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,1
+4,1,62,71,514,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,1
+4,1,62,71,515,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,11
+4,1,62,71,516,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,4,36
+4,1,62,71,517,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,4
+4,1,62,71,518,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,4
+4,1,62,71,519,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,3
+4,1,62,71,520,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,12,111
+4,1,62,71,521,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,9
+4,1,62,71,522,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,9,77
+4,1,62,71,523,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,2
+4,1,62,71,524,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,3
+4,1,62,71,525,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,2,13
+4,1,62,71,526,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,8
+4,1,62,71,527,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,4
+4,1,62,71,528,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,2,10
+4,1,62,71,529,#Curtis_Shr #Grumio_Shr,#Curtis_Shr,1,7
+4,1,62,71,530,#Curtis_Shr #Grumio_Shr,#Grumio_Shr,1,8
+4,1,63,72,531,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Nathaniel_Shr,1,3
+4,1,63,72,532,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Phillip_Shr,1,3
+4,1,63,72,533,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Joseph_Shr,1,2
+4,1,63,72,534,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Nicholas_Shr,1,2
+4,1,63,72,535,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Nathaniel_Shr,1,4
+4,1,63,72,536,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Grumio_Shr,4,25
+4,1,63,72,537,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Nathaniel_Shr,2,9
+4,1,63,72,538,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Grumio_Shr,2,17
+4,1,64,73,539,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Petruchio_Shr,3,23
+4,1,64,73,540,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,1,5
+4,1,64,73,541,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Petruchio_Shr,4,28
+4,1,64,73,542,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Grumio_Shr,1,8
+4,1,64,73,543,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Petruchio_Shr,4,25
+4,1,64,73,544,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Grumio_Shr,7,59
+4,1,64,73,545,#Curtis_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Joseph_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Nicholas_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO.Phillip_Shr,#Petruchio_Shr,1,8
+4,1,65,74,546,#Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,4,20
+4,1,66,75,547,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,9,58
+4,1,67,76,548,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,7,49
+4,1,67,76,549,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,8
+4,1,67,76,550,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,4,28
+4,1,68,77,551,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#SERVANTS.PETRUCHIO.0.4_Shr,1,1
+4,1,68,77,552,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,3
+4,1,68,77,553,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#SERVANTS.PETRUCHIO.Peter_Shr,1,1
+4,1,68,77,554,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Peter_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,7,60
+4,1,69,78,555,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr,#Katherine_Shr,2,17
+4,1,69,78,556,#Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr,#Petruchio_Shr,9,69
+4,1,70,80,557,#Grumio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Peter_Shr,#SERVANTS.PETRUCHIO.Nathaniel_Shr,1,6
+4,1,70,80,558,#Grumio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Peter_Shr,#SERVANTS.PETRUCHIO.Peter_Shr,1,7
+4,1,71,81,559,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Peter_Shr,#Grumio_Shr,1,3
+4,1,71,81,560,#Curtis_Shr #Grumio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr #SERVANTS.PETRUCHIO.Nathaniel_Shr #SERVANTS.PETRUCHIO.Peter_Shr,#Curtis_Shr,6,45
+4,1,72,83,561,#Petruchio_Shr #SERVANTS.PETRUCHIO.0.2_Shr #SERVANTS.PETRUCHIO.0.4_Shr,#Petruchio_Shr,24,204
+4,2,73,86,562,#Hortensio_Shr #Tranio_Shr,#Tranio_Shr,3,24
+4,2,73,86,563,#Hortensio_Shr #Tranio_Shr,#Hortensio_Shr,2,18
+4,2,74,87,564,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,8
+4,2,74,87,565,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,8
+4,2,74,87,566,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,9
+4,2,74,87,567,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,9
+4,2,74,87,568,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,9
+4,2,74,87,569,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,3,25
+4,2,74,87,570,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,12
+4,2,74,87,571,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,6,47
+4,2,74,87,572,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,5,36
+4,2,74,87,573,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,5,40
+4,2,74,87,574,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,3,27
+4,2,74,87,575,#Bianca_Shr #Hortensio_Shr #Lucentio_Shr #Tranio_Shr,#Hortensio_Shr,9,72
+4,2,75,88,576,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,4,28
+4,2,75,88,577,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,9
+4,2,75,88,578,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,3
+4,2,75,88,579,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,6
+4,2,75,88,580,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,2,17
+4,2,75,88,581,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,4
+4,2,75,88,582,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,5
+4,2,75,88,583,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,4
+4,2,75,88,584,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,8
+4,2,75,88,585,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Bianca_Shr,1,9
+4,2,75,88,586,#Bianca_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,3,23
+4,2,76,89,587,#Bianca_Shr #Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Biondello_Shr,4,28
+4,2,76,89,588,#Bianca_Shr #Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,1,4
+4,2,76,89,589,#Bianca_Shr #Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Biondello_Shr,3,22
+4,2,76,89,590,#Bianca_Shr #Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Lucentio_Shr,1,5
+4,2,76,89,591,#Bianca_Shr #Biondello_Shr #Lucentio_Shr #Tranio_Shr,#Tranio_Shr,5,37
+4,2,77,91,592,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,1,4
+4,2,77,91,593,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,2,16
+4,2,77,91,594,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,3,27
+4,2,77,91,595,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,1,4
+4,2,77,91,596,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,1,2
+4,2,77,91,597,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,2,14
+4,2,77,91,598,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,1,10
+4,2,77,91,599,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,7,55
+4,2,77,91,600,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,3,24
+4,2,77,91,601,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,3,25
+4,2,77,91,602,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,2,13
+4,2,77,91,603,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,1,6
+4,2,77,91,604,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,2,15
+4,2,77,91,605,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,2,15
+4,2,77,91,606,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Biondello_Shr,2,11
+4,2,77,91,607,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,10,83
+4,2,77,91,608,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,2,16
+4,2,77,91,609,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,7,56
+4,3,78,93,610,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,1,9
+4,3,78,93,611,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,15,121
+4,3,78,93,612,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,1,7
+4,3,78,93,613,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,1,9
+4,3,78,93,614,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,2,17
+4,3,78,93,615,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,1,9
+4,3,78,93,616,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,2,17
+4,3,78,93,617,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,1,9
+4,3,78,93,618,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,1,9
+4,3,78,93,619,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,1,9
+4,3,78,93,620,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,2,18
+4,3,78,93,621,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,1,9
+4,3,78,93,622,#Grumio_Shr #Katherine_Shr,#Grumio_Shr,1,7
+4,3,78,93,623,#Grumio_Shr #Katherine_Shr,#Katherine_Shr,5,38
+4,3,79,94,624,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,1,8
+4,3,79,94,625,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Hortensio_Shr,1,3
+4,3,79,94,626,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,6
+4,3,79,94,627,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,7,58
+4,3,79,94,628,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,6
+4,3,79,94,629,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,2,16
+4,3,79,94,630,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Katherine_Shr,1,4
+4,3,79,94,631,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Hortensio_Shr,2,14
+4,3,79,94,632,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,12,90
+4,3,80,95,633,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,2,11
+4,3,81,96,634,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,5
+4,3,81,96,635,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Haberdasher_Shr,1,8
+4,3,81,96,636,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,5,42
+4,3,81,96,637,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Katherine_Shr,2,16
+4,3,81,96,638,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,2,13
+4,3,81,96,639,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Hortensio_Shr,1,6
+4,3,81,96,640,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Katherine_Shr,8,72
+4,3,81,96,641,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,3,26
+4,3,81,96,642,#Grumio_Shr #Haberdasher_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Katherine_Shr,2,20
+4,3,82,97,643,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,7,61
+4,3,82,97,644,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Hortensio_Shr,1,10
+4,3,82,97,645,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,2,15
+4,3,82,97,646,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,5,43
+4,3,82,97,647,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Katherine_Shr,4,22
+4,3,82,97,648,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,10
+4,3,82,97,649,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,2,11
+4,3,82,97,650,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,9,68
+4,3,82,97,651,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,3,22
+4,3,82,97,652,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,10
+4,3,82,97,653,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,9
+4,3,82,97,654,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,6
+4,3,82,97,655,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,9
+4,3,82,97,656,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,5
+4,3,82,97,657,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,2
+4,3,82,97,658,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,5,43
+4,3,82,97,659,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,10
+4,3,82,97,660,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,2
+4,3,82,97,661,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,12
+4,3,82,97,662,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,4
+4,3,82,97,663,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,3,29
+4,3,82,97,664,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,1
+4,3,82,97,665,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,4
+4,3,82,97,666,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,4
+4,3,82,97,667,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,4
+4,3,82,97,668,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,4
+4,3,82,97,669,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,1,4
+4,3,82,97,670,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,4
+4,3,82,97,671,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,4,36
+4,3,82,97,672,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Tailor_Shr,2,17
+4,3,82,97,673,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,2,17
+4,3,82,97,674,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Hortensio_Shr,2,8
+4,3,82,97,675,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,10
+4,3,82,97,676,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,1,10
+4,3,82,97,677,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,8
+4,3,82,97,678,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,2,14
+4,3,82,97,679,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,1,7
+4,3,82,97,680,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Grumio_Shr,3,23
+4,3,82,97,681,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Petruchio_Shr,3,17
+4,3,82,97,682,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr #Tailor_Shr,#Hortensio_Shr,3,23
+4,3,83,98,683,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,21,163
+4,3,83,98,684,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Katherine_Shr,2,17
+4,3,83,98,685,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Petruchio_Shr,5,46
+4,3,83,98,686,#Grumio_Shr #Hortensio_Shr #Katherine_Shr #Petruchio_Shr,#Hortensio_Shr,1,8
+4,4,84,100,687,#Merchant_Shr #Tranio_Shr,#Tranio_Shr,1,11
+4,4,84,100,688,#Merchant_Shr #Tranio_Shr,#Merchant_Shr,4,26
+4,4,84,100,689,#Merchant_Shr #Tranio_Shr,#Tranio_Shr,2,17
+4,4,84,100,690,#Merchant_Shr #Tranio_Shr,#Merchant_Shr,1,3
+4,4,85,101,691,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,2,11
+4,4,85,101,692,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,3,19
+4,4,85,101,693,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Biondello_Shr,1,4
+4,4,85,101,694,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,1,8
+4,4,85,101,695,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Biondello_Shr,2,19
+4,4,85,101,696,#Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,1,10
+4,4,86,102,697,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,5,37
+4,4,86,102,698,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Merchant_Shr,15,115
+4,4,86,102,699,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Baptista_Shr,10,80
+4,4,86,102,700,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,3,24
+4,4,86,102,701,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Baptista_Shr,4,28
+4,4,86,102,702,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,7,58
+4,4,86,102,703,#Baptista_Shr #Biondello_Shr #Lucentio_Shr #Merchant_Shr #Tranio_Shr,#Baptista_Shr,5,37
+4,4,87,103,704,#Baptista_Shr #Biondello_Shr #Merchant_Shr #Tranio_Shr,#Biondello_Shr,1,10
+4,4,87,103,705,#Baptista_Shr #Biondello_Shr #Merchant_Shr #Tranio_Shr,#Tranio_Shr,4,33
+4,4,87,103,706,#Baptista_Shr #Biondello_Shr #Merchant_Shr #Tranio_Shr,#Baptista_Shr,1,3
+4,4,88,105,707,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,1,1
+4,4,88,105,708,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,4
+4,4,88,105,709,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,2,9
+4,4,88,105,710,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,4
+4,4,88,105,711,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,3,19
+4,4,88,105,712,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,5
+4,4,88,105,713,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,2,14
+4,4,88,105,714,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,4
+4,4,88,105,715,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,2,11
+4,4,88,105,716,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,2
+4,4,88,105,717,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,2,14
+4,4,88,105,718,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,5
+4,4,88,105,719,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,8,55
+4,4,88,105,720,#Biondello_Shr #Lucentio_Shr,#Lucentio_Shr,1,3
+4,4,88,105,721,#Biondello_Shr #Lucentio_Shr,#Biondello_Shr,6,56
+4,4,89,106,722,#Lucentio_Shr,#Lucentio_Shr,5,36
+4,5,90,108,723,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,3,19
+4,5,90,108,724,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,9
+4,5,90,108,725,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,10
+4,5,90,108,726,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,10
+4,5,90,108,727,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,6,41
+4,5,90,108,728,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Hortensio_Shr,1,9
+4,5,90,108,729,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,4,38
+4,5,90,108,730,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,6
+4,5,90,108,731,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,6
+4,5,90,108,732,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,9
+4,5,90,108,733,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,5,46
+4,5,90,108,734,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Hortensio_Shr,1,8
+4,5,90,108,735,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,3,20
+4,5,91,109,736,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,9,63
+4,5,91,109,737,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Hortensio_Shr,2,12
+4,5,91,109,738,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Katherine_Shr,5,35
+4,5,91,109,739,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,3,27
+4,5,91,109,740,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Katherine_Shr,5,37
+4,5,91,109,741,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,3,23
+4,5,91,109,742,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,5,42
+4,5,91,109,743,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,1,4
+4,5,91,109,744,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,3
+4,5,91,109,745,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,12,88
+4,5,91,109,746,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,3,22
+4,5,91,109,747,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Hortensio_Shr,1,8
+4,5,91,109,748,#Hortensio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,2,16
+4,5,92,110,749,#Hortensio_Shr,#Hortensio_Shr,3,25
+5,1,93,112,750,#Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr,#Biondello_Shr,2,9
+5,1,93,112,751,#Bianca_Shr #Biondello_Shr #Gremio_Shr #Lucentio_Shr,#Lucentio_Shr,2,15
+5,1,94,113,752,#Biondello_Shr #Gremio_Shr,#Biondello_Shr,3,21
+5,1,95,114,753,#Gremio_Shr,#Gremio_Shr,1,8
+5,1,96,115,754,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,3,24
+5,1,96,115,755,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,3,25
+5,1,96,115,756,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Gremio_Shr,1,8
+5,1,97,116,757,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,2,11
+5,1,97,116,758,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,5
+5,1,97,116,759,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,2,9
+5,1,97,116,760,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,15
+5,1,97,116,761,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,3,15
+5,1,97,116,762,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,5,42
+5,1,97,116,763,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,3,15
+5,1,97,116,764,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,4
+5,1,97,116,765,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,2,11
+5,1,97,116,766,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,3,16
+5,1,97,116,767,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,3,18
+5,1,98,117,768,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Biondello_Shr,4,29
+5,1,98,117,769,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,3
+5,1,98,117,770,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Biondello_Shr,1,6
+5,1,98,117,771,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,9
+5,1,98,117,772,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Biondello_Shr,2,19
+5,1,98,117,773,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,12
+5,1,98,117,774,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Biondello_Shr,2,17
+5,1,98,117,775,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,4
+5,1,98,117,776,#Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Biondello_Shr,2,9
+5,1,99,118,777,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Merchant_Shr,2,5
+5,1,100,119,778,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Petruchio_Shr,2,12
+5,1,101,120,779,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,2,10
+5,1,101,120,780,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,6,53
+5,1,101,120,781,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,1,5
+5,1,101,120,782,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,1,5
+5,1,101,120,783,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,5,40
+5,1,101,120,784,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,2,10
+5,1,101,120,785,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,2,14
+5,1,101,120,786,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,3,26
+5,1,101,120,787,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Merchant_Shr,3,23
+5,1,101,120,788,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,4,32
+5,1,101,120,789,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,1,4
+5,1,102,121,790,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,2,17
+5,1,102,121,791,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,1,5
+5,1,102,121,792,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Gremio_Shr,1,8
+5,1,102,121,793,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,2,11
+5,1,102,121,794,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Gremio_Shr,3,19
+5,1,102,121,795,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Merchant_Shr,1,4
+5,1,102,121,796,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Gremio_Shr,1,6
+5,1,102,121,797,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,2,10
+5,1,102,121,798,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Gremio_Shr,1,8
+5,1,102,121,799,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,1,9
+5,1,102,121,800,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Vincentio_Shr,2,10
+5,1,103,122,801,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Tranio_Shr #Vincentio_Shr,#Biondello_Shr,2,18
+5,1,104,123,802,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Lucentio_Shr,1,3
+5,1,104,123,803,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,1,4
+5,1,104,123,804,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Bianca_Shr,1,3
+5,1,104,123,805,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Baptista_Shr,2,7
+5,1,104,123,806,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Lucentio_Shr,4,22
+5,1,104,123,807,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Gremio_Shr,1,9
+5,1,104,123,808,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,15
+5,1,104,123,809,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Baptista_Shr,1,8
+5,1,104,123,810,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Bianca_Shr,1,5
+5,1,104,123,811,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Lucentio_Shr,7,52
+5,1,104,123,812,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,13
+5,1,104,123,813,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Baptista_Shr,2,14
+5,1,104,123,814,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr #Vincentio_Shr,#Vincentio_Shr,2,19
+5,1,105,124,815,#Baptista_Shr #Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.BAPTISTA_Shr #SERVANTS.PETRUCHIO_Shr,#Baptista_Shr,1,9
+5,1,106,125,816,#Bianca_Shr #Gremio_Shr #Grumio_Shr #Katherine_Shr #Lucentio_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Lucentio_Shr,2,9
+5,1,107,126,817,#Gremio_Shr #Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Gremio_Shr,2,21
+5,1,108,127,818,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,2,10
+5,1,108,127,819,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,7
+5,1,108,127,820,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,7
+5,1,108,127,821,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,1,6
+5,1,108,127,822,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,1,8
+5,1,108,127,823,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,2,9
+5,1,108,127,824,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Katherine_Shr,2,12
+5,1,108,127,825,#Grumio_Shr #Katherine_Shr #Officer_Shr #Petruchio_Shr #SERVANTS.PETRUCHIO_Shr,#Petruchio_Shr,2,16
+5,2,109,129,826,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Lucentio_Shr,11,85
+5,2,109,129,827,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,9
+5,2,109,129,828,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Baptista_Shr,1,6
+5,2,109,129,829,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,7
+5,2,109,129,830,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Hortensio_Shr,1,10
+5,2,109,129,831,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,8
+5,2,109,129,832,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,1,8
+5,2,109,129,833,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,2,17
+5,2,109,129,834,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,1,9
+5,2,109,129,835,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,2
+5,2,109,129,836,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Katherine_Shr,1,5
+5,2,109,129,837,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,1,5
+5,2,109,129,838,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,7
+5,2,109,129,839,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Hortensio_Shr,1,8
+5,2,109,129,840,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,9
+5,2,109,129,841,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Katherine_Shr,2,19
+5,2,109,129,842,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,3,20
+5,2,109,129,843,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Katherine_Shr,1,4
+5,2,109,129,844,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,1,4
+5,2,109,129,845,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Katherine_Shr,1,7
+5,2,109,129,846,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,3
+5,2,109,129,847,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Hortensio_Shr,1,3
+5,2,109,129,848,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,9
+5,2,109,129,849,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Hortensio_Shr,1,3
+5,2,109,129,850,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,8
+5,2,109,129,851,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Baptista_Shr,1,6
+5,2,109,129,852,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Gremio_Shr,1,7
+5,2,109,129,853,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Bianca_Shr,2,16
+5,2,109,129,854,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Vincentio_Shr,1,7
+5,2,109,129,855,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Bianca_Shr,1,9
+5,2,109,129,856,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,2,18
+5,2,109,129,857,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Bianca_Shr,3,23
+5,2,110,130,858,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,26
+5,2,110,130,859,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,2,16
+5,2,110,130,860,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,7
+5,2,110,130,861,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Tranio_Shr,2,18
+5,2,110,130,862,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,1,7
+5,2,110,130,863,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,8
+5,2,110,130,864,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,8
+5,2,110,130,865,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,26
+5,2,110,130,866,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,2,15
+5,2,110,130,867,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,5,40
+5,2,110,130,868,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,4
+5,2,110,130,869,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,2
+5,2,110,130,870,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,19
+5,2,110,130,871,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,3
+5,2,110,130,872,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,1
+5,2,110,130,873,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,4
+5,2,110,130,874,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,3
+5,2,110,130,875,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,2,11
+5,2,110,130,876,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Biondello_Shr,1,2
+5,2,111,131,877,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,1,7
+5,2,111,131,878,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,9
+5,2,112,132,879,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,4
+5,2,112,132,880,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Biondello_Shr,3,14
+5,2,112,132,881,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,2,11
+5,2,112,132,882,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Gremio_Shr,2,16
+5,2,112,132,883,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,3
+5,2,112,132,884,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,2,12
+5,2,113,133,885,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,2,10
+5,2,113,133,886,#Baptista_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,2,13
+5,2,114,134,887,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,4
+5,2,114,134,888,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Biondello_Shr,2,19
+5,2,114,134,889,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Grumio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,4,27
+5,2,115,135,890,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,4
+5,2,115,135,891,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,1
+5,2,115,135,892,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,3
+5,2,115,135,893,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,8
+5,2,116,136,894,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,1,7
+5,2,116,136,895,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Katherine_Shr,1,10
+5,2,116,136,896,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,1,7
+5,2,116,136,897,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Katherine_Shr,1,7
+5,2,116,136,898,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,25
+5,2,117,137,899,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Lucentio_Shr,1,10
+5,2,117,137,900,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Hortensio_Shr,1,9
+5,2,117,137,901,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,25
+5,2,117,137,902,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Baptista_Shr,5,35
+5,2,117,137,903,#Baptista_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr,#Petruchio_Shr,3,20
+5,2,118,138,904,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,5,30
+5,2,118,138,905,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,2,18
+5,2,118,138,906,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Bianca_Shr,1,8
+5,2,118,138,907,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Lucentio_Shr,3,23
+5,2,118,138,908,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Bianca_Shr,1,9
+5,2,118,138,909,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,3,17
+5,2,118,138,910,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,2,9
+5,2,118,138,911,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,9
+5,2,118,138,912,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Widow_Shr,1,3
+5,2,118,138,913,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,9
+5,2,118,138,914,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Katherine_Shr,44,364
+5,2,118,138,915,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,1,10
+5,2,118,138,916,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Lucentio_Shr,1,11
+5,2,118,138,917,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Vincentio_Shr,1,8
+5,2,118,138,918,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Lucentio_Shr,1,8
+5,2,118,138,919,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Katherine_Shr #Lucentio_Shr #Merchant_Shr #Petruchio_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Petruchio_Shr,5,33
+5,2,119,139,920,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Hortensio_Shr,1,10
+5,2,119,139,921,#Baptista_Shr #Bianca_Shr #Biondello_Shr #Gremio_Shr #Hortensio_Shr #Lucentio_Shr #Merchant_Shr #SERVANTS_Shr #Tranio_Shr #Vincentio_Shr #Widow_Shr,#Lucentio_Shr,1,11

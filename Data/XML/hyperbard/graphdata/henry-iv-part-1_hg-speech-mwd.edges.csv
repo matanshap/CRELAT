@@ -1,0 +1,798 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#HenryIV_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,247,33
+1,1,1,2,#Westmoreland_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,93,13
+1,1,1,3,#HenryIV_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,17,2
+1,1,1,4,#Westmoreland_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,91,13
+1,1,1,5,#HenryIV_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,102,14
+1,1,1,6,#Westmoreland_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,12,1
+1,1,1,7,#HenryIV_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,146,18
+1,1,1,8,#Westmoreland_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,29,4
+1,1,1,9,#HenryIV_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,62,8
+1,1,1,10,#Westmoreland_1H4,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4,4,1
+1,2,2,11,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,9,1
+1,2,2,12,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,96,12
+1,2,2,13,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,54,6
+1,2,2,14,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,2,1
+1,2,2,15,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,18,2
+1,2,2,16,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,6,1
+1,2,2,17,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,67,8
+1,2,2,18,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,93,10
+1,2,2,19,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,19,2
+1,2,2,20,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,23,3
+1,2,2,21,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,24,3
+1,2,2,22,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,14,2
+1,2,2,23,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,13,2
+1,2,2,24,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,10,1
+1,2,2,25,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,11,2
+1,2,2,26,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,20,3
+1,2,2,27,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,59,7
+1,2,2,28,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,3,1
+1,2,2,29,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,12,2
+1,2,2,30,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,20,3
+1,2,2,31,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,23,3
+1,2,2,32,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,4,1
+1,2,2,33,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,25,3
+1,2,2,34,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,8,1
+1,2,2,35,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,8,1
+1,2,2,36,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,11,2
+1,2,2,37,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,87,10
+1,2,2,38,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,15,2
+1,2,2,39,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,84,9
+1,2,2,40,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,8,1
+1,2,2,41,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,18,2
+1,2,2,42,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,13,2
+1,2,2,43,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,17,2
+1,2,3,44,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,43,5
+1,2,3,45,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,3,1
+1,2,3,46,#Poins_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,41,5
+1,2,3,47,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,28,3
+1,2,3,48,#Poins_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,11,2
+1,2,3,49,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,9,2
+1,2,3,50,#Poins_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,85,10
+1,2,3,51,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,16,2
+1,2,3,52,#Poins_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,3,1
+1,2,3,53,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,5,1
+1,2,3,54,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,11,1
+1,2,3,55,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,25,4
+1,2,3,56,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,10,1
+1,2,3,57,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,4,1
+1,2,3,58,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,8,1
+1,2,3,59,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,12,2
+1,2,3,60,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,3,1
+1,2,3,61,#Poins_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,24,3
+1,2,3,62,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,55,7
+1,2,3,63,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Poins_1H4,7,2
+1,2,4,64,#Poins_1H4,#HenryV_H5 #Poins_1H4,63,7
+1,2,4,65,#HenryV_H5,#HenryV_H5 #Poins_1H4,9,1
+1,2,4,66,#Poins_1H4,#HenryV_H5 #Poins_1H4,45,5
+1,2,4,67,#HenryV_H5,#HenryV_H5 #Poins_1H4,23,3
+1,2,4,68,#Poins_1H4,#HenryV_H5 #Poins_1H4,38,5
+1,2,4,69,#HenryV_H5,#HenryV_H5 #Poins_1H4,11,1
+1,2,4,70,#Poins_1H4,#HenryV_H5 #Poins_1H4,79,9
+1,2,4,71,#HenryV_H5,#HenryV_H5 #Poins_1H4,21,3
+1,2,4,72,#Poins_1H4,#HenryV_H5 #Poins_1H4,3,1
+1,2,5,73,#HenryV_H5,#HenryV_H5,178,23
+1,3,6,74,#HenryIV_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Worcester_1H4,71,9
+1,3,6,75,#Worcester_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Worcester_1H4,31,4
+1,3,6,76,#Northumberland_R2,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Worcester_1H4,2,1
+1,3,6,77,#HenryIV_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Worcester_1H4,55,7
+1,3,7,78,#HenryIV_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,5,1
+1,3,7,79,#Northumberland_R2,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,47,7
+1,3,7,80,#Hotspur_R2,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,311,42
+1,3,7,81,#Blunt_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,54,7
+1,3,7,82,#HenryIV_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,118,16
+1,3,7,83,#Hotspur_R2,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,141,21
+1,3,7,84,#HenryIV_1H4,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2,90,11
+1,3,8,85,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2,36,4
+1,3,8,86,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2,12,2
+1,3,9,87,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,64,8
+1,3,9,88,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,8,1
+1,3,9,89,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,9,1
+1,3,9,90,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,41,5
+1,3,9,91,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,17,2
+1,3,9,92,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,39,6
+1,3,9,93,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,16,2
+1,3,9,94,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,18,3
+1,3,9,95,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,6,1
+1,3,9,96,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,229,30
+1,3,9,97,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,46,7
+1,3,9,98,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,45,5
+1,3,9,99,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,12,2
+1,3,9,100,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,60,8
+1,3,9,101,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,24,3
+1,3,9,102,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,4,1
+1,3,9,103,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,8,2
+1,3,9,104,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,31,4
+1,3,9,105,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,15,3
+1,3,9,106,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,59,8
+1,3,9,107,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,5,1
+1,3,9,108,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,49,6
+1,3,9,109,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,13,2
+1,3,9,110,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,24,3
+1,3,9,111,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,73,11
+1,3,9,112,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,3,1
+1,3,9,113,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,49,7
+1,3,9,114,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,13,2
+1,3,9,115,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,5,1
+1,3,9,116,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,67,10
+1,3,9,117,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,5,1
+1,3,9,118,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,50,7
+1,3,9,119,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,10,1
+1,3,9,120,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,9,1
+1,3,9,121,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,23,3
+1,3,9,122,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,4,1
+1,3,9,123,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,7,1
+1,3,9,124,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,66,8
+1,3,9,125,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,9,1
+1,3,9,126,#Worcester_1H4,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,63,8
+1,3,9,127,#Northumberland_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,8,1
+1,3,9,128,#Hotspur_R2,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4,17,2
+2,1,10,129,#TRAVELERS.CARRIERS.1_1H4,#TRAVELERS.CARRIERS.1_1H4,27,4
+2,1,11,130,#Ostler_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4,2,1
+2,1,11,131,#TRAVELERS.CARRIERS.1_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4,24,3
+2,1,12,132,#TRAVELERS.CARRIERS.2_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,32,4
+2,1,12,133,#TRAVELERS.CARRIERS.1_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,16,2
+2,1,12,134,#TRAVELERS.CARRIERS.2_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,20,3
+2,1,12,135,#TRAVELERS.CARRIERS.1_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,24,3
+2,1,12,136,#TRAVELERS.CARRIERS.2_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,23,3
+2,1,12,137,#TRAVELERS.CARRIERS.1_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,9,2
+2,1,12,138,#TRAVELERS.CARRIERS.2_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,19,3
+2,1,12,139,#TRAVELERS.CARRIERS.1_1H4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,55,6
+2,1,13,140,#Gadshill_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,5,1
+2,1,13,141,#TRAVELERS.CARRIERS.1_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,6,1
+2,1,13,142,#Gadshill_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,13,2
+2,1,13,143,#TRAVELERS.CARRIERS.1_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,14,2
+2,1,13,144,#Gadshill_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,6,2
+2,1,13,145,#TRAVELERS.CARRIERS.2_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,16,3
+2,1,13,146,#Gadshill_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,11,2
+2,1,13,147,#TRAVELERS.CARRIERS.2_1H4,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4,30,4
+2,1,14,148,#Gadshill_1H4,#Gadshill_1H4 #Ostler_1H4,3,1
+2,1,15,149,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,4,1
+2,1,15,150,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,30,4
+2,1,15,151,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,71,8
+2,1,15,152,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,14,2
+2,1,15,153,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,28,3
+2,1,15,154,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,159,18
+2,1,15,155,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,13,2
+2,1,15,156,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,25,3
+2,1,15,157,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,21,3
+2,1,15,158,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,18,2
+2,1,15,159,#Chamberlain_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,12,2
+2,1,15,160,#Gadshill_1H4,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4,24,3
+2,2,16,161,#Poins_1H4,#Bardolph_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,15,2
+2,2,16,162,#HenryV_H5,#Bardolph_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,2,1
+2,2,17,163,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,6,1
+2,2,17,164,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,10,2
+2,2,17,165,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,3,1
+2,2,17,166,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,14,2
+2,2,18,167,#Falstaff_1H4,#Falstaff_1H4,189,21
+2,2,19,168,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,13,2
+2,2,19,169,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,23,3
+2,2,19,170,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,39,5
+2,2,19,171,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,2,19,172,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,13,2
+2,2,19,173,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,8,1
+2,2,19,174,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,49,5
+2,2,20,175,#Gadshill_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,1,1
+2,2,20,176,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,2,20,177,#Poins_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,8,1
+2,2,20,178,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,2,1
+2,2,20,179,#Gadshill_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,23,3
+2,2,20,180,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,10,2
+2,2,20,181,#Gadshill_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,2,20,182,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,3,1
+2,2,20,183,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,28,3
+2,2,20,184,#Peto_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,2,20,185,#Gadshill_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,4,1
+2,2,20,186,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,2,20,187,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,2,20,188,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,14,2
+2,2,20,189,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,7,1
+2,2,20,190,#Poins_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,21,3
+2,2,20,191,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,10,2
+2,2,20,192,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,2,20,193,#Poins_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,2,21,194,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4,15,2
+2,2,22,195,#TRAVELERS.GENTLEMEN.0.1_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,19,3
+2,2,22,196,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,1,1
+2,2,22,197,#TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,3,1
+2,2,22,198,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,22,4
+2,2,22,199,#TRAVELERS.GENTLEMEN_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,9,2
+2,2,22,200,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4,36,5
+2,2,23,201,#HenryV_H5,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,36,4
+2,2,23,202,#Poins_1H4,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,6,1
+2,2,24,203,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,38,5
+2,2,24,204,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,2,1
+2,2,24,205,#Poins_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,1,1
+2,2,25,206,#HenryV_H5,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,58,8
+2,2,25,207,#Poins_1H4,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4,5,1
+2,3,26,208,#Hotspur_R2,#Hotspur_R2,345,36
+2,3,27,209,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,11,2
+2,3,27,210,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,227,29
+2,3,27,211,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,2,1
+2,3,28,212,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,6,1
+2,3,28,213,#SERVANTS.HOTSPUR.1_1H4,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,7,1
+2,3,28,214,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,8,1
+2,3,28,215,#SERVANTS.HOTSPUR.1_1H4,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,8,1
+2,3,28,216,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,9,1
+2,3,28,217,#SERVANTS.HOTSPUR.1_1H4,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,4,1
+2,3,28,218,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4,22,3
+2,3,29,219,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,5,1
+2,3,29,220,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,5,1
+2,3,29,221,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,6,1
+2,3,29,222,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,7,1
+2,3,29,223,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,51,7
+2,3,29,224,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,8,1
+2,3,29,225,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,31,4
+2,3,29,226,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,55,8
+2,3,29,227,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,39,4
+2,3,29,228,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,100,13
+2,3,29,229,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,3,1
+2,3,29,230,#Hotspur_R2,#Hotspur_R2 #LadyPercy_1H4,28,4
+2,3,29,231,#LadyPercy_1H4,#Hotspur_R2 #LadyPercy_1H4,4,1
+2,4,30,232,#HenryV_H5,#HenryV_H5 #Poins_1H4,17,2
+2,4,30,233,#Poins_1H4,#HenryV_H5 #Poins_1H4,4,1
+2,4,30,234,#HenryV_H5,#HenryV_H5 #Poins_1H4,294,31
+2,4,31,235,#Poins_1H4,#HenryV_H5 #Poins_1H4,1,1
+2,4,31,236,#HenryV_H5,#HenryV_H5 #Poins_1H4,3,1
+2,4,31,237,#Poins_1H4,#HenryV_H5 #Poins_1H4,1,1
+2,4,32,238,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,9,2
+2,4,32,239,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,3,1
+2,4,32,240,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,2,1
+2,4,32,241,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,7,1
+2,4,32,242,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,8,1
+2,4,32,243,#Poins_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,1,1
+2,4,32,244,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,3,1
+2,4,32,245,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,40,5
+2,4,32,246,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,18,2
+2,4,32,247,#Poins_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,1,1
+2,4,32,248,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,2,1
+2,4,32,249,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,5,1
+2,4,32,250,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,9,2
+2,4,32,251,#Poins_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,1,1
+2,4,32,252,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,8,1
+2,4,32,253,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,17,2
+2,4,32,254,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,8,1
+2,4,32,255,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,19,2
+2,4,32,256,#Poins_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,1,1
+2,4,32,257,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,2,1
+2,4,32,258,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,19,3
+2,4,32,259,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,2,1
+2,4,32,260,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,12,3
+2,4,32,261,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,7,1
+2,4,32,262,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,28,4
+2,4,32,263,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,2,1
+2,4,32,264,#Poins_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,1,1
+2,4,32,265,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,9,2
+2,4,33,266,#Vintner_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4 #Vintner_1H4,14,2
+2,4,34,267,#Vintner_1H4,#HenryV_H5 #Poins_1H4 #Vintner_1H4,19,2
+2,4,34,268,#HenryV_H5,#HenryV_H5 #Poins_1H4 #Vintner_1H4,9,2
+2,4,35,269,#HenryV_H5,#HenryV_H5 #Poins_1H4,1,1
+2,4,35,270,#Poins_1H4,#HenryV_H5 #Poins_1H4,3,1
+2,4,35,271,#HenryV_H5,#HenryV_H5 #Poins_1H4,16,2
+2,4,35,272,#Poins_1H4,#HenryV_H5 #Poins_1H4,25,3
+2,4,35,273,#HenryV_H5,#HenryV_H5 #Poins_1H4,29,4
+2,4,36,274,#HenryV_H5,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,3,1
+2,4,36,275,#DRAWERS.Francis_1H4,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4,3,1
+2,4,37,276,#HenryV_H5,#HenryV_H5 #Poins_1H4,132,15
+2,4,38,277,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,278,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,54,6
+2,4,38,279,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,28,4
+2,4,38,280,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,111,12
+2,4,38,281,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,282,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,43,5
+2,4,38,283,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,8,2
+2,4,38,284,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,12,2
+2,4,38,285,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,15,2
+2,4,38,286,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,75,8
+2,4,38,287,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,11,2
+2,4,38,288,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,13,2
+2,4,38,289,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,3,1
+2,4,38,290,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,17,2
+2,4,38,291,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,7,1
+2,4,38,292,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,15,2
+2,4,38,293,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,4,1
+2,4,38,294,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,86,11
+2,4,38,295,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,4,38,296,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,297,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,4,38,298,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,3,1
+2,4,38,299,#Peto_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,300,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,18,2
+2,4,38,301,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,13,2
+2,4,38,302,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,10,2
+2,4,38,303,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,304,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,40,5
+2,4,38,305,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,4,38,306,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,63,6
+2,4,38,307,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,8,1
+2,4,38,308,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,309,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,4,38,310,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,26,3
+2,4,38,311,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,8,1
+2,4,38,312,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,2,1
+2,4,38,313,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,4,38,314,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,10,1
+2,4,38,315,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,4,38,316,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,5,1
+2,4,38,317,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,318,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,18,2
+2,4,38,319,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,4,1
+2,4,38,320,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,4,1
+2,4,38,321,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,4,1
+2,4,38,322,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,25,3
+2,4,38,323,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,4,38,324,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,35,4
+2,4,38,325,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,27,4
+2,4,38,326,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,13,2
+2,4,38,327,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,31,4
+2,4,38,328,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,6,1
+2,4,38,329,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,47,6
+2,4,38,330,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,20,3
+2,4,38,331,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,34,5
+2,4,38,332,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,22,3
+2,4,38,333,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,2,1
+2,4,38,334,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,124,13
+2,4,38,335,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,4,38,336,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,136,15
+2,4,38,337,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,9,2
+2,4,38,338,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,10,1
+2,4,39,339,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,39,340,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,11,2
+2,4,39,341,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,23,3
+2,4,39,342,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,19,2
+2,4,39,343,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,39,344,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,3,1
+2,4,39,345,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,15,2
+2,4,39,346,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,3,1
+2,4,39,347,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,40,348,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,34,4
+2,4,40,349,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,8,1
+2,4,40,350,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,12,2
+2,4,40,351,#Peto_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,34,4
+2,4,40,352,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,46,5
+2,4,40,353,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,43,5
+2,4,40,354,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,12,2
+2,4,40,355,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,2,1
+2,4,40,356,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,40,357,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,40,358,#Bardolph_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,40,359,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,41,360,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,26,3
+2,4,41,361,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,102,11
+2,4,41,362,#Poins_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,2,1
+2,4,41,363,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,25,4
+2,4,41,364,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,14,2
+2,4,41,365,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,4,1
+2,4,41,366,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,41,367,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,12,2
+2,4,41,368,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,13,2
+2,4,41,369,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,11,2
+2,4,41,370,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,4,1
+2,4,41,371,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,42,5
+2,4,41,372,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,27,3
+2,4,41,373,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,62,7
+2,4,41,374,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,11,1
+2,4,41,375,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,20,3
+2,4,41,376,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,15,2
+2,4,41,377,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,18,3
+2,4,41,378,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,25,3
+2,4,41,379,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,52,5
+2,4,41,380,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,41,381,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,8,2
+2,4,41,382,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,8,1
+2,4,41,383,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,9,1
+2,4,41,384,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,8,1
+2,4,41,385,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,17,2
+2,4,41,386,#MistressQuickly_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,16,2
+2,4,41,387,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,227,24
+2,4,41,388,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,9,1
+2,4,41,389,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,111,12
+2,4,41,390,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,16,2
+2,4,41,391,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,29,4
+2,4,41,392,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,41,393,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,7,1
+2,4,41,394,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,41,395,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,5,1
+2,4,41,396,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,8,2
+2,4,41,397,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,16,2
+2,4,41,398,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,132,16
+2,4,41,399,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,13,2
+2,4,41,400,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,11,2
+2,4,41,401,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,41,402,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,4,1
+2,4,41,403,#Falstaff_1H4,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,147,16
+2,4,41,404,#HenryV_H5,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,4,1
+2,4,42,405,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,16,2
+2,4,42,406,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4,18,2
+2,4,43,407,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,6,1
+2,4,43,408,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,11,2
+2,4,43,409,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,22,3
+2,4,43,410,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,20,3
+2,4,43,411,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,7,1
+2,4,43,412,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,46,5
+2,4,43,413,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,21,3
+2,4,43,414,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,15,2
+2,4,43,415,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4,4,1
+2,4,44,416,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,9,1
+2,4,44,417,#Sheriff_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,16,2
+2,4,44,418,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,2,1
+2,4,44,419,#Sheriff_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,13,2
+2,4,44,420,#TRAVELERS.CARRIERS.X_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,4,1
+2,4,44,421,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,58,7
+2,4,44,422,#Sheriff_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,16,2
+2,4,44,423,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,17,2
+2,4,44,424,#Sheriff_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,5,1
+2,4,44,425,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,9,1
+2,4,44,426,#Sheriff_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4,9,1
+2,4,45,427,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,13,2
+2,4,45,428,#Peto_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,11,2
+2,4,45,429,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,13,3
+2,4,45,430,#Peto_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,5,1
+2,4,45,431,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,7,1
+2,4,45,432,#Peto_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,25,5
+2,4,45,433,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,92,10
+2,4,45,434,#Peto_1H4,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,5,1
+3,1,46,435,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,14,2
+3,1,46,436,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,21,3
+3,1,46,437,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,37,5
+3,1,46,438,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,13,2
+3,1,46,439,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,35,5
+3,1,46,440,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,23,4
+3,1,46,441,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,1
+3,1,46,442,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,18,2
+3,1,46,443,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,1
+3,1,46,444,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,76,11
+3,1,46,445,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,122,15
+3,1,46,446,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,11,2
+3,1,46,447,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,8,1
+3,1,46,448,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,8,1
+3,1,46,449,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,19,2
+3,1,46,450,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,2
+3,1,46,451,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,50,6
+3,1,46,452,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,8,1
+3,1,46,453,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,28,4
+3,1,46,454,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,16,2
+3,1,46,455,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,16,2
+3,1,46,456,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,131,20
+3,1,46,457,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,44,5
+3,1,46,458,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,82,10
+3,1,46,459,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,1
+3,1,46,460,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,34,5
+3,1,46,461,#Worcester_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,26,3
+3,1,46,462,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,1
+3,1,46,463,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,46,464,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,3,1
+3,1,46,465,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,46,466,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,46,467,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,4,1
+3,1,46,468,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,10,1
+3,1,46,469,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,48,6
+3,1,46,470,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,67,8
+3,1,46,471,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,6,1
+3,1,46,472,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,40,5
+3,1,46,473,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,38,5
+3,1,47,474,#Mortimer_1H4,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,8,1
+3,1,47,475,#Hotspur_R2,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,140,18
+3,1,47,476,#Mortimer_1H4,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,93,12
+3,1,47,477,#Worcester_1H4,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,91,14
+3,1,47,478,#Hotspur_R2,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4,19,2
+3,1,48,479,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,17,2
+3,1,48,480,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,17,2
+3,1,48,481,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,16,2
+3,1,48,482,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,16,2
+3,1,48,483,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,84,12
+3,1,48,484,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,9,1
+3,1,48,485,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,7,1
+3,1,48,486,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,71,9
+3,1,48,487,#Mortimer_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,20,2
+3,1,48,488,#Glendower_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,28,3
+3,1,48,489,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,20,3
+3,1,48,490,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,4,1
+3,1,48,491,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,23,3
+3,1,48,492,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,25,3
+3,1,48,493,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,10,2
+3,1,48,494,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,6,1
+3,1,48,495,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,1,1
+3,1,48,496,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,3,1
+3,1,48,497,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,48,498,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,4,1
+3,1,48,499,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,48,500,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,2,1
+3,1,48,501,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,10,2
+3,1,48,502,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,5,1
+3,1,48,503,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,79,11
+3,1,48,504,#LadyPercy_1H4,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,4,1
+3,1,48,505,#Hotspur_R2,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,29,4
+3,1,49,506,#Glendower_1H4,#Glendower_1H4 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,31,4
+3,1,49,507,#Mortimer_1H4,#Glendower_1H4 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4,4,1
+3,2,50,508,#HenryIV_1H4,#ATTENDANTS_1H4 #HenryIV_1H4 #HenryV_H5,28,4
+3,2,51,509,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,107,15
+3,2,51,510,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,79,11
+3,2,51,511,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,464,63
+3,2,51,512,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,10,2
+3,2,51,513,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,268,38
+3,2,51,514,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,250,31
+3,2,51,515,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,15,2
+3,2,52,516,#HenryIV_1H4,#Blunt_1H4 #HenryIV_1H4 #HenryV_H5,10,1
+3,2,52,517,#Blunt_1H4,#Blunt_1H4 #HenryIV_1H4 #HenryV_H5,54,7
+3,2,52,518,#HenryIV_1H4,#Blunt_1H4 #HenryIV_1H4 #HenryV_H5,79,11
+3,3,53,519,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,101,11
+3,3,53,520,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,10,2
+3,3,53,521,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,76,8
+3,3,53,522,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,23,3
+3,3,53,523,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,36,4
+3,3,53,524,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,9,1
+3,3,53,525,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,198,21
+3,3,53,526,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,9,2
+3,3,53,527,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,9,2
+3,3,54,528,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,14,2
+3,3,54,529,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,49,6
+3,3,54,530,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,26,3
+3,3,54,531,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,18,2
+3,3,54,532,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,7,1
+3,3,54,533,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,42,4
+3,3,54,534,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,17,3
+3,3,54,535,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,31,4
+3,3,54,536,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,9,2
+3,3,54,537,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,8,1
+3,3,54,538,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,61,6
+3,3,54,539,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,19,3
+3,3,54,540,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,25,3
+3,3,55,541,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,15,2
+3,3,55,542,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,6,1
+3,3,55,543,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,7,1
+3,3,55,544,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,18,2
+3,3,55,545,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,5,1
+3,3,55,546,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,8,1
+3,3,55,547,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,4,1
+3,3,55,548,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,24,3
+3,3,55,549,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,5,1
+3,3,55,550,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,20,3
+3,3,55,551,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,5,1
+3,3,55,552,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,37,4
+3,3,55,553,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,4,1
+3,3,55,554,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,9,2
+3,3,55,555,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,41,5
+3,3,55,556,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,5,1
+3,3,55,557,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,9,1
+3,3,55,558,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,33,4
+3,3,55,559,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,11,2
+3,3,55,560,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,6,1
+3,3,55,561,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,5,1
+3,3,55,562,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,7,1
+3,3,55,563,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,14,2
+3,3,55,564,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,20,3
+3,3,55,565,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,10,2
+3,3,55,566,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,17,2
+3,3,55,567,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,8,1
+3,3,55,568,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,17,2
+3,3,55,569,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,13,2
+3,3,55,570,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,3,1
+3,3,55,571,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,6,1
+3,3,55,572,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,8,1
+3,3,55,573,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,13,2
+3,3,55,574,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,28,3
+3,3,55,575,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,6,1
+3,3,55,576,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,31,3
+3,3,55,577,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,107,13
+3,3,55,578,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,45,6
+3,3,55,579,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,6,1
+3,3,55,580,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4,36,5
+3,3,56,581,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,15,3
+3,3,56,582,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,18,2
+3,3,56,583,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,12,2
+3,3,56,584,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,11,2
+3,3,56,585,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,16,2
+3,3,56,586,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,3,1
+3,3,56,587,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,9,1
+3,3,56,588,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,51,6
+3,3,56,589,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,1,1
+3,3,56,590,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,2,1
+3,3,56,591,#HenryV_H5,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4,19,3
+3,3,57,592,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Peto_1H4,19,2
+3,3,58,593,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,45,6
+3,3,59,594,#Falstaff_1H4,#Falstaff_1H4,17,3
+4,1,60,595,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Worcester_1H4,72,9
+4,1,60,596,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #Worcester_1H4,19,3
+4,1,60,597,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Worcester_1H4,5,1
+4,1,61,598,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,10,2
+4,1,61,599,#MESSENGERS.X_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,6,1
+4,1,61,600,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,8,1
+4,1,61,601,#MESSENGERS.X_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,9,1
+4,1,61,602,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,24,3
+4,1,61,603,#MESSENGERS.X_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,9,1
+4,1,61,604,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,9,1
+4,1,61,605,#MESSENGERS.X_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,25,3
+4,1,61,606,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,25,3
+4,1,61,607,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,109,15
+4,1,61,608,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,8,1
+4,1,61,609,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,83,10
+4,1,61,610,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,31,4
+4,1,61,611,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,21,3
+4,1,61,612,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,120,16
+4,1,61,613,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,70,9
+4,1,61,614,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4,19,2
+4,1,62,615,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,7,1
+4,1,62,616,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,23,3
+4,1,62,617,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,4,1
+4,1,62,618,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,22,4
+4,1,62,619,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,27,4
+4,1,62,620,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,102,14
+4,1,62,621,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,116,14
+4,1,62,622,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,20,3
+4,1,62,623,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,9,1
+4,1,62,624,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,9,1
+4,1,62,625,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,8,1
+4,1,62,626,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,3,1
+4,1,62,627,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,35,5
+4,1,62,628,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4,19,2
+4,2,63,629,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,22,3
+4,2,63,630,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,6,1
+4,2,63,631,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,4,1
+4,2,63,632,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,5,1
+4,2,63,633,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,30,3
+4,2,63,634,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,4,1
+4,2,64,635,#Falstaff_1H4,#Falstaff_1H4,350,39
+4,2,65,636,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,7,1
+4,2,65,637,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,31,4
+4,2,65,638,#Westmoreland_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,35,4
+4,2,65,639,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,14,2
+4,2,65,640,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,25,3
+4,2,65,641,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,3,1
+4,2,65,642,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,7,1
+4,2,65,643,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,26,3
+4,2,65,644,#Westmoreland_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,13,2
+4,2,65,645,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,24,3
+4,2,65,646,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4,23,3
+4,2,66,647,#Falstaff_1H4,#Falstaff_1H4 #Westmoreland_1H4,5,1
+4,2,66,648,#Westmoreland_1H4,#Falstaff_1H4 #Westmoreland_1H4,11,2
+4,2,67,649,#Falstaff_1H4,#Falstaff_1H4,22,4
+4,3,68,650,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,5,1
+4,3,68,651,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,4,1
+4,3,68,652,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,5,1
+4,3,68,653,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,3,1
+4,3,68,654,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,9,1
+4,3,68,655,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,3,1
+4,3,68,656,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,6,1
+4,3,68,657,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,7,1
+4,3,68,658,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,4,1
+4,3,68,659,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,14,2
+4,3,68,660,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,54,7
+4,3,68,661,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,3,1
+4,3,68,662,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,1,1
+4,3,68,663,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,3,1
+4,3,68,664,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,72,9
+4,3,68,665,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,22,3
+4,3,68,666,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,16,2
+4,3,69,667,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,15,2
+4,3,69,668,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,44,6
+4,3,69,669,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,103,14
+4,3,69,670,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,285,37
+4,3,69,671,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,7,1
+4,3,69,672,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,123,17
+4,3,69,673,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,8,1
+4,3,69,674,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,38,5
+4,3,69,675,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,9,1
+4,3,69,676,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,5,1
+4,3,69,677,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4,4,1
+4,4,70,678,#Archbishop_1H4,#Archbishop_1H4 #SirMichael_1H4,41,5
+4,4,70,679,#SirMichael_1H4,#Archbishop_1H4 #SirMichael_1H4,7,1
+4,4,70,680,#Archbishop_1H4,#Archbishop_1H4 #SirMichael_1H4,101,14
+4,4,70,681,#SirMichael_1H4,#Archbishop_1H4 #SirMichael_1H4,14,2
+4,4,70,682,#Archbishop_1H4,#Archbishop_1H4 #SirMichael_1H4,5,1
+4,4,70,683,#SirMichael_1H4,#Archbishop_1H4 #SirMichael_1H4,23,3
+4,4,70,684,#Archbishop_1H4,#Archbishop_1H4 #SirMichael_1H4,45,6
+4,4,70,685,#SirMichael_1H4,#Archbishop_1H4 #SirMichael_1H4,9,1
+4,4,70,686,#Archbishop_1H4,#Archbishop_1H4 #SirMichael_1H4,66,8
+5,1,71,687,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5,18,3
+5,1,71,688,#HenryV_H5,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5,25,4
+5,1,71,689,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5,16,2
+5,1,72,690,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,106,13
+5,1,72,691,#Worcester_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,36,5
+5,1,72,692,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,9,1
+5,1,72,693,#Falstaff_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,9,1
+5,1,72,694,#HenryV_H5,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,3,1
+5,1,72,695,#Worcester_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,335,42
+5,1,72,696,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,71,11
+5,1,72,697,#HenryV_H5,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,142,18
+5,1,72,698,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4,110,14
+5,1,73,699,#HenryV_H5,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5,22,3
+5,1,73,700,#HenryIV_1H4,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5,25,3
+5,1,74,701,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,18,2
+5,1,74,702,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,14,2
+5,1,74,703,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5,8,1
+5,1,74,704,#HenryV_H5,#Falstaff_1H4 #HenryV_H5,6,1
+5,1,75,705,#Falstaff_1H4,#Falstaff_1H4,151,15
+5,2,76,706,#Worcester_1H4,#Vernon_1H4 #Worcester_1H4,17,2
+5,2,76,707,#Vernon_1H4,#Vernon_1H4 #Worcester_1H4,4,1
+5,2,76,708,#Worcester_1H4,#Vernon_1H4 #Worcester_1H4,179,24
+5,2,76,709,#Vernon_1H4,#Vernon_1H4 #Worcester_1H4,8,1
+5,2,77,710,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,4,1
+5,2,77,711,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,13,3
+5,2,77,712,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,7,1
+5,2,77,713,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,7,1
+5,2,77,714,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,8,1
+5,2,77,715,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,6,1
+5,2,78,716,#Worcester_1H4,#Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,8,1
+5,2,78,717,#Hotspur_R2,#Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,6,1
+5,2,78,718,#Worcester_1H4,#Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,37,5
+5,2,79,719,#Douglas_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,31,4
+5,2,79,720,#Worcester_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,16,2
+5,2,79,721,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,34,4
+5,2,79,722,#Vernon_1H4,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,137,18
+5,2,79,723,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,77,11
+5,2,80,724,#MESSENGERS.1_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,7,1
+5,2,80,725,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,72,9
+5,2,81,726,#MESSENGERS.2_1H4,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #MESSENGERS.2_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,8,1
+5,2,81,727,#Hotspur_R2,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #MESSENGERS.2_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4,88,11
+5,3,82,728,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4,20,3
+5,3,82,729,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4,24,3
+5,3,82,730,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4,4,1
+5,3,82,731,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4,32,4
+5,3,82,732,#Blunt_1H4,#Blunt_1H4 #Douglas_1H4,21,3
+5,3,83,733,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,15,2
+5,3,83,734,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,9,1
+5,3,83,735,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,1,1
+5,3,83,736,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,1,1
+5,3,83,737,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,24,3
+5,3,83,738,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,27,3
+5,3,83,739,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,8,1
+5,3,83,740,#Douglas_1H4,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,23,3
+5,3,83,741,#Hotspur_R2,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2,11,2
+5,3,84,742,#Falstaff_1H4,#Blunt_1H4 #Falstaff_1H4,93,10
+5,3,85,743,#HenryV_H5,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,33,5
+5,3,85,744,#Falstaff_1H4,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,33,4
+5,3,85,745,#HenryV_H5,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,14,2
+5,3,85,746,#Falstaff_1H4,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,20,3
+5,3,85,747,#HenryV_H5,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,9,1
+5,3,85,748,#Falstaff_1H4,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,12,2
+5,3,85,749,#HenryV_H5,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5,10,1
+5,3,86,750,#Falstaff_1H4,#Blunt_1H4 #Falstaff_1H4,62,6
+5,4,87,751,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,17,3
+5,4,87,752,#Bedford_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,9,1
+5,4,87,753,#HenryV_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,13,2
+5,4,87,754,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,13,2
+5,4,87,755,#Westmoreland_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,9,1
+5,4,87,756,#HenryV_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,40,5
+5,4,87,757,#Bedford_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4,16,2
+5,4,88,758,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,34,4
+5,4,88,759,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,22,3
+5,4,88,760,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,8,1
+5,4,89,761,#Douglas_1H4,#Douglas_1H4 #HenryIV_1H4,31,4
+5,4,89,762,#HenryIV_1H4,#Douglas_1H4 #HenryIV_1H4,47,6
+5,4,89,763,#Douglas_1H4,#Douglas_1H4 #HenryIV_1H4,31,4
+5,4,90,764,#HenryV_H5,#Douglas_1H4 #HenryIV_1H4 #HenryV_H5,44,5
+5,4,91,765,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,22,3
+5,4,91,766,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,28,4
+5,4,91,767,#HenryV_H5,#HenryIV_1H4 #HenryV_H5,57,7
+5,4,91,768,#HenryIV_1H4,#HenryIV_1H4 #HenryV_H5,9,1
+5,4,92,769,#Hotspur_R2,#HenryV_H5 #Hotspur_R2,8,1
+5,4,92,770,#HenryV_H5,#HenryV_H5 #Hotspur_R2,9,1
+5,4,92,771,#Hotspur_R2,#HenryV_H5 #Hotspur_R2,5,1
+5,4,92,772,#HenryV_H5,#HenryV_H5 #Hotspur_R2,54,7
+5,4,92,773,#Hotspur_R2,#HenryV_H5 #Hotspur_R2,29,3
+5,4,92,774,#HenryV_H5,#HenryV_H5 #Hotspur_R2,26,3
+5,4,92,775,#Hotspur_R2,#HenryV_H5 #Hotspur_R2,7,1
+5,4,93,776,#Falstaff_1H4,#Falstaff_1H4 #HenryV_H5 #Hotspur_R2,18,2
+5,4,94,777,#Hotspur_R2,#Falstaff_1H4 #HenryV_H5 #Hotspur_R2,84,11
+5,4,94,778,#HenryV_H5,#Falstaff_1H4 #HenryV_H5 #Hotspur_R2,192,24
+5,4,95,779,#Falstaff_1H4,#Falstaff_1H4 #Hotspur_R2,182,19
+5,4,96,780,#HenryV_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,11,2
+5,4,96,781,#Bedford_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,16,2
+5,4,96,782,#HenryV_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,42,6
+5,4,96,783,#Falstaff_1H4,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,54,5
+5,4,96,784,#HenryV_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,9,1
+5,4,96,785,#Falstaff_1H4,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,95,10
+5,4,96,786,#Bedford_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,9,1
+5,4,96,787,#HenryV_H5,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2,61,7
+5,4,97,788,#Falstaff_1H4,#Falstaff_1H4 #Hotspur_R2,36,4
+5,5,98,789,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Vernon_1H4 #Westmoreland_1H4 #Worcester_1H4,69,10
+5,5,98,790,#Worcester_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Vernon_1H4 #Westmoreland_1H4 #Worcester_1H4,24,3
+5,5,98,791,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Vernon_1H4 #Westmoreland_1H4 #Worcester_1H4,14,2
+5,5,99,792,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,4,1
+5,5,99,793,#HenryV_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,64,8
+5,5,99,794,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,4,1
+5,5,99,795,#HenryV_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,49,7
+5,5,99,796,#Bedford_H5,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,14,2
+5,5,99,797,#HenryIV_1H4,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4,89,12

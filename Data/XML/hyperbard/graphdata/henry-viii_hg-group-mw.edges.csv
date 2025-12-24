@@ -1,0 +1,75 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+0,0,1,266,32,#Prologue_H8
+1,1,2,920,135,#Abergavenny_H8 #Buckingham_H8 #Norfolk_H8
+1,1,3,9,2,#Abergavenny_H8 #Buckingham_H8 #GUARDS_H8 #Norfolk_H8 #SECRETARIES_H8 #Wolsey_H8
+1,1,4,26,5,#Abergavenny_H8 #Buckingham_H8 #GUARDS_H8 #Norfolk_H8 #SECRETARIES.0.1_H8 #SECRETARIES_H8 #Wolsey_H8
+1,1,5,651,88,#Abergavenny_H8 #Buckingham_H8 #Norfolk_H8 #SECRETARIES.0.1_H8
+1,1,6,242,39,#Abergavenny_H8 #Brandon_H8 #Buckingham_H8 #GUARDS_H8 #Norfolk_H8 #SECRETARIES.0.1_H8 #Sergeant_H8
+1,2,7,62,8,#ATTENDANTS_H8 #HenryVIII_H8 #Lovell_H8 #NOBLES_H8 #SECRETARIES.X.1_H8 #Wolsey_H8
+1,2,8,795,116,#ATTENDANTS_H8 #HenryVIII_H8 #Katherine_H8 #Lovell_H8 #NOBLES_H8 #Norfolk_H8 #SECRETARIES.X.1_H8 #Suffolk_H8 #Wolsey_H8
+1,2,9,868,123,#ATTENDANTS_H8 #HenryVIII_H8 #Katherine_H8 #Lovell_H8 #NOBLES_H8 #Norfolk_H8 #Suffolk_H8 #Surveyor_H8 #Wolsey_H8
+1,3,10,128,18,#Chamberlain_H8 #Sands_H8
+1,3,11,446,66,#Chamberlain_H8 #Lovell_H8 #Sands_H8
+1,4,12,53,7,#Anne_H8 #GENTLEMEN_H8 #Guilford_H8 #LADIES_H8
+1,4,13,235,36,#Anne_H8 #Chamberlain_H8 #GENTLEMEN_H8 #Guilford_H8 #LADIES_H8 #Lovell_H8 #Sands_H8
+1,4,14,161,26,#ATTENDANTS_H8 #Anne_H8 #Chamberlain_H8 #GENTLEMEN_H8 #Guilford_H8 #LADIES_H8 #Lovell_H8 #SERVANTS_H8 #Sands_H8 #Wolsey_H8
+1,4,15,67,11,#ATTENDANTS_H8 #Anne_H8 #Chamberlain_H8 #GENTLEMEN_H8 #Guilford_H8 #LADIES_H8 #Lovell_H8 #SERVANTS.X.1_H8 #SERVANTS_H8 #Sands_H8 #Wolsey_H8
+1,4,16,27,3,#ATTENDANTS_H8 #Anne_H8 #GENTLEMEN_H8 #Guilford_H8 #LADIES_H8 #Lovell_H8 #SERVANTS_H8 #Sands_H8 #Wolsey_H8
+1,4,17,381,61,#ATTENDANTS_H8 #Anne_H8 #Chamberlain_H8 #GENTLEMEN_H8 #Guilford_H8 #HenryVIII_H8 #LADIES_H8 #Lovell_H8 #MASKERS_H8 #SERVANTS_H8 #Sands_H8 #Wolsey_H8
+2,1,18,432,70,#GENTLEMEN.1_H8 #GENTLEMEN.2_H8
+2,1,19,711,86,#Buckingham_H8 #COMMONERS_H8 #GENTLEMEN.1_H8 #GENTLEMEN.2_H8 #GUARDS_H8 #Lovell_H8 #Sands_H8 #Vaux_H8
+2,1,20,283,41,#GENTLEMEN.1_H8 #GENTLEMEN.2_H8
+2,2,21,95,11,#Chamberlain_H8
+2,2,22,423,63,#Chamberlain_H8 #Norfolk_H8 #Suffolk_H8
+2,2,23,86,12,#HenryVIII_H8 #Norfolk_H8 #Suffolk_H8
+2,2,24,102,18,#Campeius_H8 #HenryVIII_H8 #Norfolk_H8 #Suffolk_H8 #Wolsey_H8
+2,2,25,260,33,#Campeius_H8 #HenryVIII_H8 #Wolsey_H8
+2,2,26,170,25,#Campeius_H8 #Gardiner_H8 #HenryVIII_H8 #Wolsey_H8
+2,2,27,58,7,#Campeius_H8 #HenryVIII_H8 #Wolsey_H8
+2,3,28,408,60,#Anne_H8 #OldLady_H8
+2,3,29,256,38,#Anne_H8 #Chamberlain_H8 #OldLady_H8
+2,3,30,222,31,#Anne_H8 #OldLady_H8
+2,4,31,1044,148,#ATTENDANTS_H8 #BISHOPS_H8 #BishopOfLincoln_H8 #Campeius_H8 #Crier_H8 #HenryVIII_H8 #Katherine_H8 #LORDS_H8 #Scribe_H8 #Usher_H8 #Wolsey_H8
+2,4,32,874,118,#ATTENDANTS_H8 #BISHOPS_H8 #BishopOfLincoln_H8 #Campeius_H8 #Crier_H8 #HenryVIII_H8 #LORDS_H8 #Scribe_H8 #Wolsey_H8
+3,1,33,19,2,#Katherine_H8 #LADIES.KATHERINE_H8
+3,1,34,70,12,#Katherine_H8 #LADIES.KATHERINE.0.1_H8 #LADIES.KATHERINE_H8
+3,1,35,32,7,#GENTLEMEN.X_H8 #Katherine_H8 #LADIES.KATHERINE.0.1_H8 #LADIES.KATHERINE_H8
+3,1,36,40,5,#Katherine_H8 #LADIES.KATHERINE.0.1_H8 #LADIES.KATHERINE_H8
+3,1,37,1351,177,#Campeius_H8 #Katherine_H8 #LADIES.KATHERINE.0.1_H8 #LADIES.KATHERINE_H8 #Wolsey_H8
+3,2,38,596,98,#Chamberlain_H8 #Norfolk_H8 #Suffolk_H8 #Surrey_H8
+3,2,39,75,15,#Chamberlain_H8 #Cromwell_H8 #Norfolk_H8 #Suffolk_H8 #Surrey_H8 #Wolsey_H8
+3,2,40,175,26,#Chamberlain_H8 #Norfolk_H8 #Suffolk_H8 #Surrey_H8 #Wolsey_H8
+3,2,41,795,113,#ATTENDANTS_H8 #Chamberlain_H8 #HenryVIII_H8 #Lovell_H8 #Norfolk_H8 #Suffolk_H8 #Surrey_H8 #Wolsey_H8
+3,2,42,216,27,#Wolsey_H8
+3,2,43,1012,140,#Chamberlain_H8 #Norfolk_H8 #Suffolk_H8 #Surrey_H8 #Wolsey_H8
+3,2,44,185,22,#Wolsey_H8
+3,2,45,747,99,#Cromwell_H8 #Wolsey_H8
+4,1,46,450,67,#GENTLEMEN.1_H8 #GENTLEMEN.2_H8
+4,1,47,533,76,#GENTLEMEN.1_H8 #GENTLEMEN.2_H8 #GENTLEMEN.3_H8
+4,2,48,807,111,#Griffith_H8 #Katherine_H8 #LADIES.KATHERINE.Patience_H8
+4,2,49,71,12,#Griffith_H8 #Katherine_H8 #LADIES.KATHERINE.Patience_H8 #Messenger_H8
+4,2,50,549,72,#Capuchius_H8 #Griffith_H8 #Katherine_H8 #LADIES.KATHERINE.Patience_H8
+5,1,51,477,66,#Gardiner_H8 #Lovell_H8 #Page_H8
+5,1,52,186,28,#HenryVIII_H8 #Lovell_H8 #Suffolk_H8
+5,1,53,37,8,#Denny_H8 #HenryVIII_H8 #Lovell_H8
+5,1,54,13,2,#HenryVIII_H8 #Lovell_H8
+5,1,55,10,3,#Cranmer_H8 #Denny_H8 #HenryVIII_H8 #Lovell_H8
+5,1,56,586,83,#Cranmer_H8 #HenryVIII_H8
+5,1,57,8,2,#HenryVIII_H8
+5,1,58,5,1,#HenryVIII_H8 #Lovell_H8
+5,1,59,106,17,#HenryVIII_H8 #Lovell_H8 #OldLady_H8
+5,1,60,54,6,#Lovell_H8 #OldLady_H8
+5,2,61,34,5,#Cranmer_H8 #SERVANTS_H8
+5,2,62,24,6,#Cranmer_H8 #Keeper_H8 #SERVANTS_H8
+5,2,63,21,3,#Butts_H8 #Cranmer_H8 #Keeper_H8 #SERVANTS_H8
+5,2,64,78,10,#Cranmer_H8 #Keeper_H8 #SERVANTS_H8
+5,2,65,132,20,#Butts_H8 #Cranmer_H8 #HenryVIII_H8 #Keeper_H8 #SERVANTS_H8
+5,2,66,778,113,#Chamberlain_H8 #Chancellor_H8 #Cranmer_H8 #Cromwell_H8 #Gardiner_H8 #Keeper_H8 #Norfolk_H8 #SERVANTS_H8 #Suffolk_H8 #Surrey_H8
+5,2,67,164,25,#Chamberlain_H8 #Chancellor_H8 #Cranmer_H8 #Cromwell_H8 #GUARDS_H8 #Gardiner_H8 #Keeper_H8 #Norfolk_H8 #SERVANTS_H8 #Suffolk_H8 #Surrey_H8
+5,2,68,587,76,#Chamberlain_H8 #Chancellor_H8 #Cranmer_H8 #Cromwell_H8 #GUARDS_H8 #Gardiner_H8 #HenryVIII_H8 #Keeper_H8 #Norfolk_H8 #SERVANTS_H8 #Suffolk_H8 #Surrey_H8
+5,3,69,21,3,#Porter_H8 #SERVANTS.PORTER.1_H8
+5,3,70,559,65,#Porter_H8 #SERVANTS.LARDER.1_H8 #SERVANTS.PORTER.1_H8
+5,3,71,215,29,#Chamberlain_H8 #Porter_H8 #SERVANTS.LARDER.1_H8 #SERVANTS.PORTER.1_H8
+5,4,72,21,3,#ALDERMEN_H8 #Cranmer_H8 #ElizabethI.Infant_H8 #Garter_H8 #LADIES_H8 #LORDS_H8 #LordMayor_H8 #Norfolk_H8 #Suffolk_H8
+5,4,73,628,83,#ALDERMEN_H8 #Cranmer_H8 #ElizabethI.Infant_H8 #GUARDS_H8 #Garter_H8 #HenryVIII_H8 #LADIES_H8 #LORDS_H8 #LordMayor_H8 #Norfolk_H8 #Suffolk_H8
+6,0,74,123,14,#Epilogue_H8

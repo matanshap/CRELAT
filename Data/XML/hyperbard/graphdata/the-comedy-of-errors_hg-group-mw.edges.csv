@@ -1,0 +1,55 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,1190,158,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err
+1,2,2,138,18,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant1_Err
+1,2,3,112,14,#AntipholusOfSyracuse_Err #Merchant1_Err
+1,2,4,61,8,#AntipholusOfSyracuse_Err
+1,2,5,467,57,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err
+1,2,6,80,11,#AntipholusOfSyracuse_Err
+2,1,7,346,43,#Adriana_Err #Luciana_Err
+2,1,8,342,47,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err
+2,1,9,242,31,#Adriana_Err #Luciana_Err
+2,2,10,51,6,#AntipholusOfSyracuse_Err
+2,2,11,750,113,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err
+2,2,12,891,113,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err
+3,1,13,295,42,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err
+3,1,14,174,28,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err
+3,1,15,143,23,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err
+3,1,16,40,5,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err
+3,1,17,524,74,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err
+3,2,18,590,76,#AntipholusOfSyracuse_Err #Luciana_Err
+3,2,19,648,96,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err
+3,2,20,70,9,#AntipholusOfSyracuse_Err
+3,2,21,121,15,#Angelo_Err #AntipholusOfSyracuse_Err
+3,2,22,63,7,#AntipholusOfSyracuse_Err
+4,1,23,105,13,#Angelo_Err #Merchant2_Err #OFFICERS.X_Err
+4,1,24,72,8,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err
+4,1,25,539,65,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err
+4,1,26,199,24,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err
+4,1,27,39,5,#DromioOfSyracuse_Err
+4,2,28,232,31,#Adriana_Err #Luciana_Err
+4,2,29,170,26,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err
+4,2,30,158,21,#Adriana_Err #DromioOfSyracuse_Err
+4,2,31,14,2,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err
+4,2,32,14,2,#Adriana_Err #Luciana_Err
+4,3,33,83,11,#AntipholusOfSyracuse_Err
+4,3,34,257,34,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err
+4,3,35,297,37,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err
+4,3,36,129,16,#Courtesan_Err
+4,4,37,58,7,#AntipholusOfEphesus_Err #OFFICERS.X_Err
+4,4,38,263,36,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err
+4,4,39,544,69,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err
+4,4,40,188,26,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err
+4,4,41,119,15,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err
+4,4,42,26,4,#Adriana_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #OFFICERS.X_Err
+4,4,43,106,12,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err
+5,1,44,70,9,#Angelo_Err #Merchant2_Err
+5,1,45,186,23,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err
+5,1,46,45,5,#Adriana_Err #Angelo_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #Merchant2_Err #OTHERS_Err
+5,1,47,586,79,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err
+5,1,48,125,17,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err
+5,1,49,313,38,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err
+5,1,50,157,20,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err
+5,1,51,1161,149,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err
+5,1,52,615,80,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err
+5,1,53,51,6,#AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err
+5,1,54,101,15,#DromioOfEphesus_Err #DromioOfSyracuse_Err

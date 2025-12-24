@@ -1,0 +1,259 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#WITCHES.1_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,18,4
+1,1,1,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,14,2
+1,1,1,#WITCHES.2_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,15,4
+1,1,1,#WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,14,3
+1,2,2,#Duncan_Mac,#ATTENDANTS_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #SOLDIERS.Captain_Mac,50,8
+1,2,2,#Malcolm_Mac,#ATTENDANTS_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #SOLDIERS.Captain_Mac,32,5
+1,2,2,#SOLDIERS.Captain_Mac,#ATTENDANTS_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #SOLDIERS.Captain_Mac,236,35
+1,2,3,#Duncan_Mac,#ATTENDANTS_Mac #Angus_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac,41,8
+1,2,3,#Lennox_Mac,#ATTENDANTS_Mac #Angus_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac,17,3
+1,2,3,#Malcolm_Mac,#ATTENDANTS_Mac #Angus_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac,5,1
+1,2,3,#Ross_Mac,#ATTENDANTS_Mac #Angus_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac,104,18
+1,3,4,#WITCHES.1_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,146,25
+1,3,4,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,36,6
+1,3,4,#WITCHES.2_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,11,3
+1,3,4,#WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,13,4
+1,3,5,#Banquo_Mac,#Banquo_Mac #Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,167,21
+1,3,5,#Macbeth_Mac,#Banquo_Mac #Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,89,11
+1,3,5,#WITCHES.1_Mac,#Banquo_Mac #Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,20,4
+1,3,5,#WITCHES.2_Mac,#Banquo_Mac #Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,16,3
+1,3,5,#WITCHES.3_Mac,#Banquo_Mac #Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,23,4
+1,3,6,#Banquo_Mac,#Banquo_Mac #Macbeth_Mac,51,7
+1,3,6,#Macbeth_Mac,#Banquo_Mac #Macbeth_Mac,31,4
+1,3,7,#Angus_Mac,#Angus_Mac #Banquo_Mac #Macbeth_Mac #Ross_Mac,79,13
+1,3,7,#Banquo_Mac,#Angus_Mac #Banquo_Mac #Macbeth_Mac #Ross_Mac,90,15
+1,3,7,#Macbeth_Mac,#Angus_Mac #Banquo_Mac #Macbeth_Mac #Ross_Mac,250,39
+1,3,7,#Ross_Mac,#Angus_Mac #Banquo_Mac #Macbeth_Mac #Ross_Mac,121,16
+1,4,8,#Duncan_Mac,#ATTENDANTS_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac,34,6
+1,4,8,#Malcolm_Mac,#ATTENDANTS_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac,72,10
+1,4,9,#Banquo_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macbeth_Mac #Malcolm_Mac #Ross_Mac,9,2
+1,4,9,#Duncan_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macbeth_Mac #Malcolm_Mac #Ross_Mac,180,26
+1,4,9,#Macbeth_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macbeth_Mac #Malcolm_Mac #Ross_Mac,134,16
+1,4,10,#Duncan_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac,38,5
+1,5,11,#LadyMacbeth_Mac,#LadyMacbeth_Mac,258,33
+1,5,12,#LadyMacbeth_Mac,#LadyMacbeth_Mac #MESSENGERS.1_Mac,32,6
+1,5,12,#MESSENGERS.1_Mac,#LadyMacbeth_Mac #MESSENGERS.1_Mac,38,5
+1,5,13,#LadyMacbeth_Mac,#LadyMacbeth_Mac,128,17
+1,5,14,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,135,22
+1,5,14,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,15,4
+1,6,15,#Banquo_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,52,9
+1,6,15,#Duncan_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,17,3
+1,6,16,#Duncan_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #LadyMacbeth_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,112,16
+1,6,16,#LadyMacbeth_Mac,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #LadyMacbeth_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,72,11
+1,7,17,#Macbeth_Mac,#Macbeth_Mac,218,28
+1,7,18,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,329,46
+1,7,18,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,141,22
+2,1,19,#Banquo_Mac,#Banquo_Mac #Fleance_Mac,57,9
+2,1,19,#Fleance_Mac,#Banquo_Mac #Fleance_Mac,16,2
+2,1,20,#Banquo_Mac,#Banquo_Mac #Fleance_Mac #Macbeth_Mac #SERVANTS.X.1_Mac,99,17
+2,1,20,#Macbeth_Mac,#Banquo_Mac #Fleance_Mac #Macbeth_Mac #SERVANTS.X.1_Mac,66,13
+2,1,21,#Macbeth_Mac,#Macbeth_Mac #SERVANTS.X.1_Mac,18,2
+2,1,22,#Macbeth_Mac,#Macbeth_Mac,263,34
+2,2,23,#LadyMacbeth_Mac,#LadyMacbeth_Mac,70,11
+2,2,24,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,198,30
+2,2,24,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,210,32
+2,2,25,#Macbeth_Mac,#Macbeth_Mac,51,8
+2,2,26,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,72,11
+2,2,26,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,18,3
+2,3,27,#Porter_Mac,#Porter_Mac,164,20
+2,3,28,#Macduff_Mac,#Lennox_Mac #Macduff_Mac #Porter_Mac,36,6
+2,3,28,#Porter_Mac,#Lennox_Mac #Macduff_Mac #Porter_Mac,143,18
+2,3,29,#Macduff_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac #Porter_Mac,8,1
+2,3,30,#Lennox_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,4,1
+2,3,30,#Macbeth_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,21,5
+2,3,30,#Macduff_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,45,7
+2,3,31,#Lennox_Mac,#Lennox_Mac #Macbeth_Mac,73,12
+2,3,31,#Macbeth_Mac,#Lennox_Mac #Macbeth_Mac,10,2
+2,3,32,#Lennox_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,4,1
+2,3,32,#Lennox_Mac #Macbeth_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,3,1
+2,3,32,#Macbeth_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,7,1
+2,3,32,#Macduff_Mac,#Lennox_Mac #Macbeth_Mac #Macduff_Mac,57,9
+2,3,33,#Macduff_Mac,#Macduff_Mac,53,8
+2,3,34,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macduff_Mac,18,3
+2,3,34,#Macduff_Mac,#LadyMacbeth_Mac #Macduff_Mac,24,4
+2,3,35,#Banquo_Mac,#Banquo_Mac #LadyMacbeth_Mac #Macduff_Mac,15,3
+2,3,35,#LadyMacbeth_Mac,#Banquo_Mac #LadyMacbeth_Mac #Macduff_Mac,6,2
+2,3,35,#Macduff_Mac,#Banquo_Mac #LadyMacbeth_Mac #Macduff_Mac,7,2
+2,3,36,#Macbeth_Mac,#Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Ross_Mac,50,6
+2,3,37,#Banquo_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,4,1
+2,3,37,#Donalbain_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,29,4
+2,3,37,#LadyMacbeth_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,4,1
+2,3,37,#Lennox_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,44,5
+2,3,37,#Macbeth_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,125,16
+2,3,37,#Macduff_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,12,3
+2,3,37,#Malcolm_Mac,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,26,5
+2,3,38,#Banquo_Mac,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,51,7
+2,3,38,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,2,1
+2,3,38,#Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Malcolm_Mac #Ross_Mac,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,2,1
+2,3,38,#Macbeth_Mac,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,12,2
+2,3,38,#Macduff_Mac,#Banquo_Mac #Donalbain_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac,4,1
+2,3,39,#Donalbain_Mac,#Donalbain_Mac #Malcolm_Mac,27,4
+2,3,39,#Malcolm_Mac,#Donalbain_Mac #Malcolm_Mac,71,9
+2,4,40,#OldMan_Mac,#OldMan_Mac #Ross_Mac,63,11
+2,4,40,#Ross_Mac,#OldMan_Mac #Ross_Mac,100,15
+2,4,41,#Macduff_Mac,#Macduff_Mac #OldMan_Mac #Ross_Mac,80,14
+2,4,41,#OldMan_Mac,#Macduff_Mac #OldMan_Mac #Ross_Mac,18,2
+2,4,41,#Ross_Mac,#Macduff_Mac #OldMan_Mac #Ross_Mac,66,14
+3,1,42,#Banquo_Mac,#Banquo_Mac,84,10
+3,1,43,#Banquo_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac #SERVANTS.X.2_Mac,72,11
+3,1,43,#LadyMacbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac #SERVANTS.X.2_Mac,18,3
+3,1,43,#Macbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac #SERVANTS.X.2_Mac,124,19
+3,1,44,#Macbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac #SERVANTS.X.2_Mac,31,4
+3,1,45,#Macbeth_Mac,#Macbeth_Mac #SERVANTS.X.2_Mac,14,3
+3,1,45,#SERVANTS.X.2_Mac,#Macbeth_Mac #SERVANTS.X.2_Mac,8,1
+3,1,46,#Macbeth_Mac,#Macbeth_Mac,206,26
+3,1,47,#Macbeth_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac #SERVANTS.X.2_Mac,11,2
+3,1,48,#MURDERERS.1_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac,41,7
+3,1,48,#MURDERERS.1_Mac #MURDERERS.2_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac,14,3
+3,1,48,#MURDERERS.2_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac,37,6
+3,1,48,#Macbeth_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac,474,65
+3,1,49,#Macbeth_Mac,#Macbeth_Mac,16,2
+3,2,50,#LadyMacbeth_Mac,#LadyMacbeth_Mac #SERVANTS.X.3_Mac,18,3
+3,2,50,#SERVANTS.X.3_Mac,#LadyMacbeth_Mac #SERVANTS.X.3_Mac,9,2
+3,2,51,#LadyMacbeth_Mac,#LadyMacbeth_Mac,26,4
+3,2,52,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,73,11
+3,2,52,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,316,43
+3,3,53,#MURDERERS.1_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,40,6
+3,3,53,#MURDERERS.2_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,20,3
+3,3,53,#MURDERERS.3_Mac,#MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,5,2
+3,3,54,#Banquo_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,6,1
+3,3,54,#MURDERERS.1_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,4,1
+3,3,54,#MURDERERS.2_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,17,3
+3,3,54,#MURDERERS.3_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,21,3
+3,3,55,#Banquo_Mac,#Banquo_Mac #Fleance_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,18,3
+3,3,55,#MURDERERS.1_Mac,#Banquo_Mac #Fleance_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,7,2
+3,3,55,#MURDERERS.2_Mac,#Banquo_Mac #Fleance_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,4,1
+3,3,55,#MURDERERS.3_Mac,#Banquo_Mac #Fleance_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,2,1
+3,3,56,#MURDERERS.1_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,14,2
+3,3,56,#MURDERERS.2_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,8,2
+3,3,56,#MURDERERS.3_Mac,#Banquo_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac,14,3
+3,4,57,#ATTENDANTS_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,4,1
+3,4,57,#LadyMacbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,16,2
+3,4,57,#Macbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,38,6
+3,4,58,#MURDERERS.1_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #MURDERERS.1_Mac #Macbeth_Mac #Ross_Mac,43,6
+3,4,58,#Macbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #MURDERERS.1_Mac #Macbeth_Mac #Ross_Mac,145,20
+3,4,59,#LadyMacbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,44,6
+3,4,60,#ATTENDANTS_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,4,1
+3,4,60,#LadyMacbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,115,16
+3,4,60,#Lennox_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,23,4
+3,4,60,#Macbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,118,20
+3,4,60,#Ross_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,26,5
+3,4,61,#LadyMacbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,17,4
+3,4,61,#Macbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,123,16
+3,4,62,#ATTENDANTS_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,5,1
+3,4,62,#LadyMacbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,22,4
+3,4,62,#Macbeth_Mac,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,125,17
+3,4,63,#LadyMacbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,48,8
+3,4,63,#Lennox_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,8,2
+3,4,63,#Macbeth_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,62,9
+3,4,63,#Ross_Mac,#ATTENDANTS_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Ross_Mac,4,2
+3,4,64,#LadyMacbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,22,3
+3,4,64,#Macbeth_Mac,#LadyMacbeth_Mac #Macbeth_Mac,180,23
+3,5,65,#Hecate_Mac,#Hecate_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,230,34
+3,5,65,#WITCHES.1_Mac,#Hecate_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,7,1
+3,5,66,#WITCHES.1_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,9,1
+3,6,67,#Lennox_Mac,#Lennox_Mac #Lord_Mac,252,35
+3,6,67,#Lord_Mac,#Lennox_Mac #Lord_Mac,158,21
+4,1,68,#WITCHES.1_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,37,7
+4,1,68,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,30,6
+4,1,68,#WITCHES.2_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,66,11
+4,1,68,#WITCHES.3_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,76,14
+4,1,69,#Hecate_Mac,#Hecate_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,33,5
+4,1,70,#WITCHES.2_Mac,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,15,4
+4,1,71,#Macbeth_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,103,17
+4,1,71,#WITCHES.1_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,36,7
+4,1,71,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,14,3
+4,1,71,#WITCHES.2_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,1,1
+4,1,71,#WITCHES.3_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,2,1
+4,1,72,#Macbeth_Mac,#Macbeth_Mac #SPIRITS.1_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,5,1
+4,1,72,#SPIRITS.1_Mac,#Macbeth_Mac #SPIRITS.1_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,13,2
+4,1,72,#WITCHES.1_Mac,#Macbeth_Mac #SPIRITS.1_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,11,3
+4,1,73,#Macbeth_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,18,3
+4,1,73,#WITCHES.1_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,12,2
+4,1,74,#Macbeth_Mac,#Macbeth_Mac #SPIRITS.2_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,7,1
+4,1,74,#SPIRITS.2_Mac,#Macbeth_Mac #SPIRITS.2_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,23,4
+4,1,75,#Macbeth_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,40,5
+4,1,76,#Macbeth_Mac,#Macbeth_Mac #SPIRITS.3_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,23,4
+4,1,76,#SPIRITS.3_Mac,#Macbeth_Mac #SPIRITS.3_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,32,5
+4,1,76,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#Macbeth_Mac #SPIRITS.3_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,6,1
+4,1,77,#Macbeth_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,98,13
+4,1,77,#WITCHES.1_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,1,1
+4,1,77,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,17,3
+4,1,77,#WITCHES.2_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,1,1
+4,1,77,#WITCHES.3_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,1,1
+4,1,78,#Macbeth_Mac,#Banquo_Mac #Macbeth_Mac #SPIRITS.KINGS_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,108,13
+4,1,79,#Macbeth_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,4,1
+4,1,79,#WITCHES.1_Mac,#Macbeth_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac,53,8
+4,1,80,#Macbeth_Mac,#Macbeth_Mac,18,3
+4,1,81,#Lennox_Mac,#Lennox_Mac #Macbeth_Mac,30,6
+4,1,81,#Macbeth_Mac,#Lennox_Mac #Macbeth_Mac,145,20
+4,2,82,#LadyMacduff_Mac,#LadyMacduff_Mac #MacduffsSon_Mac #Ross_Mac,108,14
+4,2,82,#Ross_Mac,#LadyMacduff_Mac #MacduffsSon_Mac #Ross_Mac,147,20
+4,2,83,#LadyMacduff_Mac,#LadyMacduff_Mac #MacduffsSon_Mac,116,18
+4,2,83,#MacduffsSon_Mac,#LadyMacduff_Mac #MacduffsSon_Mac,128,18
+4,2,84,#MESSENGERS.2_Mac,#LadyMacduff_Mac #MESSENGERS.2_Mac #MacduffsSon_Mac,75,10
+4,2,85,#LadyMacduff_Mac,#LadyMacduff_Mac #MacduffsSon_Mac,50,7
+4,2,86,#LadyMacduff_Mac,#LadyMacduff_Mac #MURDERERS_Mac #MacduffsSon_Mac,4,1
+4,2,87,#LadyMacduff_Mac,#LadyMacduff_Mac #MURDERERS.0.1_Mac #MURDERERS_Mac #MacduffsSon_Mac,14,2
+4,2,87,#MURDERERS.0.1_Mac,#LadyMacduff_Mac #MURDERERS.0.1_Mac #MURDERERS_Mac #MacduffsSon_Mac,14,4
+4,2,87,#MacduffsSon_Mac,#LadyMacduff_Mac #MURDERERS.0.1_Mac #MURDERERS_Mac #MacduffsSon_Mac,15,4
+4,3,88,#Macduff_Mac,#Macduff_Mac #Malcolm_Mac,359,55
+4,3,88,#Malcolm_Mac,#Macduff_Mac #Malcolm_Mac,725,103
+4,3,89,#Doctor1_Mac,#Doctor1_Mac #Macduff_Mac #Malcolm_Mac,35,5
+4,3,89,#Malcolm_Mac,#Doctor1_Mac #Macduff_Mac #Malcolm_Mac,14,3
+4,3,90,#Macduff_Mac,#Macduff_Mac #Malcolm_Mac,5,1
+4,3,90,#Malcolm_Mac,#Macduff_Mac #Malcolm_Mac,98,14
+4,3,91,#Macduff_Mac,#Macduff_Mac #Malcolm_Mac #Ross_Mac,233,35
+4,3,91,#Malcolm_Mac,#Macduff_Mac #Malcolm_Mac #Ross_Mac,170,26
+4,3,91,#Ross_Mac,#Macduff_Mac #Malcolm_Mac #Ross_Mac,275,40
+5,1,92,#Doctor2_Mac,#Doctor2_Mac #Gentlewoman_Mac,70,10
+5,1,92,#Gentlewoman_Mac,#Doctor2_Mac #Gentlewoman_Mac,71,10
+5,1,93,#Doctor2_Mac,#Doctor2_Mac #Gentlewoman_Mac #LadyMacbeth_Mac,96,17
+5,1,93,#Gentlewoman_Mac,#Doctor2_Mac #Gentlewoman_Mac #LadyMacbeth_Mac,105,14
+5,1,93,#LadyMacbeth_Mac,#Doctor2_Mac #Gentlewoman_Mac #LadyMacbeth_Mac,169,21
+5,1,94,#Doctor2_Mac,#Doctor2_Mac #Gentlewoman_Mac,74,10
+5,1,94,#Gentlewoman_Mac,#Doctor2_Mac #Gentlewoman_Mac,5,2
+5,2,95,#Angus_Mac,#Angus_Mac #Caithness_Mac #Lennox_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac,58,9
+5,2,95,#Caithness_Mac,#Angus_Mac #Caithness_Mac #Lennox_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac,73,11
+5,2,95,#Lennox_Mac,#Angus_Mac #Caithness_Mac #Lennox_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac,51,7
+5,2,95,#Menteith_Mac,#Angus_Mac #Caithness_Mac #Lennox_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac,63,10
+5,3,96,#Macbeth_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac,85,11
+5,3,97,#Macbeth_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #SERVANTS.X.4_Mac,49,8
+5,3,97,#SERVANTS.X.4_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #SERVANTS.X.4_Mac,12,3
+5,3,98,#Macbeth_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac,81,12
+5,3,99,#Doctor2_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #Seyton_Mac,50,9
+5,3,99,#Macbeth_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #Seyton_Mac,194,30
+5,3,99,#Seyton_Mac,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #Seyton_Mac,16,3
+5,4,100,#Malcolm_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,44,6
+5,4,100,#Menteith_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,8,2
+5,4,100,#Siward_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,6,1
+5,4,101,#Macduff_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM.0.1_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,14,3
+5,4,101,#Malcolm_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM.0.1_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,34,5
+5,4,101,#SOLDIERS.MALCOLM.0.1_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM.0.1_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,4,1
+5,4,101,#Siward_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM.0.1_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,58,9
+5,5,102,#Macbeth_Mac,#Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,63,9
+5,5,102,#Seyton_Mac,#Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,9,1
+5,5,103,#Macbeth_Mac,#Macbeth_Mac #SOLDIERS.MACBETH_Mac,55,7
+5,5,104,#Macbeth_Mac,#Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,94,13
+5,5,104,#Seyton_Mac,#Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,6,1
+5,5,105,#MESSENGERS.3_Mac,#MESSENGERS.3_Mac #Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,64,9
+5,5,105,#Macbeth_Mac,#MESSENGERS.3_Mac #Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac,133,19
+5,6,106,#Macduff_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,16,2
+5,6,106,#Malcolm_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,46,6
+5,6,106,#Siward_Mac,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac,19,3
+5,7,107,#Macbeth_Mac,#Macbeth_Mac,34,4
+5,7,108,#Macbeth_Mac,#Macbeth_Mac #YoungSiward_Mac,36,7
+5,7,108,#YoungSiward_Mac,#Macbeth_Mac #YoungSiward_Mac,43,7
+5,7,109,#Macduff_Mac,#Macduff_Mac,81,10
+5,7,110,#Malcolm_Mac,#Malcolm_Mac #Siward_Mac,9,2
+5,7,110,#Siward_Mac,#Malcolm_Mac #Siward_Mac,39,6
+5,8,111,#Macbeth_Mac,#Macbeth_Mac,23,3
+5,8,112,#Macbeth_Mac,#Macbeth_Mac #Macduff_Mac,177,23
+5,8,112,#Macduff_Mac,#Macbeth_Mac #Macduff_Mac,79,13
+5,8,113,#Malcolm_Mac,#ATTENDANTS_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,26,4
+5,8,113,#Ross_Mac,#ATTENDANTS_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,66,9
+5,8,113,#Siward_Mac,#ATTENDANTS_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,81,12
+5,8,114,#ATTENDANTS_Mac #Macduff_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,#ATTENDANTS_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,4,1
+5,8,114,#Macduff_Mac,#ATTENDANTS_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,43,6
+5,8,114,#Malcolm_Mac,#ATTENDANTS_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac,132,17

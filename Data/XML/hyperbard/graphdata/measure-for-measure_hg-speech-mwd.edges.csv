@@ -1,0 +1,927 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Duke_MM,#ATTENDANTS_MM #Duke_MM #Escalus_MM,1,1
+1,1,1,2,#Escalus_MM,#ATTENDANTS_MM #Duke_MM #Escalus_MM,2,1
+1,1,1,3,#Duke_MM,#ATTENDANTS_MM #Duke_MM #Escalus_MM,154,20
+1,1,1,4,#Escalus_MM,#ATTENDANTS_MM #Duke_MM #Escalus_MM,18,3
+1,1,2,5,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,4,1
+1,1,2,6,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,12,2
+1,1,2,7,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,157,22
+1,1,2,8,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,26,4
+1,1,2,9,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,80,11
+1,1,2,10,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,14,2
+1,1,2,11,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,91,11
+1,1,2,12,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,7,1
+1,1,2,13,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,8,1
+1,1,2,14,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Duke_MM #Escalus_MM,6,1
+1,1,3,15,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #Escalus_MM,42,5
+1,1,3,16,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #Escalus_MM,18,3
+1,1,3,17,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #Escalus_MM,5,1
+1,2,4,18,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,25,3
+1,2,4,19,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,11,2
+1,2,4,20,#GENTLEMEN.2_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,1,1
+1,2,4,21,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,21,3
+1,2,4,22,#GENTLEMEN.2_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,4,1
+1,2,4,23,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,4,1
+1,2,4,24,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,42,5
+1,2,4,25,#GENTLEMEN.2_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,7,1
+1,2,4,26,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,13,2
+1,2,4,27,#GENTLEMEN.2_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,6,1
+1,2,4,28,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,3,1
+1,2,4,29,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,7,1
+1,2,4,30,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,6,1
+1,2,4,31,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,23,3
+1,2,4,32,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,10,2
+1,2,4,33,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,15,2
+1,2,4,34,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,43,5
+1,2,4,35,#Lucio_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,34,4
+1,2,4,36,#GENTLEMEN.1_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,10,2
+1,2,4,37,#GENTLEMEN.2_MM,#GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,10,2
+1,2,5,38,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,18,3
+1,2,5,39,#GENTLEMEN.2_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,4,1
+1,2,5,40,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,1,1
+1,2,5,41,#GENTLEMEN.2_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,6,1
+1,2,5,42,#GENTLEMEN.1_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,3,1
+1,2,5,43,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,4,1
+1,2,5,44,#GENTLEMEN.1_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,16,2
+1,2,5,45,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,26,3
+1,2,5,46,#GENTLEMEN.1_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,11,2
+1,2,5,47,#Bawd_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,17,2
+1,2,5,48,#GENTLEMEN.2_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,5,1
+1,2,5,49,#Bawd_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,6,1
+1,2,5,50,#GENTLEMEN.1_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,6,1
+1,2,5,51,#Bawd_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,28,3
+1,2,5,52,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,16,2
+1,2,5,53,#Bawd_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,15,2
+1,2,5,54,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,20,3
+1,2,5,55,#GENTLEMEN.2_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,16,2
+1,2,5,56,#GENTLEMEN.1_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,8,2
+1,2,5,57,#Lucio_MM,#Bawd_MM #GENTLEMEN.1_MM #GENTLEMEN.2_MM #Lucio_MM,8,1
+1,2,6,58,#Bawd_MM,#Bawd_MM,20,3
+1,2,7,59,#Bawd_MM,#Bawd_MM #Pompey_MM,7,1
+1,2,7,60,#Pompey_MM,#Bawd_MM #Pompey_MM,6,1
+1,2,7,61,#Bawd_MM,#Bawd_MM #Pompey_MM,5,1
+1,2,7,62,#Pompey_MM,#Bawd_MM #Pompey_MM,2,1
+1,2,7,63,#Bawd_MM,#Bawd_MM #Pompey_MM,4,1
+1,2,7,64,#Pompey_MM,#Bawd_MM #Pompey_MM,7,1
+1,2,7,65,#Bawd_MM,#Bawd_MM #Pompey_MM,9,1
+1,2,7,66,#Pompey_MM,#Bawd_MM #Pompey_MM,18,2
+1,2,7,67,#Bawd_MM,#Bawd_MM #Pompey_MM,3,1
+1,2,7,68,#Pompey_MM,#Bawd_MM #Pompey_MM,11,2
+1,2,7,69,#Bawd_MM,#Bawd_MM #Pompey_MM,9,1
+1,2,7,70,#Pompey_MM,#Bawd_MM #Pompey_MM,19,2
+1,2,7,71,#Bawd_MM,#Bawd_MM #Pompey_MM,13,2
+1,2,7,72,#Pompey_MM,#Bawd_MM #Pompey_MM,4,1
+1,2,7,73,#Bawd_MM,#Bawd_MM #Pompey_MM,13,2
+1,2,7,74,#Pompey_MM,#Bawd_MM #Pompey_MM,48,6
+1,2,8,75,#Bawd_MM,#Bawd_MM #Claudio_MM #Juliet_MM #OFFICERS_MM #Pompey_MM #Provost_MM,8,2
+1,2,8,76,#Pompey_MM,#Bawd_MM #Claudio_MM #Juliet_MM #OFFICERS_MM #Pompey_MM #Provost_MM,14,2
+1,2,9,77,#Claudio_MM,#Claudio_MM #Juliet_MM #OFFICERS_MM #Provost_MM,18,2
+1,2,9,78,#Provost_MM,#Claudio_MM #Juliet_MM #OFFICERS_MM #Provost_MM,14,2
+1,2,9,79,#Claudio_MM,#Claudio_MM #Juliet_MM #OFFICERS_MM #Provost_MM,34,4
+1,2,10,80,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,8,2
+1,2,10,81,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,46,6
+1,2,10,82,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,41,5
+1,2,10,83,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,8,1
+1,2,10,84,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,4,1
+1,2,10,85,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,1,1
+1,2,10,86,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,1,1
+1,2,10,87,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,3,1
+1,2,10,88,#Provost_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,5,1
+1,2,10,89,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,9,1
+1,2,10,90,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,13,2
+1,2,10,91,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,87,11
+1,2,10,92,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,3,1
+1,2,10,93,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,122,16
+1,2,10,94,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,33,3
+1,2,10,95,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,95,12
+1,2,10,96,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,44,5
+1,2,10,97,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,6,1
+1,2,10,98,#Lucio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,3,1
+1,2,10,99,#Claudio_MM,#Claudio_MM #GENTLEMEN.2_MM #Juliet_MM #Lucio_MM #OFFICERS_MM #Provost_MM,3,1
+1,3,11,100,#Duke_MM,#Duke_MM #FriarThomas_MM,44,6
+1,3,11,101,#FriarThomas_MM,#Duke_MM #FriarThomas_MM,6,1
+1,3,11,102,#Duke_MM,#Duke_MM #FriarThomas_MM,86,11
+1,3,11,103,#FriarThomas_MM,#Duke_MM #FriarThomas_MM,3,1
+1,3,11,104,#Duke_MM,#Duke_MM #FriarThomas_MM,100,13
+1,3,11,105,#FriarThomas_MM,#Duke_MM #FriarThomas_MM,26,4
+1,3,11,106,#Duke_MM,#Duke_MM #FriarThomas_MM,174,22
+1,4,12,107,#Isabella_MM,#Isabella_MM #Nun_MM,7,1
+1,4,12,108,#Nun_MM,#Isabella_MM #Nun_MM,5,1
+1,4,12,109,#Isabella_MM,#Isabella_MM #Nun_MM,23,3
+1,4,13,110,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,6,1
+1,4,13,111,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,4,1
+1,4,13,112,#Nun_MM,#Isabella_MM #Lucio_MM #Nun_MM,71,8
+1,4,13,113,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,8,1
+1,4,13,114,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,40,5
+1,4,13,115,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,23,3
+1,4,13,116,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,17,2
+1,4,13,117,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,4,1
+1,4,13,118,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,23,3
+1,4,13,119,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,6,1
+1,4,13,120,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,54,8
+1,4,13,121,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,8,1
+1,4,13,122,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,47,6
+1,4,13,123,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,8,1
+1,4,13,124,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,4,1
+1,4,13,125,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,11,2
+1,4,13,126,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,3,1
+1,4,13,127,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,5,1
+1,4,13,128,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,178,23
+1,4,13,129,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,6,2
+1,4,13,130,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,16,3
+1,4,13,131,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,10,2
+1,4,13,132,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,5,1
+1,4,13,133,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,5,1
+1,4,13,134,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,54,7
+1,4,13,135,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,6,1
+1,4,13,136,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,2,1
+1,4,13,137,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,37,5
+1,4,13,138,#Lucio_MM,#Isabella_MM #Lucio_MM #Nun_MM,6,1
+1,4,13,139,#Isabella_MM,#Isabella_MM #Lucio_MM #Nun_MM,3,1
+2,1,14,140,#Angelo_MM,#Angelo_MM #Escalus_MM #Justice_MM #SERVANTS_MM,34,4
+2,1,14,141,#Escalus_MM,#Angelo_MM #Escalus_MM #Justice_MM #SERVANTS_MM,101,13
+2,1,14,142,#Angelo_MM,#Angelo_MM #Escalus_MM #Justice_MM #SERVANTS_MM,127,16
+2,1,15,143,#Escalus_MM,#Angelo_MM #Escalus_MM #Justice_MM #Provost_MM #SERVANTS_MM,6,1
+2,1,15,144,#Angelo_MM,#Angelo_MM #Escalus_MM #Justice_MM #Provost_MM #SERVANTS_MM,4,1
+2,1,15,145,#Provost_MM,#Angelo_MM #Escalus_MM #Justice_MM #Provost_MM #SERVANTS_MM,6,1
+2,1,15,146,#Angelo_MM,#Angelo_MM #Escalus_MM #Justice_MM #Provost_MM #SERVANTS_MM,24,4
+2,1,16,147,#Escalus_MM,#Angelo_MM #Escalus_MM #Justice_MM #SERVANTS_MM,33,4
+2,1,17,148,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,29,4
+2,1,17,149,#Angelo_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,2
+2,1,17,150,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,34,4
+2,1,17,151,#Angelo_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,2
+2,1,17,152,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,36,4
+2,1,17,153,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,8,2
+2,1,17,154,#Angelo_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,17,3
+2,1,17,155,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,17,156,#Angelo_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,17,157,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,40,5
+2,1,17,158,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,17,159,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,11,2
+2,1,17,160,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,3,1
+2,1,17,161,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,2
+2,1,17,162,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,5,1
+2,1,17,163,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,34,3
+2,1,17,164,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,17,165,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,25,4
+2,1,17,166,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,17,167,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,17,2
+2,1,17,168,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,2
+2,1,17,169,#Elbow_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,11,2
+2,1,17,170,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,17,171,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,58,7
+2,1,17,172,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,1
+2,1,17,173,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,84,9
+2,1,17,174,#Froth_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,17,175,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,16,2
+2,1,17,176,#Froth_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,5,1
+2,1,17,177,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,38,4
+2,1,17,178,#Froth_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,17,179,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,17,180,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,30,3
+2,1,17,181,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,8,1
+2,1,17,182,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,17,183,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,40,5
+2,1,17,184,#Froth_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,17,185,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,36,4
+2,1,17,186,#Froth_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,13,2
+2,1,17,187,#Pompey_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,9,1
+2,1,17,188,#Angelo_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,35,4
+2,1,17,189,#Escalus_MM,#Angelo_MM #Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,9,1
+2,1,18,190,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,12,2
+2,1,18,191,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,9,2
+2,1,18,192,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,13,2
+2,1,18,193,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,18,194,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,8,1
+2,1,18,195,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,27,4
+2,1,18,196,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,18,197,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,18,198,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,18,199,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,9,1
+2,1,18,200,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,18,201,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,42,5
+2,1,18,202,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,2
+2,1,18,203,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,24,3
+2,1,18,204,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,16,2
+2,1,18,205,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,23,3
+2,1,18,206,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,11,2
+2,1,18,207,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,11,2
+2,1,18,208,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,55,6
+2,1,18,209,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,17,2
+2,1,18,210,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,21,3
+2,1,18,211,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,28,4
+2,1,18,212,#Elbow_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,28,4
+2,1,18,213,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,5,1
+2,1,18,214,#Froth_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,4,1
+2,1,18,215,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,18,216,#Froth_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,18,217,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,18,218,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,18,219,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,3,1
+2,1,18,220,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,18,221,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,8,1
+2,1,18,222,#Pompey_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,6,1
+2,1,18,223,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,39,5
+2,1,18,224,#Froth_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,22,3
+2,1,18,225,#Escalus_MM,#Elbow_MM #Escalus_MM #Froth_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,8,1
+2,1,19,226,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,12,2
+2,1,19,227,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,1,1
+2,1,19,228,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,19,229,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,19,230,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,50,6
+2,1,19,231,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,10,1
+2,1,19,232,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,22,3
+2,1,19,233,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,7,1
+2,1,19,234,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,16,2
+2,1,19,235,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,14,2
+2,1,19,236,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,2,1
+2,1,19,237,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,30,3
+2,1,19,238,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,15,2
+2,1,19,239,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,59,6
+2,1,19,240,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,69,8
+2,1,19,241,#Pompey_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #Pompey_MM #SERVANTS_MM,39,5
+2,1,20,242,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,20,3
+2,1,20,243,#Elbow_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,6,1
+2,1,20,244,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,20,3
+2,1,20,245,#Elbow_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,4,1
+2,1,20,246,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,30,3
+2,1,20,247,#Elbow_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,34,4
+2,1,20,248,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,18,2
+2,1,20,249,#Elbow_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,5,1
+2,1,20,250,#Escalus_MM,#Elbow_MM #Escalus_MM #Justice_MM #OFFICERS_MM #SERVANTS_MM,6,1
+2,1,21,251,#Escalus_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,4,1
+2,1,21,252,#Justice_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,2,1
+2,1,21,253,#Escalus_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,8,1
+2,1,21,254,#Justice_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,4,1
+2,1,21,255,#Escalus_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,12,2
+2,1,21,256,#Justice_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,4,1
+2,1,21,257,#Escalus_MM,#Escalus_MM #Justice_MM #SERVANTS_MM,30,5
+2,2,22,258,#SERVANTS.1_MM,#Provost_MM #SERVANTS.1_MM,14,2
+2,2,22,259,#Provost_MM,#Provost_MM #SERVANTS.1_MM,3,1
+2,2,23,260,#Provost_MM,#Provost_MM,31,5
+2,2,24,261,#Angelo_MM,#Angelo_MM #Provost_MM,5,1
+2,2,24,262,#Provost_MM,#Angelo_MM #Provost_MM,8,1
+2,2,24,263,#Angelo_MM,#Angelo_MM #Provost_MM,15,2
+2,2,24,264,#Provost_MM,#Angelo_MM #Provost_MM,22,4
+2,2,24,265,#Angelo_MM,#Angelo_MM #Provost_MM,21,3
+2,2,24,266,#Provost_MM,#Angelo_MM #Provost_MM,19,3
+2,2,24,267,#Angelo_MM,#Angelo_MM #Provost_MM,12,2
+2,2,25,268,#SERVANTS.1_MM,#Angelo_MM #Provost_MM #SERVANTS.1_MM,12,2
+2,2,25,269,#Angelo_MM,#Angelo_MM #Provost_MM #SERVANTS.1_MM,4,1
+2,2,25,270,#Provost_MM,#Angelo_MM #Provost_MM #SERVANTS.1_MM,18,3
+2,2,25,271,#Angelo_MM,#Angelo_MM #Provost_MM #SERVANTS.1_MM,5,1
+2,2,26,272,#Angelo_MM,#Angelo_MM #Provost_MM,20,3
+2,2,27,273,#Provost_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,274,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,9,2
+2,2,27,275,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,14,2
+2,2,27,276,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,4,2
+2,2,27,277,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,45,5
+2,2,27,278,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,279,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,21,3
+2,2,27,280,#Provost_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,2
+2,2,27,281,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,40,5
+2,2,27,282,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,14,2
+2,2,27,283,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,42,5
+2,2,27,284,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,4,1
+2,2,27,285,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,286,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,18,2
+2,2,27,287,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,288,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,6,1
+2,2,27,289,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,9,1
+2,2,27,290,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,25,3
+2,2,27,291,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,292,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,4,1
+2,2,27,293,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,78,10
+2,2,27,294,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,295,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,31,4
+2,2,27,296,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,6,2
+2,2,27,297,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,14,2
+2,2,27,298,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,58,8
+2,2,27,299,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,32,4
+2,2,27,300,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,58,8
+2,2,27,301,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,302,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,82,10
+2,2,27,303,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,4,1
+2,2,27,304,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,48,6
+2,2,27,305,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,33,4
+2,2,27,306,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,307,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,92,14
+2,2,27,308,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,14,2
+2,2,27,309,#Provost_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,310,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,23,3
+2,2,27,311,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,9,1
+2,2,27,312,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,15,2
+2,2,27,313,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,7,1
+2,2,27,314,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,8,1
+2,2,27,315,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,64,8
+2,2,27,316,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,15,3
+2,2,27,317,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,318,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,7,1
+2,2,27,319,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,10,1
+2,2,27,320,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,27,321,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,10,1
+2,2,27,322,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,323,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,50,7
+2,2,27,324,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,325,#Lucio_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,326,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,327,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,12,3
+2,2,27,328,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,9,2
+2,2,27,329,#Angelo_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,5,1
+2,2,27,330,#Isabella_MM,#Angelo_MM #Isabella_MM #Lucio_MM #Provost_MM,3,1
+2,2,28,331,#Angelo_MM,#Angelo_MM,212,27
+2,3,29,332,#Duke_MM,#Duke_MM #Provost_MM,9,1
+2,3,29,333,#Provost_MM,#Duke_MM #Provost_MM,9,1
+2,3,29,334,#Duke_MM,#Duke_MM #Provost_MM,46,6
+2,3,29,335,#Provost_MM,#Duke_MM #Provost_MM,10,1
+2,3,30,336,#Provost_MM,#Duke_MM #Juliet_MM #Provost_MM,45,6
+2,3,30,337,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,4,1
+2,3,30,338,#Provost_MM,#Duke_MM #Juliet_MM #Provost_MM,17,3
+2,3,30,339,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,9,1
+2,3,30,340,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,8,1
+2,3,30,341,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,21,3
+2,3,30,342,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,3,1
+2,3,30,343,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,7,1
+2,3,30,344,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,9,1
+2,3,30,345,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,11,2
+2,3,30,346,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,1,1
+2,3,30,347,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,9,1
+2,3,30,348,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,8,1
+2,3,30,349,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,43,6
+2,3,30,350,#Juliet_MM,#Duke_MM #Juliet_MM #Provost_MM,15,2
+2,3,30,351,#Duke_MM,#Duke_MM #Juliet_MM #Provost_MM,23,4
+2,3,31,352,#Juliet_MM,#Juliet_MM #Provost_MM,19,3
+2,3,31,353,#Provost_MM,#Juliet_MM #Provost_MM,4,1
+2,4,32,354,#Angelo_MM,#Angelo_MM,144,18
+2,4,33,355,#SERVANTS.1_MM,#Angelo_MM #SERVANTS.1_MM,8,1
+2,4,33,356,#Angelo_MM,#Angelo_MM #SERVANTS.1_MM,4,1
+2,4,34,357,#Angelo_MM,#Angelo_MM,80,12
+2,4,35,358,#Angelo_MM,#Angelo_MM #Isabella_MM,4,1
+2,4,35,359,#Isabella_MM,#Angelo_MM #Isabella_MM,7,1
+2,4,35,360,#Angelo_MM,#Angelo_MM #Isabella_MM,19,2
+2,4,35,361,#Isabella_MM,#Angelo_MM #Isabella_MM,6,1
+2,4,35,362,#Angelo_MM,#Angelo_MM #Isabella_MM,20,2
+2,4,35,363,#Isabella_MM,#Angelo_MM #Isabella_MM,3,1
+2,4,35,364,#Angelo_MM,#Angelo_MM #Isabella_MM,1,1
+2,4,35,365,#Isabella_MM,#Angelo_MM #Isabella_MM,21,3
+2,4,35,366,#Angelo_MM,#Angelo_MM #Isabella_MM,61,8
+2,4,35,367,#Isabella_MM,#Angelo_MM #Isabella_MM,10,1
+2,4,35,368,#Angelo_MM,#Angelo_MM #Isabella_MM,41,5
+2,4,35,369,#Isabella_MM,#Angelo_MM #Isabella_MM,12,2
+2,4,35,370,#Angelo_MM,#Angelo_MM #Isabella_MM,16,2
+2,4,35,371,#Isabella_MM,#Angelo_MM #Isabella_MM,3,1
+2,4,35,372,#Angelo_MM,#Angelo_MM #Isabella_MM,45,6
+2,4,35,373,#Isabella_MM,#Angelo_MM #Isabella_MM,22,3
+2,4,35,374,#Angelo_MM,#Angelo_MM #Isabella_MM,17,2
+2,4,35,375,#Isabella_MM,#Angelo_MM #Isabella_MM,44,5
+2,4,35,376,#Angelo_MM,#Angelo_MM #Isabella_MM,21,4
+2,4,35,377,#Isabella_MM,#Angelo_MM #Isabella_MM,16,2
+2,4,35,378,#Angelo_MM,#Angelo_MM #Isabella_MM,43,6
+2,4,35,379,#Isabella_MM,#Angelo_MM #Isabella_MM,1,1
+2,4,35,380,#Angelo_MM,#Angelo_MM #Isabella_MM,15,2
+2,4,35,381,#Isabella_MM,#Angelo_MM #Isabella_MM,1,1
+2,4,35,382,#Angelo_MM,#Angelo_MM #Isabella_MM,88,11
+2,4,35,383,#Isabella_MM,#Angelo_MM #Isabella_MM,49,6
+2,4,35,384,#Angelo_MM,#Angelo_MM #Isabella_MM,5,1
+2,4,35,385,#Isabella_MM,#Angelo_MM #Isabella_MM,23,4
+2,4,35,386,#Angelo_MM,#Angelo_MM #Isabella_MM,14,2
+2,4,35,387,#Isabella_MM,#Angelo_MM #Isabella_MM,18,3
+2,4,35,388,#Angelo_MM,#Angelo_MM #Isabella_MM,23,3
+2,4,35,389,#Isabella_MM,#Angelo_MM #Isabella_MM,36,5
+2,4,35,390,#Angelo_MM,#Angelo_MM #Isabella_MM,4,1
+2,4,35,391,#Isabella_MM,#Angelo_MM #Isabella_MM,17,3
+2,4,35,392,#Angelo_MM,#Angelo_MM #Isabella_MM,5,1
+2,4,35,393,#Isabella_MM,#Angelo_MM #Isabella_MM,47,6
+2,4,35,394,#Angelo_MM,#Angelo_MM #Isabella_MM,73,9
+2,4,35,395,#Isabella_MM,#Angelo_MM #Isabella_MM,17,2
+2,4,35,396,#Angelo_MM,#Angelo_MM #Isabella_MM,5,1
+2,4,35,397,#Isabella_MM,#Angelo_MM #Isabella_MM,15,2
+2,4,35,398,#Angelo_MM,#Angelo_MM #Isabella_MM,9,1
+2,4,35,399,#Isabella_MM,#Angelo_MM #Isabella_MM,21,3
+2,4,35,400,#Angelo_MM,#Angelo_MM #Isabella_MM,10,2
+2,4,35,401,#Isabella_MM,#Angelo_MM #Isabella_MM,43,7
+2,4,35,402,#Angelo_MM,#Angelo_MM #Isabella_MM,133,17
+2,4,36,403,#Isabella_MM,#Isabella_MM,132,17
+3,1,37,404,#Duke_MM,#Claudio_MM #Duke_MM #Provost_MM,9,1
+3,1,37,405,#Claudio_MM,#Claudio_MM #Duke_MM #Provost_MM,19,3
+3,1,37,406,#Duke_MM,#Claudio_MM #Duke_MM #Provost_MM,318,39
+3,1,37,407,#Claudio_MM,#Claudio_MM #Duke_MM #Provost_MM,23,3
+3,1,38,408,#Isabella_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,8,1
+3,1,38,409,#Provost_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,9,1
+3,1,38,410,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,8,1
+3,1,38,411,#Claudio_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,6,1
+3,1,38,412,#Isabella_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,9,1
+3,1,38,413,#Provost_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,8,2
+3,1,38,414,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,5,1
+3,1,38,415,#Provost_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,5,1
+3,1,38,416,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,11,2
+3,1,39,417,#Claudio_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,418,#Isabella_MM,#Claudio_MM #Isabella_MM,40,7
+3,1,39,419,#Claudio_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,420,#Isabella_MM,#Claudio_MM #Isabella_MM,15,2
+3,1,39,421,#Claudio_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,422,#Isabella_MM,#Claudio_MM #Isabella_MM,27,4
+3,1,39,423,#Claudio_MM,#Claudio_MM #Isabella_MM,2,1
+3,1,39,424,#Isabella_MM,#Claudio_MM #Isabella_MM,17,3
+3,1,39,425,#Claudio_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,426,#Isabella_MM,#Claudio_MM #Isabella_MM,22,3
+3,1,39,427,#Claudio_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,428,#Isabella_MM,#Claudio_MM #Isabella_MM,59,8
+3,1,39,429,#Claudio_MM,#Claudio_MM #Isabella_MM,33,5
+3,1,39,430,#Isabella_MM,#Claudio_MM #Isabella_MM,69,9
+3,1,39,431,#Claudio_MM,#Claudio_MM #Isabella_MM,3,1
+3,1,39,432,#Isabella_MM,#Claudio_MM #Isabella_MM,32,5
+3,1,39,433,#Claudio_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,434,#Isabella_MM,#Claudio_MM #Isabella_MM,33,4
+3,1,39,435,#Claudio_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,436,#Isabella_MM,#Claudio_MM #Isabella_MM,18,3
+3,1,39,437,#Claudio_MM,#Claudio_MM #Isabella_MM,3,1
+3,1,39,438,#Isabella_MM,#Claudio_MM #Isabella_MM,7,1
+3,1,39,439,#Claudio_MM,#Claudio_MM #Isabella_MM,36,4
+3,1,39,440,#Isabella_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,441,#Claudio_MM,#Claudio_MM #Isabella_MM,20,3
+3,1,39,442,#Isabella_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,443,#Claudio_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,444,#Isabella_MM,#Claudio_MM #Isabella_MM,5,1
+3,1,39,445,#Claudio_MM,#Claudio_MM #Isabella_MM,106,15
+3,1,39,446,#Isabella_MM,#Claudio_MM #Isabella_MM,2,1
+3,1,39,447,#Claudio_MM,#Claudio_MM #Isabella_MM,26,4
+3,1,39,448,#Isabella_MM,#Claudio_MM #Isabella_MM,89,12
+3,1,39,449,#Claudio_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,39,450,#Isabella_MM,#Claudio_MM #Isabella_MM,25,4
+3,1,39,451,#Claudio_MM,#Claudio_MM #Isabella_MM,4,1
+3,1,40,452,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM,8,1
+3,1,40,453,#Isabella_MM,#Claudio_MM #Duke_MM #Isabella_MM,4,1
+3,1,40,454,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM,26,4
+3,1,40,455,#Isabella_MM,#Claudio_MM #Duke_MM #Isabella_MM,20,3
+3,1,40,456,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM,97,12
+3,1,40,457,#Claudio_MM,#Claudio_MM #Duke_MM #Isabella_MM,23,2
+3,1,40,458,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM,9,2
+3,1,41,459,#Provost_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,4,1
+3,1,41,460,#Duke_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,29,4
+3,1,41,461,#Provost_MM,#Claudio_MM #Duke_MM #Isabella_MM #Provost_MM,3,1
+3,1,42,462,#Duke_MM,#Duke_MM #Isabella_MM,80,10
+3,1,42,463,#Isabella_MM,#Duke_MM #Isabella_MM,55,6
+3,1,42,464,#Duke_MM,#Duke_MM #Isabella_MM,93,11
+3,1,42,465,#Isabella_MM,#Duke_MM #Isabella_MM,22,3
+3,1,42,466,#Duke_MM,#Duke_MM #Isabella_MM,25,4
+3,1,42,467,#Isabella_MM,#Duke_MM #Isabella_MM,13,2
+3,1,42,468,#Duke_MM,#Duke_MM #Isabella_MM,91,12
+3,1,42,469,#Isabella_MM,#Duke_MM #Isabella_MM,9,1
+3,1,42,470,#Duke_MM,#Duke_MM #Isabella_MM,53,6
+3,1,42,471,#Isabella_MM,#Duke_MM #Isabella_MM,35,4
+3,1,42,472,#Duke_MM,#Duke_MM #Isabella_MM,27,3
+3,1,42,473,#Isabella_MM,#Duke_MM #Isabella_MM,5,1
+3,1,42,474,#Duke_MM,#Duke_MM #Isabella_MM,182,21
+3,1,42,475,#Isabella_MM,#Duke_MM #Isabella_MM,19,2
+3,1,42,476,#Duke_MM,#Duke_MM #Isabella_MM,57,7
+3,1,42,477,#Isabella_MM,#Duke_MM #Isabella_MM,11,2
+3,2,43,478,#Elbow_MM,#Elbow_MM #OFFICERS_MM #Pompey_MM,32,4
+3,2,44,479,#Duke_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,6,1
+3,2,44,480,#Pompey_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,47,6
+3,2,44,481,#Elbow_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,9,2
+3,2,44,482,#Duke_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,13,2
+3,2,44,483,#Elbow_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,35,4
+3,2,44,484,#Duke_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,72,9
+3,2,44,485,#Pompey_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,14,2
+3,2,44,486,#Duke_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,31,4
+3,2,44,487,#Elbow_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,36,4
+3,2,44,488,#Duke_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,18,2
+3,2,44,489,#Elbow_MM,#Duke_MM #Elbow_MM #OFFICERS_MM #Pompey_MM,10,1
+3,2,45,490,#Pompey_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,14,2
+3,2,45,491,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,88,9
+3,2,45,492,#Duke_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,6,1
+3,2,45,493,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,11,2
+3,2,45,494,#Pompey_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,16,2
+3,2,45,495,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,33,4
+3,2,45,496,#Pompey_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,3,1
+3,2,45,497,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,17,2
+3,2,45,498,#Elbow_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,8,1
+3,2,45,499,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,47,6
+3,2,45,500,#Pompey_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,10,1
+3,2,45,501,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,37,4
+3,2,45,502,#Duke_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,2,1
+3,2,45,503,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,6,2
+3,2,45,504,#Elbow_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,5,1
+3,2,45,505,#Pompey_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,7,1
+3,2,45,506,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,10,2
+3,2,45,507,#Elbow_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,5,1
+3,2,45,508,#Lucio_MM,#Duke_MM #Elbow_MM #Lucio_MM #OFFICERS_MM #Pompey_MM,5,1
+3,2,46,509,#Lucio_MM,#Duke_MM #Lucio_MM,6,1
+3,2,46,510,#Duke_MM,#Duke_MM #Lucio_MM,9,1
+3,2,46,511,#Lucio_MM,#Duke_MM #Lucio_MM,21,3
+3,2,46,512,#Duke_MM,#Duke_MM #Lucio_MM,10,2
+3,2,46,513,#Lucio_MM,#Duke_MM #Lucio_MM,35,4
+3,2,46,514,#Duke_MM,#Duke_MM #Lucio_MM,5,1
+3,2,46,515,#Lucio_MM,#Duke_MM #Lucio_MM,18,2
+3,2,46,516,#Duke_MM,#Duke_MM #Lucio_MM,11,2
+3,2,46,517,#Lucio_MM,#Duke_MM #Lucio_MM,53,6
+3,2,46,518,#Duke_MM,#Duke_MM #Lucio_MM,6,1
+3,2,46,519,#Lucio_MM,#Duke_MM #Lucio_MM,42,5
+3,2,46,520,#Duke_MM,#Duke_MM #Lucio_MM,7,1
+3,2,46,521,#Lucio_MM,#Duke_MM #Lucio_MM,71,8
+3,2,46,522,#Duke_MM,#Duke_MM #Lucio_MM,16,2
+3,2,46,523,#Lucio_MM,#Duke_MM #Lucio_MM,5,1
+3,2,46,524,#Duke_MM,#Duke_MM #Lucio_MM,3,1
+3,2,46,525,#Lucio_MM,#Duke_MM #Lucio_MM,36,4
+3,2,46,526,#Duke_MM,#Duke_MM #Lucio_MM,5,1
+3,2,46,527,#Lucio_MM,#Duke_MM #Lucio_MM,23,3
+3,2,46,528,#Duke_MM,#Duke_MM #Lucio_MM,7,1
+3,2,46,529,#Lucio_MM,#Duke_MM #Lucio_MM,33,4
+3,2,46,530,#Duke_MM,#Duke_MM #Lucio_MM,7,1
+3,2,46,531,#Lucio_MM,#Duke_MM #Lucio_MM,6,1
+3,2,46,532,#Duke_MM,#Duke_MM #Lucio_MM,71,9
+3,2,46,533,#Lucio_MM,#Duke_MM #Lucio_MM,8,1
+3,2,46,534,#Duke_MM,#Duke_MM #Lucio_MM,10,2
+3,2,46,535,#Lucio_MM,#Duke_MM #Lucio_MM,7,1
+3,2,46,536,#Duke_MM,#Duke_MM #Lucio_MM,60,6
+3,2,46,537,#Lucio_MM,#Duke_MM #Lucio_MM,10,1
+3,2,46,538,#Duke_MM,#Duke_MM #Lucio_MM,13,2
+3,2,46,539,#Lucio_MM,#Duke_MM #Lucio_MM,4,1
+3,2,46,540,#Duke_MM,#Duke_MM #Lucio_MM,29,4
+3,2,46,541,#Lucio_MM,#Duke_MM #Lucio_MM,24,3
+3,2,46,542,#Duke_MM,#Duke_MM #Lucio_MM,5,1
+3,2,46,543,#Lucio_MM,#Duke_MM #Lucio_MM,115,13
+3,2,47,544,#Duke_MM,#Duke_MM,32,5
+3,2,48,545,#Escalus_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,6,1
+3,2,48,546,#Bawd_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,17,2
+3,2,48,547,#Escalus_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,20,3
+3,2,48,548,#Provost_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,11,2
+3,2,48,549,#Bawd_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,52,6
+3,2,48,550,#Escalus_MM,#Bawd_MM #Duke_MM #Escalus_MM #OFFICERS_MM #Provost_MM,24,3
+3,2,49,551,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,37,5
+3,2,49,552,#Provost_MM,#Duke_MM #Escalus_MM #Provost_MM,17,2
+3,2,49,553,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,4,1
+3,2,49,554,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,5,1
+3,2,49,555,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,4,1
+3,2,49,556,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,33,4
+3,2,49,557,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,6,1
+3,2,49,558,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,95,10
+3,2,49,559,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,11,2
+3,2,49,560,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,6,1
+3,2,49,561,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,57,7
+3,2,49,562,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,55,7
+3,2,49,563,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,51,6
+3,2,49,564,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,25,3
+3,2,49,565,#Escalus_MM,#Duke_MM #Escalus_MM #Provost_MM,10,1
+3,2,49,566,#Duke_MM,#Duke_MM #Escalus_MM #Provost_MM,4,1
+3,2,50,567,#Duke_MM,#Duke_MM,128,22
+4,1,51,568,#Boy_MM,#Boy_MM #Mariana_MM,41,6
+4,1,52,569,#Mariana_MM,#Boy_MM #Duke_MM #Mariana_MM,23,3
+4,1,53,570,#Mariana_MM,#Duke_MM #Mariana_MM,34,4
+4,1,53,571,#Duke_MM,#Duke_MM #Mariana_MM,40,5
+4,1,53,572,#Mariana_MM,#Duke_MM #Mariana_MM,12,2
+4,1,54,573,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,30,4
+4,1,54,574,#Mariana_MM,#Duke_MM #Isabella_MM #Mariana_MM,6,1
+4,1,55,575,#Duke_MM,#Duke_MM #Isabella_MM,13,2
+4,1,55,576,#Isabella_MM,#Duke_MM #Isabella_MM,63,8
+4,1,55,577,#Duke_MM,#Duke_MM #Isabella_MM,9,1
+4,1,55,578,#Isabella_MM,#Duke_MM #Isabella_MM,29,4
+4,1,55,579,#Duke_MM,#Duke_MM #Isabella_MM,11,2
+4,1,55,580,#Isabella_MM,#Duke_MM #Isabella_MM,48,6
+4,1,55,581,#Duke_MM,#Duke_MM #Isabella_MM,21,3
+4,1,56,582,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,14,3
+4,1,56,583,#Isabella_MM,#Duke_MM #Isabella_MM #Mariana_MM,5,1
+4,1,56,584,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,8,1
+4,1,56,585,#Mariana_MM,#Duke_MM #Isabella_MM #Mariana_MM,10,1
+4,1,56,586,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,28,4
+4,1,56,587,#Mariana_MM,#Duke_MM #Isabella_MM #Mariana_MM,6,1
+4,1,57,588,#Duke_MM,#Duke_MM,44,6
+4,1,58,589,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,3,1
+4,1,58,590,#Isabella_MM,#Duke_MM #Isabella_MM #Mariana_MM,11,2
+4,1,58,591,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,9,2
+4,1,58,592,#Isabella_MM,#Duke_MM #Isabella_MM #Mariana_MM,18,3
+4,1,58,593,#Mariana_MM,#Duke_MM #Isabella_MM #Mariana_MM,3,1
+4,1,58,594,#Duke_MM,#Duke_MM #Isabella_MM #Mariana_MM,50,6
+4,2,59,595,#Provost_MM,#OFFICERS.1_MM #Pompey_MM #Provost_MM,10,2
+4,2,59,596,#Pompey_MM,#OFFICERS.1_MM #Pompey_MM #Provost_MM,29,3
+4,2,59,597,#Provost_MM,#OFFICERS.1_MM #Pompey_MM #Provost_MM,76,9
+4,2,59,598,#Pompey_MM,#OFFICERS.1_MM #Pompey_MM #Provost_MM,34,4
+4,2,59,599,#Provost_MM,#OFFICERS.1_MM #Pompey_MM #Provost_MM,6,2
+4,2,60,600,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,4,1
+4,2,60,601,#Provost_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,51,6
+4,2,60,602,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,11,2
+4,2,60,603,#Provost_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,12,2
+4,2,61,604,#Pompey_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,29,3
+4,2,61,605,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,4,1
+4,2,61,606,#Pompey_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,42,5
+4,2,61,607,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,5,1
+4,2,61,608,#Pompey_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,1,1
+4,2,61,609,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM,44,5
+4,2,62,610,#Provost_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,3,1
+4,2,62,611,#Pompey_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,24,3
+4,2,62,612,#Provost_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,11,2
+4,2,62,613,#Abhorson_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,11,2
+4,2,62,614,#Pompey_MM,#Abhorson_MM #OFFICERS.1_MM #Pompey_MM #Provost_MM,37,4
+4,2,63,615,#Provost_MM,#OFFICERS.1_MM #Provost_MM,5,1
+4,2,64,616,#Provost_MM,#Provost_MM,18,2
+4,2,65,617,#Provost_MM,#Claudio_MM #OFFICERS.1_MM #Provost_MM,23,3
+4,2,65,618,#Claudio_MM,#Claudio_MM #OFFICERS.1_MM #Provost_MM,21,3
+4,2,65,619,#Provost_MM,#Claudio_MM #OFFICERS.1_MM #Provost_MM,19,4
+4,2,66,620,#Provost_MM,#Provost_MM,16,3
+4,2,67,621,#Provost_MM,#Duke_MM #Provost_MM,2,1
+4,2,67,622,#Duke_MM,#Duke_MM #Provost_MM,17,2
+4,2,67,623,#Provost_MM,#Duke_MM #Provost_MM,5,1
+4,2,67,624,#Duke_MM,#Duke_MM #Provost_MM,2,1
+4,2,67,625,#Provost_MM,#Duke_MM #Provost_MM,1,1
+4,2,67,626,#Duke_MM,#Duke_MM #Provost_MM,7,1
+4,2,67,627,#Provost_MM,#Duke_MM #Provost_MM,5,1
+4,2,67,628,#Duke_MM,#Duke_MM #Provost_MM,4,1
+4,2,67,629,#Provost_MM,#Duke_MM #Provost_MM,5,1
+4,2,67,630,#Duke_MM,#Duke_MM #Provost_MM,59,8
+4,2,68,631,#Duke_MM,#Duke_MM,15,2
+4,2,69,632,#Duke_MM,#Duke_MM #Provost_MM,17,3
+4,2,69,633,#Provost_MM,#Duke_MM #Provost_MM,16,2
+4,2,69,634,#Duke_MM,#Duke_MM #Provost_MM,12,2
+4,2,69,635,#Provost_MM,#Duke_MM #Provost_MM,3,1
+4,2,69,636,#Duke_MM,#Duke_MM #Provost_MM,14,2
+4,2,69,637,#Provost_MM,#Duke_MM #Provost_MM,33,6
+4,2,70,638,#Provost_MM,#Duke_MM #Messenger_MM #Provost_MM,5,1
+4,2,70,639,#Duke_MM,#Duke_MM #Messenger_MM #Provost_MM,5,1
+4,2,70,640,#Messenger_MM,#Duke_MM #Messenger_MM #Provost_MM,41,5
+4,2,70,641,#Provost_MM,#Duke_MM #Messenger_MM #Provost_MM,4,1
+4,2,71,642,#Duke_MM,#Duke_MM #Provost_MM,48,7
+4,2,71,643,#Provost_MM,#Duke_MM #Provost_MM,27,4
+4,2,71,644,#Duke_MM,#Duke_MM #Provost_MM,4,1
+4,2,71,645,#Provost_MM,#Duke_MM #Provost_MM,73,8
+4,2,71,646,#Duke_MM,#Duke_MM #Provost_MM,12,2
+4,2,71,647,#Provost_MM,#Duke_MM #Provost_MM,17,2
+4,2,71,648,#Duke_MM,#Duke_MM #Provost_MM,29,3
+4,2,71,649,#Provost_MM,#Duke_MM #Provost_MM,25,3
+4,2,71,650,#Duke_MM,#Duke_MM #Provost_MM,4,1
+4,2,71,651,#Provost_MM,#Duke_MM #Provost_MM,7,1
+4,2,71,652,#Duke_MM,#Duke_MM #Provost_MM,13,2
+4,2,71,653,#Provost_MM,#Duke_MM #Provost_MM,30,4
+4,2,71,654,#Duke_MM,#Duke_MM #Provost_MM,3,1
+4,2,71,655,#Provost_MM,#Duke_MM #Provost_MM,61,7
+4,2,71,656,#Duke_MM,#Duke_MM #Provost_MM,89,10
+4,2,71,657,#Provost_MM,#Duke_MM #Provost_MM,4,1
+4,2,71,658,#Duke_MM,#Duke_MM #Provost_MM,4,1
+4,2,71,659,#Provost_MM,#Duke_MM #Provost_MM,38,5
+4,2,71,660,#Duke_MM,#Duke_MM #Provost_MM,29,4
+4,2,71,661,#Provost_MM,#Duke_MM #Provost_MM,10,2
+4,2,71,662,#Duke_MM,#Duke_MM #Provost_MM,67,7
+4,2,71,663,#Provost_MM,#Duke_MM #Provost_MM,9,1
+4,2,71,664,#Duke_MM,#Duke_MM #Provost_MM,10,2
+4,2,71,665,#Provost_MM,#Duke_MM #Provost_MM,6,1
+4,2,71,666,#Duke_MM,#Duke_MM #Provost_MM,17,3
+4,2,71,667,#Provost_MM,#Duke_MM #Provost_MM,6,1
+4,2,71,668,#Duke_MM,#Duke_MM #Provost_MM,65,8
+4,2,71,669,#Provost_MM,#Duke_MM #Provost_MM,4,1
+4,2,71,670,#Duke_MM,#Duke_MM #Provost_MM,132,15
+4,3,72,671,#Pompey_MM,#Pompey_MM,164,20
+4,3,73,672,#Abhorson_MM,#Abhorson_MM #Pompey_MM,4,1
+4,3,73,673,#Pompey_MM,#Abhorson_MM #Pompey_MM,10,2
+4,3,73,674,#Abhorson_MM,#Abhorson_MM #Pompey_MM,3,1
+4,3,74,675,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,13,2
+4,3,74,676,#Pompey_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,18,3
+4,3,74,677,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,7,2
+4,3,74,678,#Abhorson_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,9,2
+4,3,74,679,#Pompey_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,11,2
+4,3,74,680,#Abhorson_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,8,1
+4,3,74,681,#Pompey_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,12,2
+4,3,74,682,#Abhorson_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,7,1
+4,3,74,683,#Pompey_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,3,1
+4,3,74,684,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,8,2
+4,3,74,685,#Abhorson_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,17,2
+4,3,74,686,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,14,2
+4,3,74,687,#Pompey_MM,#Abhorson_MM #Barnardine_MM #Pompey_MM,25,3
+4,3,75,688,#Abhorson_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,14,2
+4,3,75,689,#Duke_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,25,4
+4,3,75,690,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,38,4
+4,3,75,691,#Duke_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,17,3
+4,3,75,692,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,11,2
+4,3,75,693,#Duke_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,3,1
+4,3,75,694,#Barnardine_MM,#Abhorson_MM #Barnardine_MM #Duke_MM #Pompey_MM,21,2
+4,3,76,695,#Duke_MM,#Abhorson_MM #Duke_MM #Pompey_MM,16,2
+4,3,77,696,#Provost_MM,#Duke_MM #Provost_MM,8,1
+4,3,77,697,#Duke_MM,#Duke_MM #Provost_MM,17,3
+4,3,77,698,#Provost_MM,#Duke_MM #Provost_MM,57,8
+4,3,77,699,#Duke_MM,#Duke_MM #Provost_MM,35,5
+4,3,77,700,#Provost_MM,#Duke_MM #Provost_MM,33,5
+4,3,77,701,#Duke_MM,#Duke_MM #Provost_MM,31,6
+4,3,77,702,#Provost_MM,#Duke_MM #Provost_MM,5,1
+4,3,77,703,#Duke_MM,#Duke_MM #Provost_MM,8,1
+4,3,78,704,#Duke_MM,#Duke_MM,64,9
+4,3,79,705,#Provost_MM,#Duke_MM #Provost_MM,8,1
+4,3,79,706,#Duke_MM,#Duke_MM #Provost_MM,22,3
+4,3,79,707,#Provost_MM,#Duke_MM #Provost_MM,4,1
+4,3,80,708,#Isabella_MM,#Duke_MM #Isabella_MM,4,1
+4,3,80,709,#Duke_MM,#Duke_MM #Isabella_MM,37,5
+4,3,80,710,#Isabella_MM,#Duke_MM #Isabella_MM,4,1
+4,3,80,711,#Duke_MM,#Duke_MM #Isabella_MM,8,1
+4,3,80,712,#Isabella_MM,#Duke_MM #Isabella_MM,17,2
+4,3,80,713,#Duke_MM,#Duke_MM #Isabella_MM,16,2
+4,3,80,714,#Isabella_MM,#Duke_MM #Isabella_MM,6,1
+4,3,80,715,#Duke_MM,#Duke_MM #Isabella_MM,12,2
+4,3,80,716,#Isabella_MM,#Duke_MM #Isabella_MM,10,1
+4,3,80,717,#Duke_MM,#Duke_MM #Isabella_MM,8,1
+4,3,80,718,#Isabella_MM,#Duke_MM #Isabella_MM,9,2
+4,3,80,719,#Duke_MM,#Duke_MM #Isabella_MM,111,16
+4,3,80,720,#Isabella_MM,#Duke_MM #Isabella_MM,5,1
+4,3,80,721,#Duke_MM,#Duke_MM #Isabella_MM,98,12
+4,3,81,722,#Lucio_MM,#Duke_MM #Isabella_MM #Lucio_MM,6,1
+4,3,81,723,#Duke_MM,#Duke_MM #Isabella_MM #Lucio_MM,3,1
+4,3,81,724,#Lucio_MM,#Duke_MM #Isabella_MM #Lucio_MM,79,8
+4,3,82,725,#Duke_MM,#Duke_MM #Lucio_MM,19,3
+4,3,82,726,#Lucio_MM,#Duke_MM #Lucio_MM,20,2
+4,3,82,727,#Duke_MM,#Duke_MM #Lucio_MM,9,2
+4,3,82,728,#Lucio_MM,#Duke_MM #Lucio_MM,16,2
+4,3,82,729,#Duke_MM,#Duke_MM #Lucio_MM,20,3
+4,3,82,730,#Lucio_MM,#Duke_MM #Lucio_MM,11,2
+4,3,82,731,#Duke_MM,#Duke_MM #Lucio_MM,5,1
+4,3,82,732,#Lucio_MM,#Duke_MM #Lucio_MM,21,3
+4,3,82,733,#Duke_MM,#Duke_MM #Lucio_MM,10,2
+4,3,82,734,#Lucio_MM,#Duke_MM #Lucio_MM,33,3
+4,4,83,735,#Escalus_MM,#Angelo_MM #Escalus_MM,8,2
+4,4,83,736,#Angelo_MM,#Angelo_MM #Escalus_MM,32,4
+4,4,83,737,#Escalus_MM,#Angelo_MM #Escalus_MM,3,1
+4,4,83,738,#Angelo_MM,#Angelo_MM #Escalus_MM,27,4
+4,4,83,739,#Escalus_MM,#Angelo_MM #Escalus_MM,29,4
+4,4,83,740,#Angelo_MM,#Angelo_MM #Escalus_MM,32,4
+4,4,83,741,#Escalus_MM,#Angelo_MM #Escalus_MM,6,1
+4,4,83,742,#Angelo_MM,#Angelo_MM #Escalus_MM,2,1
+4,4,84,743,#Angelo_MM,#Angelo_MM,123,15
+4,5,85,744,#Duke_MM,#Duke_MM #FriarPeter_MM,78,10
+4,5,85,745,#FriarPeter_MM,#Duke_MM #FriarPeter_MM,5,1
+4,5,86,746,#Duke_MM,#Duke_MM #Varrius_MM,26,3
+4,6,87,747,#Isabella_MM,#Isabella_MM #Mariana_MM,34,4
+4,6,87,748,#Mariana_MM,#Isabella_MM #Mariana_MM,4,1
+4,6,87,749,#Isabella_MM,#Isabella_MM #Mariana_MM,30,4
+4,6,87,750,#Mariana_MM,#Isabella_MM #Mariana_MM,4,1
+4,6,88,751,#Isabella_MM,#FriarPeter_MM #Isabella_MM #Mariana_MM,6,1
+4,6,88,752,#FriarPeter_MM,#FriarPeter_MM #Isabella_MM #Mariana_MM,49,7
+5,1,89,753,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,17,3
+5,1,89,754,#Angelo_MM #Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,7,1
+5,1,89,755,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,35,5
+5,1,89,756,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,89,757,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,77,10
+5,1,90,758,#FriarPeter_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,1
+5,1,90,759,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,47,6
+5,1,90,760,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,21,3
+5,1,90,761,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,38,6
+5,1,90,762,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,26,3
+5,1,90,763,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,90,764,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,1
+5,1,90,765,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,40,6
+5,1,90,766,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,90,767,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,32,4
+5,1,90,768,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,13,2
+5,1,90,769,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,93,13
+5,1,90,770,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,33,5
+5,1,90,771,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,34,5
+5,1,90,772,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,15,3
+5,1,90,773,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,38,6
+5,1,90,774,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,29,4
+5,1,90,775,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,90,776,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,90,777,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,2
+5,1,90,778,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,25,4
+5,1,90,779,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,90,780,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,1
+5,1,90,781,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,7,1
+5,1,90,782,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,1,1
+5,1,90,783,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,16,2
+5,1,90,784,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,7,2
+5,1,90,785,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,90,786,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,2
+5,1,90,787,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,5,1
+5,1,90,788,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,93,12
+5,1,90,789,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,90,790,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,1
+5,1,90,791,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,80,11
+5,1,90,792,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,41,7
+5,1,90,793,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,43,5
+5,1,90,794,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,1
+5,1,91,795,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,1
+5,1,91,796,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,37,4
+5,1,91,797,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,24,3
+5,1,91,798,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,21,3
+5,1,91,799,#FriarPeter_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,43,6
+5,1,91,800,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,91,801,#FriarPeter_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,37,5
+5,1,91,802,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,91,803,#FriarPeter_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,99,13
+5,1,91,804,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #OFFICERS_MM #Provost_MM #Varrius_MM,39,6
+5,1,92,805,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,92,806,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,92,807,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,92,808,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,809,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,92,810,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,811,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,812,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,813,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,2
+5,1,92,814,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,17,2
+5,1,92,815,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,13,2
+5,1,92,816,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,817,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,32,4
+5,1,92,818,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,11,1
+5,1,92,819,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,2
+5,1,92,820,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,821,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,7,1
+5,1,92,822,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,44,6
+5,1,92,823,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,5,1
+5,1,92,824,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,92,825,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,5,1
+5,1,92,826,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,26,3
+5,1,92,827,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,9,1
+5,1,92,828,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,61,8
+5,1,92,829,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,92,830,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,831,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,832,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,92,833,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,70,10
+5,1,92,834,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,77,11
+5,1,92,835,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,53,7
+5,1,92,836,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,80,13
+5,1,92,837,#FriarPeter_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,30,4
+5,1,92,838,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,93,839,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,45,7
+5,1,93,840,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,6,1
+5,1,94,841,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,16,2
+5,1,94,842,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,22,3
+5,1,94,843,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,23,3
+5,1,94,844,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,7,1
+5,1,94,845,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,28,4
+5,1,94,846,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,8,1
+5,1,94,847,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,2,1
+5,1,94,848,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,18,3
+5,1,94,849,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,8,1
+5,1,94,850,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Escalus_MM #FriarPeter_MM #Lucio_MM #Mariana_MM #OFFICERS_MM #Varrius_MM,9,1
+5,1,95,851,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,12,2
+5,1,95,852,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,13,2
+5,1,95,853,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,95,854,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,1,1
+5,1,95,855,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,17,3
+5,1,95,856,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,2,1
+5,1,95,857,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,95,858,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,26,3
+5,1,95,859,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,95,860,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,55,7
+5,1,95,861,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,1
+5,1,95,862,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,73,10
+5,1,95,863,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,79,10
+5,1,95,864,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,9,2
+5,1,95,865,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,18,2
+5,1,95,866,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,12,2
+5,1,95,867,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,22,3
+5,1,95,868,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,14,2
+5,1,95,869,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,95,870,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,22,3
+5,1,95,871,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,24,3
+5,1,95,872,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,15,2
+5,1,95,873,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,10,2
+5,1,95,874,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,11,2
+5,1,95,875,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,44,6
+5,1,95,876,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,95,877,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,95,878,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,41,5
+5,1,95,879,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,36,5
+5,1,95,880,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,95,881,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,48,7
+5,1,95,882,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,60,9
+5,1,95,883,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,11,3
+5,1,95,884,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,95,885,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,23,4
+5,1,96,886,#Escalus_MM,#ATTENDANTS_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Isabella_MM #Lucio_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,15,2
+5,1,96,887,#Duke_MM,#ATTENDANTS_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Isabella_MM #Lucio_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,31,5
+5,1,96,888,#Isabella_MM,#ATTENDANTS_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Isabella_MM #Lucio_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,15,3
+5,1,96,889,#Duke_MM,#ATTENDANTS_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Isabella_MM #Lucio_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,106,14
+5,1,96,890,#Isabella_MM,#ATTENDANTS_MM #CITIZENS_MM #Duke_MM #Escalus_MM #Isabella_MM #Lucio_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,4,1
+5,1,97,891,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,117,21
+5,1,97,892,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,15,2
+5,1,97,893,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,61,8
+5,1,97,894,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,12,2
+5,1,97,895,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,6,1
+5,1,97,896,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,97,897,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,15,3
+5,1,97,898,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,29,3
+5,1,97,899,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,30,4
+5,1,97,900,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,53,7
+5,1,97,901,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,5,1
+5,1,97,902,#Isabella_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,86,12
+5,1,97,903,#Mariana_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,97,904,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,25,4
+5,1,97,905,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,97,906,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,8,1
+5,1,97,907,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,9,1
+5,1,97,908,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,13,2
+5,1,97,909,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,40,6
+5,1,97,910,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,2,1
+5,1,97,911,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,97,912,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,17,2
+5,1,98,913,#Escalus_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,32,4
+5,1,98,914,#Angelo_MM,#ATTENDANTS_MM #Angelo_MM #CITIZENS_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Varrius_MM,33,4
+5,1,99,915,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,4,1
+5,1,99,916,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,3,1
+5,1,99,917,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,68,9
+5,1,99,918,#Provost_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,23,3
+5,1,99,919,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,115,16
+5,1,99,920,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,32,3
+5,1,99,921,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,52,7
+5,1,99,922,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,33,4
+5,1,99,923,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,27,4
+5,1,99,924,#Lucio_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,12,2
+5,1,99,925,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Lucio_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #OFFICERS_MM #Provost_MM #Varrius_MM,5,1
+5,1,100,926,#Duke_MM,#ATTENDANTS_MM #Angelo_MM #Barnardine_MM #CITIZENS_MM #Claudio_MM #Duke_MM #Escalus_MM #FriarPeter_MM #Isabella_MM #Juliet_MM #Mariana_MM #OFFICERS.0.1_MM #OFFICERS.0.2_MM #Provost_MM #Varrius_MM,116,15

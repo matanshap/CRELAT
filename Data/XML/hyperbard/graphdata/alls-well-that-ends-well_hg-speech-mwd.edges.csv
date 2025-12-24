@@ -1,0 +1,951 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,11,2
+1,1,1,2,#Bertram_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,28,4
+1,1,1,3,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,48,5
+1,1,1,4,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,8,2
+1,1,1,5,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,31,4
+1,1,1,6,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,61,7
+1,1,1,7,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,9,2
+1,1,1,8,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,19,2
+1,1,1,9,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,31,4
+1,1,1,10,#Bertram_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,10,2
+1,1,1,11,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,4,1
+1,1,1,12,#Bertram_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,6,1
+1,1,1,13,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,15,2
+1,1,1,14,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,66,9
+1,1,1,15,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,7,2
+1,1,1,16,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,53,6
+1,1,1,17,#Helen_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,11,1
+1,1,1,18,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,15,2
+1,1,1,19,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,14,2
+1,1,1,20,#Bertram_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,6,1
+1,1,1,21,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,4,1
+1,1,1,22,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,95,12
+1,1,1,23,#Lafew_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,10,2
+1,1,1,24,#Countess_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,5,1
+1,1,1,25,#Bertram_AWW,#Bertram_AWW #Countess_AWW #Helen_AWW #Lafew_AWW,14,2
+1,1,2,26,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Lafew_AWW,12,2
+1,1,2,27,#Lafew_AWW,#Bertram_AWW #Helen_AWW #Lafew_AWW,11,2
+1,1,3,28,#Helen_AWW,#Helen_AWW,163,20
+1,1,4,29,#Helen_AWW,#Helen_AWW #Parolles_AWW,62,7
+1,1,4,30,#Parolles_AWW,#Helen_AWW #Parolles_AWW,4,1
+1,1,4,31,#Helen_AWW,#Helen_AWW #Parolles_AWW,3,1
+1,1,4,32,#Parolles_AWW,#Helen_AWW #Parolles_AWW,1,1
+1,1,4,33,#Helen_AWW,#Helen_AWW #Parolles_AWW,2,1
+1,1,4,34,#Parolles_AWW,#Helen_AWW #Parolles_AWW,5,1
+1,1,4,35,#Helen_AWW,#Helen_AWW #Parolles_AWW,27,3
+1,1,4,36,#Parolles_AWW,#Helen_AWW #Parolles_AWW,3,1
+1,1,4,37,#Helen_AWW,#Helen_AWW #Parolles_AWW,20,3
+1,1,4,38,#Parolles_AWW,#Helen_AWW #Parolles_AWW,15,2
+1,1,4,39,#Helen_AWW,#Helen_AWW #Parolles_AWW,19,3
+1,1,4,40,#Parolles_AWW,#Helen_AWW #Parolles_AWW,90,11
+1,1,4,41,#Helen_AWW,#Helen_AWW #Parolles_AWW,13,2
+1,1,4,42,#Parolles_AWW,#Helen_AWW #Parolles_AWW,133,15
+1,1,4,43,#Helen_AWW,#Helen_AWW #Parolles_AWW,12,2
+1,1,4,44,#Parolles_AWW,#Helen_AWW #Parolles_AWW,118,13
+1,1,4,45,#Helen_AWW,#Helen_AWW #Parolles_AWW,91,13
+1,1,4,46,#Parolles_AWW,#Helen_AWW #Parolles_AWW,4,1
+1,1,4,47,#Helen_AWW,#Helen_AWW #Parolles_AWW,6,1
+1,1,4,48,#Parolles_AWW,#Helen_AWW #Parolles_AWW,2,1
+1,1,4,49,#Helen_AWW,#Helen_AWW #Parolles_AWW,47,6
+1,1,5,50,#Page_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,7,1
+1,1,5,51,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,15,2
+1,1,5,52,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,9,2
+1,1,5,53,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,3,1
+1,1,5,54,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,5,1
+1,1,5,55,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,3,1
+1,1,5,56,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,15,2
+1,1,5,57,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,4,1
+1,1,5,58,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,7,1
+1,1,5,59,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,4,1
+1,1,5,60,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,8,1
+1,1,5,61,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,3,1
+1,1,5,62,#Helen_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,33,4
+1,1,5,63,#Parolles_AWW,#Helen_AWW #Page_AWW #Parolles_AWW,84,10
+1,1,6,64,#Helen_AWW,#Helen_AWW,116,14
+1,2,7,65,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW,18,3
+1,2,8,66,#ATTENDANTS.KING.0.1_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING_AWW #King_AWW,4,1
+1,2,8,67,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING_AWW #King_AWW,41,6
+1,2,8,68,#ATTENDANTS.KING.0.1_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING_AWW #King_AWW,14,3
+1,2,8,69,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING_AWW #King_AWW,32,5
+1,2,9,70,#ATTENDANTS.KING.0.2_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #King_AWW,16,3
+1,2,10,71,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,4,1
+1,2,10,72,#ATTENDANTS.KING.0.1_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,10,2
+1,2,10,73,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,28,4
+1,2,10,74,#Bertram_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,7,1
+1,2,10,75,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,199,25
+1,2,10,76,#Bertram_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,25,4
+1,2,10,77,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,124,16
+1,2,10,78,#ATTENDANTS.KING.0.2_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,13,2
+1,2,10,79,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,23,3
+1,2,10,80,#Bertram_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,6,1
+1,2,10,81,#King_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,36,5
+1,2,10,82,#Bertram_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Lafew_AWW #Parolles_AWW,3,1
+1,3,11,83,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,10,2
+1,3,11,84,#Steward_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,42,5
+1,3,11,85,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,47,6
+1,3,11,86,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,11,2
+1,3,11,87,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,2,1
+1,3,11,88,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,41,4
+1,3,11,89,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,6,1
+1,3,11,90,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,9,1
+1,3,11,91,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,3,1
+1,3,11,92,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,34,4
+1,3,11,93,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,8,1
+1,3,11,94,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,22,3
+1,3,11,95,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,6,1
+1,3,11,96,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,11,2
+1,3,11,97,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,5,1
+1,3,11,98,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,24,3
+1,3,11,99,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,6,1
+1,3,11,100,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,16,2
+1,3,11,101,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,6,1
+1,3,11,102,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,137,14
+1,3,11,103,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,9,2
+1,3,11,104,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,34,6
+1,3,11,105,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,10,2
+1,3,11,106,#Steward_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,18,2
+1,3,11,107,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,12,2
+1,3,11,108,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,61,10
+1,3,11,109,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,10,2
+1,3,11,110,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,73,8
+1,3,11,111,#Countess_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,11,2
+1,3,11,112,#Fool_AWW,#Countess_AWW #Fool_AWW #Steward_AWW,50,6
+1,3,12,113,#Countess_AWW,#Countess_AWW #Steward_AWW,2,1
+1,3,12,114,#Steward_AWW,#Countess_AWW #Steward_AWW,8,2
+1,3,12,115,#Countess_AWW,#Countess_AWW #Steward_AWW,43,5
+1,3,12,116,#Steward_AWW,#Countess_AWW #Steward_AWW,140,16
+1,3,12,117,#Countess_AWW,#Countess_AWW #Steward_AWW,54,7
+1,3,13,118,#Countess_AWW,#Countess_AWW #Helen_AWW,81,9
+1,3,13,119,#Helen_AWW,#Countess_AWW #Helen_AWW,5,1
+1,3,13,120,#Countess_AWW,#Countess_AWW #Helen_AWW,9,1
+1,3,13,121,#Helen_AWW,#Countess_AWW #Helen_AWW,3,1
+1,3,13,122,#Countess_AWW,#Countess_AWW #Helen_AWW,112,15
+1,3,13,123,#Helen_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,124,#Countess_AWW,#Countess_AWW #Helen_AWW,6,1
+1,3,13,125,#Helen_AWW,#Countess_AWW #Helen_AWW,48,7
+1,3,13,126,#Countess_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,127,#Helen_AWW,#Countess_AWW #Helen_AWW,56,6
+1,3,13,128,#Countess_AWW,#Countess_AWW #Helen_AWW,157,19
+1,3,13,129,#Helen_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,130,#Countess_AWW,#Countess_AWW #Helen_AWW,5,1
+1,3,13,131,#Helen_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,132,#Countess_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,133,#Helen_AWW,#Countess_AWW #Helen_AWW,6,1
+1,3,13,134,#Countess_AWW,#Countess_AWW #Helen_AWW,31,4
+1,3,13,135,#Helen_AWW,#Countess_AWW #Helen_AWW,215,27
+1,3,13,136,#Countess_AWW,#Countess_AWW #Helen_AWW,12,2
+1,3,13,137,#Helen_AWW,#Countess_AWW #Helen_AWW,3,1
+1,3,13,138,#Countess_AWW,#Countess_AWW #Helen_AWW,3,2
+1,3,13,139,#Helen_AWW,#Countess_AWW #Helen_AWW,78,11
+1,3,13,140,#Countess_AWW,#Countess_AWW #Helen_AWW,9,1
+1,3,13,141,#Helen_AWW,#Countess_AWW #Helen_AWW,29,4
+1,3,13,142,#Countess_AWW,#Countess_AWW #Helen_AWW,56,8
+1,3,13,143,#Helen_AWW,#Countess_AWW #Helen_AWW,60,9
+1,3,13,144,#Countess_AWW,#Countess_AWW #Helen_AWW,4,1
+1,3,13,145,#Helen_AWW,#Countess_AWW #Helen_AWW,3,1
+1,3,13,146,#Countess_AWW,#Countess_AWW #Helen_AWW,51,6
+2,1,14,147,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,38,6
+2,1,14,148,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,15,3
+2,1,14,149,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,80,10
+2,1,14,150,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,7,1
+2,1,14,151,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,26,4
+2,1,14,152,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,5,1
+2,1,14,153,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,5,1
+2,1,14,154,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,10,1
+2,1,14,155,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,6,1
+2,1,14,156,#LORDS.DUMAINE.2_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,4,1
+2,1,14,157,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,7,1
+2,1,14,158,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,19,3
+2,1,14,159,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,10,1
+2,1,14,160,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,35,4
+2,1,14,161,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,5,1
+2,1,14,162,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,3,1
+2,1,14,163,#LORDS.DUMAINE.2_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,7,1
+2,1,14,164,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,11,2
+2,1,14,165,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,2,1
+2,1,14,166,#LORDS.DUMAINE.2_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,3,1
+2,1,14,167,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,58,7
+2,1,14,168,#LORDS.DUMAINE.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,4,1
+2,1,14,169,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,7,1
+2,1,15,170,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Parolles_AWW,4,1
+2,1,15,171,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Parolles_AWW,3,1
+2,1,15,172,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Parolles_AWW,73,9
+2,1,15,173,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Parolles_AWW,5,1
+2,1,15,174,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #King_AWW #Parolles_AWW,9,2
+2,1,16,175,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,9,1
+2,1,16,176,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,6,1
+2,1,16,177,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,31,4
+2,1,16,178,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,16,2
+2,1,16,179,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,16,3
+2,1,16,180,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,1,1
+2,1,16,181,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,76,10
+2,1,16,182,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,4,1
+2,1,16,183,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,75,9
+2,1,16,184,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,26,4
+2,1,16,185,#Lafew_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,10,2
+2,1,16,186,#King_AWW,#ATTENDANTS.KING_AWW #King_AWW #Lafew_AWW,7,1
+2,1,17,187,#Lafew_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW #Lafew_AWW,4,1
+2,1,17,188,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW #Lafew_AWW,5,1
+2,1,17,189,#Lafew_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW #Lafew_AWW,38,5
+2,1,18,190,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,8,1
+2,1,18,191,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,17,3
+2,1,18,192,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,3,1
+2,1,18,193,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,95,12
+2,1,18,194,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,77,11
+2,1,18,195,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,32,4
+2,1,18,196,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,47,5
+2,1,18,197,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,88,11
+2,1,18,198,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,27,3
+2,1,18,199,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,93,11
+2,1,18,200,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,11,2
+2,1,18,201,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,67,9
+2,1,18,202,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,9,2
+2,1,18,203,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,31,5
+2,1,18,204,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,84,12
+2,1,18,205,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,33,4
+2,1,18,206,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,3,1
+2,1,18,207,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,6,1
+2,1,18,208,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,9,1
+2,1,18,209,#Helen_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,65,8
+2,1,18,210,#King_AWW,#ATTENDANTS.KING_AWW #Helen_AWW #King_AWW,84,10
+2,2,19,211,#Countess_AWW,#Countess_AWW #Fool_AWW,14,2
+2,2,19,212,#Fool_AWW,#Countess_AWW #Fool_AWW,18,2
+2,2,19,213,#Countess_AWW,#Countess_AWW #Fool_AWW,21,3
+2,2,19,214,#Fool_AWW,#Countess_AWW #Fool_AWW,65,7
+2,2,19,215,#Countess_AWW,#Countess_AWW #Fool_AWW,9,2
+2,2,19,216,#Fool_AWW,#Countess_AWW #Fool_AWW,19,3
+2,2,19,217,#Countess_AWW,#Countess_AWW #Fool_AWW,8,1
+2,2,19,218,#Fool_AWW,#Countess_AWW #Fool_AWW,71,7
+2,2,19,219,#Countess_AWW,#Countess_AWW #Fool_AWW,12,2
+2,2,19,220,#Fool_AWW,#Countess_AWW #Fool_AWW,13,2
+2,2,19,221,#Countess_AWW,#Countess_AWW #Fool_AWW,14,2
+2,2,19,222,#Fool_AWW,#Countess_AWW #Fool_AWW,39,4
+2,2,19,223,#Countess_AWW,#Countess_AWW #Fool_AWW,30,3
+2,2,19,224,#Fool_AWW,#Countess_AWW #Fool_AWW,14,2
+2,2,19,225,#Countess_AWW,#Countess_AWW #Fool_AWW,11,2
+2,2,19,226,#Fool_AWW,#Countess_AWW #Fool_AWW,8,1
+2,2,19,227,#Countess_AWW,#Countess_AWW #Fool_AWW,11,2
+2,2,19,228,#Fool_AWW,#Countess_AWW #Fool_AWW,11,1
+2,2,19,229,#Countess_AWW,#Countess_AWW #Fool_AWW,8,1
+2,2,19,230,#Fool_AWW,#Countess_AWW #Fool_AWW,6,1
+2,2,19,231,#Countess_AWW,#Countess_AWW #Fool_AWW,39,4
+2,2,19,232,#Fool_AWW,#Countess_AWW #Fool_AWW,23,2
+2,2,19,233,#Countess_AWW,#Countess_AWW #Fool_AWW,16,2
+2,2,19,234,#Fool_AWW,#Countess_AWW #Fool_AWW,9,1
+2,2,19,235,#Countess_AWW,#Countess_AWW #Fool_AWW,29,4
+2,2,19,236,#Fool_AWW,#Countess_AWW #Fool_AWW,5,1
+2,2,19,237,#Countess_AWW,#Countess_AWW #Fool_AWW,8,1
+2,2,19,238,#Fool_AWW,#Countess_AWW #Fool_AWW,8,1
+2,2,19,239,#Countess_AWW,#Countess_AWW #Fool_AWW,3,1
+2,3,20,240,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,43,6
+2,3,20,241,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,15,2
+2,3,20,242,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,3,1
+2,3,20,243,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,6,1
+2,3,20,244,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,8,1
+2,3,20,245,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,7,1
+2,3,20,246,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,20,247,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,5,1
+2,3,20,248,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,7,1
+2,3,20,249,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,20,250,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,8,1
+2,3,20,251,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,5,1
+2,3,20,252,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,9,1
+2,3,20,253,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,11,1
+2,3,20,254,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,17,2
+2,3,20,255,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,10,2
+2,3,20,256,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,9,1
+2,3,20,257,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,12,2
+2,3,20,258,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,30,4
+2,3,20,259,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,20,260,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,20,261,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,20,262,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,28,4
+2,3,20,263,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,2,1
+2,3,21,264,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #Lafew_AWW #Parolles_AWW,12,2
+2,3,21,265,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #Lafew_AWW #Parolles_AWW,27,3
+2,3,21,266,#Parolles_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #Lafew_AWW #Parolles_AWW,7,1
+2,3,21,267,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #Lafew_AWW #Parolles_AWW,5,1
+2,3,21,268,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #Lafew_AWW #Parolles_AWW,42,6
+2,3,22,269,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,42,5
+2,3,22,270,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,18,2
+2,3,22,271,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,21,3
+2,3,22,272,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,12,2
+2,3,22,273,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,10,2
+2,3,22,274,#LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,8,1
+2,3,22,275,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,55,8
+2,3,22,276,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,14,2
+2,3,22,277,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,26,4
+2,3,22,278,#LORDS.COURT.1_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,3,1
+2,3,22,279,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,7,2
+2,3,22,280,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,13,2
+2,3,22,281,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,30,4
+2,3,22,282,#LORDS.COURT.2_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,5,1
+2,3,22,283,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,13,2
+2,3,22,284,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,27,3
+2,3,22,285,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,33,4
+2,3,22,286,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,22,3
+2,3,22,287,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,18,2
+2,3,22,288,#LORDS.COURT.4_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,6,1
+2,3,22,289,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,29,3
+2,3,22,290,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,26,3
+2,3,22,291,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,9,1
+2,3,22,292,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,24,3
+2,3,22,293,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,10,3
+2,3,22,294,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,14,2
+2,3,22,295,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,10,1
+2,3,22,296,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,37,5
+2,3,22,297,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,221,28
+2,3,22,298,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,10,1
+2,3,22,299,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,9,2
+2,3,22,300,#Helen_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,13,2
+2,3,22,301,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,146,18
+2,3,22,302,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,56,7
+2,3,22,303,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,26,4
+2,3,22,304,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,3,22,305,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Helen_AWW #King_AWW #LORDS.COURT.1_AWW #LORDS.COURT.2_AWW #LORDS.COURT.3_AWW #LORDS.COURT.4_AWW #Lafew_AWW #Parolles_AWW,50,7
+2,3,23,306,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,8,1
+2,3,23,307,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,3,1
+2,3,23,308,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,10,2
+2,3,23,309,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,5,1
+2,3,23,310,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,8,1
+2,3,23,311,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,14,2
+2,3,23,312,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,7,1
+2,3,23,313,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,10,1
+2,3,23,314,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,11,2
+2,3,23,315,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,13,2
+2,3,23,316,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,15,2
+2,3,23,317,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,10,1
+2,3,23,318,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,74,8
+2,3,23,319,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,9,2
+2,3,23,320,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,47,5
+2,3,23,321,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,8,2
+2,3,23,322,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,11,1
+2,3,23,323,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,7,1
+2,3,23,324,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,15,2
+2,3,23,325,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,5,1
+2,3,23,326,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,66,7
+2,3,23,327,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,8,2
+2,3,23,328,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,32,3
+2,3,24,329,#Parolles_AWW,#Parolles_AWW,73,7
+2,3,25,330,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,15,2
+2,3,25,331,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,25,3
+2,3,25,332,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,2,1
+2,3,25,333,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,2,1
+2,3,25,334,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,75,8
+2,3,25,335,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,8,2
+2,3,25,336,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,58,7
+2,3,26,337,#Parolles_AWW,#Parolles_AWW,15,2
+2,3,27,338,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,6,1
+2,3,27,339,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,4,1
+2,3,27,340,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,13,2
+2,3,27,341,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,3,1
+2,3,27,342,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,16,2
+2,3,27,343,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,18,2
+2,3,27,344,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,13,2
+2,3,27,345,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,64,9
+2,3,27,346,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,59,7
+2,3,27,347,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,8,1
+2,3,27,348,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,24,3
+2,3,27,349,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,36,4
+2,4,28,350,#Helen_AWW,#Fool_AWW #Helen_AWW,8,1
+2,4,28,351,#Fool_AWW,#Fool_AWW #Helen_AWW,38,4
+2,4,28,352,#Helen_AWW,#Fool_AWW #Helen_AWW,14,2
+2,4,28,353,#Fool_AWW,#Fool_AWW #Helen_AWW,9,1
+2,4,28,354,#Helen_AWW,#Fool_AWW #Helen_AWW,3,1
+2,4,28,355,#Fool_AWW,#Fool_AWW #Helen_AWW,23,3
+2,4,29,356,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,5,1
+2,4,29,357,#Helen_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,14,2
+2,4,29,358,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,24,3
+2,4,29,359,#Fool_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,17,2
+2,4,29,360,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,4,1
+2,4,29,361,#Fool_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,46,5
+2,4,29,362,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,5,1
+2,4,29,363,#Fool_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,24,3
+2,4,29,364,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,11,2
+2,4,29,365,#Fool_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,37,5
+2,4,29,366,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,76,10
+2,4,29,367,#Helen_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,4,1
+2,4,29,368,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,30,4
+2,4,29,369,#Helen_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,4,1
+2,4,29,370,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,10,2
+2,4,29,371,#Helen_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,7,1
+2,4,29,372,#Parolles_AWW,#Fool_AWW #Helen_AWW #Parolles_AWW,5,1
+2,4,30,373,#Helen_AWW,#Fool_AWW #Helen_AWW,5,1
+2,5,31,374,#Lafew_AWW,#Bertram_AWW #Lafew_AWW,10,2
+2,5,31,375,#Bertram_AWW,#Bertram_AWW #Lafew_AWW,8,1
+2,5,31,376,#Lafew_AWW,#Bertram_AWW #Lafew_AWW,7,1
+2,5,31,377,#Bertram_AWW,#Bertram_AWW #Lafew_AWW,5,1
+2,5,31,378,#Lafew_AWW,#Bertram_AWW #Lafew_AWW,13,2
+2,5,31,379,#Bertram_AWW,#Bertram_AWW #Lafew_AWW,15,2
+2,5,31,380,#Lafew_AWW,#Bertram_AWW #Lafew_AWW,43,5
+2,5,32,381,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,6,1
+2,5,32,382,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,6,1
+2,5,32,383,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,1,1
+2,5,32,384,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,17,2
+2,5,32,385,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,6,1
+2,5,32,386,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,2,1
+2,5,32,387,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,5,32,388,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,4,1
+2,5,32,389,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,28,4
+2,5,32,390,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,40,5
+2,5,32,391,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,10,2
+2,5,32,392,#Parolles_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,13,2
+2,5,32,393,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,34,4
+2,5,32,394,#Bertram_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,9,1
+2,5,32,395,#Lafew_AWW,#Bertram_AWW #Lafew_AWW #Parolles_AWW,82,9
+2,5,33,396,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,5,1
+2,5,33,397,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,4,1
+2,5,33,398,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,6,1
+2,5,33,399,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,14,2
+2,5,34,400,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,4,1
+2,5,34,401,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,29,4
+2,5,34,402,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,118,16
+2,5,34,403,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,13,2
+2,5,34,404,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,6,1
+2,5,34,405,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,24,4
+2,5,34,406,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,11,2
+2,5,34,407,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,4,1
+2,5,34,408,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,5,1
+2,5,34,409,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,34,4
+2,5,34,410,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,4,1
+2,5,34,411,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,27,4
+2,5,34,412,#Bertram_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,10,1
+2,5,34,413,#Helen_AWW,#Bertram_AWW #Helen_AWW #Parolles_AWW,16,2
+2,5,35,414,#Bertram_AWW,#Bertram_AWW #Parolles_AWW,24,3
+2,5,35,415,#Parolles_AWW,#Bertram_AWW #Parolles_AWW,2,1
+3,1,36,416,#Duke_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,28,4
+3,1,36,417,#LORDS.DUMAINE.1_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,14,3
+3,1,36,418,#Duke_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,20,3
+3,1,36,419,#LORDS.DUMAINE.2_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,55,8
+3,1,36,420,#Duke_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,4,1
+3,1,36,421,#LORDS.DUMAINE.1_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,22,3
+3,1,36,422,#Duke_AWW,#Duke_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS_AWW,34,5
+3,2,37,423,#Countess_AWW,#Countess_AWW #Fool_AWW,18,2
+3,2,37,424,#Fool_AWW,#Countess_AWW #Fool_AWW,14,2
+3,2,37,425,#Countess_AWW,#Countess_AWW #Fool_AWW,6,1
+3,2,37,426,#Fool_AWW,#Countess_AWW #Fool_AWW,40,4
+3,2,37,427,#Countess_AWW,#Countess_AWW #Fool_AWW,12,2
+3,2,37,428,#Fool_AWW,#Countess_AWW #Fool_AWW,53,5
+3,2,37,429,#Countess_AWW,#Countess_AWW #Fool_AWW,4,1
+3,2,37,430,#Fool_AWW,#Countess_AWW #Fool_AWW,5,1
+3,2,38,431,#Countess_AWW,#Countess_AWW,100,14
+3,2,39,432,#Fool_AWW,#Countess_AWW #Fool_AWW,14,2
+3,2,39,433,#Countess_AWW,#Countess_AWW #Fool_AWW,4,1
+3,2,39,434,#Fool_AWW,#Countess_AWW #Fool_AWW,23,3
+3,2,39,435,#Countess_AWW,#Countess_AWW #Fool_AWW,5,1
+3,2,39,436,#Fool_AWW,#Countess_AWW #Fool_AWW,50,5
+3,2,40,437,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,4,2
+3,2,40,438,#Helen_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,7,1
+3,2,40,439,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,4,1
+3,2,40,440,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,37,4
+3,2,40,441,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,29,4
+3,2,40,442,#Helen_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,54,7
+3,2,40,443,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,5,1
+3,2,40,444,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,12,2
+3,2,40,445,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,45,5
+3,2,40,446,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,2,1
+3,2,40,447,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,5,1
+3,2,40,448,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,21,3
+3,2,40,449,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,3,1
+3,2,40,450,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,8,1
+3,2,40,451,#Helen_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,12,2
+3,2,40,452,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,4,1
+3,2,40,453,#Helen_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,2,1
+3,2,40,454,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,15,2
+3,2,40,455,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,42,5
+3,2,40,456,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,11,2
+3,2,40,457,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,4,1
+3,2,40,458,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,5,1
+3,2,40,459,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,17,3
+3,2,40,460,#GENTLEMEN.1_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,18,3
+3,2,40,461,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,34,6
+3,2,40,462,#GENTLEMEN.2_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,11,2
+3,2,40,463,#Countess_AWW,#Countess_AWW #GENTLEMEN.1_AWW #GENTLEMEN.2_AWW #Helen_AWW,12,2
+3,2,41,464,#Helen_AWW,#Helen_AWW,259,31
+3,3,42,465,#Duke_AWW,#Bertram_AWW #Duke_AWW #Parolles_AWW #SOLDIERS_AWW,23,3
+3,3,42,466,#Bertram_AWW,#Bertram_AWW #Duke_AWW #Parolles_AWW #SOLDIERS_AWW,27,4
+3,3,42,467,#Duke_AWW,#Bertram_AWW #Duke_AWW #Parolles_AWW #SOLDIERS_AWW,15,3
+3,3,42,468,#Bertram_AWW,#Bertram_AWW #Duke_AWW #Parolles_AWW #SOLDIERS_AWW,29,4
+3,4,43,469,#Countess_AWW,#Countess_AWW #Steward_AWW,28,3
+3,4,43,470,#Steward_AWW,#Countess_AWW #Steward_AWW,112,14
+3,4,43,471,#Countess_AWW,#Countess_AWW #Steward_AWW,39,5
+3,4,43,472,#Steward_AWW,#Countess_AWW #Steward_AWW,25,4
+3,4,43,473,#Countess_AWW,#Countess_AWW #Steward_AWW,140,18
+3,5,44,474,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,15,2
+3,5,44,475,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,10,2
+3,5,44,476,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,39,5
+3,5,44,477,#Mariana_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,36,4
+3,5,44,478,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,15,3
+3,5,44,479,#Mariana_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,116,13
+3,5,44,480,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,7,1
+3,5,44,481,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Mariana_AWW #Widow_AWW,3,1
+3,5,45,482,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,28,4
+3,5,45,483,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,14,2
+3,5,45,484,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,8,1
+3,5,45,485,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,4,1
+3,5,45,486,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,44,6
+3,5,45,487,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,3,1
+3,5,45,488,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,6,1
+3,5,45,489,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,9,1
+3,5,45,490,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,6,1
+3,5,45,491,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,3,1
+3,5,45,492,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,13,2
+3,5,45,493,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,5,1
+3,5,45,494,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,8,1
+3,5,45,495,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,15,2
+3,5,45,496,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,28,4
+3,5,45,497,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,9,1
+3,5,45,498,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,13,2
+3,5,45,499,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,3,1
+3,5,45,500,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,2,1
+3,5,45,501,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,41,6
+3,5,45,502,#Diana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,15,3
+3,5,45,503,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,23,4
+3,5,45,504,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,14,3
+3,5,45,505,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,33,5
+3,5,45,506,#Mariana_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,4,1
+3,5,46,507,#Widow_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,13,3
+3,5,46,508,#Helen_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,4,1
+3,5,46,509,#Diana_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,30,5
+3,5,46,510,#Helen_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,4,1
+3,5,46,511,#Diana_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,26,3
+3,5,46,512,#Helen_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,3,1
+3,5,46,513,#Diana_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,8,1
+3,5,46,514,#Helen_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,6,1
+3,5,46,515,#Parolles_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,4,1
+3,5,46,516,#Mariana_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,10,2
+3,5,46,517,#Widow_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,3,1
+3,5,46,518,#Mariana_AWW,#Bertram_AWW #CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Parolles_AWW #SOLDIERS_AWW #Widow_AWW,6,2
+3,5,47,519,#Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,30,4
+3,5,47,520,#Helen_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,41,6
+3,5,47,521,#Diana_AWW #Widow_AWW,#CITIZENS_AWW #Diana_AWW #Helen_AWW #Mariana_AWW #Widow_AWW,5,1
+3,6,48,522,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,13,2
+3,6,48,523,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,15,2
+3,6,48,524,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,7,1
+3,6,48,525,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,10,1
+3,6,48,526,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,44,6
+3,6,48,527,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,31,4
+3,6,48,528,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,11,2
+3,6,48,529,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,19,3
+3,6,48,530,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,113,12
+3,6,48,531,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,58,7
+3,6,49,532,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,22,3
+3,6,49,533,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,10,2
+3,6,49,534,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,11,1
+3,6,49,535,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,32,4
+3,6,49,536,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,32,4
+3,6,49,537,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,24,3
+3,6,49,538,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,5,1
+3,6,49,539,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,7,1
+3,6,49,540,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,30,4
+3,6,49,541,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,74,9
+3,6,49,542,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,10,1
+3,6,49,543,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,8,1
+3,6,49,544,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,33,4
+3,6,49,545,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,13,2
+3,6,49,546,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,15,2
+3,6,49,547,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,17,2
+3,6,49,548,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW,5,1
+3,6,50,549,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,44,5
+3,6,50,550,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,43,5
+3,6,50,551,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,21,3
+3,6,50,552,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,39,5
+3,6,50,553,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,44,5
+3,6,50,554,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,10,2
+3,6,50,555,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,8,1
+3,6,50,556,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,8,1
+3,6,51,557,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.2_AWW,16,2
+3,6,51,558,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.2_AWW,5,1
+3,6,51,559,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.2_AWW,53,6
+3,6,51,560,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.2_AWW,6,1
+3,7,52,561,#Helen_AWW,#Helen_AWW #Widow_AWW,27,3
+3,7,52,562,#Widow_AWW,#Helen_AWW #Widow_AWW,25,4
+3,7,52,563,#Helen_AWW,#Helen_AWW #Widow_AWW,48,6
+3,7,52,564,#Widow_AWW,#Helen_AWW #Widow_AWW,17,3
+3,7,52,565,#Helen_AWW,#Helen_AWW #Widow_AWW,122,16
+3,7,52,566,#Widow_AWW,#Helen_AWW #Widow_AWW,8,1
+3,7,52,567,#Helen_AWW,#Helen_AWW #Widow_AWW,51,7
+3,7,52,568,#Widow_AWW,#Helen_AWW #Widow_AWW,57,8
+3,7,52,569,#Helen_AWW,#Helen_AWW #Widow_AWW,39,6
+4,1,53,570,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,50,6
+4,1,53,571,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,7,1
+4,1,53,572,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,10,2
+4,1,53,573,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,5,1
+4,1,53,574,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,10,2
+4,1,53,575,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,7,1
+4,1,53,576,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,92,11
+4,1,54,577,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,74,8
+4,1,54,578,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,13,2
+4,1,54,579,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,89,10
+4,1,54,580,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,14,2
+4,1,54,581,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,18,3
+4,1,54,582,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,5,1
+4,1,54,583,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,13,2
+4,1,54,584,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,3,1
+4,1,54,585,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,10,2
+4,1,54,586,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,2,1
+4,1,54,587,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,11,2
+4,1,54,588,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,2,1
+4,1,54,589,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,2,1
+4,1,54,590,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,9,2
+4,1,54,591,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,15,2
+4,1,54,592,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,5,1
+4,1,54,593,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,6,1
+4,1,54,594,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,5,2
+4,1,54,595,#SOLDIERS_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,7,1
+4,1,54,596,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,8,1
+4,1,54,597,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,3,1
+4,1,54,598,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,42,5
+4,1,54,599,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,24,4
+4,1,54,600,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,1,1
+4,1,54,601,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,7,2
+4,1,54,602,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,2,1
+4,1,54,603,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,30,4
+4,1,54,604,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,26,4
+4,1,54,605,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,4,1
+4,1,54,606,#Parolles_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,6,1
+4,1,54,607,#SOLDIERS.Interpreter_AWW,#LORDS.DUMAINE.1_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,8,2
+4,1,55,608,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS_AWW,24,4
+4,1,56,609,#SOLDIERS.0.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.0.1_AWW #SOLDIERS_AWW,3,1
+4,1,56,610,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.0.1_AWW #SOLDIERS_AWW,10,2
+4,1,56,611,#SOLDIERS.0.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.0.1_AWW #SOLDIERS_AWW,4,1
+4,1,56,612,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #SOLDIERS.0.1_AWW #SOLDIERS_AWW,9,1
+4,2,57,613,#Bertram_AWW,#Bertram_AWW #Diana_AWW,8,1
+4,2,57,614,#Diana_AWW,#Bertram_AWW #Diana_AWW,5,1
+4,2,57,615,#Bertram_AWW,#Bertram_AWW #Diana_AWW,70,9
+4,2,57,616,#Diana_AWW,#Bertram_AWW #Diana_AWW,4,1
+4,2,57,617,#Bertram_AWW,#Bertram_AWW #Diana_AWW,4,1
+4,2,57,618,#Diana_AWW,#Bertram_AWW #Diana_AWW,15,3
+4,2,57,619,#Bertram_AWW,#Bertram_AWW #Diana_AWW,35,5
+4,2,57,620,#Diana_AWW,#Bertram_AWW #Diana_AWW,29,4
+4,2,57,621,#Bertram_AWW,#Bertram_AWW #Diana_AWW,4,1
+4,2,57,622,#Diana_AWW,#Bertram_AWW #Diana_AWW,95,12
+4,2,57,623,#Bertram_AWW,#Bertram_AWW #Diana_AWW,52,7
+4,2,57,624,#Diana_AWW,#Bertram_AWW #Diana_AWW,19,2
+4,2,57,625,#Bertram_AWW,#Bertram_AWW #Diana_AWW,15,2
+4,2,57,626,#Diana_AWW,#Bertram_AWW #Diana_AWW,5,1
+4,2,57,627,#Bertram_AWW,#Bertram_AWW #Diana_AWW,25,4
+4,2,57,628,#Diana_AWW,#Bertram_AWW #Diana_AWW,46,7
+4,2,57,629,#Bertram_AWW,#Bertram_AWW #Diana_AWW,19,3
+4,2,57,630,#Diana_AWW,#Bertram_AWW #Diana_AWW,104,13
+4,2,57,631,#Bertram_AWW,#Bertram_AWW #Diana_AWW,10,1
+4,2,57,632,#Diana_AWW,#Bertram_AWW #Diana_AWW,16,2
+4,2,58,633,#Diana_AWW,#Diana_AWW,73,8
+4,3,59,634,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,8,2
+4,3,59,635,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,27,3
+4,3,59,636,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,20,2
+4,3,59,637,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,36,4
+4,3,59,638,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,14,2
+4,3,59,639,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,42,5
+4,3,59,640,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,13,2
+4,3,59,641,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,43,6
+4,3,59,642,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,22,3
+4,3,59,643,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,11,2
+4,3,59,644,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,30,4
+4,3,59,645,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,19,3
+4,3,59,646,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,9,2
+4,3,59,647,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,8,1
+4,3,59,648,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,7,1
+4,3,59,649,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,15,2
+4,3,59,650,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,12,2
+4,3,59,651,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,15,2
+4,3,59,652,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,60,7
+4,3,59,653,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,4,1
+4,3,59,654,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,43,5
+4,3,59,655,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,6,1
+4,3,59,656,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,15,2
+4,3,59,657,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,10,2
+4,3,59,658,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,10,2
+4,3,59,659,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,33,4
+4,3,59,660,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW,38,5
+4,3,60,661,#LORDS.DUMAINE.1_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,5,1
+4,3,60,662,#Servant_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,34,4
+4,3,60,663,#LORDS.DUMAINE.2_AWW,#LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,25,3
+4,3,61,664,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,13,2
+4,3,61,665,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,67,8
+4,3,61,666,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,19,3
+4,3,61,667,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,39,5
+4,3,61,668,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #SOLDIERS.Interpreter_AWW #SOLDIERS_AWW #Servant_AWW,13,2
+4,3,62,669,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,18,3
+4,3,62,670,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,66,8
+4,3,62,671,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,5,1
+4,3,62,672,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW,31,4
+4,3,63,673,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,11,2
+4,3,63,674,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,5,2
+4,3,63,675,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,11,2
+4,3,63,676,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,20,3
+4,3,63,677,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,2,1
+4,3,63,678,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,2,1
+4,3,63,679,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,20,3
+4,3,63,680,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,681,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,16,3
+4,3,63,682,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,31,4
+4,3,63,683,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,684,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,13,2
+4,3,63,685,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,10,2
+4,3,63,686,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,38,5
+4,3,63,687,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,25,3
+4,3,63,688,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,4,1
+4,3,63,689,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,19,3
+4,3,63,690,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,691,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,14,2
+4,3,63,692,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,6,1
+4,3,63,693,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,4,1
+4,3,63,694,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,14,2
+4,3,63,695,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,15,3
+4,3,63,696,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,88,11
+4,3,63,697,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,6,1
+4,3,63,698,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,19,3
+4,3,63,699,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,64,8
+4,3,63,700,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,15,2
+4,3,63,701,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,6,1
+4,3,63,702,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,31,4
+4,3,63,703,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,20,3
+4,3,63,704,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,10,2
+4,3,63,705,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,706,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,13,2
+4,3,63,707,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,708,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,36,4
+4,3,63,709,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,3,1
+4,3,63,710,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,25,3
+4,3,63,711,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,11,2
+4,3,63,712,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,10,1
+4,3,63,713,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,5,1
+4,3,63,714,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,1,1
+4,3,63,715,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,9,2
+4,3,63,716,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,47,5
+4,3,63,717,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,8,1
+4,3,63,718,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,42,5
+4,3,63,719,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,3,1
+4,3,63,720,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,86,12
+4,3,63,721,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,13,2
+4,3,63,722,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,13,2
+4,3,63,723,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,15,2
+4,3,63,724,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,14,2
+4,3,63,725,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,43,5
+4,3,63,726,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,34,5
+4,3,63,727,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,110,12
+4,3,63,728,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,729,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,18,3
+4,3,63,730,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,8,1
+4,3,63,731,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,66,7
+4,3,63,732,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,11,2
+4,3,63,733,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,8,1
+4,3,63,734,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,20,3
+4,3,63,735,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,30,4
+4,3,63,736,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,2
+4,3,63,737,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,63,738,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,2,1
+4,3,63,739,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,56,6
+4,3,63,740,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,12,2
+4,3,63,741,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,9,2
+4,3,63,742,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,9,2
+4,3,63,743,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,44,6
+4,3,63,744,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,51,7
+4,3,63,745,#Parolles_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,12,2
+4,3,63,746,#SOLDIERS.Interpreter_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,19,3
+4,3,63,747,#Bertram_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,4,1
+4,3,63,748,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,5,1
+4,3,63,749,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,5,1
+4,3,63,750,#LORDS.DUMAINE.2_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,13,2
+4,3,63,751,#LORDS.DUMAINE.1_AWW,#Bertram_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Parolles_AWW #SOLDIERS.Interpreter_AWW,37,4
+4,3,64,752,#SOLDIERS.Interpreter_AWW,#Parolles_AWW #SOLDIERS.Interpreter_AWW,15,2
+4,3,64,753,#Parolles_AWW,#Parolles_AWW #SOLDIERS.Interpreter_AWW,7,1
+4,3,64,754,#SOLDIERS.Interpreter_AWW,#Parolles_AWW #SOLDIERS.Interpreter_AWW,38,5
+4,3,65,755,#Parolles_AWW,#Parolles_AWW,89,11
+4,4,66,756,#Helen_AWW,#Diana_AWW #Helen_AWW #Widow_AWW,109,14
+4,4,66,757,#Widow_AWW,#Diana_AWW #Helen_AWW #Widow_AWW,15,3
+4,4,66,758,#Helen_AWW,#Diana_AWW #Helen_AWW #Widow_AWW,98,13
+4,4,66,759,#Diana_AWW,#Diana_AWW #Helen_AWW #Widow_AWW,16,3
+4,4,66,760,#Helen_AWW,#Diana_AWW #Helen_AWW #Widow_AWW,58,7
+4,5,67,761,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,57,7
+4,5,67,762,#Countess_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,49,6
+4,5,67,763,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,21,3
+4,5,67,764,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,16,2
+4,5,67,765,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,9,2
+4,5,67,766,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,13,2
+4,5,67,767,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,10,2
+4,5,67,768,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,13,2
+4,5,67,769,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,2,1
+4,5,67,770,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,12,2
+4,5,67,771,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,9,1
+4,5,67,772,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,13,2
+4,5,67,773,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,11,2
+4,5,67,774,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,3,1
+4,5,67,775,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,3,1
+4,5,67,776,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,17,2
+4,5,67,777,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,4,1
+4,5,67,778,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,17,2
+4,5,67,779,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,4,1
+4,5,67,780,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,12,2
+4,5,67,781,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,22,3
+4,5,67,782,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,90,9
+4,5,67,783,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,37,4
+4,5,67,784,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,23,3
+4,5,68,785,#Lafew_AWW,#Countess_AWW #Lafew_AWW,6,1
+4,5,68,786,#Countess_AWW,#Countess_AWW #Lafew_AWW,40,5
+4,5,68,787,#Lafew_AWW,#Countess_AWW #Lafew_AWW,95,10
+4,5,68,788,#Countess_AWW,#Countess_AWW #Lafew_AWW,12,2
+4,5,68,789,#Lafew_AWW,#Countess_AWW #Lafew_AWW,33,4
+4,5,68,790,#Countess_AWW,#Countess_AWW #Lafew_AWW,36,4
+4,5,68,791,#Lafew_AWW,#Countess_AWW #Lafew_AWW,12,2
+4,5,68,792,#Countess_AWW,#Countess_AWW #Lafew_AWW,7,2
+4,5,68,793,#Lafew_AWW,#Countess_AWW #Lafew_AWW,17,2
+4,5,69,794,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,53,5
+4,5,69,795,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,18,2
+4,5,69,796,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,6,1
+4,5,69,797,#Lafew_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,18,2
+4,5,69,798,#Fool_AWW,#Countess_AWW #Fool_AWW #Lafew_AWW,23,3
+5,1,70,799,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #Helen_AWW #Widow_AWW,49,6
+5,1,71,800,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,22,3
+5,1,71,801,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,2,1
+5,1,71,802,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,10,1
+5,1,71,803,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,5,1
+5,1,71,804,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,46,6
+5,1,71,805,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,3,1
+5,1,71,806,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,28,4
+5,1,71,807,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,4,1
+5,1,71,808,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,3,1
+5,1,71,809,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,15,3
+5,1,71,810,#Widow_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,6,1
+5,1,71,811,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,22,3
+5,1,71,812,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,11,2
+5,1,71,813,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,54,7
+5,1,71,814,#GENTLEMEN.3_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,5,1
+5,1,71,815,#Helen_AWW,#ATTENDANTS_AWW #Diana_AWW #GENTLEMEN.3_AWW #Helen_AWW #Widow_AWW,20,3
+5,2,72,816,#Parolles_AWW,#Fool_AWW #Parolles_AWW,44,6
+5,2,72,817,#Fool_AWW,#Fool_AWW #Parolles_AWW,28,4
+5,2,72,818,#Parolles_AWW,#Fool_AWW #Parolles_AWW,15,2
+5,2,72,819,#Fool_AWW,#Fool_AWW #Parolles_AWW,20,3
+5,2,72,820,#Parolles_AWW,#Fool_AWW #Parolles_AWW,7,1
+5,2,72,821,#Fool_AWW,#Fool_AWW #Parolles_AWW,14,2
+5,2,73,822,#Fool_AWW,#Fool_AWW #Lafew_AWW #Parolles_AWW,73,8
+5,2,74,823,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,11,2
+5,2,74,824,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,63,7
+5,2,74,825,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,10,2
+5,2,74,826,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,14,2
+5,2,74,827,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,7,1
+5,2,74,828,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,18,2
+5,2,74,829,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,11,2
+5,2,74,830,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,12,2
+5,2,74,831,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,18,2
+5,2,74,832,#Lafew_AWW,#Lafew_AWW #Parolles_AWW,64,7
+5,2,74,833,#Parolles_AWW,#Lafew_AWW #Parolles_AWW,5,1
+5,3,75,834,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,30,4
+5,3,75,835,#Countess_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,34,5
+5,3,75,836,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,23,4
+5,3,75,837,#Lafew_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,64,9
+5,3,75,838,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,65,9
+5,3,76,839,#ATTENDANTS.KING.0.1_AWW,#ATTENDANTS.KING.0.1_AWW #ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,4,1
+5,3,77,840,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,9,1
+5,3,77,841,#Lafew_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,9,1
+5,3,77,842,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,17,2
+5,3,78,843,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,5,1
+5,3,78,844,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,38,5
+5,3,78,845,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,8,2
+5,3,78,846,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,48,7
+5,3,78,847,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,91,12
+5,3,78,848,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,122,16
+5,3,78,849,#Countess_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,18,2
+5,3,78,850,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,67,9
+5,3,78,851,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,4,1
+5,3,78,852,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,61,8
+5,3,78,853,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,16,4
+5,3,78,854,#Countess_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,18,3
+5,3,78,855,#Lafew_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,8,1
+5,3,78,856,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,79,10
+5,3,78,857,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,90,12
+5,3,78,858,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,4,1
+5,3,78,859,#King_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,99,12
+5,3,78,860,#Bertram_AWW,#ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,26,4
+5,3,79,861,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,6,1
+5,3,80,862,#GENTLEMEN.3_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #GENTLEMEN.3_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,80,11
+5,3,80,863,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #GENTLEMEN.3_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,77,9
+5,3,80,864,#Lafew_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #GENTLEMEN.3_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,17,2
+5,3,80,865,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #GENTLEMEN.3_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,23,3
+5,3,81,866,#King_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,11,2
+5,3,81,867,#Countess_AWW,#ATTENDANTS.KING_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,5,1
+5,3,82,868,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW,24,3
+5,3,83,869,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,3,1
+5,3,83,870,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,29,4
+5,3,83,871,#Widow_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,23,3
+5,3,83,872,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,8,1
+5,3,83,873,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,18,2
+5,3,83,874,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,9,1
+5,3,83,875,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,6,1
+5,3,83,876,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,50,7
+5,3,83,877,#Lafew_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,14,2
+5,3,83,878,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,36,5
+5,3,83,879,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,25,3
+5,3,83,880,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,17,3
+5,3,83,881,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,5,1
+5,3,83,882,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,12,2
+5,3,83,883,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,54,7
+5,3,83,884,#Countess_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,33,5
+5,3,83,885,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,12,2
+5,3,83,886,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,16,2
+5,3,83,887,#Lafew_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,9,1
+5,3,83,888,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,6,1
+5,3,83,889,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,42,6
+5,3,83,890,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,6,1
+5,3,83,891,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,77,10
+5,3,83,892,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,45,6
+5,3,83,893,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,4,1
+5,3,83,894,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,7,1
+5,3,83,895,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,8,1
+5,3,83,896,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,10,1
+5,3,83,897,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,9,1
+5,3,83,898,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,13,2
+5,3,83,899,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Widow_AWW,5,1
+5,3,84,900,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,9,1
+5,3,84,901,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,14,2
+5,3,84,902,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,3,1
+5,3,84,903,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,35,4
+5,3,84,904,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,20,3
+5,3,84,905,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,2
+5,3,84,906,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,8,1
+5,3,84,907,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,84,908,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,11,2
+5,3,84,909,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,3,1
+5,3,84,910,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,8,1
+5,3,84,911,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,14,2
+5,3,84,912,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,2
+5,3,84,913,#Lafew_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,2
+5,3,84,914,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,7,1
+5,3,84,915,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,7,1
+5,3,84,916,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,8,1
+5,3,84,917,#Parolles_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,88,9
+5,3,84,918,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,29,4
+5,3,84,919,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,84,920,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,1
+5,3,84,921,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,11,1
+5,3,84,922,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,84,923,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,6,1
+5,3,84,924,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,6,1
+5,3,84,925,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,84,926,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,16,2
+5,3,84,927,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,5,1
+5,3,84,928,#Lafew_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,14,2
+5,3,84,929,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,1
+5,3,84,930,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,10,1
+5,3,84,931,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,31,4
+5,3,84,932,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,84,933,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,3,1
+5,3,84,934,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,6,1
+5,3,84,935,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,7,1
+5,3,84,936,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,9,1
+5,3,84,937,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,8,1
+5,3,84,938,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,48,5
+5,3,84,939,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,9,1
+5,3,84,940,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,5,1
+5,3,85,941,#Diana_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW,81,11
+5,3,86,942,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,17,3
+5,3,86,943,#Helen_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,19,3
+5,3,86,944,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,4,1
+5,3,86,945,#Helen_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,56,7
+5,3,86,946,#Bertram_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,17,2
+5,3,86,947,#Helen_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,24,3
+5,3,86,948,#Lafew_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,36,5
+5,3,86,949,#King_AWW,#ATTENDANTS.KING.0.2_AWW #ATTENDANTS.KING_AWW #Bertram_AWW #Countess_AWW #Diana_AWW #Helen_AWW #King_AWW #LORDS.DUMAINE.1_AWW #LORDS.DUMAINE.2_AWW #Lafew_AWW #Parolles_AWW #Widow_AWW,83,10
+6,0,87,950,#Epilogue_AWW,#Epilogue_AWW,52,6

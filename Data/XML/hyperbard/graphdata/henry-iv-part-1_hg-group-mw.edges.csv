@@ -1,0 +1,100 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,803,107,#ATTENDANTS_1H4 #Bedford_H5 #HenryIV_1H4 #Westmoreland_1H4
+1,2,2,894,111,#Falstaff_1H4 #HenryV_H5
+1,2,3,403,55,#Falstaff_1H4 #HenryV_H5 #Poins_1H4
+1,2,4,292,35,#HenryV_H5 #Poins_1H4
+1,2,5,178,23,#HenryV_H5
+1,3,6,159,21,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Worcester_1H4
+1,3,7,766,105,#ATTENDANTS_1H4 #Blunt_1H4 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2
+1,3,8,48,6,#Hotspur_R2 #Northumberland_R2
+1,3,9,1323,181,#Hotspur_R2 #Northumberland_R2 #Worcester_1H4
+2,1,10,27,4,#TRAVELERS.CARRIERS.1_1H4
+2,1,11,26,4,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4
+2,1,12,198,26,#Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4
+2,1,13,101,17,#Gadshill_1H4 #Ostler_1H4 #TRAVELERS.CARRIERS.1_1H4 #TRAVELERS.CARRIERS.2_1H4
+2,1,14,3,1,#Gadshill_1H4 #Ostler_1H4
+2,1,15,419,51,#Chamberlain_1H4 #Gadshill_1H4 #Ostler_1H4
+2,2,16,17,3,#Bardolph_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4
+2,2,17,33,6,#Falstaff_1H4 #HenryV_H5
+2,2,18,189,21,#Falstaff_1H4
+2,2,19,154,20,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4
+2,2,20,171,28,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4
+2,2,21,15,2,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4
+2,2,22,90,16,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #Peto_1H4 #TRAVELERS.CARRIERS_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4 #TRAVELERS.GENTLEMEN_1H4
+2,2,23,42,5,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4
+2,2,24,41,7,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4
+2,2,25,63,9,#HenryV_H5 #Poins_1H4 #TRAVELERS.GENTLEMEN.0.1_1H4
+2,3,26,345,36,#Hotspur_R2
+2,3,27,240,32,#Hotspur_R2 #LadyPercy_1H4
+2,3,28,64,9,#Hotspur_R2 #LadyPercy_1H4 #SERVANTS.HOTSPUR.1_1H4
+2,3,29,342,47,#Hotspur_R2 #LadyPercy_1H4
+2,4,30,315,34,#HenryV_H5 #Poins_1H4
+2,4,31,5,3,#HenryV_H5 #Poins_1H4
+2,4,32,244,45,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4
+2,4,33,14,2,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4 #Vintner_1H4
+2,4,34,28,4,#HenryV_H5 #Poins_1H4 #Vintner_1H4
+2,4,35,74,11,#HenryV_H5 #Poins_1H4
+2,4,36,6,2,#DRAWERS.Francis_1H4 #HenryV_H5 #Poins_1H4
+2,4,37,132,15,#HenryV_H5 #Poins_1H4
+2,4,38,1377,180,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4
+2,4,39,92,14,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4
+2,4,40,212,28,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4
+2,4,41,1317,162,#Bardolph_1H4 #DRAWERS.Francis_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4
+2,4,42,34,4,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #Peto_1H4 #Poins_1H4
+2,4,43,152,21,#Bardolph_1H4 #Falstaff_1H4 #Gadshill_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4
+2,4,44,158,21,#Falstaff_1H4 #HenryV_H5 #Peto_1H4 #Sheriff_1H4 #TRAVELERS.CARRIERS.X_1H4
+2,4,45,171,25,#Falstaff_1H4 #HenryV_H5 #Peto_1H4
+3,1,46,1121,150,#Glendower_1H4 #Hotspur_R2 #Mortimer_1H4 #Worcester_1H4
+3,1,47,351,47,#Hotspur_R2 #Mortimer_1H4 #Worcester_1H4
+3,1,48,520,74,#Glendower_1H4 #Hotspur_R2 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4
+3,1,49,35,5,#Glendower_1H4 #LadyMortimer_1H4 #LadyPercy_1H4 #Mortimer_1H4 #Worcester_1H4
+3,2,50,28,4,#ATTENDANTS_1H4 #HenryIV_1H4 #HenryV_H5
+3,2,51,1193,162,#HenryIV_1H4 #HenryV_H5
+3,2,52,143,19,#Blunt_1H4 #HenryIV_1H4 #HenryV_H5
+3,3,53,471,54,#Bardolph_1H4 #Falstaff_1H4
+3,3,54,326,40,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4
+3,3,55,672,91,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #MistressQuickly_1H4 #Peto_1H4
+3,3,56,157,24,#Bardolph_1H4 #Falstaff_1H4 #HenryV_H5 #Peto_1H4
+3,3,57,19,2,#Falstaff_1H4 #HenryV_H5 #Peto_1H4
+3,3,58,45,6,#Falstaff_1H4 #HenryV_H5
+3,3,59,17,3,#Falstaff_1H4
+4,1,60,96,13,#Douglas_1H4 #Hotspur_R2 #Worcester_1H4
+4,1,61,586,76,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Worcester_1H4
+4,1,62,404,55,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.X_1H4 #Vernon_1H4 #Worcester_1H4
+4,2,63,71,10,#Bardolph_1H4 #Falstaff_1H4
+4,2,64,350,39,#Falstaff_1H4
+4,2,65,208,27,#Falstaff_1H4 #HenryV_H5 #Westmoreland_1H4
+4,2,66,16,3,#Falstaff_1H4 #Westmoreland_1H4
+4,2,67,22,4,#Falstaff_1H4
+4,3,68,231,35,#Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4
+4,3,69,641,86,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2 #Vernon_1H4 #Worcester_1H4
+4,4,70,311,41,#Archbishop_1H4 #SirMichael_1H4
+5,1,71,59,9,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5
+5,1,72,821,106,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5 #Vernon_1H4 #Worcester_1H4
+5,1,73,47,6,#Bedford_H5 #Blunt_1H4 #Falstaff_1H4 #HenryIV_1H4 #HenryV_H5
+5,1,74,46,6,#Falstaff_1H4 #HenryV_H5
+5,1,75,151,15,#Falstaff_1H4
+5,2,76,208,28,#Vernon_1H4 #Worcester_1H4
+5,2,77,45,8,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4
+5,2,78,51,7,#Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4
+5,2,79,295,39,#Douglas_1H4 #Hotspur_R2 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4
+5,2,80,79,10,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4
+5,2,81,96,12,#Douglas_1H4 #Hotspur_R2 #MESSENGERS.1_1H4 #MESSENGERS.2_1H4 #SOLDIERS.HOTSPUR_1H4 #Vernon_1H4 #Worcester_1H4
+5,3,82,101,14,#Blunt_1H4 #Douglas_1H4
+5,3,83,119,17,#Blunt_1H4 #Douglas_1H4 #Hotspur_R2
+5,3,84,93,10,#Blunt_1H4 #Falstaff_1H4
+5,3,85,131,18,#Blunt_1H4 #Falstaff_1H4 #HenryV_H5
+5,3,86,62,6,#Blunt_1H4 #Falstaff_1H4
+5,4,87,117,16,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Westmoreland_1H4
+5,4,88,64,8,#HenryIV_1H4 #HenryV_H5
+5,4,89,109,14,#Douglas_1H4 #HenryIV_1H4
+5,4,90,44,5,#Douglas_1H4 #HenryIV_1H4 #HenryV_H5
+5,4,91,116,15,#HenryIV_1H4 #HenryV_H5
+5,4,92,138,17,#HenryV_H5 #Hotspur_R2
+5,4,93,18,2,#Falstaff_1H4 #HenryV_H5 #Hotspur_R2
+5,4,94,276,35,#Falstaff_1H4 #HenryV_H5 #Hotspur_R2
+5,4,95,182,19,#Falstaff_1H4 #Hotspur_R2
+5,4,96,297,34,#Bedford_H5 #Falstaff_1H4 #HenryV_H5 #Hotspur_R2
+5,4,97,36,4,#Falstaff_1H4 #Hotspur_R2
+5,5,98,107,15,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Vernon_1H4 #Westmoreland_1H4 #Worcester_1H4
+5,5,99,224,31,#Bedford_H5 #HenryIV_1H4 #HenryV_H5 #SOLDIERS.HENRY_1H4 #Westmoreland_1H4

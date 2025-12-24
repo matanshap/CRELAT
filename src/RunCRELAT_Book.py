@@ -67,7 +67,7 @@ Book1.GenCoOc(window_size=15)
 #Co-Occurances Graph
 Book1.PlotGraph(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_Graph")
 #Co-Occurances Heat Map
-Book1.PlotHM(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_HeatMap")
+Book1.PlotHM(data_sel=0,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_HeatMap.svg")
 Book1.TrainW2VModel(7, 15, output_dir)
 Book1.GenW2V()
 #Bert
@@ -77,8 +77,11 @@ Book1.average_bert_embeddings()
 Book1.Gen_Bert_Pairs()
 #W2V Cosine Graph
 Book1.PlotGraph(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_Graph.svg")
+#Bert Cosine Graph
+Book1.PlotGraph(data_sel=2, save_plot=True, save_path=f"{output_dir}/{book_name}_Bert_Cosine_Graph.svg")
 #W2V Cosine HM
 Book1.PlotHM(data_sel=1,save_plot=True,save_path=f"{output_dir}/{book_name}_Cosine_HeatMap.svg")
+Book1.PlotHM(data_sel=2,save_plot=True,save_path=f"{output_dir}/{book_name}_Bert_Cosine_HeatMap.svg")
 #Cosine-Similarity minus Normalized Co-Occurances Graph (to highlight Gap)
 Book1.SubGraph(data_sel0=0,data_sel1=1,save_plot=True,save_path=f"{output_dir}/{book_name}_CoOc_Minus_Cosine_Graph.svg")
 #Excel file with the difference between the 2 metrics for each pair of characters

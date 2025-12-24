@@ -1,0 +1,233 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#ATTENDANTS.ORSINO.Curio_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN,8,2
+1,1,1,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN,160,22
+1,1,2,#ATTENDANTS.ORSINO.Valentine_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO.Valentine_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN,70,9
+1,1,2,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO.Valentine_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN,83,10
+1,2,3,#Captain_TN,#Captain_TN #SAILORS_TN #Viola_TN,239,32
+1,2,3,#Viola_TN,#Captain_TN #SAILORS_TN #Viola_TN,242,35
+1,3,4,#Maria_TN,#Maria_TN #TobyBelch_TN,148,20
+1,3,4,#TobyBelch_TN,#Maria_TN #TobyBelch_TN,188,23
+1,3,5,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Maria_TN #TobyBelch_TN,105,18
+1,3,5,#Maria_TN,#AndrewAguecheek_TN #Maria_TN #TobyBelch_TN,66,11
+1,3,5,#TobyBelch_TN,#AndrewAguecheek_TN #Maria_TN #TobyBelch_TN,37,7
+1,3,6,#AndrewAguecheek_TN,#AndrewAguecheek_TN #TobyBelch_TN,230,30
+1,3,6,#TobyBelch_TN,#AndrewAguecheek_TN #TobyBelch_TN,235,30
+1,4,7,#ATTENDANTS.ORSINO.Valentine_TN,#ATTENDANTS.ORSINO.Valentine_TN #Viola_TN,32,5
+1,4,7,#Viola_TN,#ATTENDANTS.ORSINO.Valentine_TN #Viola_TN,28,4
+1,4,8,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO.Valentine_TN #ATTENDANTS.ORSINO_TN #Orsino_TN #Viola_TN,200,27
+1,4,8,#Viola_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO.Valentine_TN #ATTENDANTS.ORSINO_TN #Orsino_TN #Viola_TN,67,10
+1,5,9,#Feste_TN,#Feste_TN #Maria_TN,101,12
+1,5,9,#Maria_TN,#Feste_TN #Maria_TN,132,17
+1,5,10,#Feste_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Olivia_TN,299,37
+1,5,10,#Malvolio_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Olivia_TN,95,11
+1,5,10,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Olivia_TN,136,20
+1,5,11,#Maria_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Maria_TN #Olivia_TN,32,5
+1,5,11,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Maria_TN #Olivia_TN,28,4
+1,5,12,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Malvolio_TN #Olivia_TN,24,3
+1,5,13,#Feste_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN,35,4
+1,5,13,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN,13,2
+1,5,14,#Feste_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN #TobyBelch_TN,3,1
+1,5,14,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN #TobyBelch_TN,32,6
+1,5,14,#TobyBelch_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN #TobyBelch_TN,44,6
+1,5,15,#Feste_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN,40,5
+1,5,15,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Feste_TN #Olivia_TN,33,4
+1,5,16,#Malvolio_TN,#ATTENDANTS.OLIVIA_TN #Malvolio_TN #Olivia_TN,172,22
+1,5,16,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Malvolio_TN #Olivia_TN,32,5
+1,5,17,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Maria_TN #Olivia_TN,16,2
+1,5,18,#Maria_TN,#ATTENDANTS.OLIVIA_TN #Maria_TN #Olivia_TN #Viola_TN,9,1
+1,5,18,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #Maria_TN #Olivia_TN #Viola_TN,144,20
+1,5,18,#Viola_TN,#ATTENDANTS.OLIVIA_TN #Maria_TN #Olivia_TN #Viola_TN,282,33
+1,5,19,#Olivia_TN,#Olivia_TN #Viola_TN,273,37
+1,5,19,#Viola_TN,#Olivia_TN #Viola_TN,269,38
+1,5,20,#Olivia_TN,#Olivia_TN,81,12
+1,5,21,#Malvolio_TN,#Malvolio_TN #Olivia_TN,8,2
+1,5,21,#Olivia_TN,#Malvolio_TN #Olivia_TN,62,7
+1,5,22,#Olivia_TN,#Olivia_TN,37,4
+2,1,23,#Antonio_TN,#Antonio_TN #Sebastian_TN,47,8
+2,1,23,#Sebastian_TN,#Antonio_TN #Sebastian_TN,306,34
+2,1,24,#Antonio_TN,#Antonio_TN,42,5
+2,2,25,#Malvolio_TN,#Malvolio_TN #Viola_TN,113,13
+2,2,25,#Viola_TN,#Malvolio_TN #Viola_TN,23,3
+2,2,26,#Viola_TN,#Viola_TN,208,25
+2,3,27,#AndrewAguecheek_TN,#AndrewAguecheek_TN #TobyBelch_TN,33,4
+2,3,27,#TobyBelch_TN,#AndrewAguecheek_TN #TobyBelch_TN,82,10
+2,3,28,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Feste_TN #TobyBelch_TN,171,25
+2,3,28,#Feste_TN,#AndrewAguecheek_TN #Feste_TN #TobyBelch_TN,158,23
+2,3,28,#TobyBelch_TN,#AndrewAguecheek_TN #Feste_TN #TobyBelch_TN,69,10
+2,3,29,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,27,3
+2,3,29,#Feste_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,7,1
+2,3,29,#Maria_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,34,4
+2,3,29,#TobyBelch_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,42,6
+2,3,30,#Feste_TN,#AndrewAguecheek_TN #Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,40,6
+2,3,30,#Malvolio_TN,#AndrewAguecheek_TN #Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,162,20
+2,3,30,#Maria_TN,#AndrewAguecheek_TN #Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,4,1
+2,3,30,#TobyBelch_TN,#AndrewAguecheek_TN #Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,81,10
+2,3,31,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,74,10
+2,3,31,#Maria_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,271,31
+2,3,31,#TobyBelch_TN,#AndrewAguecheek_TN #Feste_TN #Maria_TN #TobyBelch_TN,73,11
+2,3,32,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Feste_TN #TobyBelch_TN,35,6
+2,3,32,#TobyBelch_TN,#AndrewAguecheek_TN #Feste_TN #TobyBelch_TN,58,8
+2,4,33,#ATTENDANTS.ORSINO.Curio_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,33,5
+2,4,33,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,56,10
+2,4,34,#Orsino_TN,#ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,178,25
+2,4,34,#Viola_TN,#ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,48,8
+2,4,35,#Feste_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Feste_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,177,27
+2,4,35,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Feste_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,74,12
+2,4,36,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #MUSICIANS_TN #Orsino_TN #Viola_TN,6,1
+2,4,37,#Orsino_TN,#Orsino_TN #Viola_TN,184,26
+2,4,37,#Viola_TN,#Orsino_TN #Viola_TN,194,24
+2,5,38,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,10,1
+2,5,38,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,38,4
+2,5,38,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,42,6
+2,5,39,#Maria_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,67,8
+2,5,39,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,11,2
+2,5,40,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #Malvolio_TN #TobyBelch_TN,39,7
+2,5,40,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #Malvolio_TN #TobyBelch_TN,138,24
+2,5,40,#Malvolio_TN,#AndrewAguecheek_TN #Fabian_TN #Malvolio_TN #TobyBelch_TN,842,109
+2,5,40,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Malvolio_TN #TobyBelch_TN,98,22
+2,5,41,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,7,2
+2,5,41,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,20,2
+2,5,41,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,19,3
+2,5,42,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,13,3
+2,5,42,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,5,1
+2,5,42,#Maria_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,86,10
+2,5,42,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,57,8
+3,1,43,#Feste_TN,#Feste_TN #Viola_TN,324,39
+3,1,43,#Viola_TN,#Feste_TN #Viola_TN,148,21
+3,1,44,#Viola_TN,#Viola_TN,77,9
+3,1,45,#AndrewAguecheek_TN,#AndrewAguecheek_TN #TobyBelch_TN #Viola_TN,13,2
+3,1,45,#TobyBelch_TN,#AndrewAguecheek_TN #TobyBelch_TN #Viola_TN,36,5
+3,1,45,#Viola_TN,#AndrewAguecheek_TN #TobyBelch_TN #Viola_TN,55,9
+3,1,46,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Maria_TN #Olivia_TN #TobyBelch_TN #Viola_TN,19,4
+3,1,46,#Olivia_TN,#AndrewAguecheek_TN #Maria_TN #Olivia_TN #TobyBelch_TN #Viola_TN,12,2
+3,1,46,#Viola_TN,#AndrewAguecheek_TN #Maria_TN #Olivia_TN #TobyBelch_TN #Viola_TN,25,4
+3,1,47,#Olivia_TN,#Olivia_TN #Viola_TN,414,54
+3,1,47,#Viola_TN,#Olivia_TN #Viola_TN,165,23
+3,2,48,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,86,11
+3,2,48,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,152,19
+3,2,48,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,182,21
+3,2,49,#Fabian_TN,#Fabian_TN #TobyBelch_TN,36,5
+3,2,49,#TobyBelch_TN,#Fabian_TN #TobyBelch_TN,67,8
+3,2,50,#Maria_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,136,15
+3,2,50,#TobyBelch_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,18,3
+3,3,51,#Antonio_TN,#Antonio_TN #Sebastian_TN,258,34
+3,3,51,#Sebastian_TN,#Antonio_TN #Sebastian_TN,138,20
+3,4,52,#Maria_TN,#Maria_TN #Olivia_TN,42,5
+3,4,52,#Olivia_TN,#Maria_TN #Olivia_TN,62,10
+3,4,53,#Olivia_TN,#Olivia_TN,13,2
+3,4,54,#Malvolio_TN,#Malvolio_TN #Maria_TN #Olivia_TN,146,26
+3,4,54,#Maria_TN,#Malvolio_TN #Maria_TN #Olivia_TN,14,3
+3,4,54,#Olivia_TN,#Malvolio_TN #Maria_TN #Olivia_TN,70,16
+3,4,55,#ATTENDANTS.OLIVIA.1_TN,#ATTENDANTS.OLIVIA.1_TN #Malvolio_TN #Maria_TN #Olivia_TN,21,3
+3,4,55,#Olivia_TN,#ATTENDANTS.OLIVIA.1_TN #Malvolio_TN #Maria_TN #Olivia_TN,4,1
+3,4,56,#Olivia_TN,#Malvolio_TN #Maria_TN #Olivia_TN,35,5
+3,4,57,#Malvolio_TN,#Malvolio_TN,193,21
+3,4,58,#Fabian_TN,#Fabian_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,40,5
+3,4,58,#Malvolio_TN,#Fabian_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,49,10
+3,4,58,#Maria_TN,#Fabian_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,93,14
+3,4,58,#TobyBelch_TN,#Fabian_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,115,15
+3,4,59,#Fabian_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,23,3
+3,4,59,#Maria_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,17,3
+3,4,59,#TobyBelch_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,83,10
+3,4,60,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,28,4
+3,4,60,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,45,9
+3,4,60,#Maria_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,23,3
+3,4,60,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Maria_TN #TobyBelch_TN,201,25
+3,4,61,#TobyBelch_TN,#Fabian_TN #Maria_TN #TobyBelch_TN,118,13
+3,4,62,#Fabian_TN,#Fabian_TN #Maria_TN #Olivia_TN #TobyBelch_TN #Viola_TN,17,2
+3,4,62,#TobyBelch_TN,#Fabian_TN #Maria_TN #Olivia_TN #TobyBelch_TN #Viola_TN,12,2
+3,4,63,#Olivia_TN,#Olivia_TN #Viola_TN,113,14
+3,4,63,#Viola_TN,#Olivia_TN #Viola_TN,26,4
+3,4,64,#TobyBelch_TN,#Fabian_TN #TobyBelch_TN #Viola_TN,229,28
+3,4,64,#Viola_TN,#Fabian_TN #TobyBelch_TN #Viola_TN,119,14
+3,4,65,#Fabian_TN,#Fabian_TN #Viola_TN,80,10
+3,4,65,#Viola_TN,#Fabian_TN #Viola_TN,50,5
+3,4,66,#AndrewAguecheek_TN,#AndrewAguecheek_TN #TobyBelch_TN,47,6
+3,4,66,#TobyBelch_TN,#AndrewAguecheek_TN #TobyBelch_TN,110,13
+3,4,67,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,6,2
+3,4,67,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,27,4
+3,4,67,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,112,13
+3,4,67,#Viola_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,27,4
+3,4,68,#Antonio_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #TobyBelch_TN #Viola_TN,46,5
+3,4,68,#TobyBelch_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #TobyBelch_TN #Viola_TN,16,2
+3,4,69,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,25,3
+3,4,69,#Antonio_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,205,29
+3,4,69,#Fabian_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,9,1
+3,4,69,#OFFICERS.1_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,53,7
+3,4,69,#OFFICERS.2_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,19,4
+3,4,69,#TobyBelch_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,5,1
+3,4,69,#Viola_TN,#AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #TobyBelch_TN #Viola_TN,95,15
+3,4,70,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,17,2
+3,4,70,#Viola_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN #Viola_TN,78,10
+3,4,71,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,12,2
+3,4,71,#Fabian_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,14,3
+3,4,71,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #TobyBelch_TN,49,7
+4,1,72,#Feste_TN,#Feste_TN #Sebastian_TN,143,16
+4,1,72,#Sebastian_TN,#Feste_TN #Sebastian_TN,46,7
+4,1,73,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #Feste_TN #Sebastian_TN #TobyBelch_TN,10,2
+4,1,73,#Feste_TN,#AndrewAguecheek_TN #Fabian_TN #Feste_TN #Sebastian_TN #TobyBelch_TN,18,2
+4,1,73,#Sebastian_TN,#AndrewAguecheek_TN #Fabian_TN #Feste_TN #Sebastian_TN #TobyBelch_TN,13,2
+4,1,73,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Feste_TN #Sebastian_TN #TobyBelch_TN,10,2
+4,1,74,#AndrewAguecheek_TN,#AndrewAguecheek_TN #Fabian_TN #Sebastian_TN #TobyBelch_TN,38,4
+4,1,74,#Sebastian_TN,#AndrewAguecheek_TN #Fabian_TN #Sebastian_TN #TobyBelch_TN,23,4
+4,1,74,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Sebastian_TN #TobyBelch_TN,43,6
+4,1,75,#Olivia_TN,#AndrewAguecheek_TN #Fabian_TN #Olivia_TN #Sebastian_TN #TobyBelch_TN,40,7
+4,1,75,#TobyBelch_TN,#AndrewAguecheek_TN #Fabian_TN #Olivia_TN #Sebastian_TN #TobyBelch_TN,1,1
+4,1,76,#Olivia_TN,#Olivia_TN #Sebastian_TN,87,12
+4,1,76,#Sebastian_TN,#Olivia_TN #Sebastian_TN,40,5
+4,2,77,#Maria_TN,#Feste_TN #Maria_TN,28,3
+4,2,78,#Feste_TN,#Feste_TN,72,8
+4,2,79,#Feste_TN,#Feste_TN #Maria_TN #TobyBelch_TN,56,7
+4,2,79,#TobyBelch_TN,#Feste_TN #Maria_TN #TobyBelch_TN,16,3
+4,2,80,#Feste_TN,#Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,166,24
+4,2,80,#Malvolio_TN,#Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,125,19
+4,2,80,#Maria_TN,#Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,14,2
+4,2,80,#TobyBelch_TN,#Feste_TN #Malvolio_TN #Maria_TN #TobyBelch_TN,71,9
+4,2,81,#Feste_TN,#Feste_TN #Malvolio_TN,218,33
+4,2,81,#Malvolio_TN,#Feste_TN #Malvolio_TN,175,25
+4,3,82,#Sebastian_TN,#Sebastian_TN,181,22
+4,3,83,#Olivia_TN,#Olivia_TN #Priest_TN #Sebastian_TN,98,13
+4,3,83,#Sebastian_TN,#Olivia_TN #Priest_TN #Sebastian_TN,17,2
+5,1,84,#Fabian_TN,#Fabian_TN #Feste_TN,24,4
+5,1,84,#Feste_TN,#Fabian_TN #Feste_TN,14,2
+5,1,85,#Feste_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Fabian_TN #Feste_TN #Orsino_TN #Viola_TN,228,26
+5,1,85,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Fabian_TN #Feste_TN #Orsino_TN #Viola_TN,101,13
+5,1,86,#Antonio_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Orsino_TN #Viola_TN,179,25
+5,1,86,#OFFICERS.1_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Orsino_TN #Viola_TN,47,6
+5,1,86,#Orsino_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Orsino_TN #Viola_TN,104,14
+5,1,86,#Viola_TN,#ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Orsino_TN #Viola_TN,37,5
+5,1,87,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Viola_TN,140,20
+5,1,87,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Viola_TN,199,31
+5,1,87,#Viola_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Viola_TN,78,11
+5,1,88,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,53,8
+5,1,88,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,50,6
+5,1,88,#Priest_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,57,9
+5,1,88,#Viola_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,5,1
+5,1,89,#AndrewAguecheek_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,107,14
+5,1,89,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,9,2
+5,1,89,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,3,1
+5,1,89,#Viola_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Viola_TN,27,3
+5,1,90,#AndrewAguecheek_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #TobyBelch_TN #Viola_TN,36,5
+5,1,90,#Feste_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #TobyBelch_TN #Viola_TN,17,2
+5,1,90,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #TobyBelch_TN #Viola_TN,21,3
+5,1,90,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #TobyBelch_TN #Viola_TN,8,1
+5,1,90,#TobyBelch_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #AndrewAguecheek_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #TobyBelch_TN #Viola_TN,47,6
+5,1,91,#Antonio_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,26,4
+5,1,91,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,6,2
+5,1,91,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,74,9
+5,1,91,#Sebastian_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,241,32
+5,1,91,#Viola_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,191,26
+5,1,92,#Fabian_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,95,10
+5,1,92,#Feste_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,112,15
+5,1,92,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,65,12
+5,1,92,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,6,1
+5,1,93,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,45,7
+5,1,93,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,57,8
+5,1,94,#Fabian_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #Malvolio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,99,14
+5,1,94,#Feste_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #Malvolio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,67,8
+5,1,94,#Malvolio_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #Malvolio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,144,19
+5,1,94,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #Malvolio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,107,15
+5,1,94,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #Malvolio_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,4,1
+5,1,95,#Olivia_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,6,1
+5,1,95,#Orsino_TN,#ATTENDANTS.OLIVIA_TN #ATTENDANTS.ORSINO.Curio_TN #ATTENDANTS.ORSINO_TN #Antonio_TN #Fabian_TN #Feste_TN #OFFICERS.1_TN #OFFICERS.2_TN #Olivia_TN #Orsino_TN #Priest_TN #Sebastian_TN #Viola_TN,70,9
+5,1,96,#Feste_TN,#Feste_TN,148,20

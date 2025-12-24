@@ -1,0 +1,204 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,0,1,#Gower_Per,#Gower_Per,281,42
+1,1,2,#Antiochus_Per,#Antiochus_Per #FOLLOWERS.ANTIOCHUS_Per #Pericles_Per,60,9
+1,1,2,#Pericles_Per,#Antiochus_Per #FOLLOWERS.ANTIOCHUS_Per #Pericles_Per,21,3
+1,1,3,#Antiochus_Per,#Antiochus_Per #Daughter_Per #FOLLOWERS.ANTIOCHUS_Per #Pericles_Per,251,35
+1,1,3,#Daughter_Per,#Antiochus_Per #Daughter_Per #FOLLOWERS.ANTIOCHUS_Per #Pericles_Per,16,2
+1,1,3,#Pericles_Per,#Antiochus_Per #Daughter_Per #FOLLOWERS.ANTIOCHUS_Per #Pericles_Per,599,77
+1,1,4,#Pericles_Per,#Pericles_Per,181,22
+1,1,5,#Antiochus_Per,#Antiochus_Per,54,8
+1,1,6,#Antiochus_Per,#Antiochus_Per #Thaliard_Per,61,10
+1,1,6,#Thaliard_Per,#Antiochus_Per #Thaliard_Per,8,2
+1,1,7,#Antiochus_Per,#Antiochus_Per #MESSENGERS.ANTIOCH.1_Per #Thaliard_Per,8,1
+1,1,7,#MESSENGERS.ANTIOCH.1_Per,#Antiochus_Per #MESSENGERS.ANTIOCH.1_Per #Thaliard_Per,6,1
+1,1,8,#Antiochus_Per,#Antiochus_Per #Thaliard_Per,49,7
+1,1,8,#Thaliard_Per,#Antiochus_Per #Thaliard_Per,21,3
+1,2,9,#Pericles_Per,#ATTENDANTS.PERICLES.1_Per #Pericles_Per,4,1
+1,2,10,#Pericles_Per,#Pericles_Per,276,36
+1,2,11,#LORDS.TYRE.0.1_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE_Per #Pericles_Per,8,1
+1,2,12,#Helicanus_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE_Per #Pericles_Per,88,11
+1,2,12,#LORDS.TYRE.0.2_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE_Per #Pericles_Per,12,2
+1,2,12,#Pericles_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE_Per #Pericles_Per,22,3
+1,2,13,#Helicanus_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #Pericles_Per,146,20
+1,2,13,#Pericles_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #Pericles_Per,474,59
+1,3,14,#Thaliard_Per,#Thaliard_Per,99,10
+1,3,15,#Helicanus_Per,#Helicanus_Per #LORDS.TYRE_Per #Thaliard_Per,144,19
+1,3,15,#Thaliard_Per,#Helicanus_Per #LORDS.TYRE_Per #Thaliard_Per,79,11
+1,4,16,#Cleon_Per,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per,367,47
+1,4,16,#Dionyza_Per,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per,73,9
+1,4,17,#Cleon_Per,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per #LORDS.TARSUS.1_Per,139,20
+1,4,17,#LORDS.TARSUS.1_Per,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per #LORDS.TARSUS.1_Per,48,7
+1,4,18,#Cleon_Per,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per,15,2
+1,4,19,#CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per,#ATTENDANTS.PERICLES_Per #CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per #Pericles_Per,11,2
+1,4,19,#Cleon_Per,#ATTENDANTS.PERICLES_Per #CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per #Pericles_Per,50,6
+1,4,19,#Pericles_Per,#ATTENDANTS.PERICLES_Per #CITIZENS.TARSUS_Per #Cleon_Per #Dionyza_Per #Pericles_Per,136,17
+2,0,20,#Gower_Per,#Gower_Per,264,40
+2,1,21,#Pericles_Per,#Pericles_Per,95,11
+2,1,22,#FISHERMEN.1_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,189,26
+2,1,22,#FISHERMEN.2_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,124,20
+2,1,22,#FISHERMEN.3_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,151,18
+2,1,22,#Pericles_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,171,23
+2,1,23,#FISHERMEN.1_Per,#FISHERMEN.1_Per #Pericles_Per,101,14
+2,1,23,#Pericles_Per,#FISHERMEN.1_Per #Pericles_Per,58,8
+2,1,24,#FISHERMEN.1_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,24,4
+2,1,24,#FISHERMEN.2_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,98,12
+2,1,24,#Pericles_Per,#FISHERMEN.1_Per #FISHERMEN.2_Per #FISHERMEN.3_Per #Pericles_Per,304,36
+2,2,25,#Simonides_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,8,1
+2,2,26,#LORDS.PENTAPOLIS.0.1_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,44,6
+2,2,26,#Simonides_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,166,23
+2,2,26,#Thaisa_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,161,23
+2,2,27,#LORDS.PENTAPOLIS.0.2_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS.0.2_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,15,2
+2,2,28,#LORDS.PENTAPOLIS.0.3_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS.0.2_Per #LORDS.PENTAPOLIS.0.3_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,17,2
+2,2,28,#Simonides_Per,#ATTENDANTS.SIMONIDES_Per #LORDS.PENTAPOLIS.0.1_Per #LORDS.PENTAPOLIS.0.2_Per #LORDS.PENTAPOLIS.0.3_Per #LORDS.PENTAPOLIS_Per #Simonides_Per #Thaisa_Per,27,4
+2,3,29,#KNIGHTS_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,7,1
+2,3,29,#Marshal_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,5,1
+2,3,29,#Pericles_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,13,2
+2,3,29,#Simonides_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,134,18
+2,3,29,#Thaisa_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,22,3
+2,3,30,#KNIGHTS.0.1_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS.0.1_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,23,3
+2,3,30,#KNIGHTS_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS.0.1_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,12,2
+2,3,30,#Pericles_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS.0.1_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,166,21
+2,3,30,#Simonides_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS.0.1_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,380,53
+2,3,30,#Thaisa_Per,#ATTENDANTS.SIMONIDES_Per #KNIGHTS.0.1_Per #KNIGHTS_Per #LADIES.PENTAPOLIS_Per #LORDS.PENTAPOLIS_Per #Marshal_Per #Pericles_Per #Simonides_Per #Thaisa_Per,139,19
+2,4,31,#Helicanus_Per,#Helicanus_Per #LORDS.TYRE.Escanes_Per,120,15
+2,4,31,#LORDS.TYRE.Escanes_Per,#Helicanus_Per #LORDS.TYRE.Escanes_Per,6,2
+2,4,32,#LORDS.TYRE.0.1_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,15,2
+2,4,33,#LORDS.TYRE.0.2_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,7,1
+2,4,34,#Helicanus_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.0.3_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,135,18
+2,4,34,#LORDS.TYRE.0.1_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.0.3_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,114,14
+2,4,34,#LORDS.TYRE.0.2_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.0.3_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,46,6
+2,4,34,#LORDS.TYRE.0.3_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.0.3_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,9,1
+2,4,34,#LORDS.TYRE_Per,#Helicanus_Per #LORDS.TYRE.0.1_Per #LORDS.TYRE.0.2_Per #LORDS.TYRE.0.3_Per #LORDS.TYRE.Escanes_Per #LORDS.TYRE_Per,3,1
+2,5,35,#KNIGHTS.0.1_Per,#KNIGHTS.0.1_Per #KNIGHTS_Per #Simonides_Per,6,1
+2,5,35,#Simonides_Per,#KNIGHTS.0.1_Per #KNIGHTS_Per #Simonides_Per,35,4
+2,5,36,#KNIGHTS.0.2_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS_Per #Simonides_Per,9,1
+2,5,36,#Simonides_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS_Per #Simonides_Per,42,5
+2,5,37,#KNIGHTS.0.3_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #KNIGHTS_Per #Simonides_Per,8,1
+2,5,38,#Simonides_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Simonides_Per,75,10
+2,5,39,#Pericles_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per,184,27
+2,5,39,#Simonides_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per,126,19
+2,5,40,#Pericles_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per #Thaisa_Per,39,5
+2,5,40,#Pericles_Per #Thaisa_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per #Thaisa_Per,6,1
+2,5,40,#Simonides_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per #Thaisa_Per,143,19
+2,5,40,#Thaisa_Per,#KNIGHTS.0.1_Per #KNIGHTS.0.2_Per #KNIGHTS.0.3_Per #Pericles_Per #Simonides_Per #Thaisa_Per,21,3
+3,0,41,#Gower_Per,#Gower_Per,375,60
+3,1,42,#Pericles_Per,#Pericles_Per,104,14
+3,1,43,#Lychorida_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per,70,10
+3,1,43,#Pericles_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per,121,17
+3,1,44,#Lychorida_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,4,1
+3,1,44,#Pericles_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,147,20
+3,1,44,#SAILORS.1_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,71,10
+3,1,44,#SAILORS.2_Per,#Lychorida_Per #Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,14,2
+3,1,45,#Pericles_Per,#Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,56,8
+3,1,45,#SAILORS.2_Per,#Marina.Infant_Per #Pericles_Per #SAILORS.1_Per #SAILORS.2_Per,24,4
+3,2,46,#Cerimon_Per,#Cerimon_Per #SUPPLIANTS.1_Per #SUPPLIANTS.2_Per,2,1
+3,2,47,#Cerimon_Per,#Cerimon_Per #Philemon_Per #SUPPLIANTS.1_Per #SUPPLIANTS.2_Per,16,2
+3,2,47,#Philemon_Per,#Cerimon_Per #Philemon_Per #SUPPLIANTS.1_Per #SUPPLIANTS.2_Per,4,1
+3,2,48,#Cerimon_Per,#Cerimon_Per #SUPPLIANTS.1_Per #SUPPLIANTS.2_Per,30,5
+3,2,48,#SUPPLIANTS.1_Per,#Cerimon_Per #SUPPLIANTS.1_Per #SUPPLIANTS.2_Per,16,2
+3,2,49,#Cerimon_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per,129,20
+3,2,49,#GENTLEMEN.EPHESUS.1_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per,75,13
+3,2,49,#GENTLEMEN.EPHESUS.2_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per,63,9
+3,2,50,#Cerimon_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON_Per,230,34
+3,2,50,#GENTLEMEN.EPHESUS.2_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON_Per,17,5
+3,2,50,#SERVANTS.CERIMON.0.1_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON_Per,33,6
+3,2,51,#Cerimon_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per,126,18
+3,2,51,#GENTLEMEN.EPHESUS.1_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per,13,3
+3,2,52,#Cerimon_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per #Thaisa_Per,34,5
+3,2,52,#GENTLEMEN.EPHESUS.1_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per #Thaisa_Per,2,1
+3,2,52,#GENTLEMEN.EPHESUS.2_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per #Thaisa_Per,4,1
+3,2,52,#Thaisa_Per,#Cerimon_Per #GENTLEMEN.EPHESUS.1_Per #GENTLEMEN.EPHESUS.2_Per #SERVANTS.CERIMON.0.1_Per #SERVANTS.CERIMON.0.2_Per #SERVANTS.CERIMON_Per #Thaisa_Per,13,2
+3,3,53,#Cleon_Per,#Cleon_Per #Dionyza_Per #Lychorida_Per #Marina.Infant_Per #Pericles_Per,112,15
+3,3,53,#Dionyza_Per,#Cleon_Per #Dionyza_Per #Lychorida_Per #Marina.Infant_Per #Pericles_Per,39,6
+3,3,53,#Pericles_Per,#Cleon_Per #Dionyza_Per #Lychorida_Per #Marina.Infant_Per #Pericles_Per,201,27
+3,4,54,#Cerimon_Per,#Cerimon_Per #Thaisa_Per,56,8
+3,4,54,#Thaisa_Per,#Cerimon_Per #Thaisa_Per,71,9
+4,0,55,#Gower_Per,#Gower_Per,320,52
+4,1,56,#Dionyza_Per,#Dionyza_Per #Leonine_Per,87,11
+4,1,56,#Leonine_Per,#Dionyza_Per #Leonine_Per,14,3
+4,1,57,#Dionyza_Per,#Dionyza_Per #Leonine_Per #Marina_Per,209,29
+4,1,57,#Leonine_Per,#Dionyza_Per #Leonine_Per #Marina_Per,4,1
+4,1,57,#Marina_Per,#Dionyza_Per #Leonine_Per #Marina_Per,88,13
+4,1,58,#Leonine_Per,#Leonine_Per #Marina_Per,66,13
+4,1,58,#Marina_Per,#Leonine_Per #Marina_Per,242,33
+4,1,59,#PIRATES.0.1_Per,#Leonine_Per #Marina_Per #PIRATES.0.1_Per #PIRATES_Per,2,1
+4,1,60,#PIRATES.0.2_Per,#Marina_Per #PIRATES.0.1_Per #PIRATES.0.2_Per #PIRATES_Per,4,1
+4,1,61,#PIRATES.0.3_Per,#Marina_Per #PIRATES.0.1_Per #PIRATES.0.2_Per #PIRATES.0.3_Per #PIRATES_Per,9,2
+4,1,62,#Leonine_Per,#Leonine_Per #PIRATES.0.1_Per #PIRATES.0.2_Per #PIRATES.0.3_Per,59,7
+4,2,63,#Bawd_Per,#Bawd_Per #Bolt_Per #Pander_Per,74,10
+4,2,63,#Bolt_Per,#Bawd_Per #Bolt_Per #Pander_Per,32,6
+4,2,63,#Pander_Per,#Bawd_Per #Bolt_Per #Pander_Per,66,10
+4,2,64,#Bawd_Per,#Bawd_Per #Pander_Per,25,3
+4,2,64,#Pander_Per,#Bawd_Per #Pander_Per,96,11
+4,2,65,#Bolt_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES_Per #Pander_Per,10,2
+4,2,66,#Bawd_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per #PIRATES_Per #Pander_Per,9,2
+4,2,66,#Bolt_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per #PIRATES_Per #Pander_Per,55,7
+4,2,66,#PIRATES.0.1_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per #PIRATES_Per #Pander_Per,6,1
+4,2,66,#Pander_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per #PIRATES_Per #Pander_Per,31,4
+4,2,67,#Bawd_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per,53,6
+4,2,67,#Bolt_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per,3,1
+4,2,68,#Bawd_Per,#Bawd_Per #Marina_Per #PIRATES.0.1_Per,127,18
+4,2,68,#Marina_Per,#Bawd_Per #Marina_Per #PIRATES.0.1_Per,68,13
+4,2,69,#Bawd_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per,244,33
+4,2,69,#Bolt_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per,181,24
+4,2,69,#Marina_Per,#Bawd_Per #Bolt_Per #Marina_Per #PIRATES.0.1_Per,25,4
+4,3,70,#Cleon_Per,#Cleon_Per #Dionyza_Per,147,22
+4,3,70,#Dionyza_Per,#Cleon_Per #Dionyza_Per,258,35
+4,4,71,#Gower_Per,#Gower_Per,383,52
+4,5,72,#GENTLEMEN.MYTILENE.1_Per,#GENTLEMEN.MYTILENE.1_Per #GENTLEMEN.MYTILENE.2_Per,37,5
+4,5,72,#GENTLEMEN.MYTILENE.2_Per,#GENTLEMEN.MYTILENE.1_Per #GENTLEMEN.MYTILENE.2_Per,32,4
+4,6,73,#Bawd_Per,#Bawd_Per #Bolt_Per #Pander_Per,90,10
+4,6,73,#Bolt_Per,#Bawd_Per #Bolt_Per #Pander_Per,18,2
+4,6,73,#Pander_Per,#Bawd_Per #Bolt_Per #Pander_Per,23,3
+4,6,74,#Bawd_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Pander_Per,37,5
+4,6,74,#Bolt_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Pander_Per,27,3
+4,6,74,#Lysimachus_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Pander_Per,53,9
+4,6,75,#Bolt_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per,29,4
+4,6,75,#Lysimachus_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per,23,4
+4,6,76,#Bawd_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Marina_Per #Pander_Per,109,15
+4,6,76,#Lysimachus_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Marina_Per #Pander_Per,23,5
+4,6,76,#Marina_Per,#Bawd_Per #Bolt_Per #Lysimachus_Per #Marina_Per #Pander_Per,42,7
+4,6,77,#Lysimachus_Per,#Lysimachus_Per #Marina_Per,251,34
+4,6,77,#Marina_Per,#Lysimachus_Per #Marina_Per,144,21
+4,6,78,#Bolt_Per,#Bolt_Per #Lysimachus_Per #Marina_Per,8,2
+4,6,78,#Lysimachus_Per,#Bolt_Per #Lysimachus_Per #Marina_Per,20,3
+4,6,79,#Bolt_Per,#Bolt_Per #Marina_Per,70,9
+4,6,79,#Marina_Per,#Bolt_Per #Marina_Per,5,1
+4,6,80,#Bawd_Per,#Bawd_Per #Bolt_Per #Marina_Per #Pander_Per,72,11
+4,6,80,#Bolt_Per,#Bawd_Per #Bolt_Per #Marina_Per #Pander_Per,69,9
+4,6,80,#Marina_Per,#Bawd_Per #Bolt_Per #Marina_Per #Pander_Per,4,1
+4,6,81,#Bolt_Per,#Bolt_Per #Marina_Per,154,19
+4,6,81,#Marina_Per,#Bolt_Per #Marina_Per,216,30
+5,0,82,#Gower_Per,#Gower_Per,193,24
+5,1,83,#Helicanus_Per,#Helicanus_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,4,1
+5,1,83,#SAILORS.TYRE.1_Per,#Helicanus_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,37,5
+5,1,84,#Helicanus_Per,#Helicanus_Per #SAILORS.TYRE.1_Per,4,1
+5,1,84,#SAILORS.TYRE.1_Per,#Helicanus_Per #SAILORS.TYRE.1_Per,5,1
+5,1,85,#GENTLEMEN.TYRE.0.1_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #SAILORS.TYRE.1_Per,4,1
+5,1,85,#Helicanus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #SAILORS.TYRE.1_Per,14,3
+5,1,86,#Helicanus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,85,15
+5,1,86,#Lysimachus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,62,9
+5,1,86,#SAILORS.MYTILENE.1_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,13,3
+5,1,87,#Helicanus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,26,5
+5,1,87,#Lysimachus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,11,2
+5,1,88,#Helicanus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,11,2
+5,1,88,#LORDS.MYTILENE.0.1_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,16,2
+5,1,88,#Lysimachus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,54,9
+5,1,89,#Helicanus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,46,7
+5,1,89,#Lysimachus_Per,#GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,41,6
+5,1,90,#Helicanus_Per,#Companion_Per #GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Marina_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,43,9
+5,1,90,#Lysimachus_Per,#Companion_Per #GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Marina_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,164,23
+5,1,90,#Marina_Per,#Companion_Per #GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Marina_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,421,64
+5,1,90,#Pericles_Per,#Companion_Per #GENTLEMEN.TYRE.0.1_Per #GENTLEMEN.TYRE_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #LORDS.MYTILENE_Per #Lysimachus_Per #Marina_Per #Pericles_Per #SAILORS.MYTILENE.1_Per #SAILORS.TYRE.1_Per,737,105
+5,1,91,#Diana_Per,#Diana_Per #GENTLEMEN.TYRE.0.1_Per #LORDS.MYTILENE.0.1_Per #Pericles_Per,72,10
+5,1,92,#Pericles_Per,#GENTLEMEN.TYRE.0.1_Per #LORDS.MYTILENE.0.1_Per #Pericles_Per,9,3
+5,1,93,#Helicanus_Per,#ATTENDANTS.PERICLES_Per #GENTLEMEN.TYRE.0.1_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #Lysimachus_Per #Marina_Per #Pericles_Per,1,1
+5,1,93,#Lysimachus_Per,#ATTENDANTS.PERICLES_Per #GENTLEMEN.TYRE.0.1_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #Lysimachus_Per #Marina_Per #Pericles_Per,19,4
+5,1,93,#Pericles_Per,#ATTENDANTS.PERICLES_Per #GENTLEMEN.TYRE.0.1_Per #Helicanus_Per #LORDS.MYTILENE.0.1_Per #Lysimachus_Per #Marina_Per #Pericles_Per,70,11
+5,2,94,#Gower_Per,#Gower_Per,121,20
+5,3,95,#Cerimon_Per,#ATTENDANTS.PERICLES_Per #Cerimon_Per #Helicanus_Per #Lysimachus_Per #Marina_Per #PRIESTESSES_Per #Pericles_Per #Thaisa_Per,108,17
+5,3,95,#Helicanus_Per,#ATTENDANTS.PERICLES_Per #Cerimon_Per #Helicanus_Per #Lysimachus_Per #Marina_Per #PRIESTESSES_Per #Pericles_Per #Thaisa_Per,5,1
+5,3,95,#Marina_Per,#ATTENDANTS.PERICLES_Per #Cerimon_Per #Helicanus_Per #Lysimachus_Per #Marina_Per #PRIESTESSES_Per #Pericles_Per #Thaisa_Per,10,2
+5,3,95,#Pericles_Per,#ATTENDANTS.PERICLES_Per #Cerimon_Per #Helicanus_Per #Lysimachus_Per #Marina_Per #PRIESTESSES_Per #Pericles_Per #Thaisa_Per,386,55
+5,3,95,#Thaisa_Per,#ATTENDANTS.PERICLES_Per #Cerimon_Per #Helicanus_Per #Lysimachus_Per #Marina_Per #PRIESTESSES_Per #Pericles_Per #Thaisa_Per,133,23
+6,0,96,#Gower_Per,#Gower_Per,136,18

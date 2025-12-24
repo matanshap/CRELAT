@@ -1,0 +1,106 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+0,0,1,297,42,#Chorus_2H4
+1,1,2,6,1,#LordBardolph_2H4
+1,1,3,44,7,#LordBardolph_2H4 #Porter_2H4
+1,1,4,4,1,#LordBardolph_2H4 #Northumberland_R2 #Porter_2H4
+1,1,5,170,24,#LordBardolph_2H4 #Northumberland_R2
+1,1,6,245,35,#LordBardolph_2H4 #Northumberland_R2 #Travers_2H4
+1,1,7,1281,167,#LordBardolph_2H4 #Morton_2H4 #Northumberland_R2 #Travers_2H4
+1,2,8,517,55,#Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4
+1,2,9,1455,178,#ChiefJustice_2H4 #Falstaff_1H4 #SERVANTS.CHIEFJUSTICE.1_2H4 #SERVANTS.FALSTAFF.1_2H4
+1,2,10,132,17,#Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4
+1,2,11,60,7,#Falstaff_1H4
+1,3,12,846,116,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #Mowbray_2H4
+2,1,13,331,41,#MistressQuickly_1H4 #OFFICERS.Fang_2H4 #OFFICERS.Snare_2H4
+2,1,14,121,20,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4 #OFFICERS.Fang_2H4 #OFFICERS.Snare_2H4 #SERVANTS.FALSTAFF.1_2H4
+2,1,15,637,77,#Bardolph_1H4 #ChiefJustice_2H4 #Falstaff_1H4 #MistressQuickly_1H4 #OFFICERS.Fang_2H4 #OFFICERS.Snare_2H4 #OFFICERS_2H4 #SERVANTS.FALSTAFF.1_2H4
+2,1,16,242,33,#Bardolph_1H4 #ChiefJustice_2H4 #Falstaff_1H4 #MESSENGERS.Gower_2H4 #MistressQuickly_1H4 #OFFICERS.Fang_2H4 #OFFICERS.Snare_2H4 #OFFICERS_2H4 #SERVANTS.FALSTAFF.1_2H4
+2,1,17,185,31,#ChiefJustice_2H4 #Falstaff_1H4 #MESSENGERS.Gower_2H4 #OFFICERS_2H4
+2,2,18,570,67,#HenryV_H5 #Poins_1H4
+2,2,19,683,98,#Bardolph_1H4 #HenryV_H5 #Poins_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,2,20,92,13,#HenryV_H5 #Poins_1H4
+2,3,21,552,71,#LadyNorthumberland_2H4 #LadyPercy_1H4 #Northumberland_R2
+2,4,22,106,14,#DRAWERS.1_2H4 #DRAWERS.Francis_1H4
+2,4,23,55,7,#DRAWERS.1_2H4 #DRAWERS.Francis_1H4 #DRAWERS.Will_2H4
+2,4,24,86,11,#DRAWERS.Will_2H4 #DollTearsheet_2H4 #MistressQuickly_1H4
+2,4,25,8,2,#DRAWERS.Will_2H4 #DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4
+2,4,26,264,35,#DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4
+2,4,27,264,33,#DRAWERS.X_2H4 #DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4
+2,4,28,63,8,#DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4
+2,4,29,685,99,#Bardolph_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,30,32,4,#DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,31,106,14,#Bardolph_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,32,60,9,#Bardolph_1H4 #DRAWERS.Francis_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #MUSICIANS_2H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,33,902,124,#Bardolph_1H4 #DRAWERS.Francis_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #HenryV_H5 #MUSICIANS_2H4 #MistressQuickly_1H4 #Poins_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,34,96,14,#Bardolph_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #HenryV_H5 #MUSICIANS_2H4 #MistressQuickly_1H4 #Peto_1H4 #Poins_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,35,17,2,#Bardolph_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #MUSICIANS_2H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,36,10,3,#DollTearsheet_2H4 #Falstaff_1H4 #MUSICIANS_2H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,37,86,11,#Bardolph_1H4 #DollTearsheet_2H4 #Falstaff_1H4 #MUSICIANS_2H4 #MistressQuickly_1H4 #SERVANTS.FALSTAFF.1_2H4
+2,4,38,24,4,#DollTearsheet_2H4 #MistressQuickly_1H4
+2,4,39,28,6,#Bardolph_1H4 #DollTearsheet_2H4 #MistressQuickly_1H4
+3,1,40,26,3,#HenryIV_1H4 #SERVANTS.HENRY_2H4
+3,1,41,217,28,#HenryIV_1H4
+3,1,42,587,81,#Blunt_2H4 #HenryIV_1H4 #Surrey_2H4 #Warwick_2H4
+3,2,43,434,58,#Shallow_2H4 #Silence_2H4
+3,2,44,211,26,#Bardolph_1H4 #Man_2H4 #Shallow_2H4 #Silence_2H4
+3,2,45,156,20,#Bardolph_1H4 #Falstaff_1H4 #Man_2H4 #Shallow_2H4 #Silence_2H4
+3,2,46,793,122,#Bardolph_1H4 #Bullcalf_2H4 #Falstaff_1H4 #Feeble_2H4 #Man_2H4 #Mouldy_2H4 #Shadow_2H4 #Shallow_2H4 #Silence_2H4 #Wart_2H4
+3,2,47,191,23,#Bardolph_1H4 #Bullcalf_2H4 #Feeble_2H4 #Man_2H4 #Mouldy_2H4 #Shadow_2H4 #Wart_2H4
+3,2,48,79,13,#Bardolph_1H4 #Bullcalf_2H4 #Falstaff_1H4 #Feeble_2H4 #Man_2H4 #Mouldy_2H4 #Shadow_2H4 #Shallow_2H4 #Silence_2H4 #Wart_2H4
+3,2,49,388,48,#Bardolph_1H4 #Falstaff_1H4 #Feeble_2H4 #Man_2H4 #Shadow_2H4 #Shallow_2H4 #Silence_2H4 #Wart_2H4
+3,2,50,6,1,#Bardolph_1H4 #Falstaff_1H4 #Feeble_2H4 #Man_2H4 #Shadow_2H4 #Wart_2H4
+3,2,51,329,34,#Falstaff_1H4
+4,1,52,130,19,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #Mowbray_2H4 #SOLDIERS.REBEL_2H4
+4,1,53,54,7,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.REBEL_2H4
+4,1,54,1228,166,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.REBEL_2H4 #Westmoreland_1H4
+4,1,55,322,44,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.REBEL_2H4
+4,1,56,18,2,#Archbishop_1H4 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.REBEL_2H4 #Westmoreland_1H4
+4,1,57,746,106,#Archbishop_1H4 #Bedford_H5 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.HENRY_2H4 #SOLDIERS.REBEL_2H4 #Westmoreland_1H4
+4,1,58,37,7,#Archbishop_1H4 #Bedford_H5 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.HENRY_2H4 #SOLDIERS.REBEL_2H4
+4,1,59,8,1,#Archbishop_1H4 #Bedford_H5 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.HENRY_2H4 #SOLDIERS.REBEL_2H4
+4,1,60,28,4,#Archbishop_1H4 #Bedford_H5 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.HENRY_2H4 #SOLDIERS.REBEL_2H4 #Westmoreland_1H4
+4,1,61,170,24,#Archbishop_1H4 #Bedford_H5 #Hastings_2H4 #LordBardolph_2H4 #MESSENGERS.1_2H4 #Mowbray_2H4 #SOLDIERS.HENRY_2H4 #SOLDIERS.REBEL_2H4 #Westmoreland_1H4
+4,2,62,196,23,#Colevile_2H4 #Falstaff_1H4
+4,2,63,15,2,#Bedford_H5 #Blunt_2H4 #Colevile_2H4 #Falstaff_1H4 #SOLDIERS.HENRY_2H4 #Westmoreland_1H4
+4,2,64,382,46,#Bedford_H5 #Blunt_2H4 #Colevile_2H4 #Falstaff_1H4 #SOLDIERS.HENRY_2H4
+4,2,65,31,5,#Bedford_H5 #Blunt_2H4 #Colevile_2H4 #Falstaff_1H4 #SOLDIERS.HENRY_2H4 #Westmoreland_1H4
+4,2,66,86,12,#Bedford_H5 #Falstaff_1H4 #SOLDIERS.HENRY_2H4 #Westmoreland_1H4
+4,2,67,371,41,#Falstaff_1H4
+4,2,68,45,7,#Bardolph_1H4 #Falstaff_1H4
+4,3,69,616,86,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4 #Warwick_2H4
+4,3,70,99,14,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4 #Warwick_2H4 #Westmoreland_1H4
+4,3,71,373,51,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #Harcourt_2H4 #HenryIV_1H4 #Warwick_2H4 #Westmoreland_1H4
+4,3,72,98,15,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #Harcourt_2H4 #HenryIV_1H4 #HenryV_H5 #Warwick_2H4 #Westmoreland_1H4
+4,3,73,217,29,#HenryIV_1H4 #HenryV_H5
+4,3,74,3,2,#HenryIV_1H4
+4,3,75,121,16,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4 #Warwick_2H4
+4,3,76,124,19,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4
+4,3,77,72,9,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4 #Warwick_2H4
+4,3,78,16,2,#ATTENDANTS_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryIV_1H4 #HenryV_H5 #Warwick_2H4
+4,3,79,1081,141,#HenryIV_1H4 #HenryV_H5
+4,3,80,56,8,#ATTENDANTS_2H4 #Bedford_H5 #HenryIV_1H4 #HenryV_H5
+4,3,81,66,9,#ATTENDANTS_2H4 #Bedford_H5 #HenryIV_1H4 #HenryV_H5 #Warwick_2H4
+5,1,82,49,7,#Bardolph_1H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,1,83,347,47,#Bardolph_1H4 #Davy_2H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,1,84,50,8,#Bardolph_1H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,1,85,5,1,#Bardolph_1H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4
+5,1,86,229,25,#Falstaff_1H4
+5,1,87,10,3,#Falstaff_1H4 #Shallow_2H4
+5,2,88,102,14,#ChiefJustice_2H4 #Warwick_2H4
+5,2,89,219,28,#Bedford_H5 #ChiefJustice_2H4 #Clarence_2H4 #Gloucester_2H4 #Warwick_2H4
+5,2,90,822,105,#Bedford_H5 #Blunt_2H4 #ChiefJustice_2H4 #Clarence_2H4 #Gloucester_2H4 #HenryV_H5 #Warwick_2H4
+5,3,91,212,29,#Bardolph_1H4 #Davy_2H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,3,92,67,11,#Bardolph_1H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,3,93,198,31,#Bardolph_1H4 #Davy_2H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,3,94,33,8,#Bardolph_1H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,3,95,21,3,#Bardolph_1H4 #Davy_2H4 #Falstaff_1H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,3,96,430,62,#Bardolph_1H4 #Davy_2H4 #Falstaff_1H4 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4 #Silence_2H4
+5,4,97,26,3,#BEADLES_2H4 #DollTearsheet_2H4 #MistressQuickly_1H4
+5,4,98,209,29,#BEADLES.0.1_2H4 #BEADLES_2H4 #DollTearsheet_2H4 #MistressQuickly_1H4
+5,5,99,21,4,#GROOMS.1_2H4 #GROOMS.2_2H4
+5,5,100,251,34,#Bardolph_1H4 #Falstaff_1H4 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,5,101,271,35,#ATTENDANTS_2H4 #Bardolph_1H4 #ChiefJustice_2H4 #Falstaff_1H4 #HenryV_H5 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,5,102,149,18,#Bardolph_1H4 #Falstaff_1H4 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,5,103,38,6,#Bardolph_1H4 #Bedford_H5 #ChiefJustice_2H4 #Falstaff_1H4 #OFFICERS_2H4 #Pistol_2H4 #SERVANTS.FALSTAFF.1_2H4 #Shallow_2H4
+5,5,104,89,13,#Bedford_H5 #ChiefJustice_2H4
+6,0,105,331,36,#Epilogue_2H4

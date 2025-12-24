@@ -1,0 +1,209 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Beatrice_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,315,39
+1,1,1,#Hero_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,7,1
+1,1,1,#Leonato_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,164,23
+1,1,1,#MESSENGERS.LEONATO.1_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,198,30
+1,1,2,#Beatrice_Ado,#Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,127,17
+1,1,2,#Benedick_Ado,#Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,131,17
+1,1,2,#DonJohn_Ado,#Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,13,2
+1,1,2,#DonPedro_Ado,#Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,127,16
+1,1,2,#Leonato_Ado,#Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado,84,12
+1,1,3,#Benedick_Ado,#Benedick_Ado #Claudio_Ado,266,31
+1,1,3,#Claudio_Ado,#Benedick_Ado #Claudio_Ado,77,11
+1,1,4,#Benedick_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,411,49
+1,1,4,#Claudio_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,77,12
+1,1,4,#DonPedro_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,156,23
+1,1,5,#Claudio_Ado,#Claudio_Ado #DonPedro_Ado,123,16
+1,1,5,#DonPedro_Ado,#Claudio_Ado #DonPedro_Ado,196,24
+1,2,6,#Leonato_Ado,#Leonato_Ado #LeonatosBrother_Ado,68,9
+1,2,6,#LeonatosBrother_Ado,#Leonato_Ado #LeonatosBrother_Ado,115,15
+1,2,7,#Leonato_Ado,#ATTENDANTS_Ado #Leonato_Ado #LeonatosBrother_Ado #MUSICIANS.1_Ado #Son_Ado,32,4
+1,3,8,#Conrade_Ado,#Conrade_Ado #DonJohn_Ado,101,13
+1,3,8,#DonJohn_Ado,#Conrade_Ado #DonJohn_Ado,231,25
+1,3,9,#Borachio_Ado,#Borachio_Ado #Conrade_Ado #DonJohn_Ado,102,16
+1,3,9,#Conrade_Ado,#Borachio_Ado #Conrade_Ado #DonJohn_Ado,5,1
+1,3,9,#DonJohn_Ado,#Borachio_Ado #Conrade_Ado #DonJohn_Ado,122,17
+2,1,10,#Beatrice_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,526,59
+2,1,10,#Hero_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,7,1
+2,1,10,#Leonato_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,116,19
+2,1,10,#LeonatosBrother_Ado,#Beatrice_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,20,4
+2,1,11,#Antonio_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,19,3
+2,1,11,#Balthasar_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,8,2
+2,1,11,#Beatrice_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,183,22
+2,1,11,#Benedick_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,54,12
+2,1,11,#DonPedro_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,37,7
+2,1,11,#Hero_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,51,7
+2,1,11,#Margaret_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,41,6
+2,1,11,#Ursula_Ado,#Antonio_Ado #Balthasar_Ado #Beatrice_Ado #Benedick_Ado #Borachio_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,75,10
+2,1,12,#Borachio_Ado,#Borachio_Ado #Claudio_Ado #DonJohn_Ado,22,4
+2,1,12,#Claudio_Ado,#Borachio_Ado #Claudio_Ado #DonJohn_Ado,13,2
+2,1,12,#DonJohn_Ado,#Borachio_Ado #Claudio_Ado #DonJohn_Ado,84,11
+2,1,13,#Claudio_Ado,#Claudio_Ado,85,11
+2,1,14,#Benedick_Ado,#Benedick_Ado #Claudio_Ado,96,14
+2,1,14,#Claudio_Ado,#Benedick_Ado #Claudio_Ado,23,5
+2,1,15,#Benedick_Ado,#Benedick_Ado,81,8
+2,1,16,#Benedick_Ado,#Benedick_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,363,40
+2,1,16,#DonPedro_Ado,#Benedick_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,63,10
+2,1,17,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,97,11
+2,1,17,#DonPedro_Ado,#Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,11,2
+2,1,18,#Beatrice_Ado,#Beatrice_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,276,33
+2,1,18,#Claudio_Ado,#Beatrice_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,49,7
+2,1,18,#DonPedro_Ado,#Beatrice_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,131,18
+2,1,18,#Leonato_Ado,#Beatrice_Ado #Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,35,5
+2,1,19,#Claudio_Ado,#Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,17,3
+2,1,19,#DonPedro_Ado,#Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,226,26
+2,1,19,#Hero_Ado,#Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,16,2
+2,1,19,#Leonato_Ado,#Claudio_Ado #DonPedro_Ado #Hero_Ado #Leonato_Ado,107,14
+2,2,20,#Borachio_Ado,#Borachio_Ado #DonJohn_Ado,299,37
+2,2,20,#DonJohn_Ado,#Borachio_Ado #DonJohn_Ado,115,19
+2,3,21,#Benedick_Ado,#Benedick_Ado,1,1
+2,3,22,#Benedick_Ado,#Benedick_Ado #Boy_Ado,27,4
+2,3,22,#Boy_Ado,#Benedick_Ado #Boy_Ado,6,2
+2,3,23,#Benedick_Ado,#Benedick_Ado,298,29
+2,3,24,#Balthasar_Ado,#Balthasar_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,172,26
+2,3,24,#Benedick_Ado,#Balthasar_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,74,9
+2,3,24,#Claudio_Ado,#Balthasar_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,31,4
+2,3,24,#DonPedro_Ado,#Balthasar_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,121,19
+2,3,25,#Benedick_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,30,5
+2,3,25,#Claudio_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,228,34
+2,3,25,#DonPedro_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,361,45
+2,3,25,#Leonato_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,345,44
+2,3,26,#Benedick_Ado,#Benedick_Ado,259,26
+2,3,27,#Beatrice_Ado,#Beatrice_Ado #Benedick_Ado,63,8
+2,3,27,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado,15,2
+2,3,28,#Benedick_Ado,#Benedick_Ado,81,7
+3,1,29,#Hero_Ado,#Hero_Ado #Margaret_Ado #Ursula_Ado,103,13
+3,1,29,#Margaret_Ado,#Hero_Ado #Margaret_Ado #Ursula_Ado,8,1
+3,1,30,#Hero_Ado,#Hero_Ado #Ursula_Ado,87,11
+3,1,31,#Hero_Ado,#Beatrice_Ado #Hero_Ado #Ursula_Ado,426,56
+3,1,31,#Ursula_Ado,#Beatrice_Ado #Hero_Ado #Ursula_Ado,214,30
+3,1,32,#Beatrice_Ado,#Beatrice_Ado,80,10
+3,2,33,#Benedick_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,57,9
+3,2,33,#Claudio_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,137,19
+3,2,33,#DonPedro_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,302,36
+3,2,33,#Leonato_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado #Leonato_Ado,28,4
+3,2,34,#Claudio_Ado,#Claudio_Ado #DonPedro_Ado,27,3
+3,2,34,#DonPedro_Ado,#Claudio_Ado #DonPedro_Ado,9,1
+3,2,35,#Claudio_Ado,#Claudio_Ado #DonJohn_Ado #DonPedro_Ado,45,9
+3,2,35,#DonJohn_Ado,#Claudio_Ado #DonJohn_Ado #DonPedro_Ado,275,37
+3,2,35,#DonPedro_Ado,#Claudio_Ado #DonJohn_Ado #DonPedro_Ado,42,9
+3,3,36,#Dogberry_Ado,#Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,567,65
+3,3,36,#Verges_Ado,#Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,86,13
+3,3,36,#WATCHMEN.1_Ado,#Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,12,2
+3,3,36,#WATCHMEN.2_Ado,#Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,24,4
+3,3,36,#WATCHMEN.Seacoal_Ado,#Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,54,9
+3,3,37,#Borachio_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,360,50
+3,3,37,#Conrade_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,99,15
+3,3,37,#WATCHMEN.1_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,33,5
+3,3,37,#WATCHMEN.Seacoal_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,15,4
+3,3,38,#WATCHMEN.1_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.Seacoal_Ado,14,2
+3,3,38,#WATCHMEN.Seacoal_Ado,#Borachio_Ado #Conrade_Ado #WATCHMEN.1_Ado #WATCHMEN.Seacoal_Ado,17,3
+3,3,39,#Borachio_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,15,2
+3,3,39,#Conrade_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,11,2
+3,3,39,#Dogberry_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,16,3
+3,3,39,#WATCHMEN.1_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,9,2
+3,4,40,#Hero_Ado,#Hero_Ado #Margaret_Ado #Ursula_Ado,16,3
+3,4,40,#Ursula_Ado,#Hero_Ado #Margaret_Ado #Ursula_Ado,4,2
+3,4,41,#Hero_Ado,#Hero_Ado #Margaret_Ado,45,7
+3,4,41,#Margaret_Ado,#Hero_Ado #Margaret_Ado,197,26
+3,4,42,#Beatrice_Ado,#Beatrice_Ado #Hero_Ado #Margaret_Ado,120,18
+3,4,42,#Hero_Ado,#Beatrice_Ado #Hero_Ado #Margaret_Ado,31,5
+3,4,42,#Margaret_Ado,#Beatrice_Ado #Hero_Ado #Margaret_Ado,241,30
+3,4,43,#Hero_Ado,#Beatrice_Ado #Hero_Ado #Margaret_Ado #Ursula_Ado,10,2
+3,4,43,#Ursula_Ado,#Beatrice_Ado #Hero_Ado #Margaret_Ado #Ursula_Ado,24,3
+3,5,44,#Dogberry_Ado,#Dogberry_Ado #Leonato_Ado #Verges_Ado,254,31
+3,5,44,#Leonato_Ado,#Dogberry_Ado #Leonato_Ado #Verges_Ado,87,13
+3,5,44,#Verges_Ado,#Dogberry_Ado #Leonato_Ado #Verges_Ado,53,7
+3,5,45,#Leonato_Ado,#Dogberry_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado #Verges_Ado,7,1
+3,5,45,#MESSENGERS.LEONATO.1_Ado,#Dogberry_Ado #Leonato_Ado #MESSENGERS.LEONATO.1_Ado #Verges_Ado,13,2
+3,5,46,#Dogberry_Ado,#Dogberry_Ado #Verges_Ado,61,7
+3,5,46,#Verges_Ado,#Dogberry_Ado #Verges_Ado,6,1
+4,1,47,#Beatrice_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,8,1
+4,1,47,#Benedick_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,19,3
+4,1,47,#Claudio_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,431,58
+4,1,47,#DonJohn_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,60,8
+4,1,47,#DonPedro_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,87,13
+4,1,47,#FriarFrancis_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,46,8
+4,1,47,#Hero_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,63,10
+4,1,47,#Leonato_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonJohn_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,118,16
+4,1,48,#Beatrice_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,38,6
+4,1,48,#Benedick_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,106,15
+4,1,48,#FriarFrancis_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,491,69
+4,1,48,#Hero_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,64,8
+4,1,48,#Leonato_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado,428,53
+4,1,49,#Beatrice_Ado,#Beatrice_Ado #Benedick_Ado,374,49
+4,1,49,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado,206,33
+4,2,50,#Borachio_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,11,3
+4,2,50,#Borachio_Ado #Conrade_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,4,1
+4,2,50,#Conrade_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,17,3
+4,2,50,#Dogberry_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,213,31
+4,2,50,#Sexton_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,106,17
+4,2,50,#Verges_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,24,4
+4,2,50,#WATCHMEN.1_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,33,5
+4,2,50,#WATCHMEN.Seacoal_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,20,4
+4,2,51,#Conrade_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,11,2
+4,2,51,#Dogberry_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,164,18
+4,2,51,#Verges_Ado,#Borachio_Ado #Conrade_Ado #Dogberry_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,6,1
+5,1,52,#Leonato_Ado,#Leonato_Ado #LeonatosBrother_Ado,307,40
+5,1,52,#LeonatosBrother_Ado,#Leonato_Ado #LeonatosBrother_Ado,42,6
+5,1,53,#Claudio_Ado,#Claudio_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado,43,7
+5,1,53,#DonPedro_Ado,#Claudio_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado,63,10
+5,1,53,#Leonato_Ado,#Claudio_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado,234,33
+5,1,53,#LeonatosBrother_Ado,#Claudio_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado,194,26
+5,1,54,#Benedick_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,196,24
+5,1,54,#Claudio_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,200,28
+5,1,54,#DonPedro_Ado,#Benedick_Ado #Claudio_Ado #DonPedro_Ado,248,31
+5,1,55,#Claudio_Ado,#Claudio_Ado #DonPedro_Ado,34,5
+5,1,55,#DonPedro_Ado,#Claudio_Ado #DonPedro_Ado,48,6
+5,1,56,#Borachio_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,138,17
+5,1,56,#Claudio_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,46,6
+5,1,56,#Dogberry_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,102,13
+5,1,56,#DonPedro_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,105,15
+5,1,56,#Verges_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,10,2
+5,1,57,#Borachio_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,46,6
+5,1,57,#Claudio_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,57,9
+5,1,57,#Dogberry_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,164,20
+5,1,57,#DonPedro_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,25,4
+5,1,57,#Leonato_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #Dogberry_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #Verges_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,258,34
+5,1,58,#Claudio_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,5,1
+5,1,58,#DonPedro_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,4,1
+5,1,58,#Leonato_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,22,4
+5,1,58,#LeonatosBrother_Ado,#Borachio_Ado #Claudio_Ado #Conrade_Ado #DonPedro_Ado #Leonato_Ado #LeonatosBrother_Ado #Sexton_Ado #WATCHMEN.1_Ado #WATCHMEN.2_Ado #WATCHMEN.Seacoal_Ado,8,1
+5,2,59,#Benedick_Ado,#Benedick_Ado #Margaret_Ado,99,15
+5,2,59,#Margaret_Ado,#Benedick_Ado #Margaret_Ado,61,10
+5,2,60,#Benedick_Ado,#Benedick_Ado,126,16
+5,2,61,#Beatrice_Ado,#Beatrice_Ado #Benedick_Ado,161,22
+5,2,61,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado,240,31
+5,2,62,#Ursula_Ado,#Beatrice_Ado #Benedick_Ado #Ursula_Ado,45,5
+5,2,63,#Beatrice_Ado,#Beatrice_Ado #Benedick_Ado,7,1
+5,2,63,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado,26,3
+5,3,64,#Claudio_Ado,#ATTENDANTS_Ado #Claudio_Ado #DonPedro_Ado #MUSICIANS_Ado,6,1
+5,3,65,#ATTENDANTS.0.1_Ado,#ATTENDANTS.0.1_Ado #ATTENDANTS_Ado #Claudio_Ado #DonPedro_Ado #MUSICIANS_Ado,4,1
+5,3,65,#Claudio_Ado,#ATTENDANTS.0.1_Ado #ATTENDANTS_Ado #Claudio_Ado #DonPedro_Ado #MUSICIANS_Ado,75,12
+5,3,65,#DonPedro_Ado,#ATTENDANTS.0.1_Ado #ATTENDANTS_Ado #Claudio_Ado #DonPedro_Ado #MUSICIANS_Ado,41,5
+5,3,65,#MUSICIANS_Ado,#ATTENDANTS.0.1_Ado #ATTENDANTS_Ado #Claudio_Ado #DonPedro_Ado #MUSICIANS_Ado,48,10
+5,3,66,#Claudio_Ado,#ATTENDANTS.0.1_Ado #Claudio_Ado #DonPedro_Ado,17,2
+5,3,66,#DonPedro_Ado,#ATTENDANTS.0.1_Ado #Claudio_Ado #DonPedro_Ado,16,2
+5,4,67,#Benedick_Ado,#Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,18,2
+5,4,67,#FriarFrancis_Ado,#Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,8,1
+5,4,67,#Leonato_Ado,#Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,90,12
+5,4,67,#LeonatosBrother_Ado,#Beatrice_Ado #Benedick_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,10,1
+5,4,68,#Benedick_Ado,#Benedick_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,81,10
+5,4,68,#FriarFrancis_Ado,#Benedick_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,13,3
+5,4,68,#Leonato_Ado,#Benedick_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,33,4
+5,4,68,#LeonatosBrother_Ado,#Benedick_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,7,1
+5,4,69,#Claudio_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,8,1
+5,4,69,#DonPedro_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,6,1
+5,4,69,#Leonato_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado #LeonatosBrother_Ado,29,4
+5,4,70,#Benedick_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado,35,4
+5,4,70,#Claudio_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado,50,6
+5,4,70,#DonPedro_Ado,#ATTENDANTS_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Leonato_Ado,22,3
+5,4,71,#Beatrice_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,81,10
+5,4,71,#Benedick_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,252,30
+5,4,71,#Claudio_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,108,14
+5,4,71,#DonPedro_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,14,2
+5,4,71,#FriarFrancis_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,34,5
+5,4,71,#Hero_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,54,8
+5,4,71,#Leonato_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #Margaret_Ado #Ursula_Ado,50,6
+5,4,72,#Benedick_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #MESSENGERS.DONPEDRO.1_Ado #Margaret_Ado #Ursula_Ado,16,3
+5,4,72,#MESSENGERS.DONPEDRO.1_Ado,#ATTENDANTS_Ado #Beatrice_Ado #Benedick_Ado #Claudio_Ado #DonPedro_Ado #FriarFrancis_Ado #Hero_Ado #Leonato_Ado #LeonatosBrother_Ado #MESSENGERS.DONPEDRO.1_Ado #Margaret_Ado #Ursula_Ado,17,2

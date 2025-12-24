@@ -1,0 +1,93 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,108,16,#ATTENDANTS_MND #Hippolyta_MND #Philostrate_MND #Theseus_MND
+1,1,2,29,4,#ATTENDANTS_MND #Hippolyta_MND #Theseus_MND
+1,1,3,799,109,#ATTENDANTS_MND #Demetrius_MND #Egeus_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Theseus_MND
+1,1,4,413,53,#Hermia_MND #Lysander_MND
+1,1,5,353,47,#Helena_MND #Hermia_MND #Lysander_MND
+1,1,6,10,2,#Helena_MND #Lysander_MND
+1,1,7,208,26,#Helena_MND
+1,2,8,764,107,#Bottom_MND #Flute_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND
+2,1,9,434,61,#FAIRIES.TITANIA.1_MND #RobinGoodfellow_MND
+2,1,10,651,89,#FAIRIES.OBERON_MND #FAIRIES.TITANIA.1_MND #FAIRIES.TITANIA_MND #Oberon_MND #RobinGoodfellow_MND #Titania_MND
+2,1,11,234,32,#FAIRIES.OBERON_MND #Oberon_MND #RobinGoodfellow_MND
+2,1,12,93,12,#FAIRIES.OBERON_MND #Oberon_MND
+2,1,13,464,55,#Demetrius_MND #FAIRIES.OBERON_MND #Helena_MND #Oberon_MND
+2,1,14,18,2,#FAIRIES.OBERON_MND #Helena_MND #Oberon_MND
+2,1,15,20,2,#FAIRIES.OBERON_MND #Oberon_MND
+2,1,16,178,23,#FAIRIES.OBERON_MND #Oberon_MND #RobinGoodfellow_MND
+2,2,17,67,8,#FAIRIES.TITANIA_MND #Titania_MND
+2,2,18,104,22,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA_MND #Titania_MND
+2,2,19,10,2,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #FAIRIES.TITANIA_MND #Titania_MND
+2,2,20,53,8,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Oberon_MND #Titania_MND
+2,2,21,251,31,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Hermia_MND #Lysander_MND #Titania_MND
+2,2,22,105,18,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Hermia_MND #Lysander_MND #RobinGoodfellow_MND #Titania_MND
+2,2,23,34,4,#Demetrius_MND #FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Helena_MND #Hermia_MND #Lysander_MND #Titania_MND
+2,2,24,377,48,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Helena_MND #Hermia_MND #Lysander_MND #Titania_MND
+2,2,25,79,10,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Hermia_MND #Lysander_MND #Titania_MND
+2,2,26,96,12,#FAIRIES.TITANIA.0.1_MND #FAIRIES.TITANIA.0.2_MND #Hermia_MND #Titania_MND
+3,1,27,590,75,#Bottom_MND #Flute_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND
+3,1,28,74,11,#Bottom_MND #Flute_MND #Quince_MND #RobinGoodfellow_MND #Snout_MND #Snug_MND #Starveling_MND
+3,1,29,7,1,#Flute_MND #Quince_MND #RobinGoodfellow_MND #Snout_MND #Snug_MND #Starveling_MND
+3,1,30,114,16,#Flute_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND
+3,1,31,22,3,#Bottom_MND #Flute_MND #Quince_MND #RobinGoodfellow_MND #Snout_MND #Snug_MND #Starveling_MND
+3,1,32,52,7,#Bottom_MND #RobinGoodfellow_MND
+3,1,33,15,2,#Bottom_MND
+3,1,34,24,4,#Bottom_MND #Snout_MND
+3,1,35,8,2,#Bottom_MND #Quince_MND
+3,1,36,71,9,#Bottom_MND
+3,1,37,263,34,#Bottom_MND #Titania_MND
+3,1,38,249,44,#Bottom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Peaseblossom_MND #Titania_MND
+3,2,39,23,3,#Oberon_MND
+3,2,40,287,39,#Oberon_MND #RobinGoodfellow_MND
+3,2,41,342,41,#Demetrius_MND #Hermia_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,42,160,20,#Demetrius_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,43,44,8,#Demetrius_MND #Oberon_MND
+3,2,44,67,12,#Demetrius_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,45,461,57,#Demetrius_MND #Helena_MND #Lysander_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,46,1329,178,#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,47,43,6,#Helena_MND #Hermia_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,48,9,1,#Hermia_MND #Oberon_MND #RobinGoodfellow_MND
+3,2,49,384,52,#Oberon_MND #RobinGoodfellow_MND
+3,2,50,29,5,#RobinGoodfellow_MND
+3,2,51,28,5,#Lysander_MND #RobinGoodfellow_MND
+3,2,52,72,12,#Demetrius_MND #RobinGoodfellow_MND
+3,2,53,68,8,#Lysander_MND
+3,2,54,84,12,#Demetrius_MND #Lysander_MND #RobinGoodfellow_MND
+3,2,55,76,11,#Demetrius_MND #Helena_MND #Lysander_MND #RobinGoodfellow_MND
+3,2,56,116,23,#Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND #RobinGoodfellow_MND
+4,1,57,105,17,#Bottom_MND #FAIRIES.TITANIA.Cobweb_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Peaseblossom_MND #Oberon_MND #Titania_MND
+4,1,58,189,26,#Bottom_MND #FAIRIES.TITANIA.Mote_MND #FAIRIES.TITANIA.Mustardseed_MND #FAIRIES.TITANIA.Peaseblossom_MND #Oberon_MND #Titania_MND
+4,1,59,30,4,#Bottom_MND #Oberon_MND #Titania_MND
+4,1,60,420,60,#Bottom_MND #Oberon_MND #RobinGoodfellow_MND #Titania_MND
+4,1,61,286,39,#ATTENDANTS_MND #Bottom_MND #Egeus_MND #Hippolyta_MND #Theseus_MND
+4,1,62,152,21,#ATTENDANTS_MND #Bottom_MND #Egeus_MND #Hippolyta_MND #Lysander_MND #Theseus_MND
+4,1,63,206,27,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Egeus_MND #Hippolyta_MND #Lysander_MND #Theseus_MND
+4,1,64,12,2,#Bottom_MND #Demetrius_MND #Lysander_MND
+4,1,65,12,2,#Bottom_MND #Demetrius_MND #Hermia_MND #Lysander_MND
+4,1,66,78,12,#Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Lysander_MND
+4,1,67,191,20,#Bottom_MND
+4,2,68,97,14,#Flute_MND #Quince_MND #Snout_MND #Starveling_MND
+4,2,69,81,10,#Flute_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND
+4,2,70,171,21,#Bottom_MND #Flute_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND
+5,1,71,194,28,#ATTENDANTS_MND #Hippolyta_MND #Philostrate_MND #Theseus_MND
+5,1,72,444,62,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,73,157,21,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Theseus_MND
+5,1,74,11,2,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,75,86,11,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Quince_MND #Theseus_MND
+5,1,76,70,9,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,77,214,30,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Flute_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Quince_MND #Snout_MND #Snug_MND #Starveling_MND #Theseus_MND
+5,1,78,260,36,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snout_MND #Theseus_MND
+5,1,79,137,17,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Flute_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snout_MND #Theseus_MND
+5,1,80,16,2,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snout_MND #Theseus_MND
+5,1,81,86,13,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,82,327,46,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Theseus_MND
+5,1,83,10,2,#ATTENDANTS_MND #Demetrius_MND #Flute_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Theseus_MND
+5,1,84,20,5,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Theseus_MND
+5,1,85,4,1,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Snug_MND #Starveling_MND #Theseus_MND
+5,1,86,195,36,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Starveling_MND #Theseus_MND
+5,1,87,64,10,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,88,271,48,#ATTENDANTS_MND #Bottom_MND #Demetrius_MND #Flute_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,89,58,8,#ATTENDANTS_MND #Demetrius_MND #Helena_MND #Hermia_MND #Hippolyta_MND #Lysander_MND #Philostrate_MND #Theseus_MND
+5,1,90,115,20,#RobinGoodfellow_MND
+5,1,91,177,32,#FAIRIES_MND #Oberon_MND #RobinGoodfellow_MND #Titania_MND
+5,1,92,94,16,#RobinGoodfellow_MND

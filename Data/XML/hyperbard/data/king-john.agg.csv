@@ -1,0 +1,567 @@
+act,scene,stagegroup,stagegroup_raw,setting,onstage,speaker,n_lines,n_tokens
+1,1,1,1,1,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,8
+1,1,1,1,2,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#Chatillion_Jn,3,20
+1,1,1,1,3,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,5
+1,1,1,1,4,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,6
+1,1,1,1,5,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#Chatillion_Jn,9,60
+1,1,1,1,6,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,7
+1,1,1,1,7,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#Chatillion_Jn,2,15
+1,1,1,1,8,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,2,16
+1,1,1,1,9,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#Chatillion_Jn,2,14
+1,1,1,1,10,#Chatillion_Jn #Essex_Jn #KingJohn_Jn #Pembroke_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,8,63
+1,1,2,2,11,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn,#QueenEleanor_Jn,8,60
+1,1,2,2,12,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,8
+1,1,2,2,13,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn,#QueenEleanor_Jn,4,36
+1,1,3,3,14,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn #Sheriff_Jn,#Essex_Jn,3,25
+1,1,3,3,15,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn #Sheriff_Jn,#KingJohn_Jn,1,3
+1,1,4,4,16,#Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,2,10
+1,1,5,5,17,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,1,4
+1,1,5,5,18,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,5,32
+1,1,5,5,19,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,1,3
+1,1,5,5,20,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#RobertFaulconbridge_Jn,1,8
+1,1,5,5,21,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,2,18
+1,1,5,5,22,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,5,44
+1,1,5,5,23,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,3,17
+1,1,5,5,24,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,5,45
+1,1,5,5,25,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,2,15
+1,1,5,5,26,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,11,94
+1,1,5,5,27,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,1,9
+1,1,5,5,28,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,4,32
+1,1,5,5,29,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,4,23
+1,1,5,5,30,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,3,26
+1,1,5,5,31,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#RobertFaulconbridge_Jn,2,15
+1,1,5,5,32,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,2,18
+1,1,5,5,33,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#RobertFaulconbridge_Jn,17,139
+1,1,5,5,34,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,14,122
+1,1,5,5,35,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#RobertFaulconbridge_Jn,2,17
+1,1,5,5,36,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,2,18
+1,1,5,5,37,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,4,31
+1,1,5,5,38,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,11,90
+1,1,5,5,39,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,3,26
+1,1,5,5,40,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,4,35
+1,1,5,5,41,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,9
+1,1,5,5,42,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,1,7
+1,1,5,5,43,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,1,4
+1,1,5,5,44,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,2,16
+1,1,5,5,45,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,4,22
+1,1,5,5,46,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,4,34
+1,1,5,5,47,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#QueenEleanor_Jn,2,13
+1,1,5,5,48,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,7,61
+1,1,5,5,49,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#KingJohn_Jn,5,33
+1,1,5,5,50,#Bastard_Jn #Essex_Jn #KingJohn_Jn #QueenEleanor_Jn #RobertFaulconbridge_Jn #Salisbury_Jn,#Bastard_Jn,2,16
+1,1,6,6,51,#Bastard_Jn,#Bastard_Jn,35,258
+1,1,7,7,52,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,5,45
+1,1,7,7,53,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#LadyFaulconbridge_Jn,2,18
+1,1,7,7,54,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,3,23
+1,1,7,7,55,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#LadyFaulconbridge_Jn,3,25
+1,1,7,7,56,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,1,8
+1,1,7,7,57,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#Gurney_Jn,1,4
+1,1,7,7,58,#Bastard_Jn #Gurney_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,2,11
+1,1,8,8,59,#Bastard_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,8,66
+1,1,8,8,60,#Bastard_Jn #LadyFaulconbridge_Jn,#LadyFaulconbridge_Jn,4,24
+1,1,8,8,61,#Bastard_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,7,55
+1,1,8,8,62,#Bastard_Jn #LadyFaulconbridge_Jn,#LadyFaulconbridge_Jn,1,6
+1,1,8,8,63,#Bastard_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,1,7
+1,1,8,8,64,#Bastard_Jn #LadyFaulconbridge_Jn,#LadyFaulconbridge_Jn,6,49
+1,1,8,8,65,#Bastard_Jn #LadyFaulconbridge_Jn,#Bastard_Jn,18,154
+2,1,9,10,66,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Dauphin_Jn,11,77
+2,1,9,10,67,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Arthur_Jn,6,47
+2,1,9,10,68,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Dauphin_Jn,1,9
+2,1,9,10,69,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Austria_Jn,13,101
+2,1,9,10,70,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Constance_Jn,3,26
+2,1,9,10,71,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Austria_Jn,2,17
+2,1,9,10,72,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#KingPhilip_Jn,7,54
+2,1,9,10,73,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Constance_Jn,6,48
+2,1,10,11,74,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#KingPhilip_Jn,4,26
+2,1,10,11,75,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Chatillion_Jn,25,187
+2,1,10,11,76,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#KingPhilip_Jn,1,6
+2,1,10,11,77,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #SOLDIERS.FRENCH_Jn,#Austria_Jn,4,26
+2,1,11,12,78,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,5,42
+2,1,11,12,79,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,21,168
+2,1,11,12,80,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,3,15
+2,1,11,12,81,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,6,48
+2,1,11,12,82,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,5
+2,1,11,12,83,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,7
+2,1,11,12,84,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,8
+2,1,11,12,85,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,1,7
+2,1,11,12,86,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,2,17
+2,1,11,12,87,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,8,68
+2,1,11,12,88,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,9
+2,1,11,12,89,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,1,9
+2,1,11,12,90,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,1,1
+2,1,11,12,91,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,3
+2,1,11,12,92,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,1,5
+2,1,11,12,93,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,6,54
+2,1,11,12,94,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Blanche_Jn,2,16
+2,1,11,12,95,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,4,34
+2,1,11,12,96,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,2,15
+2,1,11,12,97,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,7
+2,1,11,12,98,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,5,40
+2,1,11,12,99,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,5,39
+2,1,11,12,100,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,5
+2,1,11,12,101,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,4,27
+2,1,11,12,102,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Arthur_Jn,3,24
+2,1,11,12,103,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,9
+2,1,11,12,104,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,8,51
+2,1,11,12,105,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,7
+2,1,11,12,106,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,9,63
+2,1,11,12,107,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,3
+2,1,11,12,108,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,8,63
+2,1,11,12,109,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,2,15
+2,1,11,12,110,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Constance_Jn,2,16
+2,1,11,12,111,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,6,42
+2,1,12,14,112,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,1,10
+2,1,12,14,113,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,4
+2,1,12,14,114,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,2,11
+2,1,12,14,115,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,2,15
+2,1,12,14,116,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,29,212
+2,1,12,14,117,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,32,242
+2,1,12,14,118,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,2,19
+2,1,12,14,119,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,8
+2,1,12,14,120,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,3,28
+2,1,12,14,121,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,3,24
+2,1,12,14,122,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,3
+2,1,12,14,123,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,7
+2,1,12,14,124,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,8
+2,1,12,14,125,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,3
+2,1,12,14,126,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,8
+2,1,12,14,127,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,2,16
+2,1,12,14,128,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,4,29
+2,1,12,14,129,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,6
+2,1,12,14,130,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,8,49
+2,1,12,14,131,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,1,3
+2,1,12,14,132,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+2,1,12,14,133,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,2,15
+2,1,12,14,134,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+2,1,12,14,135,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Chatillion_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,2,18
+2,1,13,16,136,#CITIZENS.0.1_Jn #CITIZENS_Jn #HERALDS.FRENCH_Jn,#HERALDS.FRENCH_Jn,12,87
+2,1,14,17,137,#CITIZENS.0.1_Jn #CITIZENS_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn,#HERALDS.ENGLISH_Jn,13,101
+2,1,14,17,138,#CITIZENS.0.1_Jn #CITIZENS_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn,#CITIZENS.0.1_Jn,11,72
+2,1,15,18,139,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,7,51
+2,1,15,18,140,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,10,77
+2,1,15,18,141,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,12,86
+2,1,15,18,142,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,7
+2,1,15,18,143,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,7
+2,1,15,18,144,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,1,9
+2,1,15,18,145,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,10
+2,1,15,18,146,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,3,23
+2,1,15,18,147,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,5,39
+2,1,15,18,148,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,24,176
+2,1,15,18,149,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,4,36
+2,1,15,18,150,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,7,58
+2,1,15,18,151,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,9
+2,1,15,18,152,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,2,11
+2,1,15,18,153,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,1,4
+2,1,15,18,154,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,2,14
+2,1,15,18,155,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,3,23
+2,1,15,18,156,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,6,47
+2,1,15,18,157,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,9
+2,1,15,18,158,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,34,264
+2,1,15,18,159,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,15,98
+2,1,15,18,160,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#QueenEleanor_Jn,13,94
+2,1,15,18,161,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#CITIZENS.0.1_Jn,2,13
+2,1,15,18,162,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,2,16
+2,1,15,18,163,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,11,83
+2,1,15,18,164,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,9
+2,1,15,18,165,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,8,62
+2,1,15,18,166,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,7,50
+2,1,15,18,167,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Blanche_Jn,12,93
+2,1,15,18,168,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,2,10
+2,1,15,18,169,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Blanche_Jn,2,17
+2,1,15,18,170,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,1,9
+2,1,15,18,171,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,2,16
+2,1,15,18,172,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,6,44
+2,1,15,18,173,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,1,9
+2,1,15,18,174,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Austria_Jn,2,18
+2,1,15,18,175,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,8,62
+2,1,15,18,176,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,1,9
+2,1,15,18,177,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingPhilip_Jn,6,44
+2,1,15,18,178,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#KingJohn_Jn,6,40
+2,1,16,19,179,#ATTENDANTS.FRENCH_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #CITIZENS.0.1_Jn #CITIZENS_Jn #Constance_Jn #Dauphin_Jn #HERALDS.ENGLISH_Jn #HERALDS.FRENCH_Jn #KingJohn_Jn #KingPhilip_Jn #Pembroke_Jn #QueenEleanor_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn,#KingJohn_Jn,7,40
+2,1,17,20,180,#Bastard_Jn #CITIZENS.0.1_Jn,#Bastard_Jn,39,285
+3,1,18,23,181,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Constance_Jn,27,217
+3,1,18,23,182,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Salisbury_Jn,2,18
+3,1,18,23,183,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Constance_Jn,10,75
+3,1,18,23,184,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Salisbury_Jn,2,17
+3,1,18,23,185,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Constance_Jn,2,16
+3,1,18,23,186,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Arthur_Jn,1,7
+3,1,18,23,187,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Constance_Jn,23,178
+3,1,18,23,188,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Salisbury_Jn,2,12
+3,1,18,23,189,#Arthur_Jn #Constance_Jn #Salisbury_Jn,#Constance_Jn,8,73
+3,1,19,24,190,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,8,60
+3,1,19,24,191,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,13,107
+3,1,19,24,192,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,3,24
+3,1,19,24,193,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,15,106
+3,1,19,24,194,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,3
+3,1,19,24,195,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,18,135
+3,1,19,24,196,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,10
+3,1,19,24,197,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+3,1,19,24,198,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,9
+3,1,19,24,199,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+3,1,19,24,200,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,8
+3,1,20,25,201,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,1,8
+3,1,20,25,202,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,11,73
+3,1,20,25,203,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,14,103
+3,1,20,25,204,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,1,7
+3,1,20,25,205,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,10,78
+3,1,20,25,206,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,8,51
+3,1,20,25,207,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,5,38
+3,1,20,25,208,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,1,8
+3,1,20,25,209,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,6,52
+3,1,20,25,210,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,4,31
+3,1,20,25,211,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,10
+3,1,20,25,212,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,2,16
+3,1,20,25,213,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,6
+3,1,20,25,214,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+3,1,20,25,215,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,2,9
+3,1,20,25,216,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,1,6
+3,1,20,25,217,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,7
+3,1,20,25,218,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,1,8
+3,1,20,25,219,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Dauphin_Jn,4,26
+3,1,20,25,220,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,1,5
+3,1,20,25,221,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,2,16
+3,1,20,25,222,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,2,12
+3,1,20,25,223,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,6,50
+3,1,20,25,224,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,9
+3,1,20,25,225,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,1,8
+3,1,20,25,226,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,9
+3,1,20,25,227,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,1,8
+3,1,20,25,228,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,1,9
+3,1,20,25,229,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,2,15
+3,1,20,25,230,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,29,223
+3,1,20,25,231,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,9,70
+3,1,20,25,232,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,1,9
+3,1,20,25,233,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,36,275
+3,1,20,25,234,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Austria_Jn,1,3
+3,1,20,25,235,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,2,13
+3,1,20,25,236,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Dauphin_Jn,1,3
+3,1,20,25,237,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,10,73
+3,1,20,25,238,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,4,23
+3,1,20,25,239,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,2,18
+3,1,20,25,240,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,2,15
+3,1,20,25,241,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Dauphin_Jn,2,16
+3,1,20,25,242,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Pandulph_Jn,1,8
+3,1,20,25,243,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,2,10
+3,1,20,25,244,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Constance_Jn,1,6
+3,1,20,25,245,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#QueenEleanor_Jn,1,6
+3,1,20,25,246,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,9
+3,1,20,25,247,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Bastard_Jn,2,18
+3,1,20,25,248,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,11,89
+3,1,20,25,249,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Dauphin_Jn,1,8
+3,1,20,25,250,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#Blanche_Jn,1,9
+3,1,20,25,251,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Bastard_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,6
+3,1,21,26,252,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,4,29
+3,1,21,26,253,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingPhilip_Jn,3,26
+3,1,21,26,254,#ATTENDANTS_Jn #Arthur_Jn #Austria_Jn #Blanche_Jn #Constance_Jn #Dauphin_Jn #KingJohn_Jn #KingPhilip_Jn #Pandulph_Jn #QueenEleanor_Jn #Salisbury_Jn,#KingJohn_Jn,1,10
+3,2,22,28,255,#Bastard_Jn,#Bastard_Jn,4,27
+3,2,23,29,256,#Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,3,18
+3,2,23,29,257,#Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn,#Bastard_Jn,4,29
+3,3,24,31,258,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,4,33
+3,3,24,31,259,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Arthur_Jn,1,9
+3,3,24,31,260,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,6,43
+3,3,24,31,261,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Bastard_Jn,5,42
+3,3,24,31,262,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#QueenEleanor_Jn,1,3
+3,3,24,31,263,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Bastard_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,1,2
+3,3,25,32,264,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#QueenEleanor_Jn,1,7
+3,3,25,32,265,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,11,80
+3,3,25,32,266,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Hubert_Jn,1,7
+3,3,25,32,267,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,26,216
+3,3,25,32,268,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Hubert_Jn,3,23
+3,3,25,32,269,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,7,51
+3,3,25,32,270,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Hubert_Jn,2,12
+3,3,25,32,271,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,1,1
+3,3,25,32,272,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Hubert_Jn,1,2
+3,3,25,32,273,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,1,2
+3,3,25,32,274,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#Hubert_Jn,1,4
+3,3,25,32,275,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,6,32
+3,3,25,32,276,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#QueenEleanor_Jn,1,5
+3,3,25,32,277,#ATTENDANTS.ENGLISH_Jn #Arthur_Jn #Hubert_Jn #KingJohn_Jn #QueenEleanor_Jn,#KingJohn_Jn,3,20
+3,4,26,34,278,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,3,20
+3,4,26,34,279,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Pandulph_Jn,1,8
+3,4,26,34,280,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,5,36
+3,4,26,34,281,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Dauphin_Jn,5,39
+3,4,26,34,282,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,2,18
+3,4,27,35,283,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,4,30
+3,4,27,35,284,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,1,9
+3,4,27,35,285,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,1,6
+3,4,27,35,286,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,14,101
+3,4,27,35,287,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,1,4
+3,4,27,35,288,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,6,46
+3,4,27,35,289,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Pandulph_Jn,1,7
+3,4,27,35,290,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,17,138
+3,4,27,35,291,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,7,49
+3,4,27,35,292,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,1,5
+3,4,27,35,293,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,1,4
+3,4,27,35,294,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,21,177
+3,4,27,35,295,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Pandulph_Jn,1,8
+3,4,27,35,296,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,1,9
+3,4,27,35,297,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,1,10
+3,4,27,35,298,#ATTENDANTS.FRENCH_Jn #Constance_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#Constance_Jn,13,111
+3,4,28,36,299,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #KingPhilip_Jn #Pandulph_Jn,#KingPhilip_Jn,1,8
+3,4,29,37,300,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,6,42
+3,4,29,37,301,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,5,40
+3,4,29,37,302,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,1,7
+3,4,29,37,303,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,6,52
+3,4,29,37,304,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,1,9
+3,4,29,37,305,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,16,134
+3,4,29,37,306,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,1,9
+3,4,29,37,307,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,2,18
+3,4,29,37,308,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,1,9
+3,4,29,37,309,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,15,115
+3,4,29,37,310,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,2,15
+3,4,29,37,311,#Dauphin_Jn #Pandulph_Jn,#Pandulph_Jn,20,160
+3,4,29,37,312,#Dauphin_Jn #Pandulph_Jn,#Dauphin_Jn,2,18
+4,1,30,39,313,#EXECUTIONERS_Jn #Hubert_Jn,#Hubert_Jn,5,44
+4,1,31,40,314,#EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#EXECUTIONERS.0.1_Jn,1,9
+4,1,31,40,315,#EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Hubert_Jn,1,8
+4,1,32,41,316,#EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,10
+4,1,33,42,317,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,1,3
+4,1,33,42,318,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,4
+4,1,33,42,319,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,2,18
+4,1,33,42,320,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,5
+4,1,33,42,321,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,13,106
+4,1,33,42,322,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,3,24
+4,1,33,42,323,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,4,37
+4,1,33,42,324,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,7,47
+4,1,33,42,325,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,2,17
+4,1,33,42,326,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,4
+4,1,33,42,327,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,1,3
+4,1,33,42,328,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,3
+4,1,33,42,329,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,19,156
+4,1,33,42,330,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,2,15
+4,1,33,42,331,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,12,87
+4,1,33,42,332,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,2
+4,1,34,43,333,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Hubert_Jn,1,6
+4,1,34,43,334,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Arthur_Jn,2,19
+4,1,34,43,335,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Hubert_Jn,1,10
+4,1,34,43,336,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Arthur_Jn,9,73
+4,1,34,43,337,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#Hubert_Jn,1,8
+4,1,34,43,338,#Arthur_Jn #EXECUTIONERS.0.1_Jn #EXECUTIONERS_Jn #Hubert_Jn,#EXECUTIONERS.0.1_Jn,1,10
+4,1,35,44,339,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,4,29
+4,1,35,44,340,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,4
+4,1,35,44,341,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,1,4
+4,1,35,44,342,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,6
+4,1,35,44,343,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,6,40
+4,1,35,44,344,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,9
+4,1,35,44,345,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,8,69
+4,1,35,44,346,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,5
+4,1,35,44,347,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,6,47
+4,1,35,44,348,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,1,9
+4,1,35,44,349,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,9,75
+4,1,35,44,350,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,4,36
+4,1,35,44,351,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,2,12
+4,1,35,44,352,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,6,41
+4,1,35,44,353,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Arthur_Jn,1,6
+4,1,35,44,354,#Arthur_Jn #EXECUTIONERS.0.1_Jn #Hubert_Jn,#Hubert_Jn,2,15
+4,2,36,47,355,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,2,16
+4,2,36,47,356,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,6,44
+4,2,36,47,357,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,8,58
+4,2,36,47,358,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,4,29
+4,2,36,47,359,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,7,50
+4,2,36,47,360,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,7,53
+4,2,36,47,361,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,6,43
+4,2,36,47,362,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,7,57
+4,2,36,47,363,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,20,158
+4,2,36,47,364,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,2,12
+4,2,37,48,365,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,1,5
+4,2,37,48,366,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,7,60
+4,2,37,48,367,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,4,31
+4,2,37,48,368,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,2,17
+4,2,37,48,369,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,4,31
+4,2,37,48,370,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,8
+4,2,37,48,371,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,3,25
+4,2,37,48,372,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#KingJohn_Jn,3,25
+4,2,37,48,373,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,3,24
+4,2,37,48,374,#ATTENDANTS.ENGLISH_Jn #Hubert_Jn #KingJohn_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,7,62
+4,2,38,49,375,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,3,21
+4,2,39,50,376,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,4,35
+4,2,39,50,377,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,6,46
+4,2,39,50,378,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,4,31
+4,2,39,50,379,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,6,47
+4,2,39,50,380,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,6,46
+4,2,39,50,381,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,1,3
+4,2,39,50,382,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,2,9
+4,2,40,51,383,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#KingJohn_Jn,3,23
+4,2,40,51,384,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#Bastard_Jn,2,18
+4,2,40,51,385,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#KingJohn_Jn,4,32
+4,2,40,51,386,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#Bastard_Jn,12,92
+4,2,40,51,387,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#KingJohn_Jn,1,7
+4,2,40,51,388,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#Peter_Jn,1,8
+4,2,40,51,389,#Bastard_Jn #Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn #Peter_Jn,#KingJohn_Jn,5,36
+4,2,41,52,390,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,2,12
+4,2,41,52,391,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#Bastard_Jn,6,44
+4,2,41,52,392,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,4,22
+4,2,41,52,393,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#Bastard_Jn,1,5
+4,2,41,52,394,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,6,43
+4,2,41,52,395,#Bastard_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#Bastard_Jn,1,9
+4,2,42,53,396,#KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,5,25
+4,2,42,53,397,#KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,1,6
+4,2,43,54,398,#KingJohn_Jn,#KingJohn_Jn,1,3
+4,2,44,55,399,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,3,23
+4,2,44,55,400,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,1,2
+4,2,44,55,401,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,18,135
+4,2,44,55,402,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,4,38
+4,2,44,55,403,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,1,10
+4,2,44,55,404,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,7,53
+4,2,44,55,405,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,1,10
+4,2,44,55,406,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,14,112
+4,2,44,55,407,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,1,2
+4,2,44,55,408,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,19,151
+4,2,44,55,409,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,11,80
+4,2,44,55,410,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,10,74
+4,3,45,57,411,#Arthur_Jn,#Arthur_Jn,10,89
+4,3,46,58,412,#Arthur_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,3,23
+4,3,46,58,413,#Arthur_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,1,7
+4,3,46,58,414,#Arthur_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,3,24
+4,3,46,58,415,#Arthur_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,1,7
+4,3,46,58,416,#Arthur_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,2,17
+4,3,47,59,417,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,2,15
+4,3,47,59,418,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,5,41
+4,3,47,59,419,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,1,9
+4,3,47,59,420,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,8
+4,3,47,59,421,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,2,15
+4,3,47,59,422,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,1,6
+4,3,47,59,423,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,1,9
+4,3,47,59,424,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,2,9
+4,3,47,59,425,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,2,19
+4,3,47,59,426,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,2,15
+4,3,47,59,427,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,2,16
+4,3,47,59,428,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,10,80
+4,3,47,59,429,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,6,41
+4,3,47,59,430,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,3,24
+4,3,47,59,431,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,13,98
+4,3,47,59,432,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn #Pembroke_Jn,1,6
+4,3,48,60,433,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,2,18
+4,3,48,60,434,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,2,16
+4,3,48,60,435,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,1,4
+4,3,48,60,436,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,5
+4,3,48,60,437,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,1,9
+4,3,48,60,438,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,9
+4,3,48,60,439,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,6,48
+4,3,48,60,440,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,1,7
+4,3,48,60,441,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,2,15
+4,3,48,60,442,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,4
+4,3,48,60,443,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,3,22
+4,3,48,60,444,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,1,4
+4,3,48,60,445,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,1,5
+4,3,48,60,446,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,8
+4,3,48,60,447,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bastard_Jn,6,53
+4,3,48,60,448,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,2,12
+4,3,48,60,449,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,1,5
+4,3,48,60,450,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,1,4
+4,3,48,60,451,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Hubert_Jn,3,28
+4,3,48,60,452,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,7,53
+4,3,48,60,453,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Bigot_Jn,1,7
+4,3,48,60,454,#Arthur_Jn #Bastard_Jn #Bigot_Jn #Hubert_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,1,9
+4,3,49,61,455,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Bastard_Jn,4,29
+4,3,49,61,456,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Hubert_Jn,1,5
+4,3,49,61,457,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Bastard_Jn,5,43
+4,3,49,61,458,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Hubert_Jn,1,3
+4,3,49,61,459,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Bastard_Jn,10,78
+4,3,49,61,460,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Hubert_Jn,5,36
+4,3,49,61,461,#Arthur_Jn #Bastard_Jn #Hubert_Jn,#Bastard_Jn,21,164
+5,1,50,63,462,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pandulph_Jn,#KingJohn_Jn,2,13
+5,1,50,63,463,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pandulph_Jn,#Pandulph_Jn,3,16
+5,1,50,63,464,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pandulph_Jn,#KingJohn_Jn,12,79
+5,1,50,63,465,#ATTENDANTS.ENGLISH_Jn #KingJohn_Jn #Pandulph_Jn,#Pandulph_Jn,8,64
+5,1,51,64,466,#KingJohn_Jn,#KingJohn_Jn,5,41
+5,1,52,65,467,#Bastard_Jn #KingJohn_Jn,#Bastard_Jn,7,52
+5,1,52,65,468,#Bastard_Jn #KingJohn_Jn,#KingJohn_Jn,2,15
+5,1,52,65,469,#Bastard_Jn #KingJohn_Jn,#Bastard_Jn,3,26
+5,1,52,65,470,#Bastard_Jn #KingJohn_Jn,#KingJohn_Jn,1,8
+5,1,52,65,471,#Bastard_Jn #KingJohn_Jn,#Bastard_Jn,19,151
+5,1,52,65,472,#Bastard_Jn #KingJohn_Jn,#KingJohn_Jn,4,30
+5,1,52,65,473,#Bastard_Jn #KingJohn_Jn,#Bastard_Jn,12,86
+5,1,52,65,474,#Bastard_Jn #KingJohn_Jn,#KingJohn_Jn,1,8
+5,1,52,65,475,#Bastard_Jn #KingJohn_Jn,#Bastard_Jn,3,16
+5,2,53,67,476,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,7,51
+5,2,53,67,477,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Salisbury_Jn,32,242
+5,2,53,67,478,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,25,185
+5,2,54,68,479,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,4,28
+5,2,54,68,480,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Pandulph_Jn,10,76
+5,2,54,68,481,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,31,256
+5,2,54,68,482,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Pandulph_Jn,1,9
+5,2,54,68,483,#Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,8,60
+5,2,55,69,484,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,6,50
+5,2,55,69,485,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Pandulph_Jn,3,21
+5,2,55,69,486,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,32,241
+5,2,55,69,487,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,4,32
+5,2,55,69,488,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Pandulph_Jn,1,5
+5,2,55,69,489,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,4
+5,2,55,69,490,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,3,23
+5,2,55,69,491,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,13,104
+5,2,55,69,492,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Dauphin_Jn,1,9
+5,2,55,69,493,#Bastard_Jn #Bigot_Jn #Dauphin_Jn #Melun_Jn #Pandulph_Jn #Pembroke_Jn #SOLDIERS.ENGLISH_Jn #SOLDIERS.FRENCH_Jn #Salisbury_Jn,#Bastard_Jn,1,9
+5,3,56,71,494,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,1,10
+5,3,56,71,495,#Hubert_Jn #KingJohn_Jn,#Hubert_Jn,1,7
+5,3,56,71,496,#Hubert_Jn #KingJohn_Jn,#KingJohn_Jn,2,17
+5,3,57,72,497,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,3,23
+5,3,57,72,498,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,1,8
+5,3,57,72,499,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#MESSENGERS.ENGLISH.1_Jn,5,39
+5,3,57,72,500,#Hubert_Jn #KingJohn_Jn #MESSENGERS.ENGLISH.1_Jn,#KingJohn_Jn,4,32
+5,4,58,74,501,#Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,1,10
+5,4,58,74,502,#Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,2,14
+5,4,58,74,503,#Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Salisbury_Jn,2,12
+5,4,58,74,504,#Bigot_Jn #Pembroke_Jn #Salisbury_Jn,#Pembroke_Jn,1,10
+5,4,59,75,505,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Melun_Jn,1,8
+5,4,59,75,506,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Salisbury_Jn,1,8
+5,4,59,75,507,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Pembroke_Jn,1,5
+5,4,59,75,508,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Salisbury_Jn,1,3
+5,4,59,75,509,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Melun_Jn,11,85
+5,4,59,75,510,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Salisbury_Jn,1,8
+5,4,59,75,511,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Melun_Jn,27,215
+5,4,59,75,512,#Bigot_Jn #Melun_Jn #Pembroke_Jn #SOLDIERS.1_Jn #Salisbury_Jn,#Salisbury_Jn,13,104
+5,5,60,77,513,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn,#Dauphin_Jn,9,64
+5,5,61,78,514,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#MESSENGERS.FRENCH.1_Jn,1,6
+5,5,61,78,515,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#Dauphin_Jn,1,3
+5,5,61,78,516,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#MESSENGERS.FRENCH.1_Jn,4,32
+5,5,61,78,517,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#Dauphin_Jn,5,44
+5,5,61,78,518,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#MESSENGERS.FRENCH.1_Jn,1,8
+5,5,61,78,519,#ATTENDANTS.FRENCH_Jn #Dauphin_Jn #MESSENGERS.FRENCH.1_Jn,#Dauphin_Jn,3,25
+5,6,62,80,520,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,1,9
+5,6,62,80,521,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,5
+5,6,62,80,522,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,1,5
+5,6,62,80,523,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,4
+5,6,62,80,524,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,1,4
+5,6,62,80,525,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,2,17
+5,6,62,80,526,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,4,25
+5,6,62,80,527,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,3,23
+5,6,62,80,528,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,4,29
+5,6,62,80,529,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,7
+5,6,62,80,530,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,2,14
+5,6,62,80,531,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,6
+5,6,62,80,532,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,2,14
+5,6,62,80,533,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,2,18
+5,6,62,80,534,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,5,43
+5,6,62,80,535,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,10
+5,6,62,80,536,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,3,21
+5,6,62,80,537,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,1,8
+5,6,62,80,538,#Bastard_Jn #Hubert_Jn,#Hubert_Jn,4,32
+5,6,62,80,539,#Bastard_Jn #Hubert_Jn,#Bastard_Jn,8,60
+5,7,63,82,540,#Bigot_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,5,37
+5,7,64,83,541,#Bigot_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Pembroke_Jn,4,28
+5,7,64,83,542,#Bigot_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,1,8
+5,7,65,84,543,#Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,1,4
+5,7,65,84,544,#Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Pembroke_Jn,2,13
+5,7,65,84,545,#Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,13,94
+5,7,65,84,546,#Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Salisbury_Jn,3,25
+5,7,66,85,547,#Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#KingJohn_Jn,7,53
+5,7,66,85,548,#Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,1,4
+5,7,66,85,549,#Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#KingJohn_Jn,9,76
+5,7,66,85,550,#Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,2,13
+5,7,66,85,551,#Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#KingJohn_Jn,4,26
+5,7,67,86,552,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,2,16
+5,7,67,86,553,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#KingJohn_Jn,8,68
+5,7,67,86,554,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,6,41
+5,7,67,86,555,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Salisbury_Jn,2,20
+5,7,67,86,556,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,3,29
+5,7,67,86,557,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,12,93
+5,7,67,86,558,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Salisbury_Jn,6,50
+5,7,67,86,559,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,2,14
+5,7,67,86,560,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Salisbury_Jn,7,48
+5,7,67,86,561,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,3,23
+5,7,67,86,562,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,2,12
+5,7,67,86,563,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,6,38
+5,7,67,86,564,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Salisbury_Jn,2,15
+5,7,67,86,565,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#PrinceHenry_Jn,2,20
+5,7,67,86,566,#Bastard_Jn #Bigot_Jn #KingJohn_Jn #Pembroke_Jn #PrinceHenry_Jn #Salisbury_Jn,#Bastard_Jn,9,76

@@ -1,0 +1,820 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Flavius_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,37,5
+1,1,1,2,#COMMONERS.Carpenter_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,4,1
+1,1,1,3,#Marullus_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,22,3
+1,1,1,4,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,17,2
+1,1,1,5,#Marullus_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,8,1
+1,1,1,6,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,22,3
+1,1,1,7,#Flavius_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,9,2
+1,1,1,8,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,20,2
+1,1,1,9,#Marullus_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,10,2
+1,1,1,10,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,4,1
+1,1,1,11,#Flavius_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,6,1
+1,1,1,12,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,54,6
+1,1,1,13,#Flavius_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,17,2
+1,1,1,14,#COMMONERS.Cobbler_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,28,4
+1,1,1,15,#Marullus_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,179,25
+1,1,1,16,#Flavius_JC,#COMMONERS.Carpenter_JC #COMMONERS.Cobbler_JC #COMMONERS_JC #Flavius_JC #Marullus_JC,40,5
+1,1,2,17,#Flavius_JC,#Flavius_JC #Marullus_JC,37,5
+1,1,2,18,#Marullus_JC,#Flavius_JC #Marullus_JC,12,2
+1,1,2,19,#Flavius_JC,#Flavius_JC #Marullus_JC,61,8
+1,2,3,20,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,1,1
+1,2,3,21,#Casca_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,4,1
+1,2,3,22,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,1,1
+1,2,3,23,#Calphurnia_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,3,1
+1,2,3,24,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,13,2
+1,2,3,25,#Antony_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,3,1
+1,2,3,26,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,25,4
+1,2,3,27,#Antony_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,11,2
+1,2,3,28,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,7,1
+1,2,3,29,#Soothsayer_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,1,1
+1,2,3,30,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,3,1
+1,2,3,31,#Casca_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,8,1
+1,2,3,32,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,27,3
+1,2,3,33,#Soothsayer_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,5,1
+1,2,3,34,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,4,1
+1,2,3,35,#Brutus_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,9,1
+1,2,3,36,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,9,1
+1,2,3,37,#Cassius_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,8,2
+1,2,3,38,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,9,1
+1,2,3,39,#Soothsayer_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,5,1
+1,2,3,40,#Caesar_JC,#Antony_JC #Brutus_JC #COMMONERS_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC #Soothsayer_JC,9,1
+1,2,4,41,#Cassius_JC,#Brutus_JC #Cassius_JC,9,1
+1,2,4,42,#Brutus_JC,#Brutus_JC #Cassius_JC,2,1
+1,2,4,43,#Cassius_JC,#Brutus_JC #Cassius_JC,4,1
+1,2,4,44,#Brutus_JC,#Brutus_JC #Cassius_JC,27,4
+1,2,4,45,#Cassius_JC,#Brutus_JC #Cassius_JC,41,5
+1,2,4,46,#Brutus_JC,#Brutus_JC #Cassius_JC,81,12
+1,2,4,47,#Cassius_JC,#Brutus_JC #Cassius_JC,32,4
+1,2,4,48,#Brutus_JC,#Brutus_JC #Cassius_JC,15,2
+1,2,4,49,#Cassius_JC,#Brutus_JC #Cassius_JC,61,9
+1,2,4,50,#Brutus_JC,#Brutus_JC #Cassius_JC,23,3
+1,2,4,51,#Cassius_JC,#Brutus_JC #Cassius_JC,99,13
+1,2,4,52,#Brutus_JC,#Brutus_JC #Cassius_JC,14,2
+1,2,4,53,#Cassius_JC,#Brutus_JC #Cassius_JC,15,2
+1,2,4,54,#Brutus_JC,#Brutus_JC #Cassius_JC,71,8
+1,2,4,55,#Cassius_JC,#Brutus_JC #Cassius_JC,350,42
+1,2,4,56,#Brutus_JC,#Brutus_JC #Cassius_JC,19,3
+1,2,4,57,#Cassius_JC,#Brutus_JC #Cassius_JC,231,29
+1,2,4,58,#Brutus_JC,#Brutus_JC #Cassius_JC,115,14
+1,2,4,59,#Cassius_JC,#Brutus_JC #Cassius_JC,17,3
+1,2,5,60,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,8,1
+1,2,5,61,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,24,3
+1,2,5,62,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,54,7
+1,2,5,63,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,8,1
+1,2,5,64,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,1,1
+1,2,5,65,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,1,1
+1,2,5,66,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,32,4
+1,2,5,67,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,15,2
+1,2,5,68,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cassius_JC #Cicero_JC #Decius_JC #Flavius_JC #Marullus_JC #Portia_JC,146,17
+1,2,6,69,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,11,2
+1,2,6,70,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,13,2
+1,2,6,71,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,8,1
+1,2,6,72,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,9,1
+1,2,6,73,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,28,3
+1,2,6,74,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,6,1
+1,2,6,75,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,4,1
+1,2,6,76,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,9,1
+1,2,6,77,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,4,1
+1,2,6,78,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,6,1
+1,2,6,79,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,23,3
+1,2,6,80,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,5,1
+1,2,6,81,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,2,1
+1,2,6,82,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,8,1
+1,2,6,83,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,172,17
+1,2,6,84,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,9,1
+1,2,6,85,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,13,2
+1,2,6,86,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,8,1
+1,2,6,87,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,17,2
+1,2,6,88,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,48,5
+1,2,6,89,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,8,1
+1,2,6,90,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,128,13
+1,2,6,91,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC,8,1
+1,2,6,92,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,1,1
+1,2,6,93,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,4,1
+1,2,6,94,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,4,1
+1,2,6,95,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,3,1
+1,2,6,96,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,70,8
+1,2,6,97,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,7,1
+1,2,6,98,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,5,1
+1,2,6,99,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,6,1
+1,2,6,100,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,15,2
+1,2,6,101,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC,5,1
+1,2,6,102,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC,4,1
+1,2,7,103,#Brutus_JC,#Brutus_JC #Cassius_JC,18,2
+1,2,7,104,#Cassius_JC,#Brutus_JC #Cassius_JC,39,6
+1,2,7,105,#Brutus_JC,#Brutus_JC #Cassius_JC,39,4
+1,2,7,106,#Cassius_JC,#Brutus_JC #Cassius_JC,10,1
+1,2,8,107,#Cassius_JC,#Cassius_JC,119,15
+1,3,9,108,#Cicero_JC,#Casca_JC #Cicero_JC,16,2
+1,3,9,109,#Casca_JC,#Casca_JC #Cicero_JC,86,11
+1,3,9,110,#Cicero_JC,#Casca_JC #Cicero_JC,6,1
+1,3,9,111,#Casca_JC,#Casca_JC #Cicero_JC,138,18
+1,3,9,112,#Cicero_JC,#Casca_JC #Cicero_JC,28,4
+1,3,9,113,#Casca_JC,#Casca_JC #Cicero_JC,16,2
+1,3,9,114,#Cicero_JC,#Casca_JC #Cicero_JC,12,2
+1,3,9,115,#Casca_JC,#Casca_JC #Cicero_JC,2,1
+1,3,10,116,#Cassius_JC,#Casca_JC #Cassius_JC,2,1
+1,3,10,117,#Casca_JC,#Casca_JC #Cassius_JC,2,1
+1,3,10,118,#Cassius_JC,#Casca_JC #Cassius_JC,4,1
+1,3,10,119,#Casca_JC,#Casca_JC #Cassius_JC,9,1
+1,3,10,120,#Cassius_JC,#Casca_JC #Cassius_JC,7,1
+1,3,10,121,#Casca_JC,#Casca_JC #Cassius_JC,7,1
+1,3,10,122,#Cassius_JC,#Casca_JC #Cassius_JC,65,8
+1,3,10,123,#Casca_JC,#Casca_JC #Cassius_JC,33,4
+1,3,10,124,#Cassius_JC,#Casca_JC #Cassius_JC,166,22
+1,3,10,125,#Casca_JC,#Casca_JC #Cassius_JC,9,1
+1,3,10,126,#Cassius_JC,#Casca_JC #Cassius_JC,41,5
+1,3,10,127,#Casca_JC,#Casca_JC #Cassius_JC,30,4
+1,3,10,128,#Cassius_JC,#Casca_JC #Cassius_JC,92,12
+1,3,10,129,#Casca_JC,#Casca_JC #Cassius_JC,17,3
+1,3,10,130,#Cassius_JC,#Casca_JC #Cassius_JC,107,13
+1,3,10,131,#Casca_JC,#Casca_JC #Cassius_JC,39,5
+1,3,10,132,#Cassius_JC,#Casca_JC #Cassius_JC,76,11
+1,3,11,133,#Casca_JC,#Casca_JC #Cassius_JC #Cinna_JC,9,1
+1,3,11,134,#Cassius_JC,#Casca_JC #Cassius_JC #Cinna_JC,18,2
+1,3,11,135,#Cinna_JC,#Casca_JC #Cassius_JC #Cinna_JC,8,1
+1,3,11,136,#Cassius_JC,#Casca_JC #Cassius_JC #Cinna_JC,15,2
+1,3,11,137,#Cinna_JC,#Casca_JC #Cassius_JC #Cinna_JC,21,2
+1,3,11,138,#Cassius_JC,#Casca_JC #Cassius_JC #Cinna_JC,7,1
+1,3,11,139,#Cinna_JC,#Casca_JC #Cassius_JC #Cinna_JC,16,2
+1,3,11,140,#Cassius_JC,#Casca_JC #Cassius_JC #Cinna_JC,57,7
+1,3,11,141,#Cinna_JC,#Casca_JC #Cassius_JC #Cinna_JC,26,3
+1,3,11,142,#Cassius_JC,#Casca_JC #Cassius_JC #Cinna_JC,6,1
+1,3,12,143,#Cassius_JC,#Casca_JC #Cassius_JC,32,4
+1,3,12,144,#Casca_JC,#Casca_JC #Cassius_JC,29,4
+1,3,12,145,#Cassius_JC,#Casca_JC #Cassius_JC,35,4
+2,1,13,146,#Brutus_JC,#Brutus_JC,38,5
+2,1,14,147,#Lucius_JC,#Brutus_JC #Lucius_JC,4,1
+2,1,14,148,#Brutus_JC,#Brutus_JC #Lucius_JC,17,2
+2,1,14,149,#Lucius_JC,#Brutus_JC #Lucius_JC,4,1
+2,1,15,150,#Brutus_JC,#Brutus_JC,206,27
+2,1,16,151,#Lucius_JC,#Brutus_JC #Lucius_JC,34,4
+2,1,16,152,#Brutus_JC,#Brutus_JC #Lucius_JC,17,2
+2,1,16,153,#Lucius_JC,#Brutus_JC #Lucius_JC,4,1
+2,1,16,154,#Brutus_JC,#Brutus_JC #Lucius_JC,8,1
+2,1,16,155,#Lucius_JC,#Brutus_JC #Lucius_JC,3,1
+2,1,17,156,#Brutus_JC,#Brutus_JC,111,16
+2,1,18,157,#Lucius_JC,#Brutus_JC #Lucius_JC,6,1
+2,1,18,158,#Brutus_JC,#Brutus_JC #Lucius_JC,8,1
+2,1,19,159,#Brutus_JC,#Brutus_JC,61,9
+2,1,20,160,#Lucius_JC,#Brutus_JC #Lucius_JC,14,2
+2,1,20,161,#Brutus_JC,#Brutus_JC #Lucius_JC,3,1
+2,1,20,162,#Lucius_JC,#Brutus_JC #Lucius_JC,7,1
+2,1,20,163,#Brutus_JC,#Brutus_JC #Lucius_JC,4,2
+2,1,20,164,#Lucius_JC,#Brutus_JC #Lucius_JC,30,4
+2,1,20,165,#Brutus_JC,#Brutus_JC #Lucius_JC,3,1
+2,1,21,166,#Brutus_JC,#Brutus_JC,65,10
+2,1,22,167,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,16,2
+2,1,22,168,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,18,2
+2,1,22,169,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,34,5
+2,1,22,170,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,171,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,3,1
+2,1,22,172,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,173,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,8,1
+2,1,22,174,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,15,3
+2,1,22,175,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,5,1
+2,1,22,176,#Decius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,10,1
+2,1,22,177,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,1,1
+2,1,22,178,#Cinna_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,17,2
+2,1,22,179,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,57,8
+2,1,22,180,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,9,1
+2,1,22,181,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,6,1
+2,1,22,182,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,210,27
+2,1,22,183,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,17,2
+2,1,22,184,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,6,1
+2,1,22,185,#Cinna_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,186,#Metellus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,47,6
+2,1,22,187,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,20,3
+2,1,22,188,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,189,#Casca_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,5,1
+2,1,22,190,#Decius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,9,1
+2,1,22,191,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,55,7
+2,1,22,192,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,176,22
+2,1,22,193,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,13,2
+2,1,22,194,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,43,5
+2,1,22,195,#Trebonius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,19,2
+2,1,22,196,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,197,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,5,2
+2,1,22,198,#Trebonius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+2,1,22,199,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,59,9
+2,1,22,200,#Decius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,74,10
+2,1,22,201,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,11,1
+2,1,22,202,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,8,1
+2,1,22,203,#Cinna_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,8,1
+2,1,22,204,#Metellus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,23,3
+2,1,22,205,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,25,3
+2,1,22,206,#Cassius_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,25,5
+2,1,22,207,#Brutus_JC,#Brutus_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,36,5
+2,1,23,208,#Brutus_JC,#Brutus_JC,35,5
+2,1,24,209,#Portia_JC,#Brutus_JC #Portia_JC,3,1
+2,1,24,210,#Brutus_JC,#Brutus_JC #Portia_JC,25,3
+2,1,24,211,#Portia_JC,#Brutus_JC #Portia_JC,157,20
+2,1,24,212,#Brutus_JC,#Brutus_JC #Portia_JC,10,1
+2,1,24,213,#Portia_JC,#Brutus_JC #Portia_JC,18,2
+2,1,24,214,#Brutus_JC,#Brutus_JC #Portia_JC,9,1
+2,1,24,215,#Portia_JC,#Brutus_JC #Portia_JC,144,19
+2,1,24,216,#Brutus_JC,#Brutus_JC #Portia_JC,4,1
+2,1,24,217,#Portia_JC,#Brutus_JC #Portia_JC,77,10
+2,1,24,218,#Brutus_JC,#Brutus_JC #Portia_JC,21,3
+2,1,24,219,#Portia_JC,#Brutus_JC #Portia_JC,91,12
+2,1,24,220,#Brutus_JC,#Brutus_JC #Portia_JC,50,8
+2,1,25,221,#Brutus_JC,#Brutus_JC,5,1
+2,1,26,222,#Lucius_JC,#Brutus_JC #Ligarius_JC #Lucius_JC,10,1
+2,1,26,223,#Brutus_JC,#Brutus_JC #Ligarius_JC #Lucius_JC,9,2
+2,1,27,224,#Brutus_JC,#Brutus_JC #Ligarius_JC,3,1
+2,1,27,225,#Ligarius_JC,#Brutus_JC #Ligarius_JC,7,1
+2,1,27,226,#Brutus_JC,#Brutus_JC #Ligarius_JC,19,2
+2,1,27,227,#Ligarius_JC,#Brutus_JC #Ligarius_JC,16,2
+2,1,27,228,#Brutus_JC,#Brutus_JC #Ligarius_JC,17,2
+2,1,27,229,#Ligarius_JC,#Brutus_JC #Ligarius_JC,52,8
+2,1,27,230,#Brutus_JC,#Brutus_JC #Ligarius_JC,10,1
+2,1,27,231,#Ligarius_JC,#Brutus_JC #Ligarius_JC,10,1
+2,1,27,232,#Brutus_JC,#Brutus_JC #Ligarius_JC,24,3
+2,1,27,233,#Ligarius_JC,#Brutus_JC #Ligarius_JC,26,4
+2,1,27,234,#Brutus_JC,#Brutus_JC #Ligarius_JC,3,1
+2,2,28,235,#Caesar_JC,#Caesar_JC,24,3
+2,2,29,236,#SERVANTS.CAESAR.1_JC,#Caesar_JC #SERVANTS.CAESAR.1_JC,2,1
+2,2,29,237,#Caesar_JC,#Caesar_JC #SERVANTS.CAESAR.1_JC,14,2
+2,2,29,238,#SERVANTS.CAESAR.1_JC,#Caesar_JC #SERVANTS.CAESAR.1_JC,4,1
+2,2,30,239,#Calphurnia_JC,#Caesar_JC #Calphurnia_JC,18,2
+2,2,30,240,#Caesar_JC,#Caesar_JC #Calphurnia_JC,25,3
+2,2,30,241,#Calphurnia_JC,#Caesar_JC #Calphurnia_JC,108,14
+2,2,30,242,#Caesar_JC,#Caesar_JC #Calphurnia_JC,29,4
+2,2,30,243,#Calphurnia_JC,#Caesar_JC #Calphurnia_JC,17,3
+2,2,30,244,#Caesar_JC,#Caesar_JC #Calphurnia_JC,46,6
+2,2,31,245,#Caesar_JC,#Caesar_JC #Calphurnia_JC #SERVANTS.CAESAR.1_JC,4,1
+2,2,31,246,#SERVANTS.CAESAR.1_JC,#Caesar_JC #Calphurnia_JC #SERVANTS.CAESAR.1_JC,25,3
+2,2,31,247,#Caesar_JC,#Caesar_JC #Calphurnia_JC #SERVANTS.CAESAR.1_JC,60,8
+2,2,31,248,#Calphurnia_JC,#Caesar_JC #Calphurnia_JC #SERVANTS.CAESAR.1_JC,53,7
+2,2,31,249,#Caesar_JC,#Caesar_JC #Calphurnia_JC #SERVANTS.CAESAR.1_JC,17,2
+2,2,32,250,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,8,1
+2,2,32,251,#Decius_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,16,2
+2,2,32,252,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,42,5
+2,2,32,253,#Calphurnia_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,4,1
+2,2,32,254,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,30,4
+2,2,32,255,#Decius_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,18,2
+2,2,32,256,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,96,12
+2,2,32,257,#Decius_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,55,8
+2,2,32,258,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,8,1
+2,2,32,259,#Decius_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,104,13
+2,2,32,260,#Caesar_JC,#Caesar_JC #Calphurnia_JC #Decius_JC #SERVANTS.CAESAR.1_JC,24,3
+2,2,33,261,#Caesar_JC,#Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,9,1
+2,2,33,262,#Publius_JC,#Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,3,1
+2,2,33,263,#Caesar_JC,#Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,35,6
+2,2,33,264,#Brutus_JC,#Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,4,1
+2,2,33,265,#Caesar_JC,#Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,8,1
+2,2,34,266,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,12,2
+2,2,34,267,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,5,1
+2,2,34,268,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #SERVANTS.CAESAR.1_JC #Trebonius_JC,13,2
+2,2,35,269,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #Trebonius_JC,30,4
+2,2,35,270,#Trebonius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #Trebonius_JC,19,2
+2,2,35,271,#Caesar_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #Trebonius_JC,18,2
+2,2,35,272,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Calphurnia_JC #Casca_JC #Cinna_JC #Decius_JC #Ligarius_JC #Metellus_JC #Publius_JC #Trebonius_JC,17,2
+2,3,36,273,#Artemidorus_JC,#Artemidorus_JC,117,16
+2,4,37,274,#Portia_JC,#Lucius_JC #Portia_JC,21,3
+2,4,37,275,#Lucius_JC,#Lucius_JC #Portia_JC,5,1
+2,4,37,276,#Portia_JC,#Lucius_JC #Portia_JC,57,7
+2,4,37,277,#Lucius_JC,#Lucius_JC #Portia_JC,20,3
+2,4,37,278,#Portia_JC,#Lucius_JC #Portia_JC,33,4
+2,4,37,279,#Lucius_JC,#Lucius_JC #Portia_JC,4,1
+2,4,37,280,#Portia_JC,#Lucius_JC #Portia_JC,19,3
+2,4,37,281,#Lucius_JC,#Lucius_JC #Portia_JC,5,1
+2,4,38,282,#Portia_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,8,1
+2,4,38,283,#Soothsayer_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,6,1
+2,4,38,284,#Portia_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,4,1
+2,4,38,285,#Soothsayer_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,5,1
+2,4,38,286,#Portia_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,7,1
+2,4,38,287,#Soothsayer_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,17,2
+2,4,38,288,#Portia_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,9,1
+2,4,38,289,#Soothsayer_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,26,3
+2,4,38,290,#Portia_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,8,2
+2,4,38,291,#Soothsayer_JC,#Lucius_JC #Portia_JC #Soothsayer_JC,61,8
+2,4,39,292,#Portia_JC,#Lucius_JC #Portia_JC,68,10
+3,1,40,293,#Caesar_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,6,1
+3,1,40,294,#Soothsayer_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,5,1
+3,1,40,295,#Artemidorus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,5,1
+3,1,40,296,#Decius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,14,2
+3,1,40,297,#Artemidorus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,17,2
+3,1,40,298,#Caesar_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,8,1
+3,1,40,299,#Artemidorus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,6,1
+3,1,40,300,#Caesar_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,5,1
+3,1,40,301,#Publius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,3,1
+3,1,40,302,#Cassius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,12,2
+3,1,40,303,#Popilius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,7,1
+3,1,40,304,#Cassius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,3,1
+3,1,40,305,#Popilius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Popilius_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,3,1
+3,1,41,306,#Brutus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,4,1
+3,1,41,307,#Cassius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,13,2
+3,1,41,308,#Brutus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,8,1
+3,1,41,309,#Cassius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,28,4
+3,1,41,310,#Brutus_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,19,3
+3,1,41,311,#Cassius_JC,#Antony_JC #Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC #Trebonius_JC,16,2
+3,1,42,312,#Decius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,14,2
+3,1,42,313,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,8,1
+3,1,42,314,#Cinna_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,9,1
+3,1,42,315,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,15,2
+3,1,42,316,#Metellus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,17,3
+3,1,42,317,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,101,15
+3,1,42,318,#Metellus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,24,3
+3,1,42,319,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,21,3
+3,1,42,320,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,2,1
+3,1,42,321,#Cassius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,19,3
+3,1,42,322,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,133,16
+3,1,42,323,#Cinna_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,2,1
+3,1,42,324,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,6,1
+3,1,42,325,#Decius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,2,1
+3,1,42,326,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,5,1
+3,1,42,327,#Casca_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,4,1
+3,1,42,328,#Caesar_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,6,1
+3,1,42,329,#Cinna_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,13,2
+3,1,42,330,#Cassius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,12,2
+3,1,42,331,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,14,2
+3,1,42,332,#Casca_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,5,1
+3,1,42,333,#Decius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,3,1
+3,1,42,334,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,2,1
+3,1,42,335,#Cinna_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,6,1
+3,1,42,336,#Metellus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,10,2
+3,1,42,337,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,24,3
+3,1,42,338,#Cassius_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,17,2
+3,1,42,339,#Brutus_JC,#Artemidorus_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Lepidus_JC #Metellus_JC #PETITIONERS_JC #Publius_JC #SENATORS_JC #Soothsayer_JC,13,2
+3,1,43,340,#Cassius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,3,1
+3,1,43,341,#Trebonius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,18,3
+3,1,43,342,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,24,4
+3,1,43,343,#Casca_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,17,2
+3,1,43,344,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,64,8
+3,1,43,345,#Cassius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,23,4
+3,1,43,346,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,20,3
+3,1,43,347,#Cassius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,22,3
+3,1,43,348,#Decius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+3,1,43,349,#Cassius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,22,3
+3,1,44,350,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #SERVANTS.ANTONY.1_JC #Trebonius_JC,8,1
+3,1,44,351,#SERVANTS.ANTONY.1_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #SERVANTS.ANTONY.1_JC #Trebonius_JC,115,15
+3,1,44,352,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #SERVANTS.ANTONY.1_JC #Trebonius_JC,32,5
+3,1,44,353,#SERVANTS.ANTONY.1_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #SERVANTS.ANTONY.1_JC #Trebonius_JC,4,1
+3,1,45,354,#Brutus_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,10,1
+3,1,45,355,#Cassius_JC,#Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,23,3
+3,1,46,356,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,7,1
+3,1,46,357,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,136,16
+3,1,46,358,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,109,13
+3,1,46,359,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,15,2
+3,1,46,360,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,34,5
+3,1,46,361,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,222,31
+3,1,46,362,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,2,1
+3,1,46,363,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,19,3
+3,1,46,364,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,35,4
+3,1,46,365,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,42,5
+3,1,46,366,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,27,4
+3,1,46,367,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,32,5
+3,1,46,368,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,4,1
+3,1,46,369,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,35,6
+3,1,46,370,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,54,8
+3,1,46,371,#Cassius_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,10,1
+3,1,46,372,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,62,8
+3,1,46,373,#Antony_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,8,2
+3,1,46,374,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #Casca_JC #Cassius_JC #Cinna_JC #Decius_JC #Metellus_JC #Trebonius_JC,7,1
+3,1,47,375,#Antony_JC,#Antony_JC #Caesar_JC,173,22
+3,1,48,376,#Antony_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,7,1
+3,1,48,377,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,4,1
+3,1,48,378,#Antony_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,9,1
+3,1,48,379,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,20,3
+3,1,48,380,#Antony_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,32,4
+3,1,48,381,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,8,1
+3,1,48,382,#Antony_JC,#Antony_JC #Caesar_JC #SERVANTS.OCTAVIUS.1_JC,84,12
+3,2,49,383,#PLEBEIANS_JC,#Brutus_JC #Cassius_JC #PLEBEIANS_JC,8,1
+3,2,49,384,#Brutus_JC,#Brutus_JC #Cassius_JC #PLEBEIANS_JC,46,7
+3,2,50,385,#PLEBEIANS.0.1_JC,#Brutus_JC #Cassius_JC #PLEBEIANS.0.1_JC #PLEBEIANS_JC,5,1
+3,2,51,386,#PLEBEIANS.0.2_JC,#Brutus_JC #Cassius_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS_JC,14,2
+3,2,52,387,#PLEBEIANS.0.3_JC,#Brutus_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS_JC,6,1
+3,2,52,388,#Brutus_JC,#Brutus_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS_JC,233,24
+3,2,52,389,#PLEBEIANS_JC,#Brutus_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS_JC,3,1
+3,2,52,390,#Brutus_JC,#Brutus_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS_JC,45,5
+3,2,53,391,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,68,7
+3,2,53,392,#PLEBEIANS_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,53,393,#PLEBEIANS.0.1_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,53,394,#PLEBEIANS.0.2_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,7,1
+3,2,53,395,#PLEBEIANS.0.3_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,54,396,#PLEBEIANS.0.4_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,2
+3,2,54,397,#PLEBEIANS.0.1_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,10,2
+3,2,54,398,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,54,399,#PLEBEIANS.0.2_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,54,400,#PLEBEIANS.0.1_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,54,401,#Brutus_JC,#Antony_JC #Brutus_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,52,7
+3,2,55,402,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,403,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,404,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,7,1
+3,2,55,405,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,406,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,407,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,12,2
+3,2,55,408,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,9,1
+3,2,55,409,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,5,1
+3,2,55,410,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,12,2
+3,2,55,411,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,412,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,413,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,414,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,268,36
+3,2,55,415,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,416,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,12,2
+3,2,55,417,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,13,2
+3,2,55,418,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,17,3
+3,2,55,419,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,10,1
+3,2,55,420,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,10,1
+3,2,55,421,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,9,1
+3,2,55,422,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,423,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,155,20
+3,2,55,424,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,425,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,9,1
+3,2,55,426,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,66,7
+3,2,55,427,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,7,1
+3,2,55,428,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,429,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,33,4
+3,2,55,430,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,5,1
+3,2,55,431,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,432,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,9,2
+3,2,55,433,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,37,4
+3,2,55,434,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,55,435,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,1,1
+3,2,55,436,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,437,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,438,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,439,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,440,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,9,1
+3,2,55,441,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,5,1
+3,2,55,442,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,229,29
+3,2,55,443,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,444,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,445,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,446,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,447,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,448,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,449,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,12,2
+3,2,55,450,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,55,451,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,452,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,10,2
+3,2,55,453,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,183,22
+3,2,55,454,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,55,455,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,456,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,6,1
+3,2,55,457,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,8,1
+3,2,55,458,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,7,1
+3,2,55,459,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,35,4
+3,2,55,460,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,10,1
+3,2,55,461,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,20,3
+3,2,55,462,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,7,1
+3,2,55,463,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,464,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,4,1
+3,2,55,465,#PLEBEIANS_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,2,1
+3,2,55,466,#Antony_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,44,6
+3,2,55,467,#PLEBEIANS.0.1_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,25,4
+3,2,55,468,#PLEBEIANS.0.2_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,469,#PLEBEIANS.0.3_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,3,1
+3,2,55,470,#PLEBEIANS.0.4_JC,#Antony_JC #Caesar_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #PLEBEIANS_JC,5,2
+3,2,56,471,#Antony_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC,14,2
+3,2,57,472,#Antony_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,3,1
+3,2,57,473,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,7,1
+3,2,57,474,#Antony_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,3,1
+3,2,57,475,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,7,1
+3,2,57,476,#Antony_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,24,3
+3,2,57,477,#SERVANTS.OCTAVIUS.1_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,16,2
+3,2,57,478,#Antony_JC,#Antony_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS.0_JC #SERVANTS.OCTAVIUS.1_JC,17,2
+3,3,58,479,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS_JC,29,4
+3,3,59,480,#PLEBEIANS.0.1_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS_JC,4,1
+3,3,60,481,#PLEBEIANS.0.2_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS_JC,4,1
+3,3,61,482,#PLEBEIANS.0.3_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS_JC,4,1
+3,3,62,483,#PLEBEIANS.0.4_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,8,2
+3,3,62,484,#PLEBEIANS.0.2_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,4,1
+3,3,62,485,#PLEBEIANS.0.1_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,3,1
+3,3,62,486,#PLEBEIANS.0.4_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,3,1
+3,3,62,487,#PLEBEIANS.0.3_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,6,1
+3,3,62,488,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,38,4
+3,3,62,489,#PLEBEIANS.0.2_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,22,3
+3,3,62,490,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,7,1
+3,3,62,491,#PLEBEIANS.0.1_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,6,1
+3,3,62,492,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,3,1
+3,3,62,493,#PLEBEIANS.0.2_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,5,1
+3,3,62,494,#PLEBEIANS.0.4_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,4,1
+3,3,62,495,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,6,1
+3,3,62,496,#PLEBEIANS.0.3_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,4,1
+3,3,62,497,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,5,1
+3,3,62,498,#PLEBEIANS.0.1_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,7,1
+3,3,62,499,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,10,1
+3,3,62,500,#PLEBEIANS.0.4_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,12,2
+3,3,62,501,#CinnaPoet_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,6,1
+3,3,62,502,#PLEBEIANS.0.4_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,19,3
+3,3,62,503,#PLEBEIANS.0.3_JC,#CinnaPoet_JC #PLEBEIANS.0.1_JC #PLEBEIANS.0.2_JC #PLEBEIANS.0.3_JC #PLEBEIANS.0.4_JC #PLEBEIANS_JC,27,4
+4,1,63,504,#Antony_JC,#Antony_JC #Lepidus_JC #Octavius_JC,9,2
+4,1,63,505,#Octavius_JC,#Antony_JC #Lepidus_JC #Octavius_JC,8,1
+4,1,63,506,#Lepidus_JC,#Antony_JC #Lepidus_JC #Octavius_JC,3,1
+4,1,63,507,#Octavius_JC,#Antony_JC #Lepidus_JC #Octavius_JC,4,1
+4,1,63,508,#Lepidus_JC,#Antony_JC #Lepidus_JC #Octavius_JC,13,2
+4,1,63,509,#Antony_JC,#Antony_JC #Lepidus_JC #Octavius_JC,34,4
+4,1,63,510,#Lepidus_JC,#Antony_JC #Lepidus_JC #Octavius_JC,6,1
+4,1,63,511,#Octavius_JC,#Antony_JC #Lepidus_JC #Octavius_JC,6,1
+4,1,64,512,#Antony_JC,#Antony_JC #Octavius_JC,29,4
+4,1,64,513,#Octavius_JC,#Antony_JC #Octavius_JC,20,3
+4,1,64,514,#Antony_JC,#Antony_JC #Octavius_JC,81,10
+4,1,64,515,#Octavius_JC,#Antony_JC #Octavius_JC,12,2
+4,1,64,516,#Antony_JC,#Antony_JC #Octavius_JC,139,19
+4,1,64,517,#Octavius_JC,#Antony_JC #Octavius_JC,29,4
+4,2,65,518,#Brutus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,2,1
+4,2,65,519,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,6,1
+4,2,65,520,#Brutus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,6,1
+4,2,65,521,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,15,2
+4,2,65,522,#Brutus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,36,5
+4,2,65,523,#Pindarus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,20,3
+4,2,65,524,#Brutus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,15,3
+4,2,65,525,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,25,4
+4,2,65,526,#Brutus_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,71,10
+4,2,65,527,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,20,3
+4,2,66,528,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,10,2
+4,2,66,529,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,2,1
+4,2,66,530,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,6,1
+4,2,67,531,#SOLDIERS.BRUTUS.0.1_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,1,1
+4,2,68,532,#SOLDIERS.BRUTUS.0.2_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,1,1
+4,2,69,533,#SOLDIERS.BRUTUS.0.3_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,1,1
+4,2,69,534,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,8,1
+4,2,69,535,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,18,2
+4,2,69,536,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,13,2
+4,2,69,537,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,50,7
+4,2,69,538,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,13,3
+4,2,69,539,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Pindarus_JC #SOLDIERS.BRUTUS.0.1_JC #SOLDIERS.BRUTUS.0.2_JC #SOLDIERS.BRUTUS.0.3_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC #SOLDIERS.CASSIUS_JC,26,3
+4,3,70,540,#Cassius_JC,#Cassius_JC,38,5
+4,3,71,541,#Brutus_JC,#Brutus_JC #Cassius_JC,9,1
+4,3,71,542,#Cassius_JC,#Brutus_JC #Cassius_JC,18,2
+4,3,71,543,#Brutus_JC,#Brutus_JC #Cassius_JC,25,4
+4,3,71,544,#Cassius_JC,#Brutus_JC #Cassius_JC,23,3
+4,3,71,545,#Brutus_JC,#Brutus_JC #Cassius_JC,14,2
+4,3,71,546,#Cassius_JC,#Brutus_JC #Cassius_JC,1,1
+4,3,71,547,#Brutus_JC,#Brutus_JC #Cassius_JC,86,11
+4,3,71,548,#Cassius_JC,#Brutus_JC #Cassius_JC,29,5
+4,3,71,549,#Brutus_JC,#Brutus_JC #Cassius_JC,6,1
+4,3,71,550,#Cassius_JC,#Brutus_JC #Cassius_JC,2,1
+4,3,71,551,#Brutus_JC,#Brutus_JC #Cassius_JC,5,1
+4,3,71,552,#Cassius_JC,#Brutus_JC #Cassius_JC,17,2
+4,3,71,553,#Brutus_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,71,554,#Cassius_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,71,555,#Brutus_JC,#Brutus_JC #Cassius_JC,24,3
+4,3,71,556,#Cassius_JC,#Brutus_JC #Cassius_JC,10,1
+4,3,71,557,#Brutus_JC,#Brutus_JC #Cassius_JC,74,9
+4,3,71,558,#Cassius_JC,#Brutus_JC #Cassius_JC,5,1
+4,3,71,559,#Brutus_JC,#Brutus_JC #Cassius_JC,34,4
+4,3,71,560,#Cassius_JC,#Brutus_JC #Cassius_JC,21,3
+4,3,71,561,#Brutus_JC,#Brutus_JC #Cassius_JC,6,1
+4,3,71,562,#Cassius_JC,#Brutus_JC #Cassius_JC,10,2
+4,3,71,563,#Brutus_JC,#Brutus_JC #Cassius_JC,9,1
+4,3,71,564,#Cassius_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,71,565,#Brutus_JC,#Brutus_JC #Cassius_JC,1,1
+4,3,71,566,#Cassius_JC,#Brutus_JC #Cassius_JC,5,1
+4,3,71,567,#Brutus_JC,#Brutus_JC #Cassius_JC,6,2
+4,3,71,568,#Cassius_JC,#Brutus_JC #Cassius_JC,17,2
+4,3,71,569,#Brutus_JC,#Brutus_JC #Cassius_JC,142,18
+4,3,71,570,#Cassius_JC,#Brutus_JC #Cassius_JC,4,1
+4,3,71,571,#Brutus_JC,#Brutus_JC #Cassius_JC,2,1
+4,3,71,572,#Cassius_JC,#Brutus_JC #Cassius_JC,33,4
+4,3,71,573,#Brutus_JC,#Brutus_JC #Cassius_JC,9,1
+4,3,71,574,#Cassius_JC,#Brutus_JC #Cassius_JC,4,1
+4,3,71,575,#Brutus_JC,#Brutus_JC #Cassius_JC,6,1
+4,3,71,576,#Cassius_JC,#Brutus_JC #Cassius_JC,8,1
+4,3,71,577,#Brutus_JC,#Brutus_JC #Cassius_JC,13,2
+4,3,71,578,#Cassius_JC,#Brutus_JC #Cassius_JC,119,16
+4,3,71,579,#Brutus_JC,#Brutus_JC #Cassius_JC,48,8
+4,3,71,580,#Cassius_JC,#Brutus_JC #Cassius_JC,19,3
+4,3,71,581,#Brutus_JC,#Brutus_JC #Cassius_JC,8,1
+4,3,71,582,#Cassius_JC,#Brutus_JC #Cassius_JC,9,1
+4,3,71,583,#Brutus_JC,#Brutus_JC #Cassius_JC,4,1
+4,3,71,584,#Cassius_JC,#Brutus_JC #Cassius_JC,2,1
+4,3,71,585,#Brutus_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,71,586,#Cassius_JC,#Brutus_JC #Cassius_JC,21,3
+4,3,71,587,#Brutus_JC,#Brutus_JC #Cassius_JC,21,4
+4,3,72,588,#Poet_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,20,3
+4,3,72,589,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,6,1
+4,3,72,590,#Poet_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,6,1
+4,3,72,591,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,5,1
+4,3,72,592,#Poet_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,28,3
+4,3,72,593,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,8,1
+4,3,72,594,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,7,1
+4,3,72,595,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,7,1
+4,3,72,596,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,20,3
+4,3,72,597,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #Poet_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,73,598,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,12,2
+4,3,73,599,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Titinius_JC,11,2
+4,3,74,600,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC,5,1
+4,3,75,601,#Cassius_JC,#Brutus_JC #Cassius_JC,10,1
+4,3,75,602,#Brutus_JC,#Brutus_JC #Cassius_JC,8,1
+4,3,75,603,#Cassius_JC,#Brutus_JC #Cassius_JC,14,2
+4,3,75,604,#Brutus_JC,#Brutus_JC #Cassius_JC,8,1
+4,3,75,605,#Cassius_JC,#Brutus_JC #Cassius_JC,2,1
+4,3,75,606,#Brutus_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,75,607,#Cassius_JC,#Brutus_JC #Cassius_JC,17,3
+4,3,75,608,#Brutus_JC,#Brutus_JC #Cassius_JC,35,6
+4,3,75,609,#Cassius_JC,#Brutus_JC #Cassius_JC,3,1
+4,3,75,610,#Brutus_JC,#Brutus_JC #Cassius_JC,2,1
+4,3,75,611,#Cassius_JC,#Brutus_JC #Cassius_JC,4,1
+4,3,76,612,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC,18,2
+4,3,76,613,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC,24,3
+4,3,77,614,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,20,3
+4,3,77,615,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,77,616,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,30,5
+4,3,77,617,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,7,1
+4,3,77,618,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,3,1
+4,3,77,619,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,18,3
+4,3,77,620,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,20,3
+4,3,77,621,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,77,622,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,18,3
+4,3,77,623,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,77,624,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,8,1
+4,3,77,625,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,77,626,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,77,627,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,10,1
+4,3,77,628,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,3,1
+4,3,77,629,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,9,1
+4,3,77,630,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,18,2
+4,3,77,631,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,22,3
+4,3,77,632,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,8,1
+4,3,77,633,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,19,2
+4,3,77,634,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,14,2
+4,3,77,635,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,6,1
+4,3,77,636,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,77,637,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,33,5
+4,3,77,638,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,70,10
+4,3,77,639,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,77,640,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,92,12
+4,3,77,641,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,14,2
+4,3,77,642,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,28,4
+4,3,77,643,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,11,2
+4,3,77,644,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,1,1
+4,3,78,645,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,79,646,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,14,3
+4,3,79,647,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,23,4
+4,3,80,648,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,3,1
+4,3,80,649,#Cassius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,80,650,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,80,651,#SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+4,3,80,652,#Brutus_JC,#Brutus_JC #Cassius_JC #Lucius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,2,1
+4,3,81,653,#Brutus_JC,#Brutus_JC #Lucius_JC,8,1
+4,3,81,654,#Lucius_JC,#Brutus_JC #Lucius_JC,4,1
+4,3,81,655,#Brutus_JC,#Brutus_JC #Lucius_JC,30,4
+4,3,81,656,#Lucius_JC,#Brutus_JC #Lucius_JC,3,1
+4,3,82,657,#SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,3,1
+4,3,82,658,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,26,3
+4,3,82,659,#SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,10,2
+4,3,82,660,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,36,4
+4,3,82,661,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,10,1
+4,3,82,662,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,25,3
+4,3,82,663,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,7,1
+4,3,82,664,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,13,2
+4,3,82,665,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,5,1
+4,3,82,666,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,19,2
+4,3,82,667,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,6,1
+4,3,82,668,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,104,12
+4,3,83,669,#Brutus_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,51,7
+4,3,83,670,#Caesar_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,4,1
+4,3,83,671,#Brutus_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,3,1
+4,3,83,672,#Caesar_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,9,1
+4,3,83,673,#Brutus_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,7,1
+4,3,83,674,#Caesar_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,3,1
+4,3,83,675,#Brutus_JC,#Brutus_JC #Caesar_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,8,1
+4,3,84,676,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,23,4
+4,3,84,677,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,6,1
+4,3,84,678,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,10,2
+4,3,84,679,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,2,1
+4,3,84,680,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,9,1
+4,3,84,681,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,10,1
+4,3,84,682,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,8,1
+4,3,84,683,#Lucius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,3,1
+4,3,84,684,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,8,2
+4,3,84,685,#SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,2,1
+4,3,84,686,#SOLDIERS.BRUTUS.Claudius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,2,1
+4,3,84,687,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,10,1
+4,3,84,688,#SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,4,1
+4,3,84,689,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,4,1
+4,3,84,690,#SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,6,1
+4,3,84,691,#SOLDIERS.BRUTUS.Claudius_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,4,1
+4,3,84,692,#Brutus_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,20,3
+4,3,84,693,#SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,#Brutus_JC #Lucius_JC #SOLDIERS.BRUTUS.Claudius_JC #SOLDIERS.BRUTUS.Varro_JC,6,1
+5,1,85,694,#Octavius_JC,#Antony_JC #Octavius_JC #SOLDIERS.ANTONY_JC,45,6
+5,1,85,695,#Antony_JC,#Antony_JC #Octavius_JC #SOLDIERS.ANTONY_JC,44,6
+5,1,86,696,#Messenger_JC,#Antony_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC,24,4
+5,1,86,697,#Antony_JC,#Antony_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC,14,2
+5,1,86,698,#Octavius_JC,#Antony_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC,9,1
+5,1,86,699,#Antony_JC,#Antony_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC,8,1
+5,1,86,700,#Octavius_JC,#Antony_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC,10,1
+5,1,87,701,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,6,1
+5,1,87,702,#Cassius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,8,1
+5,1,87,703,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,8,1
+5,1,87,704,#Antony_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,16,2
+5,1,87,705,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,5,1
+5,1,87,706,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,7,1
+5,1,87,707,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,9,1
+5,1,87,708,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,8,1
+5,1,87,709,#Antony_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,22,3
+5,1,87,710,#Cassius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,22,4
+5,1,87,711,#Antony_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,3,1
+5,1,87,712,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,19,3
+5,1,87,713,#Antony_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,49,7
+5,1,87,714,#Cassius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,17,3
+5,1,87,715,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,56,7
+5,1,87,716,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,14,2
+5,1,87,717,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,12,2
+5,1,87,718,#Brutus_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,17,2
+5,1,87,719,#Cassius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,14,2
+5,1,87,720,#Antony_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,3,1
+5,1,87,721,#Octavius_JC,#Antony_JC #Brutus_JC #Cassius_JC #Messenger_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,25,4
+5,1,88,722,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,19,2
+5,1,88,723,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,7,1
+5,1,88,724,#SOLDIERS.BRUTUS.Lucilius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,2,1
+5,1,88,725,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,1,1
+5,1,88,726,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,4,1
+5,1,88,727,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,138,19
+5,1,88,728,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,3,1
+5,1,88,729,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,19,3
+5,1,88,730,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,3,1
+5,1,88,731,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,62,8
+5,1,88,732,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,62,8
+5,1,88,733,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,19,3
+5,1,88,734,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,72,9
+5,1,88,735,#Cassius_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,22,3
+5,1,88,736,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS_JC,36,4
+5,2,89,737,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Messala_JC,45,6
+5,3,90,738,#Cassius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC,32,4
+5,3,90,739,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC,30,4
+5,3,91,740,#Pindarus_JC,#Cassius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Titinius_JC,23,3
+5,3,91,741,#Cassius_JC,#Cassius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Titinius_JC,17,2
+5,3,91,742,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+5,3,91,743,#Cassius_JC,#Cassius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Titinius_JC,39,5
+5,3,91,744,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #Pindarus_JC #SOLDIERS.BRUTUS.Titinius_JC,9,1
+5,3,92,745,#Cassius_JC,#Cassius_JC #Pindarus_JC,50,6
+5,3,92,746,#Pindarus_JC,#Cassius_JC #Pindarus_JC,3,1
+5,3,92,747,#Cassius_JC,#Cassius_JC #Pindarus_JC,2,1
+5,3,92,748,#Pindarus_JC,#Cassius_JC #Pindarus_JC,41,6
+5,3,92,749,#Cassius_JC,#Cassius_JC #Pindarus_JC,108,17
+5,3,92,750,#Pindarus_JC,#Cassius_JC #Pindarus_JC,33,4
+5,3,93,751,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,19,3
+5,3,93,752,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,6,1
+5,3,93,753,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,5,1
+5,3,93,754,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,9,2
+5,3,93,755,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,9,1
+5,3,93,756,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,9,1
+5,3,93,757,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,4,1
+5,3,93,758,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,59,8
+5,3,93,759,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,46,6
+5,3,93,760,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,6,1
+5,3,93,761,#SOLDIERS.BRUTUS.Messala_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,42,6
+5,3,93,762,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Titinius_JC,11,2
+5,3,94,763,#SOLDIERS.BRUTUS.Titinius_JC,#Cassius_JC #SOLDIERS.BRUTUS.Titinius_JC,91,12
+5,3,95,764,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,7,1
+5,3,95,765,#SOLDIERS.BRUTUS.Messala_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,6,1
+5,3,95,766,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,3,95,767,#SOLDIERS.BRUTUS.Cato_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,3,1
+5,3,95,768,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,20,3
+5,3,95,769,#SOLDIERS.BRUTUS.Cato_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,10,2
+5,3,95,770,#Brutus_JC,#Brutus_JC #Cassius_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Labeo_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Titinius_JC #SOLDIERS.BRUTUS.Volumnius_JC,105,14
+5,4,96,771,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Flavius_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC,8,1
+5,4,97,772,#SOLDIERS.BRUTUS.Cato_JC,#SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,41,5
+5,4,98,773,#SOLDIERS.BRUTUS.Lucilius_JC,#SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,38,5
+5,4,99,774,#SOLDIERS.ANTONY.0.1_JC,#SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,4,1
+5,4,99,775,#SOLDIERS.BRUTUS.Lucilius_JC,#SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,23,3
+5,4,99,776,#SOLDIERS.ANTONY.0.1_JC,#SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,6,1
+5,4,100,777,#SOLDIERS.ANTONY.0.2_JC,#Antony_JC #SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY.0.2_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,7,1
+5,4,100,778,#SOLDIERS.ANTONY.0.1_JC,#Antony_JC #SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY.0.2_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,16,2
+5,4,100,779,#Antony_JC,#Antony_JC #SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY.0.2_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,3,1
+5,4,100,780,#SOLDIERS.BRUTUS.Lucilius_JC,#Antony_JC #SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY.0.2_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,46,6
+5,4,100,781,#Antony_JC,#Antony_JC #SOLDIERS.ANTONY.0.1_JC #SOLDIERS.ANTONY.0.2_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Cato_JC #SOLDIERS.BRUTUS.Lucilius_JC,54,7
+5,5,101,782,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,9,1
+5,5,101,783,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,17,2
+5,5,101,784,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,17,2
+5,5,101,785,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,10,1
+5,5,101,786,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,101,787,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,101,788,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,3,1
+5,5,101,789,#SOLDIERS.BRUTUS.Dardanus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,6,1
+5,5,101,790,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,2,1
+5,5,101,791,#SOLDIERS.BRUTUS.Dardanus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,2,1
+5,5,101,792,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,8,1
+5,5,101,793,#SOLDIERS.BRUTUS.Dardanus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,7,1
+5,5,101,794,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,16,2
+5,5,101,795,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,7,1
+5,5,101,796,#SOLDIERS.BRUTUS.Volumnius_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,101,797,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,33,5
+5,5,101,798,#SOLDIERS.BRUTUS.Volumnius_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,101,799,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,67,8
+5,5,101,800,#SOLDIERS.BRUTUS.Volumnius_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,9,1
+5,5,101,801,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,9,1
+5,5,101,802,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,95,12
+5,5,101,803,#SOLDIERS.BRUTUS.Clitus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,101,804,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Clitus_JC #SOLDIERS.BRUTUS.Dardanus_JC #SOLDIERS.BRUTUS.Strato_JC #SOLDIERS.BRUTUS.Volumnius_JC,4,1
+5,5,102,805,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Strato_JC,44,5
+5,5,102,806,#SOLDIERS.BRUTUS.Strato_JC,#Brutus_JC #SOLDIERS.BRUTUS.Strato_JC,10,1
+5,5,102,807,#Brutus_JC,#Brutus_JC #SOLDIERS.BRUTUS.Strato_JC,17,3
+5,5,103,808,#Octavius_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,4,1
+5,5,103,809,#SOLDIERS.BRUTUS.Messala_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,8,1
+5,5,103,810,#SOLDIERS.BRUTUS.Strato_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,31,4
+5,5,103,811,#SOLDIERS.BRUTUS.Lucilius_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,16,2
+5,5,103,812,#Octavius_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,16,2
+5,5,103,813,#SOLDIERS.BRUTUS.Strato_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,8,1
+5,5,103,814,#Octavius_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,4,1
+5,5,103,815,#SOLDIERS.BRUTUS.Messala_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,5,1
+5,5,103,816,#SOLDIERS.BRUTUS.Strato_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,10,1
+5,5,103,817,#SOLDIERS.BRUTUS.Messala_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,15,2
+5,5,103,818,#Antony_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,65,8
+5,5,103,819,#Octavius_JC,#Antony_JC #Brutus_JC #Octavius_JC #SOLDIERS.ANTONY_JC #SOLDIERS.BRUTUS.Lucilius_JC #SOLDIERS.BRUTUS.Messala_JC #SOLDIERS.BRUTUS.Strato_JC,46,6

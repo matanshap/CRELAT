@@ -1,0 +1,65 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,1434,184,#Berowne_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+1,1,2,805,123,#Berowne_LLL #Costard_LLL #Dull_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+1,1,3,62,8,#Berowne_LLL #Costard_LLL #Dull_LLL
+1,2,4,824,125,#Armado_LLL #Boy_LLL
+1,2,5,103,20,#Armado_LLL #Boy_LLL #Costard_LLL #Dull_LLL #Jaquenetta_LLL
+1,2,6,148,21,#Armado_LLL #Boy_LLL #Costard_LLL
+1,2,7,181,19,#Armado_LLL
+2,1,8,266,36,#Boyet_LLL #Katherine_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,9,14,2,#Katherine_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,10,316,43,#Katherine_LLL #LORDS.0_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,11,67,9,#Boyet_LLL #Katherine_LLL #LORDS.0_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,12,683,94,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #LORDS.0_LLL #LORDS_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,13,74,15,#Berowne_LLL #Boyet_LLL #Katherine_LLL #LORDS.0_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,14,25,3,#Boyet_LLL #Dumaine_LLL #Katherine_LLL #LORDS.0_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,15,85,13,#Boyet_LLL #Katherine_LLL #LORDS.0_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,16,34,6,#Berowne_LLL #Boyet_LLL #Katherine_LLL #LORDS.0_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+2,1,17,395,56,#Boyet_LLL #Katherine_LLL #LORDS.0_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+3,1,18,463,69,#Armado_LLL #Boy_LLL
+3,1,19,31,4,#Armado_LLL
+3,1,20,478,68,#Armado_LLL #Boy_LLL #Costard_LLL
+3,1,21,7,1,#Boy_LLL #Costard_LLL
+3,1,22,66,8,#Costard_LLL
+3,1,23,201,33,#Berowne_LLL #Costard_LLL
+3,1,24,248,32,#Berowne_LLL
+4,1,25,332,42,#Boyet_LLL #Forester_LLL #Katherine_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+4,1,26,581,80,#Boyet_LLL #Costard_LLL #Forester_LLL #Katherine_LLL #LORDS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+4,1,27,180,26,#Boyet_LLL #Costard_LLL #Maria_LLL #Rosaline_LLL
+4,1,28,123,16,#Boyet_LLL #Costard_LLL #Maria_LLL
+4,1,29,99,14,#Costard_LLL
+4,2,30,698,98,#Dull_LLL #Holofernes_LLL #Nathaniel_LLL
+4,2,31,527,73,#Costard_LLL #Dull_LLL #Holofernes_LLL #Jaquenetta_LLL #Nathaniel_LLL
+4,2,32,165,20,#Dull_LLL #Holofernes_LLL #Nathaniel_LLL
+4,3,33,207,19,#Berowne_LLL
+4,3,34,181,22,#Berowne_LLL #King_LLL
+4,3,35,275,37,#Berowne_LLL #King_LLL #Longaville_LLL
+4,3,36,844,117,#Berowne_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+4,3,37,226,37,#Berowne_LLL #Costard_LLL #Dumaine_LLL #Jaquenetta_LLL #King_LLL #Longaville_LLL
+4,3,38,1163,148,#Berowne_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+5,1,39,210,31,#Dull_LLL #Holofernes_LLL #Nathaniel_LLL
+5,1,40,878,125,#Armado_LLL #Boy_LLL #Costard_LLL #Dull_LLL #Holofernes_LLL #Nathaniel_LLL
+5,2,41,645,83,#Katherine_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,42,637,81,#Boyet_LLL #Katherine_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,43,102,17,#BLACKAMOORS_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #MUSICIANS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,44,749,110,#BLACKAMOORS_LLL #Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #MUSICIANS_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,45,351,50,#Boyet_LLL #Katherine_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,46,41,5,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+5,2,47,184,22,#Berowne_LLL #Dumaine_LLL #King_LLL #Longaville_LLL
+5,2,48,1213,162,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,49,208,30,#Berowne_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,50,94,13,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,51,82,12,#Armado_LLL #Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,52,106,15,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,53,125,23,#Berowne_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,54,142,24,#Berowne_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Nathaniel_LLL #Princess_LLL #Rosaline_LLL
+5,2,55,54,6,#Berowne_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,56,279,49,#Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Holofernes_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,57,8,1,#Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,58,512,86,#Armado_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,59,76,11,#Armado_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,60,1155,152,#Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,61,85,12,#Armado_LLL #Berowne_LLL #Boyet_LLL #Dumaine_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Princess_LLL #Rosaline_LLL
+5,2,62,22,3,#Armado_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Holofernes_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Nathaniel_LLL #Princess_LLL #Rosaline_LLL
+5,2,63,96,18,#Armado_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Holofernes_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Nathaniel_LLL #Princess_LLL #Rosaline_LLL #Spring_LLL
+5,2,64,122,18,#Armado_LLL #Berowne_LLL #Boy_LLL #Boyet_LLL #Costard_LLL #Dumaine_LLL #Holofernes_LLL #Katherine_LLL #King_LLL #Longaville_LLL #Marcade_LLL #Maria_LLL #Nathaniel_LLL #Princess_LLL #Rosaline_LLL #Spring_LLL #Winter_LLL

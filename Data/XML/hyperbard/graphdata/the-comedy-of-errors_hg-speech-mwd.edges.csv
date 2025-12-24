@@ -1,0 +1,616 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,16,2
+1,1,1,2,#Duke_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,159,23
+1,1,1,3,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,17,2
+1,1,1,4,#Duke_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,22,3
+1,1,1,5,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,489,65
+1,1,1,6,#Duke_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,17,2
+1,1,1,7,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,183,23
+1,1,1,8,#Duke_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,26,3
+1,1,1,9,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,123,16
+1,1,1,10,#Duke_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,122,16
+1,1,1,11,#OFFICERS.Jailer_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,4,1
+1,1,1,12,#Egeon_Err,#ATTENDANTS_Err #Duke_Err #Egeon_Err #OFFICERS.Jailer_Err,12,2
+1,2,2,13,#Merchant1_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant1_Err,60,8
+1,2,2,14,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant1_Err,61,8
+1,2,2,15,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant1_Err,17,2
+1,2,3,16,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Merchant1_Err,41,5
+1,2,3,17,#Merchant1_Err,#AntipholusOfSyracuse_Err #Merchant1_Err,46,6
+1,2,3,18,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Merchant1_Err,17,2
+1,2,3,19,#Merchant1_Err,#AntipholusOfSyracuse_Err #Merchant1_Err,8,1
+1,2,4,20,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,61,8
+1,2,5,21,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,17,2
+1,2,5,22,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,83,10
+1,2,5,23,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,20,2
+1,2,5,24,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,25,3
+1,2,5,25,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,33,4
+1,2,5,26,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,52,7
+1,2,5,27,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,27,3
+1,2,5,28,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,10,1
+1,2,5,29,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,17,2
+1,2,5,30,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,27,3
+1,2,5,31,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,43,5
+1,2,5,32,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,40,5
+1,2,5,33,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,8,2
+1,2,5,34,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,28,3
+1,2,5,35,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,17,2
+1,2,5,36,#DromioOfEphesus_Err,#AntipholusOfSyracuse_Err #DromioOfEphesus_Err,20,3
+1,2,6,37,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,80,11
+2,1,7,38,#Adriana_Err,#Adriana_Err #Luciana_Err,23,3
+2,1,7,39,#Luciana_Err,#Adriana_Err #Luciana_Err,48,6
+2,1,7,40,#Adriana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,41,#Luciana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,42,#Adriana_Err,#Adriana_Err #Luciana_Err,10,1
+2,1,7,43,#Luciana_Err,#Adriana_Err #Luciana_Err,9,1
+2,1,7,44,#Adriana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,45,#Luciana_Err,#Adriana_Err #Luciana_Err,85,11
+2,1,7,46,#Adriana_Err,#Adriana_Err #Luciana_Err,7,1
+2,1,7,47,#Luciana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,48,#Adriana_Err,#Adriana_Err #Luciana_Err,9,1
+2,1,7,49,#Luciana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,50,#Adriana_Err,#Adriana_Err #Luciana_Err,7,1
+2,1,7,51,#Luciana_Err,#Adriana_Err #Luciana_Err,8,1
+2,1,7,52,#Adriana_Err,#Adriana_Err #Luciana_Err,82,10
+2,1,7,53,#Luciana_Err,#Adriana_Err #Luciana_Err,18,2
+2,1,8,54,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,8,1
+2,1,8,55,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,14,2
+2,1,8,56,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,10,2
+2,1,8,57,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,17,2
+2,1,8,58,#Luciana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,10,2
+2,1,8,59,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,22,3
+2,1,8,60,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,18,2
+2,1,8,61,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,8,1
+2,1,8,62,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,4,1
+2,1,8,63,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,93,13
+2,1,8,64,#Luciana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,2,1
+2,1,8,65,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,38,6
+2,1,8,66,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,9,1
+2,1,8,67,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,15,2
+2,1,8,68,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,9,1
+2,1,8,69,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,17,2
+2,1,8,70,#Adriana_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,7,1
+2,1,8,71,#DromioOfEphesus_Err,#Adriana_Err #DromioOfEphesus_Err #Luciana_Err,41,4
+2,1,9,72,#Luciana_Err,#Adriana_Err #Luciana_Err,7,1
+2,1,9,73,#Adriana_Err,#Adriana_Err #Luciana_Err,119,15
+2,1,9,74,#Luciana_Err,#Adriana_Err #Luciana_Err,6,1
+2,1,9,75,#Adriana_Err,#Adriana_Err #Luciana_Err,103,13
+2,1,9,76,#Luciana_Err,#Adriana_Err #Luciana_Err,7,1
+2,2,10,77,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,51,6
+2,2,11,78,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,51,6
+2,2,11,79,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,9,1
+2,2,11,80,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,9,1
+2,2,11,81,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,20,2
+2,2,11,82,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,25,3
+2,2,11,83,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,20,2
+2,2,11,84,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,20,2
+2,2,11,85,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,18,2
+2,2,11,86,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,73,9
+2,2,11,87,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,52,6
+2,2,11,88,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,4,1
+2,2,11,89,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,7,2
+2,2,11,90,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,1
+2,2,11,91,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,12,2
+2,2,11,92,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,16,3
+2,2,11,93,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,27,4
+2,2,11,94,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,1
+2,2,11,95,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+2,2,11,96,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,17,3
+2,2,11,97,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,10,2
+2,2,11,98,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,6,2
+2,2,11,99,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,1,1
+2,2,11,100,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,6,1
+2,2,11,101,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+2,2,11,102,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+2,2,11,103,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+2,2,11,104,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,14,2
+2,2,11,105,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,10,2
+2,2,11,106,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,4,1
+2,2,11,107,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,16,2
+2,2,11,108,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+2,2,11,109,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,15,2
+2,2,11,110,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,9,2
+2,2,11,111,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,16,2
+2,2,11,112,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,16,2
+2,2,11,113,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,24,3
+2,2,11,114,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+2,2,11,115,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,14,2
+2,2,11,116,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,10,2
+2,2,11,117,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,15,2
+2,2,11,118,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+2,2,11,119,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,6,1
+2,2,11,120,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,6,1
+2,2,11,121,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+2,2,11,122,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,7,2
+2,2,11,123,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+2,2,11,124,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+2,2,11,125,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,23,3
+2,2,11,126,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,14,2
+2,2,11,127,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,14,2
+2,2,11,128,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,13,2
+2,2,11,129,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,18,3
+2,2,11,130,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,13,2
+2,2,12,131,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,289,38
+2,2,12,132,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,44,5
+2,2,12,133,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,27,3
+2,2,12,134,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,2,1
+2,2,12,135,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,2,1
+2,2,12,136,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,27,3
+2,2,12,137,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,16,2
+2,2,12,138,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,9,1
+2,2,12,139,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,16,2
+2,2,12,140,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,9,1
+2,2,12,141,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,15,2
+2,2,12,142,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,103,13
+2,2,12,143,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,48,6
+2,2,12,144,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,8,1
+2,2,12,145,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,44,5
+2,2,12,146,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,17,3
+2,2,12,147,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,7,1
+2,2,12,148,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,10,1
+2,2,12,149,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,9,1
+2,2,12,150,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,5,1
+2,2,12,151,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,5,1
+2,2,12,152,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,10,1
+2,2,12,153,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,32,3
+2,2,12,154,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,74,9
+2,2,12,155,#AntipholusOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,38,5
+2,2,12,156,#DromioOfSyracuse_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,8,1
+2,2,12,157,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,10,1
+2,2,12,158,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Luciana_Err,7,1
+3,1,13,159,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,88,10
+3,1,13,160,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,45,6
+3,1,13,161,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,6,1
+3,1,13,162,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,36,4
+3,1,13,163,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,17,3
+3,1,13,164,#Balthasar_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,10,2
+3,1,13,165,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,18,3
+3,1,13,166,#Balthasar_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,9,1
+3,1,13,167,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,9,2
+3,1,13,168,#Balthasar_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,9,2
+3,1,13,169,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,42,7
+3,1,13,170,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err,6,1
+3,1,14,171,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,41,7
+3,1,14,172,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,12,2
+3,1,14,173,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,14,2
+3,1,14,174,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,8,1
+3,1,14,175,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,14,176,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,14,177,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,14,178,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,12,2
+3,1,14,179,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,14,180,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,45,7
+3,1,15,181,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,12,2
+3,1,15,182,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,5,1
+3,1,15,183,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,11,2
+3,1,15,184,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,17,2
+3,1,15,185,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,10,2
+3,1,15,186,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,12,2
+3,1,15,187,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,11,1
+3,1,15,188,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,6,1
+3,1,15,189,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,4,1
+3,1,15,190,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,10,2
+3,1,15,191,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,5,1
+3,1,15,192,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,6,1
+3,1,15,193,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,5,1
+3,1,15,194,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,6,1
+3,1,15,195,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,11,1
+3,1,15,196,#Luce_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,12,2
+3,1,16,197,#Adriana_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,11,1
+3,1,16,198,#DromioOfSyracuse_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,10,2
+3,1,16,199,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,9,1
+3,1,16,200,#Adriana_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Luce_Err,10,1
+3,1,17,201,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,17,202,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,12,2
+3,1,17,203,#Balthasar_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,10,2
+3,1,17,204,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,10,2
+3,1,17,205,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,17,206,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,37,6
+3,1,17,207,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,17,208,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,10,2
+3,1,17,209,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,27,4
+3,1,17,210,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,17,211,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,12,2
+3,1,17,212,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+3,1,17,213,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,17,214,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,32,5
+3,1,17,215,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,17,216,#Balthasar_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,164,22
+3,1,17,217,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,123,15
+3,1,17,218,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,1,17,219,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Balthasar_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,9,1
+3,2,18,220,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,225,30
+3,2,18,221,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,205,24
+3,2,18,222,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,223,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,224,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,225,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,226,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,10,2
+3,2,18,227,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,10,1
+3,2,18,228,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,229,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,3,1
+3,2,18,230,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,3,1
+3,2,18,231,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,35,5
+3,2,18,232,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,9,1
+3,2,18,233,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Luciana_Err,31,4
+3,2,18,234,#Luciana_Err,#AntipholusOfSyracuse_Err #Luciana_Err,14,2
+3,2,19,235,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,9,2
+3,2,19,236,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,15,2
+3,2,19,237,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,10,2
+3,2,19,238,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,12,2
+3,2,19,239,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,7,2
+3,2,19,240,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,23,3
+3,2,19,241,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,6,1
+3,2,19,242,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,41,5
+3,2,19,243,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+3,2,19,244,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,35,4
+3,2,19,245,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,7,2
+3,2,19,246,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,62,7
+3,2,19,247,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,1
+3,2,19,248,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,26,3
+3,2,19,249,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,7,2
+3,2,19,250,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+3,2,19,251,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,3,1
+3,2,19,252,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,22,3
+3,2,19,253,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,2
+3,2,19,254,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,24,3
+3,2,19,255,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,8,2
+3,2,19,256,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,12,2
+3,2,19,257,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+3,2,19,258,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,13,2
+3,2,19,259,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+3,2,19,260,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,11,2
+3,2,19,261,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+3,2,19,262,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,32,4
+3,2,19,263,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,2,1
+3,2,19,264,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,13,2
+3,2,19,265,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,4,1
+3,2,19,266,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,33,5
+3,2,19,267,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,2
+3,2,19,268,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,95,11
+3,2,19,269,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,61,7
+3,2,19,270,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,20,2
+3,2,20,271,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,70,9
+3,2,21,272,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err,2,1
+3,2,21,273,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err,4,1
+3,2,21,274,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err,26,3
+3,2,21,275,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err,10,1
+3,2,21,276,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err,10,1
+3,2,21,277,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err,9,1
+3,2,21,278,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err,34,4
+3,2,21,279,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err,17,2
+3,2,21,280,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err,9,1
+3,2,22,281,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,63,7
+4,1,23,282,#Merchant2_Err,#Angelo_Err #Merchant2_Err #OFFICERS.X_Err,45,6
+4,1,23,283,#Angelo_Err,#Angelo_Err #Merchant2_Err #OFFICERS.X_Err,60,7
+4,1,24,284,#OFFICERS.X_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,24,285,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,52,6
+4,1,24,286,#DromioOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,11,1
+4,1,25,287,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,43,5
+4,1,25,288,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,56,7
+4,1,25,289,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,50,6
+4,1,25,290,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,25,291,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,11,1
+4,1,25,292,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,10,1
+4,1,25,293,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,18,2
+4,1,25,294,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,28,3
+4,1,25,295,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,33,4
+4,1,25,296,#Merchant2_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,25,297,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,8,1
+4,1,25,298,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,10,1
+4,1,25,299,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,20,2
+4,1,25,300,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,20,2
+4,1,25,301,#Merchant2_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,23,3
+4,1,25,302,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,8,1
+4,1,25,303,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,25,304,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,25,305,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,10,1
+4,1,25,306,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,11,1
+4,1,25,307,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,15,2
+4,1,25,308,#Merchant2_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,7,1
+4,1,25,309,#OFFICERS.X_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,12,2
+4,1,25,310,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,20,3
+4,1,25,311,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,15,2
+4,1,25,312,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,23,3
+4,1,25,313,#OFFICERS.X_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,25,314,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,27,4
+4,1,25,315,#Angelo_Err,#Angelo_Err #AntipholusOfEphesus_Err #Merchant2_Err #OFFICERS.X_Err,16,2
+4,1,26,316,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,64,8
+4,1,26,317,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,15,2
+4,1,26,318,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,9,1
+4,1,26,319,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,18,2
+4,1,26,320,#DromioOfSyracuse_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,19,2
+4,1,26,321,#AntipholusOfEphesus_Err,#Angelo_Err #AntipholusOfEphesus_Err #DromioOfSyracuse_Err #Merchant2_Err #OFFICERS.X_Err,74,9
+4,1,27,322,#DromioOfSyracuse_Err,#DromioOfSyracuse_Err,39,5
+4,2,28,323,#Adriana_Err,#Adriana_Err #Luciana_Err,48,6
+4,2,28,324,#Luciana_Err,#Adriana_Err #Luciana_Err,9,1
+4,2,28,325,#Adriana_Err,#Adriana_Err #Luciana_Err,10,1
+4,2,28,326,#Luciana_Err,#Adriana_Err #Luciana_Err,9,1
+4,2,28,327,#Adriana_Err,#Adriana_Err #Luciana_Err,9,1
+4,2,28,328,#Luciana_Err,#Adriana_Err #Luciana_Err,5,1
+4,2,28,329,#Adriana_Err,#Adriana_Err #Luciana_Err,4,1
+4,2,28,330,#Luciana_Err,#Adriana_Err #Luciana_Err,10,1
+4,2,28,331,#Adriana_Err,#Adriana_Err #Luciana_Err,8,1
+4,2,28,332,#Luciana_Err,#Adriana_Err #Luciana_Err,18,2
+4,2,28,333,#Adriana_Err,#Adriana_Err #Luciana_Err,4,1
+4,2,28,334,#Luciana_Err,#Adriana_Err #Luciana_Err,4,1
+4,2,28,335,#Adriana_Err,#Adriana_Err #Luciana_Err,41,6
+4,2,28,336,#Luciana_Err,#Adriana_Err #Luciana_Err,18,2
+4,2,28,337,#Adriana_Err,#Adriana_Err #Luciana_Err,35,5
+4,2,29,338,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,10,2
+4,2,29,339,#Luciana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,6,1
+4,2,29,340,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,3,1
+4,2,29,341,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,8,1
+4,2,29,342,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,77,12
+4,2,29,343,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,6,1
+4,2,29,344,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,12,1
+4,2,29,345,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,9,1
+4,2,29,346,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,35,5
+4,2,29,347,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,4,1
+4,2,30,348,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err,21,3
+4,2,30,349,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err,19,2
+4,2,30,350,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err,3,1
+4,2,30,351,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err,23,3
+4,2,30,352,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err,9,1
+4,2,30,353,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err,14,2
+4,2,30,354,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err,11,2
+4,2,30,355,#DromioOfSyracuse_Err,#Adriana_Err #DromioOfSyracuse_Err,58,7
+4,2,31,356,#Adriana_Err,#Adriana_Err #DromioOfSyracuse_Err #Luciana_Err,14,2
+4,2,32,357,#Adriana_Err,#Adriana_Err #Luciana_Err,14,2
+4,3,33,358,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err,83,11
+4,3,34,359,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,18,3
+4,3,34,360,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,9,1
+4,3,34,361,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,43,5
+4,3,34,362,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,4,1
+4,3,34,363,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,63,7
+4,3,34,364,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,5,2
+4,3,34,365,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,35,4
+4,3,34,366,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,18,3
+4,3,34,367,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,41,5
+4,3,34,368,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,21,3
+4,3,35,369,#Courtesan_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,23,3
+4,3,35,370,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,8,1
+4,3,35,371,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,5,1
+4,3,35,372,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,4,1
+4,3,35,373,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,71,8
+4,3,35,374,#Courtesan_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,18,2
+4,3,35,375,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,12,2
+4,3,35,376,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,2,1
+4,3,35,377,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,13,2
+4,3,35,378,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,26,3
+4,3,35,379,#Courtesan_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,27,3
+4,3,35,380,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,51,5
+4,3,35,381,#Courtesan_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,20,2
+4,3,35,382,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,8,1
+4,3,35,383,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err,9,2
+4,3,36,384,#Courtesan_Err,#Courtesan_Err,129,16
+4,4,37,385,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #OFFICERS.X_Err,58,7
+4,4,38,386,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,20,3
+4,4,38,387,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,9,1
+4,4,38,388,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,4,1
+4,4,38,389,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,9,1
+4,4,38,390,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,7,1
+4,4,38,391,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,9,1
+4,4,38,392,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,10,1
+4,4,38,393,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,12,2
+4,4,38,394,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,9,1
+4,4,38,395,#OFFICERS.X_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,4,1
+4,4,38,396,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,11,2
+4,4,38,397,#OFFICERS.X_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,5,1
+4,4,38,398,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,8,2
+4,4,38,399,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,4,2
+4,4,38,400,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,13,2
+4,4,38,401,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,12,2
+4,4,38,402,#DromioOfEphesus_Err,#AntipholusOfEphesus_Err #DromioOfEphesus_Err #OFFICERS.X_Err,117,12
+4,4,39,403,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,404,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,17,3
+4,4,39,405,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,4,1
+4,4,39,406,#Courtesan_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,9,1
+4,4,39,407,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,28,4
+4,4,39,408,#Luciana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,409,#Courtesan_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,7,1
+4,4,39,410,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,411,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,412,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,33,4
+4,4,39,413,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,414,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,415,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,38,5
+4,4,39,416,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,25,3
+4,4,39,417,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,2
+4,4,39,418,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,419,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,420,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,9,1
+4,4,39,421,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,422,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,7,1
+4,4,39,423,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,424,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,425,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,9,1
+4,4,39,426,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,17,2
+4,4,39,427,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,9,1
+4,4,39,428,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,17,2
+4,4,39,429,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,430,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,17,2
+4,4,39,431,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,16,2
+4,4,39,432,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,10,1
+4,4,39,433,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,434,#Luciana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,9,1
+4,4,39,435,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,16,2
+4,4,39,436,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,26,3
+4,4,39,437,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,17,3
+4,4,39,438,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,8,1
+4,4,39,439,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,16,2
+4,4,39,440,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,7,1
+4,4,39,441,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,40,5
+4,4,39,442,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err,11,1
+4,4,40,443,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,8,1
+4,4,40,444,#Luciana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,10,1
+4,4,40,445,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,20,3
+4,4,40,446,#OFFICERS.X_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,14,2
+4,4,40,447,#Pinch_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,9,1
+4,4,40,448,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,21,3
+4,4,40,449,#OFFICERS.X_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,18,2
+4,4,40,450,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,40,5
+4,4,40,451,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,4,1
+4,4,40,452,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,9,1
+4,4,40,453,#AntipholusOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,9,1
+4,4,40,454,#DromioOfEphesus_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,13,3
+4,4,40,455,#Luciana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,9,1
+4,4,40,456,#Adriana_Err,#Adriana_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Luciana_Err #OFFICERS.X_Err #Pinch_Err #SERVANTS.PINCH_Err,4,1
+4,4,41,457,#Adriana_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,13,2
+4,4,41,458,#OFFICERS.X_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,8,1
+4,4,41,459,#Adriana_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,10,1
+4,4,41,460,#OFFICERS.X_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,3,1
+4,4,41,461,#Adriana_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,5,1
+4,4,41,462,#OFFICERS.X_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,9,1
+4,4,41,463,#Adriana_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,11,1
+4,4,41,464,#Courtesan_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,33,4
+4,4,41,465,#Adriana_Err,#Adriana_Err #Courtesan_Err #Luciana_Err #OFFICERS.X_Err,27,3
+4,4,42,466,#Luciana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #OFFICERS.X_Err,8,1
+4,4,42,467,#Adriana_Err,#Adriana_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #OFFICERS.X_Err,14,2
+4,4,42,468,#OFFICERS.X_Err,#Adriana_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #OFFICERS.X_Err,4,1
+4,4,43,469,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,8,1
+4,4,43,470,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,10,1
+4,4,43,471,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,18,2
+4,4,43,472,#DromioOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,54,6
+4,4,43,473,#AntipholusOfSyracuse_Err,#AntipholusOfSyracuse_Err #DromioOfSyracuse_Err,16,2
+5,1,44,474,#Angelo_Err,#Angelo_Err #Merchant2_Err,25,3
+5,1,44,475,#Merchant2_Err,#Angelo_Err #Merchant2_Err,9,1
+5,1,44,476,#Angelo_Err,#Angelo_Err #Merchant2_Err,28,4
+5,1,44,477,#Merchant2_Err,#Angelo_Err #Merchant2_Err,8,1
+5,1,45,478,#Angelo_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,103,13
+5,1,45,479,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,9,1
+5,1,45,480,#Merchant2_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,9,1
+5,1,45,481,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,9,1
+5,1,45,482,#Merchant2_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,25,3
+5,1,45,483,#AntipholusOfSyracuse_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,22,3
+5,1,45,484,#Merchant2_Err,#Angelo_Err #AntipholusOfSyracuse_Err #DromioOfSyracuse_Err #Merchant2_Err,9,1
+5,1,46,485,#Adriana_Err,#Adriana_Err #Angelo_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,27,3
+5,1,46,486,#DromioOfSyracuse_Err,#Adriana_Err #Angelo_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfSyracuse_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,18,2
+5,1,47,487,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,7,1
+5,1,47,488,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,24,3
+5,1,47,489,#Angelo_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,9,1
+5,1,47,490,#Merchant2_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,10,1
+5,1,47,491,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,8,1
+5,1,47,492,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,28,4
+5,1,47,493,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,48,6
+5,1,47,494,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,18,2
+5,1,47,495,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,7,1
+5,1,47,496,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,4,1
+5,1,47,497,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,5,1
+5,1,47,498,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,8,1
+5,1,47,499,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,3,1
+5,1,47,500,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,4,1
+5,1,47,501,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,4,1
+5,1,47,502,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,49,6
+5,1,47,503,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,145,20
+5,1,47,504,#Luciana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,22,4
+5,1,47,505,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,16,2
+5,1,47,506,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,8,1
+5,1,47,507,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,8,1
+5,1,47,508,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,31,4
+5,1,47,509,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,32,4
+5,1,47,510,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,56,7
+5,1,47,511,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,23,3
+5,1,47,512,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,9,1
+5,1,48,513,#Luciana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,7,1
+5,1,48,514,#Adriana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,34,4
+5,1,48,515,#Merchant2_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,38,5
+5,1,48,516,#Angelo_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,3,1
+5,1,48,517,#Merchant2_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,25,4
+5,1,48,518,#Angelo_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,9,1
+5,1,48,519,#Luciana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Luciana_Err #Merchant2_Err #OTHERS_Err,9,1
+5,1,49,520,#Duke_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err,24,3
+5,1,49,521,#Adriana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err,7,1
+5,1,49,522,#Duke_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err,17,2
+5,1,49,523,#Adriana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err,205,25
+5,1,49,524,#Duke_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #OFFICERS_Err #OTHERS_Err,60,7
+5,1,50,525,#Messenger_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,85,11
+5,1,50,526,#Adriana_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,50,527,#Messenger_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,45,5
+5,1,50,528,#Duke_Err,#Adriana_Err #Angelo_Err #Courtesan_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,2
+5,1,51,529,#Adriana_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,32,4
+5,1,51,530,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,47,5
+5,1,51,531,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,16,2
+5,1,51,532,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,45,6
+5,1,51,533,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,51,534,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,51,535,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,51,536,#Adriana_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,25,3
+5,1,51,537,#Luciana_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,51,538,#Angelo_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,14,2
+5,1,51,539,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,311,42
+5,1,51,540,#Angelo_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,20,2
+5,1,51,541,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,51,542,#Angelo_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,51,543,#Merchant2_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,51,6
+5,1,51,544,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,33,4
+5,1,51,545,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,52,8
+5,1,51,546,#DromioOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,51,547,#Courtesan_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,51,548,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,51,549,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,51,550,#Courtesan_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,51,551,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,51,552,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,25,3
+5,1,51,553,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,6,1
+5,1,51,554,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,14,2
+5,1,51,555,#DromioOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,26,3
+5,1,51,556,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,51,557,#DromioOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,24,3
+5,1,51,558,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,51,559,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,51,560,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,34,4
+5,1,51,561,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,1,1
+5,1,51,562,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,3,1
+5,1,51,563,#DromioOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,6,1
+5,1,51,564,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,5,1
+5,1,51,565,#DromioOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,21,3
+5,1,51,566,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,94,12
+5,1,51,567,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,51,568,#Egeon_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,22,3
+5,1,51,569,#AntipholusOfEphesus_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,26,3
+5,1,51,570,#Duke_Err,#Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #Courtesan_Err #DromioOfEphesus_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,28,4
+5,1,52,571,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,572,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,573,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,25,3
+5,1,52,574,#DromioOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,7,1
+5,1,52,575,#DromioOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,576,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,577,#DromioOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,578,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,53,7
+5,1,52,579,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,41,6
+5,1,52,580,#Egeon_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,25,3
+5,1,52,581,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,57,7
+5,1,52,582,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,6,1
+5,1,52,583,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,584,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,585,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,586,#DromioOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,4,1
+5,1,52,587,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,15,2
+5,1,52,588,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,589,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,3,1
+5,1,52,590,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,6,1
+5,1,52,591,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,6,1
+5,1,52,592,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,45,6
+5,1,52,593,#Angelo_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,52,594,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,595,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,596,#Angelo_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,597,#Adriana_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,18,2
+5,1,52,598,#DromioOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,4,1
+5,1,52,599,#AntipholusOfSyracuse_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,41,5
+5,1,52,600,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,601,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,52,602,#Courtesan_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,8,1
+5,1,52,603,#AntipholusOfEphesus_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,10,1
+5,1,52,604,#Abbess_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,103,14
+5,1,52,605,#Duke_Err,#Abbess_Err #Adriana_Err #Angelo_Err #AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #Courtesan_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err #Duke_Err #Egeon_Err #Headsman_Err #Luciana_Err #Merchant2_Err #Messenger_Err #OFFICERS_Err #OTHERS_Err,9,1
+5,1,53,606,#DromioOfSyracuse_Err,#AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,8,1
+5,1,53,607,#AntipholusOfEphesus_Err,#AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,8,1
+5,1,53,608,#DromioOfSyracuse_Err,#AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,10,1
+5,1,53,609,#AntipholusOfSyracuse_Err,#AntipholusOfEphesus_Err #AntipholusOfSyracuse_Err #DromioOfEphesus_Err #DromioOfSyracuse_Err,25,3
+5,1,54,610,#DromioOfSyracuse_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,26,3
+5,1,54,611,#DromioOfEphesus_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,26,3
+5,1,54,612,#DromioOfSyracuse_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,7,1
+5,1,54,613,#DromioOfEphesus_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,8,2
+5,1,54,614,#DromioOfSyracuse_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,11,2
+5,1,54,615,#DromioOfEphesus_Err,#DromioOfEphesus_Err #DromioOfSyracuse_Err,23,4

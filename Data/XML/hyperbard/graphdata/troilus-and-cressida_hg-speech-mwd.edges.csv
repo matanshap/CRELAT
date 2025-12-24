@@ -1,0 +1,1162 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+0,0,1,1,#Prologue_Tro,#Prologue_Tro,224,31
+1,1,2,2,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,39,5
+1,1,2,3,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,6,1
+1,1,2,4,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,45,6
+1,1,2,5,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,32,3
+1,1,2,6,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,4,1
+1,1,2,7,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,9,2
+1,1,2,8,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,4,1
+1,1,2,9,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,9,2
+1,1,2,10,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,4,1
+1,1,2,11,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,39,4
+1,1,2,12,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,39,6
+1,1,2,13,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,15,2
+1,1,2,14,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,60,7
+1,1,2,15,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,58,7
+1,1,2,16,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,134,16
+1,1,2,17,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,6,1
+1,1,2,18,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,6,1
+1,1,2,19,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,33,3
+1,1,2,20,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,5,1
+1,1,2,21,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,29,3
+1,1,2,22,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,8,2
+1,1,2,23,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,48,5
+1,1,2,24,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,6,1
+1,1,2,25,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,45,4
+1,1,2,26,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,1,1
+1,1,2,27,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,2,1
+1,1,2,28,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,2,1
+1,1,2,29,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,19,2
+1,1,3,30,#Troilus_Tro,#Troilus_Tro,128,16
+1,1,4,31,#Aeneas_Tro,#Aeneas_Tro #Troilus_Tro,7,1
+1,1,4,32,#Troilus_Tro,#Aeneas_Tro #Troilus_Tro,22,3
+1,1,4,33,#Aeneas_Tro,#Aeneas_Tro #Troilus_Tro,7,1
+1,1,4,34,#Troilus_Tro,#Aeneas_Tro #Troilus_Tro,3,1
+1,1,4,35,#Aeneas_Tro,#Aeneas_Tro #Troilus_Tro,3,1
+1,1,4,36,#Troilus_Tro,#Aeneas_Tro #Troilus_Tro,15,2
+1,1,4,37,#Aeneas_Tro,#Aeneas_Tro #Troilus_Tro,9,1
+1,1,4,38,#Troilus_Tro,#Aeneas_Tro #Troilus_Tro,18,2
+1,1,4,39,#Aeneas_Tro,#Aeneas_Tro #Troilus_Tro,4,1
+1,1,4,40,#Troilus_Tro,#Aeneas_Tro #Troilus_Tro,5,1
+1,2,5,41,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,5,1
+1,2,5,42,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,4,1
+1,2,5,43,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,4,1
+1,2,5,44,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,71,10
+1,2,5,45,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,6,1
+1,2,5,46,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,21,3
+1,2,5,47,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,5,1
+1,2,5,48,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,12,2
+1,2,5,49,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,13,2
+1,2,5,50,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,114,12
+1,2,5,51,#Cressida_Tro,#Alexander_Tro #Cressida_Tro,12,2
+1,2,5,52,#Alexander_Tro,#Alexander_Tro #Cressida_Tro,26,4
+1,2,6,53,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,54,#Alexander_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,55,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,56,#Alexander_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,7,1
+1,2,6,57,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,58,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,59,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,21,3
+1,2,6,60,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,61,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,24,3
+1,2,6,62,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,63,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,6,64,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,9,1
+1,2,6,65,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,66,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,67,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,40,4
+1,2,6,68,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,5,1
+1,2,6,69,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,10,2
+1,2,6,70,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,5,1
+1,2,6,71,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,15,2
+1,2,6,72,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,10,1
+1,2,6,73,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,6,74,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,14,2
+1,2,6,75,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,9,1
+1,2,6,76,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,9,1
+1,2,6,77,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,78,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,79,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,7,1
+1,2,6,80,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,81,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,39,5
+1,2,6,82,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,2,1
+1,2,6,83,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,84,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,85,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,26,3
+1,2,6,86,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,10,1
+1,2,6,87,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,88,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,2,1
+1,2,6,89,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,90,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,91,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,26,3
+1,2,6,92,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,93,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,94,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,95,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,6,96,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,5,1
+1,2,6,97,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,98,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,48,6
+1,2,6,99,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,12,2
+1,2,6,100,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,6,101,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,31,4
+1,2,6,102,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,103,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,19,2
+1,2,6,104,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,11,1
+1,2,6,105,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,21,3
+1,2,6,106,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,7,1
+1,2,6,107,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,18,3
+1,2,6,108,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,109,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,110,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,111,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,112,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,11,2
+1,2,6,113,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,114,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,21,2
+1,2,6,115,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,23,3
+1,2,6,116,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,117,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,118,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,6,119,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,120,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,2,1
+1,2,6,121,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,122,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,19,2
+1,2,6,123,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,124,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,6,125,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,11,2
+1,2,6,126,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,12,2
+1,2,6,127,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,128,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,129,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,15,2
+1,2,6,130,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,4,1
+1,2,6,131,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,72,8
+1,2,6,132,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,133,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,11,2
+1,2,6,134,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,135,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,16,2
+1,2,6,136,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,13,2
+1,2,6,137,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,26,3
+1,2,6,138,#Cressida_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,3,1
+1,2,6,139,#Pandarus_Tro,#Alexander_Tro #Cressida_Tro #Pandarus_Tro,30,4
+1,2,7,140,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,7,141,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,26,3
+1,2,7,142,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+1,2,7,143,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,51,6
+1,2,7,144,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,6,1
+1,2,7,145,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,3,1
+1,2,7,146,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,8,1
+1,2,7,147,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,35,4
+1,2,7,148,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,7,149,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,43,5
+1,2,7,150,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,7,151,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,77,9
+1,2,7,152,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+1,2,7,153,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,18,3
+1,2,7,154,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,7,155,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,25,3
+1,2,7,156,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,5,1
+1,2,7,157,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,17,3
+1,2,7,158,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,7,159,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,88,10
+1,2,7,160,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,3,1
+1,2,7,161,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,50,6
+1,2,7,162,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,11,2
+1,2,7,163,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,8,1
+1,2,7,164,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+1,2,7,165,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,41,5
+1,2,7,166,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,22,2
+1,2,7,167,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,14,2
+1,2,7,168,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,44,5
+1,2,7,169,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,5,1
+1,2,7,170,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,46,5
+1,2,7,171,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+1,2,8,172,#Boy_Tro,#Boy_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,8,173,#Pandarus_Tro,#Boy_Tro #Cressida_Tro #Pandarus_Tro,1,1
+1,2,8,174,#Boy_Tro,#Boy_Tro #Cressida_Tro #Pandarus_Tro,8,1
+1,2,8,175,#Pandarus_Tro,#Boy_Tro #Cressida_Tro #Pandarus_Tro,6,1
+1,2,9,176,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,10,1
+1,2,9,177,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+1,2,9,178,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,9,1
+1,2,9,179,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,3,1
+1,2,9,180,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,5,1
+1,2,9,181,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,8,1
+1,2,10,182,#Cressida_Tro,#Cressida_Tro,112,14
+1,3,11,183,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,227,30
+1,3,11,184,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,176,25
+1,3,11,185,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,123,18
+1,3,11,186,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,37,5
+1,3,11,187,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,452,63
+1,3,11,188,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,14,2
+1,3,11,189,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,11,2
+1,3,11,190,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,317,43
+1,3,11,191,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,91,12
+1,3,11,192,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,110,14
+1,3,11,193,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,11,2
+1,3,11,194,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,4,1
+1,3,11,195,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,2,1
+1,3,12,196,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+1,3,12,197,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+1,3,12,198,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,2,1
+1,3,12,199,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,17,2
+1,3,12,200,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,20,3
+1,3,12,201,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,21,3
+1,3,12,202,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,1,1
+1,3,12,203,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,42,6
+1,3,12,204,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,12,2
+1,3,12,205,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,80,12
+1,3,12,206,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+1,3,12,207,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+1,3,12,208,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+1,3,12,209,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+1,3,12,210,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+1,3,12,211,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,30,4
+1,3,12,212,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,24,4
+1,3,12,213,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,227,28
+1,3,12,214,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,66,7
+1,3,12,215,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,98,11
+1,3,12,216,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+1,3,12,217,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,1,1
+1,3,12,218,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Agamemnon_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Trumpeter_Tro #Ulysses_Tro,49,6
+1,3,13,219,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,1,1
+1,3,13,220,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,3,1
+1,3,13,221,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,18,2
+1,3,13,222,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,3,1
+1,3,13,223,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,37,6
+1,3,13,224,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,3,1
+1,3,13,225,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,20,3
+1,3,13,226,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,53,8
+1,3,13,227,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,8,1
+1,3,13,228,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,179,24
+1,3,13,229,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,63,8
+1,3,13,230,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,11,1
+1,3,13,231,#Ulysses_Tro,#Nestor_Tro #Ulysses_Tro,161,20
+1,3,13,232,#Nestor_Tro,#Nestor_Tro #Ulysses_Tro,40,5
+2,1,14,233,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,1,1
+2,1,14,234,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,10,2
+2,1,14,235,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,1,1
+2,1,14,236,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,19,2
+2,1,14,237,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,1,1
+2,1,14,238,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,12,2
+2,1,14,239,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,9,2
+2,1,14,240,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,10,2
+2,1,14,241,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,12,2
+2,1,14,242,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,38,4
+2,1,14,243,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,5,1
+2,1,14,244,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,11,2
+2,1,14,245,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,2,1
+2,1,14,246,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,7,1
+2,1,14,247,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,8,1
+2,1,14,248,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,38,5
+2,1,14,249,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,4,1
+2,1,14,250,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,30,4
+2,1,14,251,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,2,1
+2,1,14,252,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,4,1
+2,1,14,253,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,1,1
+2,1,14,254,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,15,2
+2,1,14,255,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,3,1
+2,1,14,256,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,2,1
+2,1,14,257,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,5,1
+2,1,14,258,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,72,8
+2,1,14,259,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,2,1
+2,1,14,260,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,3,1
+2,1,14,261,#Ajax_Tro,#Ajax_Tro #Thersites_Tro,2,1
+2,1,14,262,#Thersites_Tro,#Ajax_Tro #Thersites_Tro,9,2
+2,1,15,263,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,15,3
+2,1,15,264,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,6,1
+2,1,15,265,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,266,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,267,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,6,1
+2,1,15,268,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,269,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,270,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,18,2
+2,1,15,271,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,272,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,7,1
+2,1,15,273,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,274,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,74,8
+2,1,15,275,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,1,1
+2,1,15,276,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,277,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,1,15,278,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,279,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,280,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,14,2
+2,1,15,281,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,2,1
+2,1,15,282,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,18,2
+2,1,15,283,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,6,1
+2,1,15,284,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,8,1
+2,1,15,285,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,9,1
+2,1,15,286,#Patroclus_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,1,15,287,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,1,15,288,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,18,2
+2,1,15,289,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,290,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,291,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,292,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,24,3
+2,1,15,293,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,43,5
+2,1,15,294,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,295,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,28,4
+2,1,15,296,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,2,1
+2,1,15,297,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,8,1
+2,1,15,298,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,6,1
+2,1,15,299,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,11,2
+2,1,15,300,#Patroclus_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,1,15,301,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,12,2
+2,1,15,302,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,4,1
+2,1,15,303,#Thersites_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Thersites_Tro,29,3
+2,1,16,304,#Patroclus_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro,3,1
+2,1,16,305,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro,52,6
+2,1,16,306,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro,5,1
+2,1,16,307,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro,12,2
+2,1,17,308,#Ajax_Tro,#Ajax_Tro,10,1
+2,2,18,309,#Priam_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,54,7
+2,2,18,310,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,144,18
+2,2,18,311,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,56,8
+2,2,18,312,#Helenus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,37,4
+2,2,18,313,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,113,16
+2,2,18,314,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,11,2
+2,2,18,315,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,6,1
+2,2,18,316,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,54,8
+2,2,18,317,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,298,38
+2,2,19,318,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,3,1
+2,2,19,319,#Priam_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,6,1
+2,2,19,320,#Troilus_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,9,1
+2,2,19,321,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,2,1
+2,2,19,322,#Hector_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,3,1
+2,2,19,323,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,16,2
+2,2,19,324,#Hector_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,3,1
+2,2,19,325,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,71,9
+2,2,20,326,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,43,6
+2,2,20,327,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,88,12
+2,2,20,328,#Paris_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,97,13
+2,2,20,329,#Priam_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,28,4
+2,2,20,330,#Paris_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,134,17
+2,2,20,331,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,222,31
+2,2,20,332,#Troilus_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,100,13
+2,2,20,333,#Hector_Tro,#Hector_Tro #Helenus_Tro #Paris_Tro #Priam_Tro #Troilus_Tro,50,8
+2,3,21,334,#Thersites_Tro,#Thersites_Tro,197,23
+2,3,22,335,#Patroclus_Tro,#Patroclus_Tro #Thersites_Tro,9,2
+2,3,22,336,#Thersites_Tro,#Patroclus_Tro #Thersites_Tro,88,11
+2,3,22,337,#Patroclus_Tro,#Patroclus_Tro #Thersites_Tro,8,2
+2,3,22,338,#Thersites_Tro,#Patroclus_Tro #Thersites_Tro,5,1
+2,3,22,339,#Patroclus_Tro,#Patroclus_Tro #Thersites_Tro,1,1
+2,3,23,340,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+2,3,23,341,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,3,23,342,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,28,4
+2,3,23,343,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,9,2
+2,3,23,344,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,11,2
+2,3,23,345,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,10,2
+2,3,23,346,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,3,23,347,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,3,23,348,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,21,3
+2,3,23,349,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+2,3,23,350,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,6,1
+2,3,23,351,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,7,2
+2,3,23,352,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,19,3
+2,3,23,353,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+2,3,23,354,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,34,4
+2,3,23,355,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,5,1
+2,3,23,356,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,11,2
+2,3,24,357,#Thersites_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Thersites_Tro #Ulysses_Tro,5,1
+2,3,24,358,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Thersites_Tro #Ulysses_Tro,10,2
+2,3,25,359,#Thersites_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Thersites_Tro #Ulysses_Tro,43,5
+2,3,26,360,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,3,1
+2,3,26,361,#Patroclus_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,7,1
+2,3,26,362,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,47,6
+2,3,26,363,#Patroclus_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,6,1
+2,3,27,364,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,13,2
+2,3,27,365,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,36,4
+2,3,27,366,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,8,1
+2,3,27,367,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,7,1
+2,3,27,368,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,2,1
+2,3,27,369,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,1,1
+2,3,27,370,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,11,2
+2,3,27,371,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,12,2
+2,3,27,372,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,22,3
+2,3,27,373,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,10,2
+2,3,28,374,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,3,1
+2,3,28,375,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,4,1
+2,3,28,376,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,17,2
+2,3,28,377,#Patroclus_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,45,6
+2,3,28,378,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,209,28
+2,3,28,379,#Patroclus_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,7,1
+2,3,28,380,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,16,2
+2,3,29,381,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,6,1
+2,3,29,382,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,8,1
+2,3,29,383,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,17,2
+2,3,29,384,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,2,1
+2,3,29,385,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,9,1
+2,3,29,386,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,21,3
+2,3,29,387,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,16,2
+2,3,29,388,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,43,5
+2,3,29,389,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,13,2
+2,3,29,390,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro,9,1
+2,3,30,391,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,7,1
+2,3,30,392,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,3,1
+2,3,30,393,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,25,4
+2,3,30,394,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,17,2
+2,3,30,395,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,74,10
+2,3,30,396,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,32,4
+2,3,30,397,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,129,18
+2,3,30,398,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,10,1
+2,3,30,399,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,8,1
+2,3,30,400,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,15,2
+2,3,30,401,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,6,1
+2,3,30,402,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,15,2
+2,3,30,403,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,9,1
+2,3,30,404,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,405,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,406,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,5,1
+2,3,30,407,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,408,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,5,1
+2,3,30,409,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,10,2
+2,3,30,410,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,7,1
+2,3,30,411,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,6,1
+2,3,30,412,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,15,2
+2,3,30,413,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,5,1
+2,3,30,414,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,5,1
+2,3,30,415,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,8,1
+2,3,30,416,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,17,2
+2,3,30,417,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,9,1
+2,3,30,418,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,7,1
+2,3,30,419,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,7,1
+2,3,30,420,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,22,3
+2,3,30,421,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,11,2
+2,3,30,422,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,8,1
+2,3,30,423,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,14,2
+2,3,30,424,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,8,1
+2,3,30,425,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,426,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,427,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,428,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,429,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,128,18
+2,3,30,430,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,5,1
+2,3,30,431,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+2,3,30,432,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,6,1
+2,3,30,433,#Ulysses_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,59,7
+2,3,30,434,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,16,2
+3,1,31,435,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,31,436,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,31,437,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,6,1
+3,1,31,438,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,31,439,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,11,2
+3,1,31,440,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,441,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,6,1
+3,1,31,442,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,3,1
+3,1,31,443,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,9,2
+3,1,31,444,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,31,445,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,446,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,31,447,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,31,448,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,11,1
+3,1,31,449,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,450,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,2,1
+3,1,31,451,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,452,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,453,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,454,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,31,455,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,456,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,31,457,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,22,3
+3,1,31,458,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,32,4
+3,1,31,459,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,31,460,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,12,2
+3,1,31,461,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,34,4
+3,1,31,462,#SERVANTS.PARIS.1_Tro,#Pandarus_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,32,463,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,32,4
+3,1,32,464,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,32,465,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,32,466,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,26,3
+3,1,32,467,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,468,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,3,1
+3,1,32,469,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,2,1
+3,1,32,470,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,32,471,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,10,1
+3,1,32,472,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,16,2
+3,1,32,473,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,12,2
+3,1,32,474,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,23,3
+3,1,32,475,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,476,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,12,2
+3,1,32,477,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,17,2
+3,1,32,478,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,10,2
+3,1,32,479,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,11,1
+3,1,32,480,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,43,5
+3,1,32,481,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,3,1
+3,1,32,482,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,10,2
+3,1,32,483,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,32,484,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,32,485,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,12,2
+3,1,32,486,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,32,487,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,32,488,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,13,2
+3,1,32,489,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,490,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,32,491,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,2,1
+3,1,32,492,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,14,3
+3,1,32,493,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,494,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,13,2
+3,1,32,495,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,13,2
+3,1,32,496,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,10,2
+3,1,32,497,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,9,2
+3,1,32,498,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,32,499,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,14,2
+3,1,32,500,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,501,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,15,2
+3,1,32,502,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,7,1
+3,1,32,503,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,8,1
+3,1,32,504,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,80,13
+3,1,32,505,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,11,1
+3,1,32,506,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,28,3
+3,1,32,507,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,28,4
+3,1,32,508,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,31,4
+3,1,32,509,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,11,2
+3,1,32,510,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,18,3
+3,1,32,511,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,3,1
+3,1,32,512,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,3,1
+3,1,32,513,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,5,1
+3,1,32,514,#Pandarus_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Pandarus_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,4,1
+3,1,33,515,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,61,7
+3,1,33,516,#Helen_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,30,4
+3,1,33,517,#Paris_Tro,#ATTENDANTS.TROJAN_Tro #Helen_Tro #Paris_Tro #SERVANTS.PARIS.1_Tro,6,1
+3,2,34,518,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.TROILUS.1_Tro,9,2
+3,2,34,519,#SERVANTS.TROILUS.1_Tro,#Pandarus_Tro #SERVANTS.TROILUS.1_Tro,10,1
+3,2,35,520,#Pandarus_Tro,#Pandarus_Tro #SERVANTS.TROILUS.1_Tro #Troilus_Tro,8,1
+3,2,35,521,#Troilus_Tro,#Pandarus_Tro #SERVANTS.TROILUS.1_Tro #Troilus_Tro,3,1
+3,2,36,522,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,5,1
+3,2,36,523,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,59,8
+3,2,36,524,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,9,2
+3,2,37,525,#Troilus_Tro,#Troilus_Tro,86,12
+3,2,38,526,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,48,5
+3,2,39,527,#Troilus_Tro,#Troilus_Tro,33,5
+3,2,40,528,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,137,16
+3,2,40,529,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,8,1
+3,2,40,530,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,41,5
+3,2,41,531,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,6,1
+3,2,41,532,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,9,1
+3,2,41,533,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,9,2
+3,2,41,534,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,22,3
+3,2,41,535,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,9,1
+3,2,41,536,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,9,2
+3,2,41,537,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,23,3
+3,2,41,538,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,16,2
+3,2,41,539,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,4,1
+3,2,41,540,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,63,7
+3,2,41,541,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,52,6
+3,2,41,542,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,87,9
+3,2,41,543,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,6,1
+3,2,42,544,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,9,2
+3,2,42,545,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,10,2
+3,2,42,546,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,29,3
+3,2,42,547,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,12,2
+3,2,42,548,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,36,4
+3,2,42,549,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,22,3
+3,2,42,550,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,9,1
+3,2,42,551,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,145,17
+3,2,42,552,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,7,1
+3,2,42,553,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,3,1
+3,2,42,554,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,36,4
+3,2,42,555,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+3,2,42,556,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,8,2
+3,2,42,557,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+3,2,42,558,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+3,2,42,559,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+3,2,42,560,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+3,2,42,561,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,40,5
+3,2,42,562,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,10,1
+3,2,42,563,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,45,5
+3,2,42,564,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,101,13
+3,2,42,565,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,6,1
+3,2,42,566,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,98,13
+3,2,42,567,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,106,14
+3,2,42,568,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,72,8
+3,2,42,569,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,1,1
+3,2,42,570,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,1,1
+3,2,42,571,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,27,4
+3,2,43,572,#Pandarus_Tro,#Pandarus_Tro,14,2
+3,3,44,573,#Calchas_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,122,16
+3,3,44,574,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,8,1
+3,3,44,575,#Calchas_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,101,13
+3,3,44,576,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,40,6
+3,3,44,577,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Calchas_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Ulysses_Tro,14,2
+3,3,45,578,#Ulysses_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,98,13
+3,3,45,579,#Agamemnon_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,42,5
+3,3,45,580,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,18,2
+3,3,45,581,#Agamemnon_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,8,1
+3,3,45,582,#Nestor_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,8,1
+3,3,45,583,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,1,1
+3,3,45,584,#Nestor_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,3,1
+3,3,45,585,#Agamemnon_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,2,1
+3,3,46,586,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Menelaus_Tro #Patroclus_Tro #Ulysses_Tro,4,1
+3,3,46,587,#Menelaus_Tro,#Achilles_Tro #Ajax_Tro #Menelaus_Tro #Patroclus_Tro #Ulysses_Tro,6,1
+3,3,47,588,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,6,1
+3,3,47,589,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,3,1
+3,3,47,590,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,3,1
+3,3,47,591,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,1,1
+3,3,47,592,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,2,1
+3,3,47,593,#Ajax_Tro,#Achilles_Tro #Ajax_Tro #Patroclus_Tro #Ulysses_Tro,6,1
+3,3,48,594,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,8,1
+3,3,48,595,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,29,4
+3,3,48,596,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,167,20
+3,3,48,597,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,4,1
+3,3,48,598,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,4,1
+3,3,48,599,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,57,8
+3,3,48,600,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,78,10
+3,3,48,601,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,231,30
+3,3,48,602,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,27,3
+3,3,48,603,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,351,47
+3,3,48,604,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,8,2
+3,3,48,605,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,24,4
+3,3,48,606,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,2,1
+3,3,48,607,#Ulysses_Tro,#Achilles_Tro #Patroclus_Tro #Ulysses_Tro,157,21
+3,3,49,608,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro,76,10
+3,3,49,609,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro,5,1
+3,3,49,610,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro,8,1
+3,3,49,611,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro,12,2
+3,3,49,612,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro,42,6
+3,3,49,613,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro,64,8
+3,3,50,614,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+3,3,50,615,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+3,3,50,616,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,617,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,10,2
+3,3,50,618,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+3,3,50,619,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,22,3
+3,3,50,620,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,4,1
+3,3,50,621,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,142,16
+3,3,50,622,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,8,2
+3,3,50,623,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,41,5
+3,3,50,624,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,48,7
+3,3,50,625,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,4,2
+3,3,50,626,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,627,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,6,1
+3,3,50,628,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,629,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,11,2
+3,3,50,630,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,631,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,6,2
+3,3,50,632,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,633,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+3,3,50,634,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,1,1
+3,3,50,635,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,5,1
+3,3,50,636,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,8,1
+3,3,50,637,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+3,3,50,638,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,28,3
+3,3,50,639,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+3,3,50,640,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,7,1
+3,3,50,641,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,10,1
+3,3,50,642,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,39,4
+3,3,50,643,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,9,2
+3,3,50,644,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,13,2
+3,3,50,645,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,17,2
+3,3,51,646,#Thersites_Tro,#Thersites_Tro,31,3
+4,1,52,647,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,6,1
+4,1,52,648,#Deiphobus_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,5,1
+4,1,52,649,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,29,4
+4,1,52,650,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,8,1
+4,1,52,651,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,29,4
+4,1,52,652,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,28,4
+4,1,52,653,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,38,5
+4,1,52,654,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,47,6
+4,1,52,655,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,39,5
+4,1,52,656,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,5,1
+4,1,52,657,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,9,1
+4,1,52,658,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,21,3
+4,1,52,659,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,12,1
+4,1,52,660,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,74,11
+4,1,52,661,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,17,3
+4,1,52,662,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,19,3
+4,1,52,663,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #SERVANTS.AENEAS.1_Tro,3,1
+4,1,53,664,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,27,4
+4,1,53,665,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,105,13
+4,1,53,666,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,7,1
+4,1,53,667,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,55,7
+4,1,53,668,#Paris_Tro,#ATTENDANTS.GREEK_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,35,5
+4,2,54,669,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,8,1
+4,2,54,670,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,14,2
+4,2,54,671,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,26,4
+4,2,54,672,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,3,1
+4,2,54,673,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,5,1
+4,2,54,674,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,5,1
+4,2,54,675,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,30,4
+4,2,54,676,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,5,1
+4,2,54,677,#Troilus_Tro,#Cressida_Tro #Troilus_Tro,31,4
+4,2,54,678,#Cressida_Tro,#Cressida_Tro #Troilus_Tro,26,3
+4,2,55,679,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,6,1
+4,2,55,680,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+4,2,55,681,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,15,2
+4,2,55,682,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,14,2
+4,2,55,683,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,18,2
+4,2,55,684,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,17,2
+4,2,55,685,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,12,2
+4,2,55,686,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,26,3
+4,2,55,687,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,39,4
+4,2,55,688,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,2,1
+4,2,55,689,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,28,3
+4,2,56,690,#Pandarus_Tro,#Pandarus_Tro,11,2
+4,2,57,691,#Pandarus_Tro,#Aeneas_Tro #Pandarus_Tro,5,1
+4,2,57,692,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro,5,1
+4,2,57,693,#Pandarus_Tro,#Aeneas_Tro #Pandarus_Tro,18,2
+4,2,57,694,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro,5,1
+4,2,57,695,#Pandarus_Tro,#Aeneas_Tro #Pandarus_Tro,6,1
+4,2,57,696,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro,19,2
+4,2,57,697,#Pandarus_Tro,#Aeneas_Tro #Pandarus_Tro,26,3
+4,2,57,698,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro,37,4
+4,2,58,699,#Troilus_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,5,1
+4,2,58,700,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,53,8
+4,2,58,701,#Troilus_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,4,1
+4,2,58,702,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,17,2
+4,2,58,703,#Troilus_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,24,3
+4,2,58,704,#Aeneas_Tro,#Aeneas_Tro #Pandarus_Tro #Troilus_Tro,14,2
+4,2,59,705,#Pandarus_Tro,#Pandarus_Tro,29,4
+4,2,60,706,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,8,1
+4,2,60,707,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+4,2,60,708,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,16,2
+4,2,60,709,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,12,2
+4,2,60,710,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,6,1
+4,2,60,711,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,25,3
+4,2,60,712,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,14,2
+4,2,60,713,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,36,4
+4,2,60,714,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,8,1
+4,2,60,715,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+4,2,60,716,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,86,10
+4,2,60,717,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,2,1
+4,2,60,718,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,28,3
+4,3,61,719,#Paris_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,37,5
+4,3,61,720,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,36,5
+4,3,62,721,#Paris_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro,21,3
+4,4,63,722,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro,4,1
+4,4,63,723,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro,71,9
+4,4,64,724,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,8,2
+4,4,64,725,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,3,1
+4,4,64,726,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,74,10
+4,4,64,727,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,36,4
+4,4,64,728,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+4,4,64,729,#Pandarus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,9,1
+4,4,64,730,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,10,1
+4,4,64,731,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,3,1
+4,4,64,732,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,5,1
+4,4,64,733,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,4,1
+4,4,64,734,#Cressida_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,3,1
+4,4,64,735,#Troilus_Tro,#Cressida_Tro #Pandarus_Tro #Troilus_Tro,119,16
+4,4,65,736,#Aeneas_Tro,#Aeneas_Tro #Cressida_Tro #Pandarus_Tro #Troilus_Tro,6,1
+4,4,65,737,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Pandarus_Tro #Troilus_Tro,24,3
+4,4,65,738,#Pandarus_Tro,#Aeneas_Tro #Cressida_Tro #Pandarus_Tro #Troilus_Tro,19,2
+4,4,66,739,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,6,1
+4,4,66,740,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,2,1
+4,4,66,741,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,12,2
+4,4,66,742,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,10,1
+4,4,66,743,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,9,1
+4,4,66,744,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,58,8
+4,4,66,745,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,17,2
+4,4,66,746,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,9,1
+4,4,66,747,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,9,1
+4,4,66,748,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,15,3
+4,4,66,749,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,5,1
+4,4,66,750,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,54,9
+4,4,66,751,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,6,1
+4,4,66,752,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,73,9
+4,4,66,753,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,5,1
+4,4,66,754,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,31,5
+4,4,66,755,#Aeneas_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,4,1
+4,4,66,756,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Troilus_Tro,6,1
+4,4,67,757,#Paris_Tro,#Aeneas_Tro #Cressida_Tro #Paris_Tro #Troilus_Tro,2,1
+4,4,67,758,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Paris_Tro #Troilus_Tro,13,2
+4,4,67,759,#Cressida_Tro,#Aeneas_Tro #Cressida_Tro #Paris_Tro #Troilus_Tro,6,1
+4,4,67,760,#Troilus_Tro,#Aeneas_Tro #Cressida_Tro #Paris_Tro #Troilus_Tro,60,7
+4,4,68,761,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Cressida_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,64,8
+4,4,68,762,#Diomedes_Tro,#Aeneas_Tro #Antenor_Tro #Cressida_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,36,5
+4,4,68,763,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Cressida_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,72,9
+4,4,68,764,#Diomedes_Tro,#Aeneas_Tro #Antenor_Tro #Cressida_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,62,7
+4,4,68,765,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Cressida_Tro #Deiphobus_Tro #Diomedes_Tro #Paris_Tro #Troilus_Tro,36,4
+4,4,69,766,#Paris_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro,3,1
+4,4,69,767,#Aeneas_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro,23,4
+4,4,69,768,#Paris_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro,9,1
+4,4,69,769,#Deiphobus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro,5,1
+4,4,69,770,#Aeneas_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro,30,4
+4,5,70,771,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,41,6
+4,5,70,772,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,41,6
+4,5,70,773,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,70,774,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,71,775,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,71,776,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,25,3
+4,5,71,777,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,71,778,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,2,1
+4,5,71,779,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+4,5,71,780,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+4,5,71,781,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,13,2
+4,5,71,782,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,10,2
+4,5,71,783,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,13,2
+4,5,71,784,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,71,785,#Patroclus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,21,3
+4,5,71,786,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,19,2
+4,5,71,787,#Patroclus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,10,2
+4,5,71,788,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,71,789,#Patroclus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,71,790,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,71,791,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,71,792,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,71,793,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,18,3
+4,5,71,794,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,10,1
+4,5,71,795,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,10,1
+4,5,71,796,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+4,5,71,797,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,19,2
+4,5,71,798,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+4,5,71,799,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,71,800,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,18,2
+4,5,71,801,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,2,1
+4,5,71,802,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,71,803,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,71,804,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,17,2
+4,5,71,805,#Cressida_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,71,806,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,71,807,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,71,808,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,71,809,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Cressida_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,69,10
+4,5,72,810,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,73,811,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,73,812,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,54,7
+4,5,73,813,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+4,5,73,814,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+4,5,73,815,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,73,816,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,13,3
+4,5,73,817,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,8,2
+4,5,73,818,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,73,819,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,76,10
+4,5,73,820,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,8,1
+4,5,74,821,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,46,6
+4,5,74,822,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,74,823,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,74,824,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,137,17
+4,5,74,825,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,74,826,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,74,827,#Troilus_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,74,828,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,74,829,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,74,830,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,74,831,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,74,832,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,74,833,#Hector_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,150,20
+4,5,74,834,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,29,4
+4,5,74,835,#Hector_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,29,4
+4,5,74,836,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,13,2
+4,5,74,837,#Hector_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,9,2
+4,5,74,838,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,23,3
+4,5,74,839,#Diomedes_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,14,2
+4,5,74,840,#Hector_Tro,#ATTENDANTS.GREEK_Tro #ATTENDANTS.TROJAN_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Helenus_Tro #Menelaus_Tro #Nestor_Tro #Paris_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,22,4
+4,5,75,841,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,16,2
+4,5,75,842,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,7,1
+4,5,75,843,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,25,3
+4,5,75,844,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,66,9
+4,5,75,845,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,6,1
+4,5,75,846,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,75,847,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,14,2
+4,5,75,848,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,75,849,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,75,850,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,35,4
+4,5,75,851,#Menelaus_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,9,1
+4,5,75,852,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,75,853,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,149,19
+4,5,75,854,#Aeneas_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,75,855,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,26,3
+4,5,75,856,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,16,2
+4,5,75,857,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,75,858,#Nestor_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,18,2
+4,5,75,859,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,17,2
+4,5,75,860,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,29,4
+4,5,75,861,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,38,5
+4,5,75,862,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,41,6
+4,5,75,863,#Ulysses_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,30,4
+4,5,75,864,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,29,4
+4,5,75,865,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,75,866,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,75,867,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,10,1
+4,5,75,868,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,3,1
+4,5,75,869,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,75,870,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,19,2
+4,5,75,871,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,28,3
+4,5,75,872,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,43,6
+4,5,75,873,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,35,5
+4,5,75,874,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,4,1
+4,5,75,875,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,69,9
+4,5,75,876,#Ajax_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,46,6
+4,5,75,877,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,21,3
+4,5,75,878,#Achilles_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,16,3
+4,5,75,879,#Hector_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,5,1
+4,5,75,880,#Agamemnon_Tro,#ATTENDANTS.GREEK_Tro #Achilles_Tro #Aeneas_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Patroclus_Tro #Troilus_Tro #Trumpeter_Tro #Ulysses_Tro,45,6
+4,5,76,881,#Troilus_Tro,#Troilus_Tro #Ulysses_Tro,17,2
+4,5,76,882,#Ulysses_Tro,#Troilus_Tro #Ulysses_Tro,34,5
+4,5,76,883,#Troilus_Tro,#Troilus_Tro #Ulysses_Tro,20,3
+4,5,76,884,#Ulysses_Tro,#Troilus_Tro #Ulysses_Tro,26,4
+4,5,76,885,#Troilus_Tro,#Troilus_Tro #Ulysses_Tro,37,4
+5,1,77,886,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro,23,3
+5,1,77,887,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro,3,1
+5,1,78,888,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,14,2
+5,1,78,889,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,16,2
+5,1,78,890,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,3,1
+5,1,78,891,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,8,1
+5,1,78,892,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,5,1
+5,1,78,893,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,7,1
+5,1,78,894,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,8,2
+5,1,78,895,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,18,2
+5,1,78,896,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,6,1
+5,1,78,897,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,55,8
+5,1,78,898,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,13,2
+5,1,78,899,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,4,1
+5,1,78,900,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,10,2
+5,1,78,901,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,40,5
+5,1,78,902,#Patroclus_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+5,1,78,903,#Thersites_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,2,1
+5,1,78,904,#Achilles_Tro,#Achilles_Tro #Patroclus_Tro #Thersites_Tro,83,11
+5,1,79,905,#Thersites_Tro,#Thersites_Tro,188,19
+5,1,80,906,#Thersites_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,1,80,907,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,1,80,908,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,1,80,909,#Hector_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,1,80,910,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,1,81,911,#Ulysses_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,1,81,912,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,1,81,913,#Agamemnon_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,18,2
+5,1,81,914,#Hector_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,1
+5,1,81,915,#Menelaus_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,1,81,916,#Hector_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,2
+5,1,81,917,#Thersites_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,2
+5,1,81,918,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,13,2
+5,1,81,919,#Agamemnon_Tro,#Achilles_Tro #Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Menelaus_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,1,82,920,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,1,82,921,#Diomedes_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,16,2
+5,1,82,922,#Hector_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,1,82,923,#Ulysses_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,12,2
+5,1,82,924,#Troilus_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,1
+5,1,82,925,#Hector_Tro,#Achilles_Tro #Ajax_Tro #Diomedes_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,1,83,926,#Achilles_Tro,#Achilles_Tro #Ajax_Tro #Hector_Tro #Nestor_Tro #Thersites_Tro,5,1
+5,1,84,927,#Thersites_Tro,#Thersites_Tro,98,11
+5,2,85,928,#Diomedes_Tro,#Diomedes_Tro,7,1
+5,2,86,929,#Calchas_Tro,#Calchas_Tro #Diomedes_Tro,2,1
+5,2,86,930,#Diomedes_Tro,#Calchas_Tro #Diomedes_Tro,7,2
+5,2,86,931,#Calchas_Tro,#Calchas_Tro #Diomedes_Tro,4,1
+5,2,87,932,#Ulysses_Tro,#Calchas_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,1
+5,2,88,933,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,1
+5,2,88,934,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,935,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,936,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,937,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,2
+5,2,88,938,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,88,939,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,940,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,88,941,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,13,2
+5,2,88,942,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,943,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,1,1
+5,2,88,944,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,945,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,1,1
+5,2,88,946,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,88,947,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,948,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,949,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,10,1
+5,2,88,950,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,7,1
+5,2,88,951,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,952,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,17,2
+5,2,88,953,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,88,954,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,88,955,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,956,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,1,1
+5,2,88,957,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,10,1
+5,2,88,958,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,959,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,88,960,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,961,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,31,4
+5,2,88,962,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,963,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,88,964,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,965,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,1
+5,2,88,966,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,16,2
+5,2,88,967,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,968,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,88,969,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,7,2
+5,2,88,970,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,971,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,88,972,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,88,973,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,1
+5,2,88,974,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,975,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,13,2
+5,2,88,976,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,977,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,88,978,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,26,3
+5,2,88,979,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,17,3
+5,2,88,980,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,88,981,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,982,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,88,983,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,89,984,#Ulysses_Tro,#Calchas_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,89,985,#Troilus_Tro,#Calchas_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,21,3
+5,2,90,986,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,90,987,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,2
+5,2,90,988,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,90,989,#Ulysses_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,90,990,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,7,1
+5,2,90,991,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,18,2
+5,2,90,992,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,90,993,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,24,3
+5,2,90,994,#Thersites_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,2
+5,2,90,995,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,90,996,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,90,997,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,90,998,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,37,5
+5,2,90,999,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,7,1
+5,2,90,1000,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,90,1001,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,1
+5,2,90,1002,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,90,1003,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,15,2
+5,2,90,1004,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,7,1
+5,2,90,1005,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,90,1006,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,90,1007,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,16,2
+5,2,90,1008,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,90,1009,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,90,1010,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,17,2
+5,2,90,1011,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,90,1012,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,17,2
+5,2,90,1013,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,2
+5,2,90,1014,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,90,1015,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,90,1016,#Troilus_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,13,2
+5,2,90,1017,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,90,1018,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,10,1
+5,2,90,1019,#Diomedes_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,90,1020,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Diomedes_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,5,1
+5,2,91,1021,#Cressida_Tro,#Calchas_Tro #Cressida_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,51,6
+5,2,92,1022,#Thersites_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,18,2
+5,2,92,1023,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,92,1024,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,2,1
+5,2,92,1025,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,92,1026,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,68,10
+5,2,92,1027,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,92,1028,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,92,1029,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,4,1
+5,2,92,1030,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,1
+5,2,92,1031,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,1
+5,2,92,1032,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,37,5
+5,2,92,1033,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,10,2
+5,2,92,1034,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,1
+5,2,92,1035,#Thersites_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,9,2
+5,2,92,1036,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,182,25
+5,2,92,1037,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,14,2
+5,2,92,1038,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,107,14
+5,2,92,1039,#Thersites_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,92,1040,#Troilus_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,20,3
+5,2,92,1041,#Ulysses_Tro,#Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,8,2
+5,2,93,1042,#Aeneas_Tro,#Aeneas_Tro #Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,25,3
+5,2,93,1043,#Troilus_Tro,#Aeneas_Tro #Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,22,3
+5,2,93,1044,#Ulysses_Tro,#Aeneas_Tro #Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,6,1
+5,2,93,1045,#Troilus_Tro,#Aeneas_Tro #Calchas_Tro #Thersites_Tro #Troilus_Tro #Ulysses_Tro,3,1
+5,2,94,1046,#Thersites_Tro,#Calchas_Tro #Thersites_Tro,60,7
+5,3,95,1047,#Andromache_Tro,#Andromache_Tro #Hector_Tro,21,3
+5,3,95,1048,#Hector_Tro,#Andromache_Tro #Hector_Tro,16,2
+5,3,95,1049,#Andromache_Tro,#Andromache_Tro #Hector_Tro,9,1
+5,3,95,1050,#Hector_Tro,#Andromache_Tro #Hector_Tro,4,1
+5,3,96,1051,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,5,1
+5,3,96,1052,#Andromache_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,40,5
+5,3,96,1053,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,3,1
+5,3,96,1054,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,5,1
+5,3,96,1055,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,9,1
+5,3,96,1056,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,9,1
+5,3,96,1057,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,21,3
+5,3,96,1058,#Andromache_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,33,4
+5,3,96,1059,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,20,3
+5,3,96,1060,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro,29,4
+5,3,97,1061,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Troilus_Tro,9,1
+5,3,97,1062,#Andromache_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Troilus_Tro,6,1
+5,3,98,1063,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,52,6
+5,3,98,1064,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,17,2
+5,3,98,1065,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,10,1
+5,3,98,1066,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,23,3
+5,3,98,1067,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,4,1
+5,3,98,1068,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,5,1
+5,3,98,1069,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,4,1
+5,3,98,1070,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,39,5
+5,3,98,1071,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,3,1
+5,3,98,1072,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,4,1
+5,3,98,1073,#Hector_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,8,1
+5,3,98,1074,#Troilus_Tro,#Andromache_Tro #Hector_Tro #Troilus_Tro,52,8
+5,3,99,1075,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,30,4
+5,3,99,1076,#Priam_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,37,6
+5,3,99,1077,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,23,4
+5,3,99,1078,#Priam_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,6,1
+5,3,99,1079,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,39,5
+5,3,99,1080,#Cassandra_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,6,1
+5,3,99,1081,#Andromache_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,4,1
+5,3,99,1082,#Hector_Tro,#Andromache_Tro #Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,15,2
+5,3,100,1083,#Troilus_Tro,#Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,9,2
+5,3,100,1084,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,57,8
+5,3,100,1085,#Troilus_Tro,#Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,2,1
+5,3,100,1086,#Cassandra_Tro,#Cassandra_Tro #Hector_Tro #Priam_Tro #Troilus_Tro,16,2
+5,3,101,1087,#Hector_Tro,#Hector_Tro #Priam_Tro #Troilus_Tro,28,3
+5,3,101,1088,#Priam_Tro,#Hector_Tro #Priam_Tro #Troilus_Tro,8,1
+5,3,102,1089,#Troilus_Tro,#Troilus_Tro,18,2
+5,3,103,1090,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,8,1
+5,3,103,1091,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,2,1
+5,3,103,1092,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,8,1
+5,3,103,1093,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,3,1
+5,3,103,1094,#Pandarus_Tro,#Pandarus_Tro #Troilus_Tro,66,7
+5,3,103,1095,#Troilus_Tro,#Pandarus_Tro #Troilus_Tro,39,5
+5,4,104,1096,#Thersites_Tro,#Thersites_Tro,145,18
+5,4,105,1097,#Thersites_Tro,#Diomedes_Tro #Thersites_Tro #Troilus_Tro,7,1
+5,4,105,1098,#Troilus_Tro,#Diomedes_Tro #Thersites_Tro #Troilus_Tro,13,2
+5,4,105,1099,#Diomedes_Tro,#Diomedes_Tro #Thersites_Tro #Troilus_Tro,21,4
+5,4,105,1100,#Thersites_Tro,#Diomedes_Tro #Thersites_Tro #Troilus_Tro,15,2
+5,4,106,1101,#Hector_Tro,#Hector_Tro #Thersites_Tro,15,2
+5,4,106,1102,#Thersites_Tro,#Hector_Tro #Thersites_Tro,14,2
+5,4,106,1103,#Hector_Tro,#Hector_Tro #Thersites_Tro,5,1
+5,4,107,1104,#Thersites_Tro,#Thersites_Tro,44,6
+5,5,108,1105,#Diomedes_Tro,#Diomedes_Tro #SERVANTS.DIOMEDES.1_Tro,37,5
+5,5,108,1106,#SERVANTS.DIOMEDES.1_Tro,#Diomedes_Tro #SERVANTS.DIOMEDES.1_Tro,4,1
+5,5,109,1107,#Agamemnon_Tro,#Agamemnon_Tro #Diomedes_Tro,63,11
+5,5,110,1108,#Nestor_Tro,#Agamemnon_Tro #Diomedes_Tro #Nestor_Tro #Patroclus_Tro #SOLDIERS.GREEK_Tro,14,2
+5,5,111,1109,#Nestor_Tro,#Agamemnon_Tro #Diomedes_Tro #Nestor_Tro,85,11
+5,5,112,1110,#Ulysses_Tro,#Agamemnon_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,89,14
+5,5,113,1111,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,4,1
+5,5,114,1112,#Diomedes_Tro,#Agamemnon_Tro #Diomedes_Tro #Nestor_Tro #Ulysses_Tro,3,1
+5,5,115,1113,#Nestor_Tro,#Agamemnon_Tro #Nestor_Tro #Ulysses_Tro,5,1
+5,5,116,1114,#Achilles_Tro,#Achilles_Tro #Agamemnon_Tro #Nestor_Tro #Ulysses_Tro,27,4
+5,6,117,1115,#Ajax_Tro,#Ajax_Tro,7,1
+5,6,118,1116,#Diomedes_Tro,#Ajax_Tro #Diomedes_Tro,5,1
+5,6,118,1117,#Ajax_Tro,#Ajax_Tro #Diomedes_Tro,3,1
+5,6,118,1118,#Diomedes_Tro,#Ajax_Tro #Diomedes_Tro,4,1
+5,6,118,1119,#Ajax_Tro,#Ajax_Tro #Diomedes_Tro,17,2
+5,6,119,1120,#Troilus_Tro,#Ajax_Tro #Diomedes_Tro #Troilus_Tro,19,2
+5,6,119,1121,#Diomedes_Tro,#Ajax_Tro #Diomedes_Tro #Troilus_Tro,4,1
+5,6,119,1122,#Ajax_Tro,#Ajax_Tro #Diomedes_Tro #Troilus_Tro,7,1
+5,6,119,1123,#Diomedes_Tro,#Ajax_Tro #Diomedes_Tro #Troilus_Tro,9,1
+5,6,119,1124,#Troilus_Tro,#Ajax_Tro #Diomedes_Tro #Troilus_Tro,9,1
+5,6,120,1125,#Hector_Tro,#Hector_Tro,8,1
+5,6,121,1126,#Achilles_Tro,#Achilles_Tro #Hector_Tro,10,1
+5,6,121,1127,#Hector_Tro,#Achilles_Tro #Hector_Tro,4,1
+5,6,121,1128,#Achilles_Tro,#Achilles_Tro #Hector_Tro,37,5
+5,6,122,1129,#Hector_Tro,#Hector_Tro,16,3
+5,6,123,1130,#Hector_Tro,#Hector_Tro #Troilus_Tro,4,1
+5,6,123,1131,#Troilus_Tro,#Hector_Tro #Troilus_Tro,43,5
+5,6,124,1132,#Hector_Tro,#Hector_Tro #SOLDIERS.GREEK.1_Tro,32,4
+5,6,125,1133,#Hector_Tro,#Hector_Tro,15,2
+5,7,126,1134,#Achilles_Tro,#Achilles_Tro #MYRMIDONS_Tro,61,8
+5,8,127,1135,#Thersites_Tro,#Menelaus_Tro #Paris_Tro #Thersites_Tro,30,4
+5,8,128,1136,#Bastard_Tro,#Bastard_Tro #Thersites_Tro,4,1
+5,8,128,1137,#Thersites_Tro,#Bastard_Tro #Thersites_Tro,3,1
+5,8,128,1138,#Bastard_Tro,#Bastard_Tro #Thersites_Tro,5,1
+5,8,128,1139,#Thersites_Tro,#Bastard_Tro #Thersites_Tro,57,7
+5,8,129,1140,#Bastard_Tro,#Bastard_Tro,5,1
+5,9,130,1141,#Hector_Tro,#Hector_Tro #SOLDIERS.GREEK.1_Tro,34,4
+5,9,131,1142,#Achilles_Tro,#Achilles_Tro #Hector_Tro #MYRMIDONS_Tro #SOLDIERS.GREEK.1_Tro,34,4
+5,9,131,1143,#Hector_Tro,#Achilles_Tro #Hector_Tro #MYRMIDONS_Tro #SOLDIERS.GREEK.1_Tro,7,1
+5,9,131,1144,#Achilles_Tro,#Achilles_Tro #Hector_Tro #MYRMIDONS_Tro #SOLDIERS.GREEK.1_Tro,47,6
+5,9,132,1145,#MYRMIDONS.0.1_Tro,#Achilles_Tro #Hector_Tro #MYRMIDONS.0.1_Tro #MYRMIDONS_Tro #SOLDIERS.GREEK.1_Tro,8,1
+5,9,132,1146,#Achilles_Tro,#Achilles_Tro #Hector_Tro #MYRMIDONS.0.1_Tro #MYRMIDONS_Tro #SOLDIERS.GREEK.1_Tro,46,6
+5,10,133,1147,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro,6,1
+5,10,133,1148,#Nestor_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro,2,1
+5,10,134,1149,#SOLDIERS_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro #SOLDIERS_Tro,5,1
+5,10,134,1150,#Diomedes_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro #SOLDIERS_Tro,8,1
+5,10,134,1151,#Ajax_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro #SOLDIERS_Tro,18,2
+5,10,134,1152,#Agamemnon_Tro,#Agamemnon_Tro #Ajax_Tro #Diomedes_Tro #Menelaus_Tro #Nestor_Tro #SOLDIERS.GREEK_Tro #SOLDIERS_Tro,34,4
+5,11,135,1153,#Aeneas_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro,18,2
+5,11,136,1154,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,3,1
+5,11,136,1155,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,4,1
+5,11,136,1156,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,51,6
+5,11,136,1157,#Aeneas_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,8,1
+5,11,136,1158,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,172,22
+5,11,137,1159,#Pandarus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Pandarus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,5,1
+5,11,137,1160,#Troilus_Tro,#Aeneas_Tro #Antenor_Tro #Deiphobus_Tro #Pandarus_Tro #Paris_Tro #SOLDIERS.TROJAN_Tro #Troilus_Tro,15,2
+5,11,138,1161,#Pandarus_Tro,#Pandarus_Tro,180,23

@@ -1,0 +1,63 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,21,4,#Boatswain_Tmp #Shipmaster_Tmp
+1,1,2,27,4,#Boatswain_Tmp #SAILORS_Tmp
+1,1,3,140,20,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp
+1,1,4,53,6,#Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp
+1,1,5,29,4,#Boatswain_Tmp #SAILORS_Tmp
+1,1,6,92,14,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp
+1,1,7,48,7,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+1,1,8,30,4,#Antonio_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+1,1,9,33,4,#Gonzalo_Tmp
+1,2,10,1540,223,#Miranda_Tmp #Prospero_Tmp
+1,2,11,959,139,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp
+1,2,12,76,14,#Miranda_Tmp #Prospero_Tmp
+1,2,13,17,3,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp
+1,2,14,15,3,#Ariel_Tmp #Caliban_Tmp #Miranda_Tmp #Prospero_Tmp
+1,2,15,479,69,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp
+1,2,16,1020,162,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+2,1,17,1233,201,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+2,1,18,108,17,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+2,1,19,811,122,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+2,1,20,246,37,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+2,2,21,144,17,#Caliban_Tmp
+2,2,22,239,25,#Caliban_Tmp #Trinculo_Tmp
+2,2,23,1144,152,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp
+3,1,24,121,16,#Ferdinand_Tmp
+3,1,25,654,94,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+3,1,26,35,5,#Prospero_Tmp
+3,2,27,328,45,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp
+3,2,28,809,121,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp
+3,3,29,149,22,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+3,3,30,11,2,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+3,3,31,164,26,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp
+3,3,32,113,19,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+3,3,33,240,32,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+3,3,34,88,12,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+3,3,35,77,10,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+3,3,36,15,3,#Adrian_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp
+3,3,37,52,7,#Adrian_Tmp #Francisco_Tmp #Gonzalo_Tmp
+4,1,38,254,36,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+4,1,39,127,19,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+4,1,40,71,11,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+4,1,41,122,17,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Iris_Tmp
+4,1,42,196,30,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp
+4,1,43,217,36,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp
+4,1,44,31,5,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp
+4,1,45,29,4,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.REAPERS_Tmp
+4,1,46,166,23,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp
+4,1,47,199,29,#Ariel_Tmp #Prospero_Tmp
+4,1,48,43,6,#Prospero_Tmp
+4,1,49,6,1,#Ariel_Tmp #Prospero_Tmp
+4,1,50,455,64,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp
+4,1,51,15,3,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #SPIRITS_Tmp #Stephano_Tmp #Trinculo_Tmp
+4,1,52,70,11,#Ariel_Tmp #Prospero_Tmp
+5,1,53,273,41,#Ariel_Tmp #Prospero_Tmp
+5,1,54,202,25,#Prospero_Tmp
+5,1,55,333,47,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+5,1,56,565,86,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp
+5,1,57,366,60,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp
+5,1,58,310,47,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp
+5,1,59,20,4,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp
+5,1,60,354,48,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp
+5,1,61,158,22,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp
+6,0,62,128,20,#Prospero_Tmp

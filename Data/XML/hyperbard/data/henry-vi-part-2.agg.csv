@@ -1,0 +1,810 @@
+act,scene,stagegroup,stagegroup_raw,setting,onstage,speaker,n_lines,n_tokens
+1,1,1,1,1,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,18,119
+1,1,1,1,2,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,8,54
+1,1,1,1,3,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,8,59
+1,1,1,1,4,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,5,39
+1,1,1,1,5,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,1,6
+1,1,1,1,6,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,1,4
+1,1,1,1,7,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,4,29
+1,1,1,1,8,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,10,75
+1,1,1,1,9,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,3
+1,1,1,1,10,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,3,23
+1,1,1,1,11,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,7
+1,1,1,1,12,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,6,42
+1,1,1,1,13,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,13,87
+1,1,2,2,14,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,29,209
+1,1,2,2,15,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,3,21
+1,1,2,2,16,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,6,48
+1,1,2,2,17,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,3,24
+1,1,2,2,18,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,9,58
+1,1,2,2,19,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#York_1H6,8,65
+1,1,2,2,20,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,6,32
+1,1,2,2,21,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,2,18
+1,1,2,2,22,#Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,8,62
+1,1,3,3,23,#Buckingham_2H6 #CardinalBeaufort_1H6 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,19,139
+1,1,3,3,24,#Buckingham_2H6 #CardinalBeaufort_1H6 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,5,38
+1,1,3,3,25,#Buckingham_2H6 #CardinalBeaufort_1H6 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,2,14
+1,1,4,4,26,#Buckingham_2H6 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,6,42
+1,1,4,4,27,#Buckingham_2H6 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,2,14
+1,1,5,5,28,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,25,188
+1,1,5,5,29,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,15
+1,1,5,5,30,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,2,9
+1,1,5,5,31,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,1,10
+1,1,5,5,32,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,5,46
+1,1,6,6,33,#York_1H6,#York_1H6,49,377
+1,2,7,8,34,#DuchessOfGloucester_2H6 #Gloucester_2H4,#DuchessOfGloucester_2H6,16,131
+1,2,7,8,35,#DuchessOfGloucester_2H6 #Gloucester_2H4,#Gloucester_2H4,6,48
+1,2,7,8,36,#DuchessOfGloucester_2H6 #Gloucester_2H4,#DuchessOfGloucester_2H6,2,17
+1,2,7,8,37,#DuchessOfGloucester_2H6 #Gloucester_2H4,#Gloucester_2H4,8,62
+1,2,7,8,38,#DuchessOfGloucester_2H6 #Gloucester_2H4,#DuchessOfGloucester_2H6,10,71
+1,2,7,8,39,#DuchessOfGloucester_2H6 #Gloucester_2H4,#Gloucester_2H4,10,71
+1,2,7,8,40,#DuchessOfGloucester_2H6 #Gloucester_2H4,#DuchessOfGloucester_2H6,4,27
+1,2,7,8,41,#DuchessOfGloucester_2H6 #Gloucester_2H4,#Gloucester_2H4,1,8
+1,2,8,9,42,#DuchessOfGloucester_2H6 #Gloucester_2H4 #MESSENGERS.X.1_2H6,#MESSENGERS.X.1_2H6,3,24
+1,2,8,9,43,#DuchessOfGloucester_2H6 #Gloucester_2H4 #MESSENGERS.X.1_2H6,#Gloucester_2H4,1,9
+1,2,8,9,44,#DuchessOfGloucester_2H6 #Gloucester_2H4 #MESSENGERS.X.1_2H6,#DuchessOfGloucester_2H6,1,7
+1,2,9,10,45,#DuchessOfGloucester_2H6,#DuchessOfGloucester_2H6,9,75
+1,2,10,11,46,#DuchessOfGloucester_2H6 #Hume_2H6,#Hume_2H6,1,5
+1,2,10,11,47,#DuchessOfGloucester_2H6 #Hume_2H6,#DuchessOfGloucester_2H6,1,8
+1,2,10,11,48,#DuchessOfGloucester_2H6 #Hume_2H6,#Hume_2H6,2,15
+1,2,10,11,49,#DuchessOfGloucester_2H6 #Hume_2H6,#DuchessOfGloucester_2H6,4,28
+1,2,10,11,50,#DuchessOfGloucester_2H6 #Hume_2H6,#Hume_2H6,4,30
+1,2,10,11,51,#DuchessOfGloucester_2H6 #Hume_2H6,#DuchessOfGloucester_2H6,6,39
+1,2,11,12,52,#Hume_2H6,#Hume_2H6,21,173
+1,3,12,15,53,#PETITIONERS.0.1_2H6 #PETITIONERS_2H6 #Thump_2H6,#PETITIONERS.0.1_2H6,3,25
+1,3,13,16,54,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #Thump_2H6,#PETITIONERS.0.2_2H6,2,13
+1,3,14,17,55,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#PETITIONERS.0.1_2H6,2,14
+1,3,14,17,56,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#PETITIONERS.0.2_2H6,2,14
+1,3,14,17,57,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#Suffolk_1H6,2,7
+1,3,14,17,58,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#PETITIONERS.0.1_2H6,2,13
+1,3,14,17,59,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#QueenMargaret_1H6,3,17
+1,3,14,17,60,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#PETITIONERS.0.1_2H6,4,26
+1,3,14,17,61,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#Suffolk_1H6,4,26
+1,3,14,17,62,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#PETITIONERS.0.2_2H6,2,12
+1,3,14,17,63,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#Thump_2H6,3,18
+1,3,14,17,64,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#QueenMargaret_1H6,2,16
+1,3,14,17,65,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#Thump_2H6,3,19
+1,3,14,17,66,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Thump_2H6,#Suffolk_1H6,1,3
+1,3,15,18,67,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #SERVANTS.SUFFOLK_2H6 #Suffolk_1H6 #Thump_2H6,#Suffolk_1H6,3,22
+1,3,16,19,68,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,4,31
+1,3,16,19,69,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #PETITIONERS_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#PETITIONERS_2H6,1,4
+1,3,17,20,70,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,23,175
+1,3,17,20,71,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,3,22
+1,3,17,20,72,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,4,30
+1,3,17,20,73,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,3,25
+1,3,17,20,74,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,14,108
+1,3,17,20,75,#PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,13,108
+1,3,18,21,76,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,2,17
+1,3,18,21,77,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,2,15
+1,3,18,21,78,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,2,16
+1,3,18,21,79,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,15
+1,3,18,21,80,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,1,6
+1,3,18,21,81,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,1,8
+1,3,18,21,82,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,1,8
+1,3,18,21,83,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,1,9
+1,3,18,21,84,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,2,14
+1,3,18,21,85,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,1,8
+1,3,18,21,86,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,2,16
+1,3,18,21,87,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,2,15
+1,3,18,21,88,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,2,15
+1,3,18,21,89,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,6,47
+1,3,18,21,90,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,2,15
+1,3,18,21,91,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,2,14
+1,3,18,21,92,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,3,18
+1,3,18,21,93,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,3,25
+1,3,19,22,94,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,3,17
+1,3,19,22,95,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#DuchessOfGloucester_2H6,3,26
+1,3,19,22,96,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,8
+1,3,19,22,97,#Buckingham_2H6 #CardinalBeaufort_1H6 #DuchessOfGloucester_2H6 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#DuchessOfGloucester_2H6,4,35
+1,3,20,23,98,#Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,4,28
+1,3,21,25,99,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,10,78
+1,3,21,25,100,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,3,23
+1,3,21,25,101,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,8,60
+1,3,21,25,102,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,15
+1,3,21,25,103,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,1,3
+1,3,21,25,104,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,1,9
+1,3,22,26,105,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,2,16
+1,3,22,26,106,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#York_1H6,1,7
+1,3,22,26,107,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,2,9
+1,3,22,26,108,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,5,39
+1,3,22,26,109,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,6
+1,3,22,26,110,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Horner_2H6,3,25
+1,3,22,26,111,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Thump_2H6,3,26
+1,3,22,26,112,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#York_1H6,4,29
+1,3,22,26,113,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Horner_2H6,7,62
+1,3,22,26,114,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,9
+1,3,22,26,115,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,7,52
+1,3,22,26,116,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,1,6
+1,3,22,26,117,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Horner_2H6,1,6
+1,3,22,26,118,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Thump_2H6,4,38
+1,3,22,26,119,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,1,9
+1,3,22,26,120,#CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #Horner_2H6 #OFFICERS_2H6 #PETITIONERS.0.1_2H6 #PETITIONERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Thump_2H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,3,25
+1,4,23,29,121,#Bolingbroke_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#Hume_2H6,2,13
+1,4,23,29,122,#Bolingbroke_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#Bolingbroke_2H6,3,14
+1,4,23,29,123,#Bolingbroke_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#Hume_2H6,1,8
+1,4,23,29,124,#Bolingbroke_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#Bolingbroke_2H6,5,43
+1,4,24,30,125,#Bolingbroke_2H6 #Jourdain_2H6 #Southwell_2H6,#Bolingbroke_2H6,3,20
+1,4,25,31,126,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#DuchessOfGloucester_2H6,2,14
+1,4,25,31,127,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6,#Bolingbroke_2H6,8,71
+1,4,26,32,128,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Spirit_2H6,1,1
+1,4,26,32,129,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Jourdain_2H6,4,27
+1,4,26,32,130,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Spirit_2H6,1,10
+1,4,26,32,131,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Bolingbroke_2H6,1,9
+1,4,26,32,132,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Spirit_2H6,2,16
+1,4,26,32,133,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Bolingbroke_2H6,1,7
+1,4,26,32,134,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Spirit_2H6,1,9
+1,4,26,32,135,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Bolingbroke_2H6,1,7
+1,4,26,32,136,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Spirit_2H6,4,25
+1,4,26,32,137,#Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #Southwell_2H6 #Spirit_2H6,#Bolingbroke_2H6,2,10
+1,4,27,34,138,#Bolingbroke_2H6 #Buckingham_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #Southwell_2H6 #Stafford_2H6 #York_1H6,#York_1H6,8,50
+1,4,27,34,139,#Bolingbroke_2H6 #Buckingham_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #Southwell_2H6 #Stafford_2H6 #York_1H6,#DuchessOfGloucester_2H6,2,16
+1,4,27,34,140,#Bolingbroke_2H6 #Buckingham_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #Southwell_2H6 #Stafford_2H6 #York_1H6,#Buckingham_2H6,4,31
+1,4,28,35,141,#Bolingbroke_2H6 #Buckingham_2H6 #DuchessOfGloucester_2H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #Southwell_2H6 #York_1H6,#Buckingham_2H6,2,9
+1,4,29,36,142,#Buckingham_2H6 #York_1H6,#York_1H6,22,147
+1,4,29,36,143,#Buckingham_2H6 #York_1H6,#Buckingham_2H6,2,19
+1,4,29,36,144,#Buckingham_2H6 #York_1H6,#York_1H6,1,6
+1,4,30,37,145,#York_1H6,#York_1H6,1,4
+1,4,31,38,146,#SERVANTS.YORK.1_2H6 #York_1H6,#York_1H6,2,14
+2,1,32,40,147,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,4,36
+2,1,32,40,148,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,4,36
+2,1,32,40,149,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,4,31
+2,1,32,40,150,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,17
+2,1,32,40,151,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,1,10
+2,1,32,40,152,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,19
+2,1,32,40,153,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,1,5
+2,1,32,40,154,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,4,30
+2,1,32,40,155,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,5,26
+2,1,32,40,156,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,2,17
+2,1,32,40,157,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,1,4
+2,1,32,40,158,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,2,12
+2,1,32,40,159,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,1,6
+2,1,32,40,160,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,4
+2,1,32,40,161,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,3,19
+2,1,32,40,162,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,16
+2,1,32,40,163,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,1,9
+2,1,32,40,164,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,4
+2,1,32,40,165,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,15
+2,1,32,40,166,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,19
+2,1,32,40,167,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,1,4
+2,1,32,40,168,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,4,24
+2,1,32,40,169,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,11
+2,1,32,40,170,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,1,4
+2,1,32,40,171,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,1,5
+2,1,32,40,172,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,4,24
+2,1,32,40,173,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,9
+2,1,32,40,174,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,4,34
+2,1,33,41,175,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,10
+2,1,33,41,176,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CITIZENS.STALBANS.0.1_2H6,1,4
+2,1,33,41,177,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,1,9
+2,1,33,41,178,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CITIZENS.STALBANS.0.1_2H6,3,25
+2,1,33,41,179,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,2,15
+2,1,34,42,180,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,13
+2,1,34,42,181,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#HenryVI_1H6,2,16
+2,1,34,42,182,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,2,17
+2,1,34,42,183,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#HenryVI_1H6,3,24
+2,1,34,42,184,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,7
+2,1,34,42,185,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,4
+2,1,34,42,186,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Suffolk_1H6,1,4
+2,1,34,42,187,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,7
+2,1,34,42,188,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,2,10
+2,1,34,42,189,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#HenryVI_1H6,1,4
+2,1,34,42,190,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,10
+2,1,34,42,191,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#HenryVI_1H6,3,24
+2,1,34,42,192,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#QueenMargaret_1H6,2,16
+2,1,34,42,193,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,4,33
+2,1,34,42,194,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,2,17
+2,1,34,42,195,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#CardinalBeaufort_1H6,1,4
+2,1,34,42,196,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,5
+2,1,34,42,197,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Suffolk_1H6,1,4
+2,1,34,42,198,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,6
+2,1,34,42,199,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,4
+2,1,34,42,200,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,6
+2,1,34,42,201,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,4
+2,1,34,42,202,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,6
+2,1,34,42,203,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,11
+2,1,34,42,204,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,8
+2,1,34,42,205,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,2,9
+2,1,34,42,206,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,3,17
+2,1,34,42,207,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,3,27
+2,1,34,42,208,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,2,11
+2,1,34,42,209,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,10
+2,1,34,42,210,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,5
+2,1,34,42,211,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,10
+2,1,34,42,212,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,5
+2,1,34,42,213,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#HenryVI_1H6,1,9
+2,1,34,42,214,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Suffolk_1H6,1,9
+2,1,34,42,215,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,9
+2,1,34,42,216,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,8
+2,1,34,42,217,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,6
+2,1,34,42,218,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,5
+2,1,34,42,219,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,3
+2,1,34,42,220,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,3
+2,1,34,42,221,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,2
+2,1,34,42,222,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,3
+2,1,34,42,223,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,4
+2,1,34,42,224,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,8
+2,1,34,42,225,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,9,76
+2,1,34,42,226,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,1,5
+2,1,34,42,227,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,2,16
+2,1,34,42,228,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#MayorOfStAlbans_2H6,1,8
+2,1,34,42,229,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,1,5
+2,1,34,42,230,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#MayorOfStAlbans_2H6,1,7
+2,1,34,42,231,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,4,27
+2,1,34,42,232,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,2,17
+2,1,35,43,233,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Gloucester_2H4,3,20
+2,1,35,43,234,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Beadle_2H6,2,12
+2,1,35,43,235,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Simpcox_2H6 #Suffolk_1H6,#Simpcox_2H6,2,12
+2,1,36,44,236,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Suffolk_1H6,#HenryVI_1H6,1,9
+2,1,36,44,237,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Suffolk_1H6,#QueenMargaret_1H6,1,9
+2,1,36,44,238,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Suffolk_1H6,#Gloucester_2H4,1,8
+2,1,36,44,239,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Suffolk_1H6,#SimpcoxWife_2H6,1,8
+2,1,36,44,240,#ATTENDANTS_2H6 #Beadle_2H6 #CITIZENS.STALBANS.0.1_2H6 #CITIZENS.STALBANS_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #MayorOfStAlbans_2H6 #QueenMargaret_1H6 #SimpcoxWife_2H6 #Suffolk_1H6,#Gloucester_2H4,2,17
+2,1,37,45,241,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,1,7
+2,1,37,45,242,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,1,9
+2,1,37,45,243,#ATTENDANTS_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,2,19
+2,1,38,46,244,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,1,6
+2,1,38,46,245,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Buckingham_2H6,12,82
+2,1,38,46,246,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,5,34
+2,1,38,46,247,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,4,29
+2,1,38,46,248,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,2,15
+2,1,38,46,249,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,2,16
+2,1,38,46,250,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#Gloucester_2H4,10,79
+2,1,38,46,251,#ATTENDANTS_2H6 #Buckingham_2H6 #CITIZENS.STALBANS.0.1_2H6 #CardinalBeaufort_1H6 #FALCONERS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Suffolk_1H6,#HenryVI_1H6,7,44
+2,2,39,49,252,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,5,35
+2,2,39,49,253,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,1,9
+2,2,39,49,254,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,16
+2,2,39,49,255,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,22,147
+2,2,39,49,256,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,15
+2,2,39,49,257,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,3,27
+2,2,39,49,258,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,1,8
+2,2,39,49,259,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,5,39
+2,2,39,49,260,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,5,36
+2,2,39,49,261,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,10,73
+2,2,39,49,262,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,10,81
+2,2,39,49,263,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6 #Warwick_2H6,1,7
+2,2,39,49,264,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,14,103
+2,2,39,49,265,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,1,11
+2,2,39,49,266,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,19
+2,2,39,49,267,#Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,3,24
+2,3,40,51,268,#ATTENDANTS_2H6 #Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Southwell_2H6 #Suffolk_1H6 #York_1H6,#HenryVI_1H6,15,105
+2,3,40,51,269,#ATTENDANTS_2H6 #Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Southwell_2H6 #Suffolk_1H6 #York_1H6,#DuchessOfGloucester_2H6,1,7
+2,3,40,51,270,#ATTENDANTS_2H6 #Bolingbroke_2H6 #DuchessOfGloucester_2H6 #Gloucester_2H4 #HenryVI_1H6 #Hume_2H6 #Jourdain_2H6 #OFFICERS_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Southwell_2H6 #Suffolk_1H6 #York_1H6,#Gloucester_2H4,2,15
+2,3,41,52,271,#ATTENDANTS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#Gloucester_2H4,5,43
+2,3,41,52,272,#ATTENDANTS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#HenryVI_1H6,6,49
+2,3,41,52,273,#ATTENDANTS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,4,34
+2,3,41,52,274,#ATTENDANTS_2H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#Gloucester_2H4,7,54
+2,3,42,53,275,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,6,51
+2,3,42,53,276,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,2,17
+2,3,42,53,277,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#York_1H6,5,40
+2,3,42,53,278,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,2,16
+2,3,42,53,279,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#HenryVI_1H6,2,20
+2,3,42,53,280,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #York_1H6,#York_1H6,3,23
+2,3,43,54,281,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#NEIGHBORS.1_2H6,3,21
+2,3,43,54,282,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#NEIGHBORS.2_2H6,2,8
+2,3,43,54,283,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#NEIGHBORS.3_2H6,2,15
+2,3,43,54,284,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Horner_2H6,2,15
+2,3,43,54,285,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#PRENTICES.1_2H6,2,10
+2,3,43,54,286,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#PRENTICES.2_2H6,2,14
+2,3,43,54,287,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Thump_2H6,8,76
+2,3,43,54,288,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Salisbury_2H6,2,12
+2,3,43,54,289,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Thump_2H6,1,2
+2,3,43,54,290,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Salisbury_2H6,1,3
+2,3,43,54,291,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Thump_2H6,1,1
+2,3,43,54,292,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Salisbury_2H6,2,8
+2,3,43,54,293,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Horner_2H6,6,55
+2,3,43,54,294,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#York_1H6,2,13
+2,3,43,54,295,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Horner_2H6,1,8
+2,3,43,54,296,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#York_1H6,2,15
+2,3,43,54,297,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#Thump_2H6,2,17
+2,3,43,54,298,#ATTENDANTS_2H6 #HenryVI_1H6 #Horner_2H6 #NEIGHBORS.1_2H6 #NEIGHBORS.2_2H6 #NEIGHBORS.3_2H6 #PRENTICES.1_2H6 #PRENTICES.2_2H6 #PRENTICES.3_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Thump_2H6 #York_1H6,#HenryVI_1H6,7,48
+2,4,44,56,299,#Gloucester_2H4 #SERVANTS.GLOUCESTER_2H6,#Gloucester_2H4,5,31
+2,4,45,57,300,#Gloucester_2H4 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6,#SERVANTS.GLOUCESTER.0.1_2H6,1,3
+2,4,45,57,301,#Gloucester_2H4 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6,#Gloucester_2H4,11,85
+2,4,46,58,302,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#SERVANTS.GLOUCESTER.0.1_2H6,1,10
+2,4,46,58,303,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,1,10
+2,4,46,58,304,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,7,60
+2,4,46,58,305,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,1,7
+2,4,46,58,306,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,31,259
+2,4,46,58,307,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,12,96
+2,4,47,59,308,#DuchessOfGloucester_2H6 #Gloucester_2H4 #HERALDS.X.1_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#HERALDS.X.1_2H6,2,17
+2,4,47,59,309,#DuchessOfGloucester_2H6 #Gloucester_2H4 #HERALDS.X.1_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,2,16
+2,4,48,60,310,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,2,17
+2,4,48,60,311,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Sheriff_2H6,3,26
+2,4,48,60,312,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,1,8
+2,4,48,60,313,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Stanley_2H6,1,11
+2,4,48,60,314,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,4,36
+2,4,48,60,315,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,1,9
+2,4,48,60,316,#DuchessOfGloucester_2H6 #Gloucester_2H4 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #SERVANTS.GLOUCESTER_2H6 #Sheriff_2H6 #Stanley_2H6,#Gloucester_2H4,1,8
+2,4,49,61,317,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,7,57
+2,4,49,61,318,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#Stanley_2H6,2,17
+2,4,49,61,319,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,2,15
+2,4,49,61,320,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#Stanley_2H6,2,16
+2,4,49,61,321,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,2,15
+2,4,49,61,322,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#Sheriff_2H6,1,8
+2,4,49,61,323,#DuchessOfGloucester_2H6 #OFFICERS_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Sheriff_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,1,7
+2,4,50,62,324,#DuchessOfGloucester_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,1,5
+2,4,50,62,325,#DuchessOfGloucester_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Stanley_2H6,#Stanley_2H6,2,17
+2,4,50,62,326,#DuchessOfGloucester_2H6 #SERVANTS.GLOUCESTER.0.1_2H6 #Stanley_2H6,#DuchessOfGloucester_2H6,4,35
+3,1,51,65,327,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,3,25
+3,1,51,65,328,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,38,294
+3,1,51,65,329,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,16,126
+3,1,51,65,330,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,2,15
+3,1,51,65,331,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,4,32
+3,1,51,65,332,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,3,18
+3,1,51,65,333,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,8,67
+3,1,51,65,334,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,8,67
+3,1,52,66,335,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,1,6
+3,1,52,66,336,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,7
+3,1,52,66,337,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Somerset_1H6,2,14
+3,1,52,66,338,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,9
+3,1,52,66,339,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,6,48
+3,1,53,67,340,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,2,16
+3,1,53,67,341,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,3,25
+3,1,53,67,342,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,6,48
+3,1,53,67,343,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,3,25
+3,1,53,67,344,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,12,99
+3,1,53,67,345,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,1,10
+3,1,53,67,346,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,1,10
+3,1,53,67,347,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#York_1H6,3,19
+3,1,53,67,348,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,9,68
+3,1,53,67,349,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,6,46
+3,1,53,67,350,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,3,23
+3,1,53,67,351,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,30,223
+3,1,53,67,352,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,6,45
+3,1,53,67,353,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Suffolk_1H6,4,28
+3,1,53,67,354,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,1,9
+3,1,53,67,355,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,3,25
+3,1,53,67,356,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Buckingham_2H6,2,16
+3,1,53,67,357,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#CardinalBeaufort_1H6,1,9
+3,1,53,67,358,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#Gloucester_2H4,6,52
+3,1,54,68,359,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,2,16
+3,1,54,68,360,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,1,7
+3,1,54,68,361,#ATTENDANTS_2H6 #Buckingham_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,25,197
+3,1,55,69,362,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,13,97
+3,1,55,69,363,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#CardinalBeaufort_1H6,3,25
+3,1,55,69,364,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,5,40
+3,1,55,69,365,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,1,10
+3,1,55,69,366,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,1,9
+3,1,55,69,367,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,6,55
+3,1,55,69,368,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,1,9
+3,1,55,69,369,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,14,113
+3,1,55,69,370,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,1,6
+3,1,55,69,371,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,6,46
+3,1,55,69,372,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#CardinalBeaufort_1H6,5,40
+3,1,55,69,373,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,1,9
+3,1,55,69,374,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,1,4
+3,1,55,69,375,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,2,17
+3,1,56,70,376,#CardinalBeaufort_1H6 #MESSENGERS.Post_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#MESSENGERS.Post_2H6,6,45
+3,1,57,71,377,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#CardinalBeaufort_1H6,2,16
+3,1,57,71,378,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,3,22
+3,1,57,71,379,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Somerset_1H6,3,24
+3,1,57,71,380,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,6,50
+3,1,57,71,381,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#QueenMargaret_1H6,5,43
+3,1,57,71,382,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,2,10
+3,1,57,71,383,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Somerset_1H6,1,8
+3,1,57,71,384,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#CardinalBeaufort_1H6,6,46
+3,1,57,71,385,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,1,8
+3,1,57,71,386,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,3,22
+3,1,57,71,387,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,2,15
+3,1,57,71,388,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,2,18
+3,1,57,71,389,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#CardinalBeaufort_1H6,4,37
+3,1,57,71,390,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#York_1H6,3,21
+3,1,57,71,391,#CardinalBeaufort_1H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #York_1H6,#Suffolk_1H6,1,9
+3,1,58,72,392,#York_1H6,#York_1H6,55,417
+3,2,59,75,393,#MURDERERS.0.1_2H6 #MURDERERS_2H6,#MURDERERS.0.1_2H6,2,17
+3,2,60,76,394,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6,#MURDERERS.0.2_2H6,2,17
+3,2,61,77,395,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#MURDERERS.0.1_2H6,1,4
+3,2,61,77,396,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#Suffolk_1H6,1,7
+3,2,61,77,397,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#MURDERERS.0.1_2H6,1,6
+3,2,61,77,398,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#Suffolk_1H6,5,43
+3,2,61,77,399,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#MURDERERS.0.1_2H6,1,4
+3,2,61,77,400,#MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #MURDERERS_2H6 #Suffolk_1H6,#Suffolk_1H6,1,3
+3,2,62,79,401,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,3,23
+3,2,62,79,402,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#Suffolk_1H6,1,7
+3,2,63,80,403,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,4,29
+3,2,63,80,404,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6,#QueenMargaret_1H6,3,20
+3,2,63,80,405,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,1,9
+3,2,64,81,406,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,3,17
+3,2,64,81,407,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#Suffolk_1H6,1,9
+3,2,64,81,408,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,3
+3,2,64,81,409,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#CardinalBeaufort_1H6,2,17
+3,2,64,81,410,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,10
+3,2,64,81,411,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#Somerset_1H6,1,9
+3,2,64,81,412,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,9
+3,2,64,81,413,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#Suffolk_1H6,1,7
+3,2,64,81,414,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,1,3
+3,2,64,81,415,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,5
+3,2,64,81,416,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#Suffolk_1H6,1,6
+3,2,64,81,417,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,17,133
+3,2,64,81,418,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,16,130
+3,2,64,81,419,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,1,8
+3,2,64,81,420,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#QueenMargaret_1H6,51,395
+3,2,65,82,421,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,8,58
+3,2,65,82,422,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#HenryVI_1H6,4,31
+3,2,65,82,423,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,2,15
+3,2,66,83,424,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6,#HenryVI_1H6,13,106
+3,2,67,84,425,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,1,7
+3,2,67,84,426,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#HenryVI_1H6,3,28
+3,2,67,84,427,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,5,41
+3,2,67,84,428,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,2,16
+3,2,67,84,429,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #Gloucester_2H4 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,22,154
+3,2,68,85,430,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,3,24
+3,2,68,85,431,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,5,36
+3,2,68,85,432,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#QueenMargaret_1H6,2,13
+3,2,68,85,433,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,7,55
+3,2,68,85,434,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#QueenMargaret_1H6,2,17
+3,2,68,85,435,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,6,47
+3,2,68,85,436,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,1,9
+3,2,68,85,437,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#QueenMargaret_1H6,3,21
+3,2,68,85,438,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,3,22
+3,2,68,85,439,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,6,43
+3,2,68,85,440,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,11,86
+3,2,68,85,441,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,2,18
+3,2,68,85,442,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Warwick_2H6,3,25
+3,2,69,86,443,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,4,31
+3,2,69,86,444,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6,#QueenMargaret_1H6,1,4
+3,2,70,87,445,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#HenryVI_1H6,4,24
+3,2,70,87,446,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,2,14
+3,2,71,88,447,#ATTENDANTS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Salisbury_2H6,28,215
+3,2,72,89,448,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#CITIZENS_2H6,1,9
+3,2,72,89,449,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#Suffolk_1H6,8,54
+3,2,72,89,450,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#CITIZENS_2H6,1,11
+3,2,72,89,451,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Salisbury_2H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#HenryVI_1H6,10,77
+3,2,73,90,452,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#QueenMargaret_1H6,1,8
+3,2,73,90,453,#ATTENDANTS_2H6 #CITIZENS_2H6 #CardinalBeaufort_1H6 #HenryVI_1H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Somerset_1H6 #Suffolk_1H6 #Warwick_2H6,#HenryVI_1H6,11,84
+3,2,74,91,454,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,5,34
+3,2,74,91,455,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,2,13
+3,2,74,91,456,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,2,14
+3,2,74,91,457,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,21,156
+3,2,74,91,458,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,4,29
+3,2,74,91,459,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,6,51
+3,2,74,91,460,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,19,150
+3,2,74,91,461,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,10,79
+3,2,75,92,462,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Vaux_2H6,#QueenMargaret_1H6,1,9
+3,2,75,92,463,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Vaux_2H6,#Vaux_2H6,11,84
+3,2,75,92,464,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6 #Vaux_2H6,#QueenMargaret_1H6,1,8
+3,2,76,93,465,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,10,70
+3,2,76,93,466,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,15,130
+3,2,76,93,467,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,5,40
+3,2,76,93,468,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,1,2
+3,2,76,93,469,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,6
+3,2,76,93,470,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#Suffolk_1H6,4,29
+3,2,76,93,471,#CITIZENS_2H6 #MURDERERS.0.1_2H6 #MURDERERS.0.2_2H6 #QueenMargaret_1H6 #Suffolk_1H6,#QueenMargaret_1H6,1,4
+3,3,77,96,472,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#HenryVI_1H6,1,9
+3,3,77,96,473,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#CardinalBeaufort_1H6,3,25
+3,3,77,96,474,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#HenryVI_1H6,2,16
+3,3,77,96,475,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#Warwick_2H6,1,8
+3,3,77,96,476,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#CardinalBeaufort_1H6,11,96
+3,3,77,96,477,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#HenryVI_1H6,5,38
+3,3,77,96,478,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#Warwick_2H6,1,10
+3,3,77,96,479,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#Salisbury_2H6,1,7
+3,3,77,96,480,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#HenryVI_1H6,4,36
+3,3,77,96,481,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#Warwick_2H6,1,8
+3,3,77,96,482,#CardinalBeaufort_1H6 #HenryVI_1H6 #Salisbury_2H6 #Warwick_2H6,#HenryVI_1H6,3,23
+4,1,78,98,483,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,14,108
+4,1,78,98,484,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#GENTLEMEN.1_2H6,1,8
+4,1,78,98,485,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Master_2H6,1,9
+4,1,78,98,486,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Mate_2H6,1,10
+4,1,78,98,487,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,5,43
+4,1,78,98,488,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#GENTLEMEN.1_2H6,1,9
+4,1,78,98,489,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#GENTLEMEN.2_2H6,1,10
+4,1,78,98,490,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,3,27
+4,1,78,98,491,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,9
+4,1,78,98,492,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,2,18
+4,1,78,98,493,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,3,18
+4,1,78,98,494,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,5,40
+4,1,78,98,495,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,6,49
+4,1,78,98,496,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,2,16
+4,1,78,98,497,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,1,8
+4,1,78,98,498,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,2,18
+4,1,78,98,499,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,9
+4,1,78,98,500,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,15,117
+4,1,78,98,501,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,1,8
+4,1,78,98,502,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,10
+4,1,78,98,503,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,1,10
+4,1,78,98,504,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,2,12
+4,1,78,98,505,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,1,6
+4,1,78,98,506,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,2
+4,1,78,98,507,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,1,1
+4,1,78,98,508,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,36,251
+4,1,78,98,509,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,12,87
+4,1,78,98,510,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,1
+4,1,78,98,511,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,1,9
+4,1,78,98,512,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,2,10
+4,1,78,98,513,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Whitmore_2H6,2,19
+4,1,78,98,514,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#GENTLEMEN.1_2H6,1,8
+4,1,78,98,515,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,10,80
+4,1,78,98,516,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Lieutenant_2H6,1,9
+4,1,78,98,517,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6 #Master_2H6 #Mate_2H6 #Suffolk_1H6 #Whitmore_2H6,#Suffolk_1H6,7,47
+4,1,79,99,518,#GENTLEMEN.1_2H6 #GENTLEMEN.2_2H6 #Lieutenant_2H6,#Lieutenant_2H6,4,26
+4,1,80,101,519,#GENTLEMEN.1_2H6 #Whitmore_2H6,#Whitmore_2H6,2,15
+4,1,81,102,520,#GENTLEMEN.1_2H6,#GENTLEMEN.1_2H6,4,31
+4,2,82,104,521,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,18
+4,2,82,104,522,#Bevis_2H6 #Holland_2H6,#Holland_2H6,1,9
+4,2,82,104,523,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,3,22
+4,2,82,104,524,#Bevis_2H6 #Holland_2H6,#Holland_2H6,3,21
+4,2,82,104,525,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,9
+4,2,82,104,526,#Bevis_2H6 #Holland_2H6,#Holland_2H6,2,9
+4,2,82,104,527,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,9
+4,2,82,104,528,#Bevis_2H6 #Holland_2H6,#Holland_2H6,4,29
+4,2,82,104,529,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,17
+4,2,82,104,530,#Bevis_2H6 #Holland_2H6,#Holland_2H6,2,13
+4,2,82,104,531,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,13
+4,2,82,104,532,#Bevis_2H6 #Holland_2H6,#Holland_2H6,1,4
+4,2,82,104,533,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,2,15
+4,2,82,104,534,#Bevis_2H6 #Holland_2H6,#Holland_2H6,1,4
+4,2,82,104,535,#Bevis_2H6 #Holland_2H6,#Bevis_2H6,1,7
+4,2,82,104,536,#Bevis_2H6 #Holland_2H6,#Holland_2H6,1,7
+4,2,83,105,537,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,2,9
+4,2,83,105,538,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,1,8
+4,2,83,105,539,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,3,19
+4,2,83,105,540,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,1,1
+4,2,83,105,541,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,5
+4,2,83,105,542,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,9
+4,2,83,105,543,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,4
+4,2,83,105,544,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,1,8
+4,2,83,105,545,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,6
+4,2,83,105,546,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,10
+4,2,83,105,547,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,2,18
+4,2,83,105,548,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,7
+4,2,83,105,549,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,3,26
+4,2,83,105,550,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,3
+4,2,83,105,551,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,1,7
+4,2,83,105,552,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,6
+4,2,83,105,553,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,13
+4,2,83,105,554,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,6
+4,2,83,105,555,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,2,12
+4,2,83,105,556,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,18
+4,2,83,105,557,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,7,66
+4,2,83,105,558,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,1,4
+4,2,83,105,559,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,4,38
+4,2,83,105,560,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,1,10
+4,2,83,105,561,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,7,65
+4,2,84,106,562,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,2,12
+4,2,84,106,563,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,2
+4,2,84,106,564,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,1,7
+4,2,84,106,565,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,3
+4,2,84,106,566,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Smith_2H6,1,11
+4,2,84,106,567,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,6
+4,2,84,106,568,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,9
+4,2,84,106,569,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,4,34
+4,2,84,106,570,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Clerk_2H6,1,1
+4,2,84,106,571,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,2,15
+4,2,84,106,572,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,3,22
+4,2,84,106,573,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Clerk_2H6,2,17
+4,2,84,106,574,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,2,12
+4,2,84,106,575,#Bevis_2H6 #Cade_2H6 #Clerk_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,2,15
+4,2,85,108,576,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Michael_2H6,1,3
+4,2,85,108,577,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,1,6
+4,2,85,108,578,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Michael_2H6,2,16
+4,2,85,108,579,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,3,26
+4,2,85,108,580,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Michael_2H6,1,1
+4,2,85,108,581,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,3,19
+4,2,86,109,582,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,4,30
+4,2,86,109,583,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#WilliamStafford_2H6,2,15
+4,2,86,109,584,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,4,35
+4,2,86,109,585,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,2,14
+4,2,86,109,586,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,1,5
+4,2,86,109,587,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#WilliamStafford_2H6,1,4
+4,2,86,109,588,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,2,16
+4,2,86,109,589,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,1,2
+4,2,86,109,590,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,1,9
+4,2,86,109,591,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#WilliamStafford_2H6,1,2
+4,2,86,109,592,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,6,47
+4,2,86,109,593,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Dick_2H6,1,9
+4,2,86,109,594,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Smith_2H6,3,24
+4,2,86,109,595,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,2,14
+4,2,86,109,596,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,1,8
+4,2,86,109,597,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#WilliamStafford_2H6,1,10
+4,2,86,109,598,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,5,45
+4,2,86,109,599,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Dick_2H6,2,14
+4,2,86,109,600,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,6,54
+4,2,86,109,601,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,1,5
+4,2,86,109,602,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,4,33
+4,2,86,109,603,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,1,8
+4,2,86,109,604,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#WilliamStafford_2H6,2,15
+4,2,86,109,605,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #HERALDS.X.2_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS_2H6 #Sawyer_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Stafford_2H6,6,47
+4,2,87,110,606,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,6,50
+4,2,87,110,607,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Dick_2H6,1,9
+4,2,87,110,608,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Sawyer_2H6 #Smith_2H6,#Cade_2H6,2,16
+4,3,88,113,609,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,1,6
+4,3,88,113,610,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Dick_2H6,1,2
+4,3,88,113,611,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,6,50
+4,3,88,113,612,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Dick_2H6,1,4
+4,3,88,113,613,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,5,42
+4,3,88,113,614,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Dick_2H6,2,17
+4,3,88,113,615,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6 #Stafford_2H6 #WilliamStafford_2H6,#Cade_2H6,2,11
+4,4,89,115,616,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#QueenMargaret_1H6,6,50
+4,4,89,115,617,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#Buckingham_2H6,2,9
+4,4,89,115,618,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,6,45
+4,4,89,115,619,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#QueenMargaret_1H6,4,29
+4,4,89,115,620,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,1,10
+4,4,89,115,621,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#Saye_2H6,1,9
+4,4,89,115,622,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,4,29
+4,4,89,115,623,#Buckingham_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Saye_2H6,#QueenMargaret_1H6,1,11
+4,4,90,116,624,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,2,10
+4,4,90,116,625,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#MESSENGERS.1_2H6,11,75
+4,4,90,116,626,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,1,9
+4,4,90,116,627,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#Buckingham_2H6,2,15
+4,4,90,116,628,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#QueenMargaret_1H6,2,15
+4,4,90,116,629,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,2,12
+4,4,90,116,630,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #QueenMargaret_1H6 #Saye_2H6,#Saye_2H6,4,33
+4,4,91,117,631,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#MESSENGERS.2_2H6,5,35
+4,4,91,117,632,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#Buckingham_2H6,1,8
+4,4,91,117,633,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,1,8
+4,4,91,117,634,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#QueenMargaret_1H6,1,8
+4,4,91,117,635,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#HenryVI_1H6,1,8
+4,4,91,117,636,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#Buckingham_2H6,1,7
+4,4,91,117,637,#Buckingham_2H6 #HenryVI_1H6 #MESSENGERS.1_2H6 #MESSENGERS.2_2H6 #QueenMargaret_1H6 #Saye_2H6,#Saye_2H6,2,15
+4,5,92,119,638,#CITIZENS.LONDON_2H6 #Scales_2H6,#Scales_2H6,1,6
+4,5,93,120,639,#CITIZENS.LONDON.0.1_2H6 #CITIZENS.LONDON_2H6 #Scales_2H6,#CITIZENS.LONDON.0.1_2H6,5,38
+4,5,93,120,640,#CITIZENS.LONDON.0.1_2H6 #CITIZENS.LONDON_2H6 #Scales_2H6,#Scales_2H6,7,58
+4,6,94,123,641,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,6,52
+4,6,95,124,642,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS.1_2H6 #Smith_2H6,#SOLDIERS.1_2H6,1,4
+4,6,95,124,643,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS.1_2H6 #Smith_2H6,#Cade_2H6,1,4
+4,6,95,124,644,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS.1_2H6 #Smith_2H6,#Dick_2H6,4,29
+4,6,95,124,645,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #SOLDIERS.1_2H6 #Smith_2H6,#Cade_2H6,3,28
+4,7,96,126,646,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,2,20
+4,7,96,126,647,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Dick_2H6,1,7
+4,7,96,126,648,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,1,11
+4,7,96,126,649,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Dick_2H6,2,12
+4,7,96,126,650,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Holland_2H6,3,21
+4,7,96,126,651,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Smith_2H6,2,15
+4,7,96,126,652,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,3,25
+4,7,96,126,653,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Holland_2H6,2,14
+4,7,96,126,654,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,2,8
+4,7,97,127,655,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#MESSENGERS.X.2_2H6,4,32
+4,7,98,128,656,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,25,222
+4,7,98,128,657,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,1,3
+4,7,98,128,658,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,3,22
+4,7,98,128,659,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Dick_2H6,2,14
+4,7,98,128,660,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,1,4
+4,7,98,128,661,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Dick_2H6,1,5
+4,7,98,128,662,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,1,8
+4,7,98,128,663,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,2,9
+4,7,98,128,664,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,20,154
+4,7,98,128,665,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,1,9
+4,7,98,128,666,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,2,18
+4,7,98,128,667,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#George_2H6,2,8
+4,7,98,128,668,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,1,9
+4,7,98,128,669,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,2,14
+4,7,98,128,670,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,2,15
+4,7,98,128,671,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,2,12
+4,7,98,128,672,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Dick_2H6,1,5
+4,7,98,128,673,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,1,7
+4,7,98,128,674,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,4,33
+4,7,98,128,675,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,8,55
+4,7,98,128,676,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,8,77
+4,7,99,129,677,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#FOLLOWERS.CADE.0_2H6,1,4
+4,7,99,129,678,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Saye_2H6,4,31
+4,7,99,129,679,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Saye_2H6 #Smith_2H6,#Cade_2H6,1,9
+4,7,100,130,680,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,7,64
+4,7,100,130,681,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#Dick_2H6,2,15
+4,7,100,130,682,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,1,2
+4,7,100,130,683,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,1,2
+4,7,101,131,684,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE.0.1_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #MESSENGERS.X.2_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,8,67
+4,8,102,134,685,#Bevis_2H6 #Cade_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,5,36
+4,8,103,135,686,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Buckingham_2H6,5,42
+4,8,103,135,687,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Clifford_2H6,8,69
+4,8,103,135,688,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,1,8
+4,8,103,135,689,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,14,116
+4,8,103,135,690,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,1,6
+4,8,103,135,691,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Clifford_2H6,19,158
+4,8,103,135,692,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Bevis_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,2,10
+4,8,103,135,693,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Cade_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Cade_2H6,11,93
+4,8,104,136,694,#ATTENDANTS_2H6 #Bevis_2H6 #Buckingham_2H6 #Clifford_2H6 #Dick_2H6 #FOLLOWERS.CADE_2H6 #George_2H6 #Holland_2H6 #Michael_2H6 #Smith_2H6,#Buckingham_2H6,5,40
+4,9,105,138,695,#HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,6,53
+4,9,106,139,696,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#Buckingham_2H6,1,7
+4,9,106,139,697,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,2,16
+4,9,107,140,698,#Buckingham_2H6 #Clifford_2H6 #FOLLOWERS.CADE_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#Clifford_2H6,3,27
+4,9,107,140,699,#Buckingham_2H6 #Clifford_2H6 #FOLLOWERS.CADE_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,10,70
+4,9,107,140,700,#Buckingham_2H6 #Clifford_2H6 #FOLLOWERS.CADE_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#FOLLOWERS.CADE_2H6,1,8
+4,9,108,142,701,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#MESSENGERS.X.3_2H6,8,59
+4,9,108,142,702,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,11,84
+4,9,108,142,703,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#Somerset_1H6,3,16
+4,9,108,142,704,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,2,18
+4,9,108,142,705,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#Buckingham_2H6,2,18
+4,9,108,142,706,#Buckingham_2H6 #Clifford_2H6 #HenryVI_1H6 #MESSENGERS.X.3_2H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,2,17
+4,10,109,144,707,#Cade_2H6,#Cade_2H6,16,164
+4,10,110,145,708,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Iden_2H6,8,63
+4,10,110,145,709,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Cade_2H6,7,61
+4,10,110,145,710,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Iden_2H6,6,53
+4,10,110,145,711,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Cade_2H6,6,56
+4,10,110,145,712,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Iden_2H6,13,109
+4,10,110,145,713,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Cade_2H6,11,103
+4,10,110,145,714,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Iden_2H6,6,55
+4,10,110,145,715,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Cade_2H6,4,39
+4,10,110,145,716,#Cade_2H6 #Iden_2H6 #SERVANTS.IDEN_2H6,#Iden_2H6,9,81
+5,1,111,147,717,#ATTENDANTS.YORK_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,11,90
+5,1,112,148,718,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,3,17
+5,1,112,148,719,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#Buckingham_2H6,1,9
+5,1,112,148,720,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,2,15
+5,1,112,148,721,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#Buckingham_2H6,6,51
+5,1,112,148,722,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,15,122
+5,1,112,148,723,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#Buckingham_2H6,4,32
+5,1,112,148,724,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,1,6
+5,1,112,148,725,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#Buckingham_2H6,1,6
+5,1,112,148,726,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #SOLDIERS.YORK_2H6 #York_1H6,#York_1H6,4,29
+5,1,113,149,727,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #York_1H6,#York_1H6,6,45
+5,1,113,149,728,#ATTENDANTS.YORK_2H6 #Buckingham_2H6 #York_1H6,#Buckingham_2H6,2,14
+5,1,114,150,729,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #York_1H6,#HenryVI_1H6,2,17
+5,1,114,150,730,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #York_1H6,#York_1H6,2,12
+5,1,114,150,731,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #York_1H6,#HenryVI_1H6,1,8
+5,1,114,150,732,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #York_1H6,#York_1H6,3,21
+5,1,115,151,733,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#Iden_2H6,4,34
+5,1,115,151,734,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#HenryVI_1H6,4,36
+5,1,115,151,735,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#Iden_2H6,1,7
+5,1,115,151,736,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#HenryVI_1H6,1,9
+5,1,115,151,737,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#Iden_2H6,2,14
+5,1,115,151,738,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#Buckingham_2H6,2,17
+5,1,115,151,739,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#HenryVI_1H6,3,23
+5,1,115,151,740,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #York_1H6,#Iden_2H6,2,16
+5,1,116,152,741,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#HenryVI_1H6,2,16
+5,1,116,152,742,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#QueenMargaret_1H6,2,18
+5,1,116,152,743,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#York_1H6,19,157
+5,1,116,152,744,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#Somerset_1H6,3,21
+5,1,116,152,745,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#York_1H6,6,46
+5,1,116,152,746,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Buckingham_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#QueenMargaret_1H6,3,24
+5,1,117,153,747,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #Somerset_1H6 #York_1H6,#York_1H6,5,35
+5,1,118,154,748,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#York_1H6,2,10
+5,1,119,155,749,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#QueenMargaret_1H6,1,8
+5,1,119,155,750,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#Clifford_2H6,1,9
+5,1,119,155,751,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#York_1H6,4,32
+5,1,119,155,752,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#Clifford_2H6,3,27
+5,1,119,155,753,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#HenryVI_1H6,2,14
+5,1,119,155,754,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#Clifford_2H6,2,17
+5,1,119,155,755,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#QueenMargaret_1H6,2,17
+5,1,119,155,756,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#York_1H6,1,4
+5,1,119,155,757,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#EdwardIV_3H6,1,8
+5,1,119,155,758,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#RichardIII_R3,1,9
+5,1,119,155,759,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#Clifford_2H6,1,9
+5,1,119,155,760,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Somerset_1H6 #York_1H6,#York_1H6,7,48
+5,1,120,156,761,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,3,26
+5,1,120,156,762,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#RichardIII_R3,6,50
+5,1,120,156,763,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,2,15
+5,1,120,156,764,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#York_1H6,1,7
+5,1,120,156,765,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,1,9
+5,1,120,156,766,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,14,113
+5,1,120,156,767,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,4,29
+5,1,120,156,768,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,7
+5,1,120,156,769,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,1,2
+5,1,120,156,770,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,9
+5,1,120,156,771,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,9,72
+5,1,120,156,772,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#QueenMargaret_1H6,1,6
+5,1,120,156,773,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#HenryVI_1H6,1,7
+5,1,120,156,774,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#York_1H6,2,15
+5,1,120,156,775,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,1,9
+5,1,120,156,776,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,2,19
+5,1,120,156,777,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,4,31
+5,1,120,156,778,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,6,47
+5,1,120,156,779,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_2H6,3,23
+5,1,120,156,780,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_3H6,2,13
+5,1,120,156,781,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#RichardIII_R3,2,16
+5,1,120,156,782,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#Clifford_3H6,1,8
+5,1,120,156,783,#ATTENDANTS.YORK_2H6 #ATTENDANTS_2H6 #Clifford_2H6 #Clifford_3H6 #EdwardIV_3H6 #HenryVI_1H6 #Iden_2H6 #QueenMargaret_1H6 #RichardIII_R3 #Salisbury_2H6 #Somerset_1H6 #Warwick_2H6 #York_1H6,#RichardIII_R3,1,9
+5,2,121,158,784,#Warwick_2H6,#Warwick_2H6,7,55
+5,2,122,159,785,#Warwick_2H6 #York_1H6,#Warwick_2H6,1,8
+5,2,122,159,786,#Warwick_2H6 #York_1H6,#York_1H6,4,32
+5,2,123,160,787,#Clifford_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,1,10
+5,2,123,160,788,#Clifford_2H6 #Warwick_2H6 #York_1H6,#York_1H6,2,17
+5,2,123,160,789,#Clifford_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,3,24
+5,2,124,161,790,#Clifford_2H6 #York_1H6,#Clifford_2H6,1,10
+5,2,124,161,791,#Clifford_2H6 #York_1H6,#York_1H6,2,17
+5,2,124,161,792,#Clifford_2H6 #York_1H6,#Clifford_2H6,2,16
+5,2,124,161,793,#Clifford_2H6 #York_1H6,#York_1H6,2,18
+5,2,124,161,794,#Clifford_2H6 #York_1H6,#Clifford_2H6,1,8
+5,2,124,161,795,#Clifford_2H6 #York_1H6,#York_1H6,1,6
+5,2,124,161,796,#Clifford_2H6 #York_1H6,#Clifford_2H6,1,5
+5,2,124,161,797,#Clifford_2H6 #York_1H6,#York_1H6,2,20
+5,2,125,163,798,#Clifford_2H6 #Clifford_3H6,#Clifford_3H6,36,273
+5,2,126,165,799,#RichardIII_R3 #Somerset_1H6,#RichardIII_R3,6,39
+5,2,127,167,800,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#QueenMargaret_1H6,1,9
+5,2,127,167,801,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#HenryVI_1H6,1,8
+5,2,127,167,802,#ATTENDANTS_2H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#QueenMargaret_1H6,10,86
+5,2,128,168,803,#ATTENDANTS_2H6 #Clifford_3H6 #HenryVI_1H6 #QueenMargaret_1H6 #Somerset_1H6,#Clifford_3H6,7,52
+5,3,129,170,804,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Warwick_2H6 #York_1H6,#York_1H6,7,50
+5,3,129,170,805,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Warwick_2H6 #York_1H6,#RichardIII_R3,8,63
+5,3,130,171,806,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Salisbury_2H6 #Warwick_2H6 #York_1H6,#RichardIII_R3,1,9
+5,3,130,171,807,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Salisbury_2H6 #Warwick_2H6 #York_1H6,#Salisbury_2H6,7,62
+5,3,130,171,808,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Salisbury_2H6 #Warwick_2H6 #York_1H6,#York_1H6,5,42
+5,3,130,171,809,#EdwardIV_3H6 #RichardIII_R3 #SOLDIERS.YORK_2H6 #Salisbury_2H6 #Warwick_2H6 #York_1H6,#Warwick_2H6,6,49

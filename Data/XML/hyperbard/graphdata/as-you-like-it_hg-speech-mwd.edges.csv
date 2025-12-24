@@ -1,0 +1,830 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Orlando_AYL,#Adam_AYL #Orlando_AYL,234,25
+1,1,2,2,#Adam_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,6,1
+1,1,2,3,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,13,2
+1,1,2,4,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,6,1
+1,1,2,5,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,8,1
+1,1,2,6,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,5,1
+1,1,2,7,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,20,3
+1,1,2,8,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,9,2
+1,1,2,9,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,23,3
+1,1,2,10,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,6,1
+1,1,2,11,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,8,1
+1,1,2,12,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,5,1
+1,1,2,13,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,80,9
+1,1,2,14,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,2,1
+1,1,2,15,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,10,2
+1,1,2,16,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,7,1
+1,1,2,17,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,61,6
+1,1,2,18,#Adam_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,11,2
+1,1,2,19,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,5,1
+1,1,2,20,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,83,9
+1,1,2,21,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,36,4
+1,1,2,22,#Orlando_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,12,2
+1,1,2,23,#Oliver_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,7,1
+1,1,2,24,#Adam_AYL,#Adam_AYL #Oliver_AYL #Orlando_AYL,29,3
+1,1,3,25,#Oliver_AYL,#Oliver_AYL,24,3
+1,1,4,26,#Dennis_AYL,#Dennis_AYL #Oliver_AYL,3,1
+1,1,4,27,#Oliver_AYL,#Dennis_AYL #Oliver_AYL,11,2
+1,1,4,28,#Dennis_AYL,#Dennis_AYL #Oliver_AYL,14,2
+1,1,4,29,#Oliver_AYL,#Dennis_AYL #Oliver_AYL,3,1
+1,1,5,30,#Oliver_AYL,#Oliver_AYL,10,2
+1,1,6,31,#Charles_AYL,#Charles_AYL #Oliver_AYL,5,1
+1,1,6,32,#Oliver_AYL,#Charles_AYL #Oliver_AYL,11,2
+1,1,6,33,#Charles_AYL,#Charles_AYL #Oliver_AYL,55,7
+1,1,6,34,#Oliver_AYL,#Charles_AYL #Oliver_AYL,13,2
+1,1,6,35,#Charles_AYL,#Charles_AYL #Oliver_AYL,56,6
+1,1,6,36,#Oliver_AYL,#Charles_AYL #Oliver_AYL,6,1
+1,1,6,37,#Charles_AYL,#Charles_AYL #Oliver_AYL,50,6
+1,1,6,38,#Oliver_AYL,#Charles_AYL #Oliver_AYL,8,2
+1,1,6,39,#Charles_AYL,#Charles_AYL #Oliver_AYL,135,14
+1,1,6,40,#Oliver_AYL,#Charles_AYL #Oliver_AYL,196,21
+1,1,6,41,#Charles_AYL,#Charles_AYL #Oliver_AYL,36,4
+1,1,6,42,#Oliver_AYL,#Charles_AYL #Oliver_AYL,3,1
+1,1,7,43,#Oliver_AYL,#Oliver_AYL,96,10
+1,2,8,44,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,1
+1,2,8,45,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,39,5
+1,2,8,46,#Celia_AYL,#Celia_AYL #Rosalind_AYL,68,7
+1,2,8,47,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,13,2
+1,2,8,48,#Celia_AYL,#Celia_AYL #Rosalind_AYL,66,7
+1,2,8,49,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,18,3
+1,2,8,50,#Celia_AYL,#Celia_AYL #Rosalind_AYL,35,4
+1,2,8,51,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,6,1
+1,2,8,52,#Celia_AYL,#Celia_AYL #Rosalind_AYL,20,3
+1,2,8,53,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,25,3
+1,2,8,54,#Celia_AYL,#Celia_AYL #Rosalind_AYL,22,3
+1,2,8,55,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,22,3
+1,2,8,56,#Celia_AYL,#Celia_AYL #Rosalind_AYL,17,2
+1,2,9,57,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,22,3
+1,2,9,58,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,18,3
+1,2,9,59,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,48,6
+1,2,9,60,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,8,2
+1,2,9,61,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,9,62,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+1,2,9,63,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,9,64,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,43,5
+1,2,9,65,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,11,2
+1,2,9,66,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,9,67,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,18,2
+1,2,9,68,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,9,69,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,55,6
+1,2,9,70,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+1,2,9,71,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+1,2,9,72,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,23,3
+1,2,9,73,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,14,2
+1,2,9,74,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,32,4
+1,2,10,75,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,10,76,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,11,2
+1,2,10,77,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,10,78,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,16,3
+1,2,10,79,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+1,2,10,80,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,4,1
+1,2,10,81,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+1,2,10,82,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,10,83,#Touchstone_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,10,84,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,10,85,#Touchstone_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+1,2,10,86,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,10,87,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,19,2
+1,2,10,88,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+1,2,10,89,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,35,4
+1,2,10,90,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+1,2,10,91,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,10,92,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,10,93,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,9,2
+1,2,10,94,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,14,2
+1,2,10,95,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,66,7
+1,2,10,96,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,1,1
+1,2,10,97,#Touchstone_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,11,2
+1,2,10,98,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,10,99,#Touchstone_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,23,3
+1,2,10,100,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,10,101,#Rosalind_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,27,3
+1,2,10,102,#LORDS.FREDERICK.LeBeau_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,22,3
+1,2,10,103,#Celia_AYL,#Celia_AYL #LORDS.FREDERICK.LeBeau_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+1,2,11,104,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,15,2
+1,2,11,105,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,4,1
+1,2,11,106,#LORDS.FREDERICK.LeBeau_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,3,1
+1,2,11,107,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,11,108,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,13,2
+1,2,11,109,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+1,2,11,110,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,45,5
+1,2,11,111,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+1,2,11,112,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,11,113,#LORDS.FREDERICK.LeBeau_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,8,2
+1,2,11,114,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+1,2,11,115,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,8,2
+1,2,11,116,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,24,3
+1,2,11,117,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,62,7
+1,2,11,118,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,26,3
+1,2,11,119,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,107,11
+1,2,11,120,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+1,2,11,121,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,11,122,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,10,2
+1,2,11,123,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,11,124,#Charles_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,16,2
+1,2,11,125,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+1,2,11,126,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,6,2
+1,2,11,127,#Charles_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,22,3
+1,2,11,128,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,17,2
+1,2,11,129,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+1,2,11,130,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,13,2
+1,2,11,131,#Rosalind_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,4,1
+1,2,11,132,#Celia_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,14,2
+1,2,11,133,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,4,1
+1,2,11,134,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,11,2
+1,2,11,135,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,4,1
+1,2,11,136,#LORDS.FREDERICK.LeBeau_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+1,2,11,137,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #Charles_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,3,1
+1,2,12,138,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+1,2,12,139,#Orlando_AYL,#ATTENDANTS_AYL #Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,11,2
+1,2,12,140,#DukeFrederick_AYL,#ATTENDANTS_AYL #Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK.LeBeau_AYL #LORDS.FREDERICK_AYL #Orlando_AYL #Rosalind_AYL #Touchstone_AYL,57,8
+1,2,13,141,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,1
+1,2,13,142,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,24,3
+1,2,13,143,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,40,5
+1,2,13,144,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,46,7
+1,2,13,145,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,25,5
+1,2,13,146,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+1,2,13,147,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,28,3
+1,2,13,148,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,31,4
+1,2,13,149,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+1,2,13,150,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+1,2,14,151,#Orlando_AYL,#Orlando_AYL,30,4
+1,2,15,152,#LORDS.FREDERICK.LeBeau_AYL,#LORDS.FREDERICK.LeBeau_AYL #Orlando_AYL,55,7
+1,2,15,153,#Orlando_AYL,#LORDS.FREDERICK.LeBeau_AYL #Orlando_AYL,25,3
+1,2,15,154,#LORDS.FREDERICK.LeBeau_AYL,#LORDS.FREDERICK.LeBeau_AYL #Orlando_AYL,118,15
+1,2,15,155,#Orlando_AYL,#LORDS.FREDERICK.LeBeau_AYL #Orlando_AYL,9,1
+1,2,16,156,#Orlando_AYL,#Orlando_AYL,19,3
+1,3,17,157,#Celia_AYL,#Celia_AYL #Rosalind_AYL,10,2
+1,3,17,158,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,7,1
+1,3,17,159,#Celia_AYL,#Celia_AYL #Rosalind_AYL,23,3
+1,3,17,160,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,21,3
+1,3,17,161,#Celia_AYL,#Celia_AYL #Rosalind_AYL,7,1
+1,3,17,162,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,18,2
+1,3,17,163,#Celia_AYL,#Celia_AYL #Rosalind_AYL,25,3
+1,3,17,164,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,13,2
+1,3,17,165,#Celia_AYL,#Celia_AYL #Rosalind_AYL,3,1
+1,3,17,166,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,11,2
+1,3,17,167,#Celia_AYL,#Celia_AYL #Rosalind_AYL,6,1
+1,3,17,168,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,11,2
+1,3,17,169,#Celia_AYL,#Celia_AYL #Rosalind_AYL,50,5
+1,3,17,170,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,8,1
+1,3,17,171,#Celia_AYL,#Celia_AYL #Rosalind_AYL,32,4
+1,3,17,172,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,8,1
+1,3,17,173,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,1
+1,3,17,174,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,14,2
+1,3,18,175,#Rosalind_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,5,1
+1,3,18,176,#Celia_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,6,1
+1,3,18,177,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,13,2
+1,3,18,178,#Rosalind_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,2,1
+1,3,18,179,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,23,4
+1,3,18,180,#Rosalind_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,61,8
+1,3,18,181,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,27,4
+1,3,18,182,#Rosalind_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,14,2
+1,3,18,183,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,7,1
+1,3,18,184,#Rosalind_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,56,7
+1,3,18,185,#Celia_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,5,1
+1,3,18,186,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,16,2
+1,3,18,187,#Celia_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,66,8
+1,3,18,188,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,67,9
+1,3,18,189,#Celia_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,15,2
+1,3,18,190,#DukeFrederick_AYL,#Celia_AYL #DukeFrederick_AYL #LORDS.FREDERICK_AYL #Rosalind_AYL,25,3
+1,3,19,191,#Celia_AYL,#Celia_AYL #Rosalind_AYL,28,3
+1,3,19,192,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,4,1
+1,3,19,193,#Celia_AYL,#Celia_AYL #Rosalind_AYL,17,3
+1,3,19,194,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,4,1
+1,3,19,195,#Celia_AYL,#Celia_AYL #Rosalind_AYL,87,10
+1,3,19,196,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,5,1
+1,3,19,197,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,1
+1,3,19,198,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,23,3
+1,3,19,199,#Celia_AYL,#Celia_AYL #Rosalind_AYL,30,4
+1,3,19,200,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,66,9
+1,3,19,201,#Celia_AYL,#Celia_AYL #Rosalind_AYL,10,1
+1,3,19,202,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,23,3
+1,3,19,203,#Celia_AYL,#Celia_AYL #Rosalind_AYL,13,2
+1,3,19,204,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,25,3
+1,3,19,205,#Celia_AYL,#Celia_AYL #Rosalind_AYL,55,7
+2,1,20,206,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,133,17
+2,1,20,207,#LORDS.SENIOR.Amiens_AYL,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,24,3
+2,1,20,208,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,37,5
+2,1,21,209,#LORDS.SENIOR.0.1_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,139,19
+2,1,21,210,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,10,2
+2,1,21,211,#LORDS.SENIOR.0.1_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,146,20
+2,1,21,212,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,8,1
+2,1,22,213,#LORDS.SENIOR.0.2_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,11,2
+2,1,22,214,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,19,3
+2,1,22,215,#LORDS.SENIOR.0.1_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,6,1
+2,2,23,216,#DukeFrederick_AYL,#DukeFrederick_AYL #LORDS.FREDERICK_AYL,24,3
+2,2,24,217,#LORDS.FREDERICK.0.1_AYL,#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL #LORDS.FREDERICK_AYL,32,4
+2,2,25,218,#LORDS.FREDERICK.0.2_AYL,#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL #LORDS.FREDERICK.0.2_AYL #LORDS.FREDERICK_AYL,63,9
+2,2,25,219,#DukeFrederick_AYL,#DukeFrederick_AYL #LORDS.FREDERICK.0.1_AYL #LORDS.FREDERICK.0.2_AYL #LORDS.FREDERICK_AYL,38,5
+2,3,26,220,#Orlando_AYL,#Adam_AYL #Orlando_AYL,2,1
+2,3,26,221,#Adam_AYL,#Adam_AYL #Orlando_AYL,111,14
+2,3,26,222,#Orlando_AYL,#Adam_AYL #Orlando_AYL,4,1
+2,3,26,223,#Adam_AYL,#Adam_AYL #Orlando_AYL,105,13
+2,3,26,224,#Orlando_AYL,#Adam_AYL #Orlando_AYL,8,1
+2,3,26,225,#Adam_AYL,#Adam_AYL #Orlando_AYL,8,1
+2,3,26,226,#Orlando_AYL,#Adam_AYL #Orlando_AYL,60,7
+2,3,26,227,#Adam_AYL,#Adam_AYL #Orlando_AYL,143,18
+2,3,26,228,#Orlando_AYL,#Adam_AYL #Orlando_AYL,106,13
+2,3,26,229,#Adam_AYL,#Adam_AYL #Orlando_AYL,63,8
+2,4,27,230,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+2,4,27,231,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+2,4,27,232,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,39,5
+2,4,27,233,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,11,1
+2,4,27,234,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,33,4
+2,4,27,235,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,7,1
+2,4,27,236,#Touchstone_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,26,3
+2,4,27,237,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+2,4,28,238,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,14,2
+2,4,28,239,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,10,1
+2,4,28,240,#Silvius_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,10,1
+2,4,28,241,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,9,1
+2,4,28,242,#Silvius_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,56,7
+2,4,28,243,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,7,1
+2,4,28,244,#Silvius_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,71,11
+2,4,29,245,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,15,2
+2,4,29,246,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,103,11
+2,4,29,247,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,8,1
+2,4,29,248,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,17,2
+2,4,29,249,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,10,2
+2,4,29,250,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,9,2
+2,4,29,251,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,23,2
+2,4,29,252,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,3,1
+2,4,29,253,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+2,4,29,254,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,2,1
+2,4,29,255,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,3,1
+2,4,29,256,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,5,1
+2,4,29,257,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,8,2
+2,4,29,258,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,9,1
+2,4,29,259,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,36,5
+2,4,29,260,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,104,13
+2,4,29,261,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,10,1
+2,4,29,262,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,15,2
+2,4,29,263,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,26,3
+2,4,29,264,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,18,2
+2,4,29,265,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,39,5
+2,5,30,266,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,37,8
+2,5,30,267,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,5,1
+2,5,30,268,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,7,2
+2,5,30,269,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,24,3
+2,5,30,270,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,10,1
+2,5,30,271,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,22,3
+2,5,30,272,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,5,1
+2,5,30,273,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,14,2
+2,5,30,274,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,8,1
+2,5,30,275,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,54,6
+2,5,30,276,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,25,3
+2,5,30,277,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,39,4
+2,5,30,278,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,39,8
+2,5,30,279,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,17,2
+2,5,30,280,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,4,1
+2,5,30,281,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,42,9
+2,5,30,282,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,3,1
+2,5,30,283,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,27,3
+2,5,30,284,#LORDS.SENIOR.Amiens_AYL,#Jaques_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,10,2
+2,6,31,285,#Adam_AYL,#Adam_AYL #Orlando_AYL,24,3
+2,6,31,286,#Orlando_AYL,#Adam_AYL #Orlando_AYL,143,15
+2,7,32,287,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,17,2
+2,7,33,288,#LORDS.SENIOR.0.1_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,17,2
+2,7,33,289,#DukeSenior_AYL,#DukeSenior_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,25,3
+2,7,34,290,#LORDS.SENIOR.0.1_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,8,1
+2,7,34,291,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,21,3
+2,7,34,292,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,194,24
+2,7,34,293,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,4,1
+2,7,34,294,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,67,8
+2,7,34,295,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,4,1
+2,7,34,296,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,144,18
+2,7,34,297,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,10,1
+2,7,34,298,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,9,1
+2,7,34,299,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,45,6
+2,7,34,300,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,146,19
+2,7,35,301,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,4,1
+2,7,35,302,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,5,1
+2,7,35,303,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,6,1
+2,7,35,304,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,7,1
+2,7,35,305,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,8,1
+2,7,35,306,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,23,3
+2,7,35,307,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,49,6
+2,7,35,308,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,11,2
+2,7,35,309,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,16,2
+2,7,35,310,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,10,1
+2,7,35,311,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,9,1
+2,7,35,312,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,109,14
+2,7,35,313,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,57,7
+2,7,35,314,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,59,7
+2,7,35,315,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,12,2
+2,7,35,316,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,10,1
+2,7,36,317,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,24,4
+2,7,36,318,#Jaques_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL,211,28
+2,7,37,319,#DukeSenior_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,10,2
+2,7,37,320,#Orlando_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,6,1
+2,7,37,321,#Adam_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,13,2
+2,7,37,322,#DukeSenior_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,24,3
+2,7,37,323,#LORDS.SENIOR.Amiens_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,106,20
+2,7,37,324,#DukeSenior_AYL,#Adam_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.Amiens_AYL #LORDS.SENIOR_AYL #Orlando_AYL,83,11
+3,1,38,325,#DukeFrederick_AYL,#DukeFrederick_AYL #LORDS.FREDERICK_AYL #Oliver_AYL,98,12
+3,1,38,326,#Oliver_AYL,#DukeFrederick_AYL #LORDS.FREDERICK_AYL #Oliver_AYL,17,2
+3,1,38,327,#DukeFrederick_AYL,#DukeFrederick_AYL #LORDS.FREDERICK_AYL #Oliver_AYL,32,4
+3,2,39,328,#Orlando_AYL,#Orlando_AYL,78,10
+3,2,40,329,#Corin_AYL,#Corin_AYL #Touchstone_AYL,9,2
+3,2,40,330,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,105,10
+3,2,40,331,#Corin_AYL,#Corin_AYL #Touchstone_AYL,84,9
+3,2,40,332,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,12,2
+3,2,40,333,#Corin_AYL,#Corin_AYL #Touchstone_AYL,2,1
+3,2,40,334,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,4,1
+3,2,40,335,#Corin_AYL,#Corin_AYL #Touchstone_AYL,3,1
+3,2,40,336,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,12,2
+3,2,40,337,#Corin_AYL,#Corin_AYL #Touchstone_AYL,7,1
+3,2,40,338,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,39,5
+3,2,40,339,#Corin_AYL,#Corin_AYL #Touchstone_AYL,53,6
+3,2,40,340,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,4,1
+3,2,40,341,#Corin_AYL,#Corin_AYL #Touchstone_AYL,14,2
+3,2,40,342,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,31,4
+3,2,40,343,#Corin_AYL,#Corin_AYL #Touchstone_AYL,5,1
+3,2,40,344,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,14,2
+3,2,40,345,#Corin_AYL,#Corin_AYL #Touchstone_AYL,26,3
+3,2,40,346,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,40,5
+3,2,40,347,#Corin_AYL,#Corin_AYL #Touchstone_AYL,10,1
+3,2,40,348,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,17,3
+3,2,40,349,#Corin_AYL,#Corin_AYL #Touchstone_AYL,48,5
+3,2,40,350,#Touchstone_AYL,#Corin_AYL #Touchstone_AYL,74,8
+3,2,41,351,#Corin_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,9,2
+3,2,41,352,#Rosalind_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,46,8
+3,2,41,353,#Touchstone_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,22,3
+3,2,41,354,#Rosalind_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,2,1
+3,2,41,355,#Touchstone_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,84,15
+3,2,41,356,#Rosalind_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,10,2
+3,2,41,357,#Touchstone_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,6,1
+3,2,41,358,#Rosalind_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,41,5
+3,2,41,359,#Touchstone_AYL,#Corin_AYL #Rosalind_AYL #Touchstone_AYL,12,2
+3,2,42,360,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,8,2
+3,2,42,361,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,155,30
+3,2,42,362,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,22,4
+3,2,42,363,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,13,2
+3,2,42,364,#Touchstone_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL #Touchstone_AYL,19,3
+3,2,43,365,#Celia_AYL,#Celia_AYL #Rosalind_AYL,5,1
+3,2,43,366,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,23,3
+3,2,43,367,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,1
+3,2,43,368,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,21,3
+3,2,43,369,#Celia_AYL,#Celia_AYL #Rosalind_AYL,17,3
+3,2,43,370,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,43,6
+3,2,43,371,#Celia_AYL,#Celia_AYL #Rosalind_AYL,6,1
+3,2,43,372,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,4,1
+3,2,43,373,#Celia_AYL,#Celia_AYL #Rosalind_AYL,13,2
+3,2,43,374,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,3,1
+3,2,43,375,#Celia_AYL,#Celia_AYL #Rosalind_AYL,22,3
+3,2,43,376,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,5,1
+3,2,43,377,#Celia_AYL,#Celia_AYL #Rosalind_AYL,3,1
+3,2,43,378,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,13,2
+3,2,43,379,#Celia_AYL,#Celia_AYL #Rosalind_AYL,18,3
+3,2,43,380,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,92,10
+3,2,43,381,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,1
+3,2,43,382,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,21,3
+3,2,43,383,#Celia_AYL,#Celia_AYL #Rosalind_AYL,7,1
+3,2,43,384,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,29,3
+3,2,43,385,#Celia_AYL,#Celia_AYL #Rosalind_AYL,17,2
+3,2,43,386,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,12,2
+3,2,43,387,#Celia_AYL,#Celia_AYL #Rosalind_AYL,5,1
+3,2,43,388,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,1,1
+3,2,43,389,#Celia_AYL,#Celia_AYL #Rosalind_AYL,1,1
+3,2,43,390,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,57,6
+3,2,43,391,#Celia_AYL,#Celia_AYL #Rosalind_AYL,35,4
+3,2,43,392,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,25,3
+3,2,43,393,#Celia_AYL,#Celia_AYL #Rosalind_AYL,39,4
+3,2,43,394,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,13,2
+3,2,43,395,#Celia_AYL,#Celia_AYL #Rosalind_AYL,5,1
+3,2,43,396,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,1,1
+3,2,43,397,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,2
+3,2,43,398,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,14,2
+3,2,43,399,#Celia_AYL,#Celia_AYL #Rosalind_AYL,16,2
+3,2,43,400,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,8,1
+3,2,43,401,#Celia_AYL,#Celia_AYL #Rosalind_AYL,14,2
+3,2,43,402,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,17,2
+3,2,43,403,#Celia_AYL,#Celia_AYL #Rosalind_AYL,4,1
+3,2,44,404,#Celia_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,44,405,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,7,1
+3,2,44,406,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,17,2
+3,2,44,407,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,16,2
+3,2,44,408,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,11,1
+3,2,44,409,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,8,1
+3,2,44,410,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,44,411,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,13,2
+3,2,44,412,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,44,413,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,2,1
+3,2,44,414,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,44,415,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,11,2
+3,2,44,416,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,44,417,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,44,418,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,20,3
+3,2,44,419,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,16,2
+3,2,44,420,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,32,4
+3,2,44,421,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,16,2
+3,2,44,422,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,10,1
+3,2,44,423,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,16,2
+3,2,44,424,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,13,2
+3,2,44,425,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,44,426,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,7,1
+3,2,44,427,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,11,1
+3,2,44,428,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,10,2
+3,2,44,429,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,10,2
+3,2,45,430,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,22,3
+3,2,45,431,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,45,432,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,7,2
+3,2,45,433,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,45,434,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,29,4
+3,2,45,435,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,45,436,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,33,5
+3,2,45,437,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,7,1
+3,2,45,438,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,40,5
+3,2,45,439,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+3,2,45,440,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,57,7
+3,2,45,441,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,45,442,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,22,3
+3,2,45,443,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,45,444,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,20,3
+3,2,45,445,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+3,2,45,446,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,17,3
+3,2,45,447,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,45,448,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+3,2,45,449,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,45,450,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,74,8
+3,2,45,451,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,16,2
+3,2,45,452,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,26,4
+3,2,45,453,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,45,454,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,71,9
+3,2,45,455,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,45,456,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,31,4
+3,2,45,457,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+3,2,45,458,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,93,12
+3,2,45,459,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+3,2,45,460,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,63,7
+3,2,45,461,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,18,2
+3,2,45,462,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+3,2,45,463,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,8,2
+3,2,45,464,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,53,6
+3,2,45,465,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,45,466,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,166,18
+3,2,45,467,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,45,468,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,21,3
+3,2,45,469,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+3,2,45,470,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,27,3
+3,2,45,471,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+3,2,45,472,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+3,3,46,473,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,25,3
+3,3,46,474,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,7,2
+3,3,46,475,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,19,3
+3,3,46,476,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,10,2
+3,3,46,477,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,41,5
+3,3,46,478,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,19,2
+3,3,46,479,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,30,4
+3,3,46,480,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,11,2
+3,3,46,481,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,25,3
+3,3,46,482,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,6,1
+3,3,46,483,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,19,3
+3,3,46,484,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,3,1
+3,3,46,485,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,14,2
+3,3,46,486,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,19,3
+3,3,46,487,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,13,2
+3,3,46,488,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,56,6
+3,3,46,489,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,6,1
+3,3,46,490,#Audrey_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,6,1
+3,3,46,491,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #Touchstone_AYL,151,16
+3,3,47,492,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,28,3
+3,3,47,493,#OliverMartext_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,8,2
+3,3,47,494,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,10,1
+3,3,47,495,#OliverMartext_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,11,2
+3,3,47,496,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,5,2
+3,3,47,497,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,39,5
+3,3,47,498,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,5,1
+3,3,47,499,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,30,4
+3,3,47,500,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,59,7
+3,3,47,501,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,45,5
+3,3,47,502,#Jaques_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,9,1
+3,3,47,503,#Touchstone_AYL,#Audrey_AYL #Jaques_AYL #OliverMartext_AYL #Touchstone_AYL,42,10
+3,3,48,504,#OliverMartext_AYL,#OliverMartext_AYL,17,2
+3,4,49,505,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,7,1
+3,4,49,506,#Celia_AYL,#Celia_AYL #Rosalind_AYL,17,2
+3,4,49,507,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,7,1
+3,4,49,508,#Celia_AYL,#Celia_AYL #Rosalind_AYL,9,2
+3,4,49,509,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,8,1
+3,4,49,510,#Celia_AYL,#Celia_AYL #Rosalind_AYL,11,2
+3,4,49,511,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,9,1
+3,4,49,512,#Celia_AYL,#Celia_AYL #Rosalind_AYL,10,2
+3,4,49,513,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,14,2
+3,4,49,514,#Celia_AYL,#Celia_AYL #Rosalind_AYL,27,3
+3,4,49,515,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,13,2
+3,4,49,516,#Celia_AYL,#Celia_AYL #Rosalind_AYL,8,1
+3,4,49,517,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,4,1
+3,4,49,518,#Celia_AYL,#Celia_AYL #Rosalind_AYL,31,3
+3,4,49,519,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,4,1
+3,4,49,520,#Celia_AYL,#Celia_AYL #Rosalind_AYL,12,1
+3,4,49,521,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,8,2
+3,4,49,522,#Celia_AYL,#Celia_AYL #Rosalind_AYL,38,4
+3,4,49,523,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,48,5
+3,4,49,524,#Celia_AYL,#Celia_AYL #Rosalind_AYL,55,6
+3,4,50,525,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL,3,1
+3,4,50,526,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL,32,5
+3,4,50,527,#Celia_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL,5,1
+3,4,50,528,#Corin_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL,38,5
+3,4,50,529,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Rosalind_AYL,30,5
+3,5,51,530,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,58,8
+3,5,52,531,#Phoebe_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,163,20
+3,5,52,532,#Silvius_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,33,5
+3,5,52,533,#Phoebe_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,31,5
+3,5,52,534,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,252,30
+3,5,52,535,#Phoebe_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,19,2
+3,5,52,536,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,40,5
+3,5,52,537,#Phoebe_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,7,1
+3,5,52,538,#Rosalind_AYL,#Celia_AYL #Corin_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,77,9
+3,5,53,539,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,18,2
+3,5,53,540,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,2,1
+3,5,53,541,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,5,1
+3,5,53,542,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,4,1
+3,5,53,543,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,8,1
+3,5,53,544,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,26,4
+3,5,53,545,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,8,1
+3,5,53,546,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,4,1
+3,5,53,547,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,63,8
+3,5,53,548,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,50,6
+3,5,53,549,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,9,1
+3,5,53,550,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,26,3
+3,5,53,551,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,243,30
+3,5,53,552,#Silvius_AYL,#Phoebe_AYL #Silvius_AYL,5,1
+3,5,53,553,#Phoebe_AYL,#Phoebe_AYL #Silvius_AYL,26,4
+4,1,54,554,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,11,2
+4,1,54,555,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,7,2
+4,1,54,556,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,10,1
+4,1,54,557,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,20,4
+4,1,54,558,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,9,1
+4,1,54,559,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,8,2
+4,1,54,560,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,82,10
+4,1,54,561,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,41,5
+4,1,54,562,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,6,1
+4,1,54,563,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Rosalind_AYL,28,4
+4,1,55,564,#Orlando_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,6,1
+4,1,55,565,#Jaques_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,12,2
+4,1,55,566,#Rosalind_AYL,#Celia_AYL #Jaques_AYL #Orlando_AYL #Rosalind_AYL,47,6
+4,1,56,567,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,27,3
+4,1,56,568,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+4,1,56,569,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,52,6
+4,1,56,570,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,571,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,21,3
+4,1,56,572,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,3,1
+4,1,56,573,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,33,4
+4,1,56,574,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,2,1
+4,1,56,575,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,29,4
+4,1,56,576,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,577,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+4,1,56,578,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,18,2
+4,1,56,579,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,32,4
+4,1,56,580,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+4,1,56,581,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,45,6
+4,1,56,582,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+4,1,56,583,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+4,1,56,584,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,585,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,19,3
+4,1,56,586,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,587,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,16,2
+4,1,56,588,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,15,2
+4,1,56,589,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,11,2
+4,1,56,590,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,7,1
+4,1,56,591,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,140,15
+4,1,56,592,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,18,2
+4,1,56,593,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,32,4
+4,1,56,594,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,595,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,596,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+4,1,56,597,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,598,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,3,1
+4,1,56,599,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,600,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,3,1
+4,1,56,601,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,31,4
+4,1,56,602,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,603,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+4,1,56,604,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,2
+4,1,56,605,#Celia_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,10,2
+4,1,56,606,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,2,1
+4,1,56,607,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,3,1
+4,1,56,608,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,1
+4,1,56,609,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,10,2
+4,1,56,610,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+4,1,56,611,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,32,5
+4,1,56,612,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,7,1
+4,1,56,613,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,14,2
+4,1,56,614,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,4,1
+4,1,56,615,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,104,12
+4,1,56,616,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,6,1
+4,1,56,617,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,618,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,5,1
+4,1,56,619,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,48,6
+4,1,56,620,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,16,2
+4,1,56,621,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,19,3
+4,1,56,622,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,1
+4,1,56,623,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,50,6
+4,1,56,624,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,625,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,9,2
+4,1,56,626,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,16,2
+4,1,56,627,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,45,5
+4,1,56,628,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,3,1
+4,1,56,629,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,78,10
+4,1,56,630,#Orlando_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,13,2
+4,1,56,631,#Rosalind_AYL,#Celia_AYL #Orlando_AYL #Rosalind_AYL,16,3
+4,1,57,632,#Celia_AYL,#Celia_AYL #Rosalind_AYL,33,4
+4,1,57,633,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,36,4
+4,1,57,634,#Celia_AYL,#Celia_AYL #Rosalind_AYL,14,2
+4,1,57,635,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,65,7
+4,1,57,636,#Celia_AYL,#Celia_AYL #Rosalind_AYL,3,1
+4,2,58,637,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR_AYL,7,1
+4,2,59,638,#LORDS.SENIOR.0.1_AYL,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR_AYL,4,1
+4,2,59,639,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR_AYL,36,5
+4,2,60,640,#LORDS.SENIOR.0.2_AYL,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR_AYL,2,1
+4,2,60,641,#Jaques_AYL,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR_AYL,15,2
+4,2,60,642,#LORDS.SENIOR.0.2_AYL,#Jaques_AYL #LORDS.SENIOR.0.1_AYL #LORDS.SENIOR.0.2_AYL #LORDS.SENIOR_AYL,19,3
+4,3,61,643,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL,14,2
+4,3,61,644,#Celia_AYL,#Celia_AYL #Rosalind_AYL,22,3
+4,3,62,645,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,4,1
+4,3,62,646,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,56,7
+4,3,62,647,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,72,8
+4,3,62,648,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,12,2
+4,3,62,649,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,64,9
+4,3,62,650,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,4,1
+4,3,62,651,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,46,6
+4,3,62,652,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,16,2
+4,3,62,653,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,25,4
+4,3,62,654,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,4,1
+4,3,62,655,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,129,20
+4,3,62,656,#Silvius_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,4,1
+4,3,62,657,#Celia_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,3,1
+4,3,62,658,#Rosalind_AYL,#Celia_AYL #Rosalind_AYL #Silvius_AYL,93,10
+4,3,63,659,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,24,3
+4,3,63,660,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,39,5
+4,3,63,661,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,55,7
+4,3,63,662,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,10,1
+4,3,63,663,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,23,3
+4,3,63,664,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,8,1
+4,3,63,665,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,24,3
+4,3,63,666,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,5,1
+4,3,63,667,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,175,24
+4,3,63,668,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,22,3
+4,3,63,669,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,13,2
+4,3,63,670,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,15,2
+4,3,63,671,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,42,6
+4,3,63,672,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,4,1
+4,3,63,673,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,5,1
+4,3,63,674,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,11,1
+4,3,63,675,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,27,3
+4,3,63,676,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,5,1
+4,3,63,677,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,144,19
+4,3,63,678,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,6,1
+4,3,63,679,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,9,1
+4,3,63,680,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,7,1
+4,3,63,681,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,3,1
+4,3,63,682,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,6,1
+4,3,63,683,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,14,2
+4,3,63,684,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,13,2
+4,3,63,685,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,26,4
+4,3,63,686,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,19,3
+4,3,63,687,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,4,1
+4,3,63,688,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,12,2
+4,3,63,689,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,14,2
+4,3,63,690,#Celia_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,15,2
+4,3,63,691,#Oliver_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,15,2
+4,3,63,692,#Rosalind_AYL,#Celia_AYL #Oliver_AYL #Rosalind_AYL,16,3
+5,1,64,693,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL,9,2
+5,1,64,694,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL,12,2
+5,1,64,695,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL,24,3
+5,1,64,696,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL,14,2
+5,1,65,697,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,6,1
+5,1,65,698,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,31,3
+5,1,65,699,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,3,1
+5,1,65,700,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,5,1
+5,1,65,701,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,6,1
+5,1,65,702,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,19,3
+5,1,65,703,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,2,1
+5,1,65,704,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,7,1
+5,1,65,705,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,2,1
+5,1,65,706,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,9,1
+5,1,65,707,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,5,1
+5,1,65,708,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,7,1
+5,1,65,709,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,3,1
+5,1,65,710,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,20,2
+5,1,65,711,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,7,1
+5,1,65,712,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,67,7
+5,1,65,713,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,3,1
+5,1,65,714,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,7,1
+5,1,65,715,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,2,1
+5,1,65,716,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,55,5
+5,1,65,717,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,3,1
+5,1,65,718,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,110,13
+5,1,65,719,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,3,1
+5,1,65,720,#William_AYL,#Audrey_AYL #Touchstone_AYL #William_AYL,5,1
+5,1,66,721,#Corin_AYL,#Audrey_AYL #Corin_AYL #Touchstone_AYL,9,2
+5,1,66,722,#Touchstone_AYL,#Audrey_AYL #Corin_AYL #Touchstone_AYL,8,2
+5,2,67,723,#Orlando_AYL,#Oliver_AYL #Orlando_AYL,34,4
+5,2,67,724,#Oliver_AYL,#Oliver_AYL #Orlando_AYL,76,8
+5,2,68,725,#Orlando_AYL,#Oliver_AYL #Orlando_AYL #Rosalind_AYL,32,4
+5,2,68,726,#Rosalind_AYL,#Oliver_AYL #Orlando_AYL #Rosalind_AYL,4,2
+5,2,68,727,#Oliver_AYL,#Oliver_AYL #Orlando_AYL #Rosalind_AYL,4,1
+5,2,69,728,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,17,2
+5,2,69,729,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,4,1
+5,2,69,730,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,13,2
+5,2,69,731,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,10,1
+5,2,69,732,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,16,3
+5,2,69,733,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,6,1
+5,2,69,734,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,115,14
+5,2,69,735,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,59,7
+5,2,69,736,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,10,2
+5,2,69,737,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,7,1
+5,2,69,738,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,175,19
+5,2,69,739,#Orlando_AYL,#Orlando_AYL #Rosalind_AYL,5,1
+5,2,69,740,#Rosalind_AYL,#Orlando_AYL #Rosalind_AYL,41,5
+5,2,70,741,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,12,2
+5,2,70,742,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,16,2
+5,2,70,743,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,33,4
+5,2,70,744,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,9,1
+5,2,70,745,#Silvius_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,16,2
+5,2,70,746,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,4,1
+5,2,70,747,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,4,1
+5,2,70,748,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,5,1
+5,2,70,749,#Silvius_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,16,2
+5,2,70,750,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,4,1
+5,2,70,751,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,4,1
+5,2,70,752,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,5,1
+5,2,70,753,#Silvius_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,40,6
+5,2,70,754,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,6,1
+5,2,70,755,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,6,1
+5,2,70,756,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,7,2
+5,2,70,757,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,11,1
+5,2,70,758,#Silvius_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,11,1
+5,2,70,759,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,11,1
+5,2,70,760,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,12,2
+5,2,70,761,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,10,1
+5,2,70,762,#Rosalind_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,107,14
+5,2,70,763,#Silvius_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,6,1
+5,2,70,764,#Phoebe_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,2,1
+5,2,70,765,#Orlando_AYL,#Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,2,1
+5,3,71,766,#Touchstone_AYL,#Audrey_AYL #Touchstone_AYL,11,2
+5,3,71,767,#Audrey_AYL,#Audrey_AYL #Touchstone_AYL,25,3
+5,3,72,768,#Audrey_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,8,1
+5,3,72,769,#SERVANTS.1_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,4,1
+5,3,72,770,#Touchstone_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,11,2
+5,3,72,771,#SERVANTS.2_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,8,1
+5,3,72,772,#SERVANTS.1_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,24,3
+5,3,72,773,#SERVANTS.2_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,15,2
+5,3,72,774,#SERVANTS.1_AYL #SERVANTS.2_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,173,24
+5,3,72,775,#Touchstone_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,18,3
+5,3,72,776,#SERVANTS.1_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,12,2
+5,3,72,777,#Touchstone_AYL,#Audrey_AYL #SERVANTS.1_AYL #SERVANTS.2_AYL #Touchstone_AYL,27,3
+5,4,73,778,#DukeSenior_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL,15,2
+5,4,73,779,#Orlando_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL,18,2
+5,4,74,780,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,23,3
+5,4,74,781,#DukeSenior_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,10,1
+5,4,74,782,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,11,1
+5,4,74,783,#Orlando_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,9,1
+5,4,74,784,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,9,1
+5,4,74,785,#Phoebe_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,9,1
+5,4,74,786,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,16,2
+5,4,74,787,#Phoebe_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,4,1
+5,4,74,788,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,9,1
+5,4,74,789,#Silvius_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,10,1
+5,4,74,790,#Rosalind_AYL,#Celia_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL,66,9
+5,4,75,791,#DukeSenior_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL,14,2
+5,4,75,792,#Orlando_AYL,#DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL,55,7
+5,4,76,793,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,29,4
+5,4,76,794,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,6,1
+5,4,76,795,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,27,4
+5,4,76,796,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,49,6
+5,4,76,797,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,6,1
+5,4,76,798,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,12,2
+5,4,76,799,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,9,2
+5,4,76,800,#DukeSenior_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,5,1
+5,4,76,801,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,77,8
+5,4,76,802,#DukeSenior_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,9,2
+5,4,76,803,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,10,2
+5,4,76,804,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,15,2
+5,4,76,805,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,144,15
+5,4,76,806,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,12,2
+5,4,76,807,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,25,3
+5,4,76,808,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,11,2
+5,4,76,809,#Touchstone_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,128,15
+5,4,76,810,#Jaques_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,17,2
+5,4,76,811,#DukeSenior_AYL,#Audrey_AYL #DukeSenior_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Silvius_AYL #Touchstone_AYL,17,2
+5,4,77,812,#Hymen_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,41,8
+5,4,77,813,#Rosalind_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,18,2
+5,4,77,814,#DukeSenior_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,10,1
+5,4,77,815,#Orlando_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,10,1
+5,4,77,816,#Phoebe_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,11,2
+5,4,77,817,#Rosalind_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,27,4
+5,4,77,818,#Hymen_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,93,16
+5,4,77,819,#DukeSenior_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,16,2
+5,4,77,820,#Phoebe_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #Silvius_AYL #Touchstone_AYL,18,2
+5,4,78,821,#SecondBrother_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,126,16
+5,4,78,822,#DukeSenior_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,103,14
+5,4,78,823,#Jaques_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,24,3
+5,4,78,824,#SecondBrother_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,2,1
+5,4,78,825,#Jaques_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,84,14
+5,4,78,826,#DukeSenior_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,3,1
+5,4,78,827,#Jaques_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #Jaques_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,17,2
+5,4,79,828,#DukeSenior_AYL,#Audrey_AYL #Celia_AYL #DukeSenior_AYL #Hymen_AYL #LORDS.SENIOR.Amiens_AYL #Oliver_AYL #Orlando_AYL #Phoebe_AYL #Rosalind_AYL #SecondBrother_AYL #Silvius_AYL #Touchstone_AYL,15,2
+6,0,80,829,#Rosalind_AYL,#Rosalind_AYL,227,22

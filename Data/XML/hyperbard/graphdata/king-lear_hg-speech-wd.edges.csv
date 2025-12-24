@@ -1,0 +1,296 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Edmund_Lr,#Edmund_Lr #Gloucester_Lr #Kent_Lr,13,3
+1,1,1,#Gloucester_Lr,#Edmund_Lr #Gloucester_Lr #Kent_Lr,183,23
+1,1,1,#Kent_Lr,#Edmund_Lr #Gloucester_Lr #Kent_Lr,47,7
+1,1,2,#Gloucester_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,4,1
+1,1,2,#Lear_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,8,2
+1,1,3,#Albany_Lr #Cornwall_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,3,1
+1,1,3,#Cordelia_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,143,23
+1,1,3,#Goneril_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,61,8
+1,1,3,#Kent_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,257,40
+1,1,3,#Lear_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,672,97
+1,1,3,#Regan_Lr,#ATTENDANTS_Lr #Albany_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Regan_Lr,63,9
+1,1,4,#Burgundy_Lr,#ATTENDANTS.0_Lr #ATTENDANTS_Lr #Albany_Lr #Burgundy_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #France_Lr #Gloucester_Lr #Goneril_Lr #Lear_Lr #Regan_Lr,68,12
+1,1,4,#Cordelia_Lr,#ATTENDANTS.0_Lr #ATTENDANTS_Lr #Albany_Lr #Burgundy_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #France_Lr #Gloucester_Lr #Goneril_Lr #Lear_Lr #Regan_Lr,111,16
+1,1,4,#France_Lr,#ATTENDANTS.0_Lr #ATTENDANTS_Lr #Albany_Lr #Burgundy_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #France_Lr #Gloucester_Lr #Goneril_Lr #Lear_Lr #Regan_Lr,231,33
+1,1,4,#Gloucester_Lr,#ATTENDANTS.0_Lr #ATTENDANTS_Lr #Albany_Lr #Burgundy_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #France_Lr #Gloucester_Lr #Goneril_Lr #Lear_Lr #Regan_Lr,7,1
+1,1,4,#Lear_Lr,#ATTENDANTS.0_Lr #ATTENDANTS_Lr #Albany_Lr #Burgundy_Lr #Cordelia_Lr #Cornwall_Lr #Edmund_Lr #France_Lr #Gloucester_Lr #Goneril_Lr #Lear_Lr #Regan_Lr,230,34
+1,1,5,#Cordelia_Lr,#ATTENDANTS.0_Lr #Cordelia_Lr #France_Lr #Goneril_Lr #Regan_Lr,83,12
+1,1,5,#France_Lr,#ATTENDANTS.0_Lr #Cordelia_Lr #France_Lr #Goneril_Lr #Regan_Lr,9,2
+1,1,5,#Goneril_Lr,#ATTENDANTS.0_Lr #Cordelia_Lr #France_Lr #Goneril_Lr #Regan_Lr,29,4
+1,1,5,#Regan_Lr,#ATTENDANTS.0_Lr #Cordelia_Lr #France_Lr #Goneril_Lr #Regan_Lr,5,1
+1,1,6,#Goneril_Lr,#ATTENDANTS.0_Lr #Goneril_Lr #Regan_Lr,148,20
+1,1,6,#Regan_Lr,#ATTENDANTS.0_Lr #Goneril_Lr #Regan_Lr,45,7
+1,2,7,#Edmund_Lr,#Edmund_Lr,165,23
+1,2,8,#Edmund_Lr,#Edmund_Lr #Gloucester_Lr,338,42
+1,2,8,#Gloucester_Lr,#Edmund_Lr #Gloucester_Lr,442,59
+1,2,9,#Edmund_Lr,#Edmund_Lr,138,16
+1,2,10,#Edgar_Lr,#Edgar_Lr #Edmund_Lr,49,11
+1,2,10,#Edmund_Lr,#Edgar_Lr #Edmund_Lr,276,35
+1,2,11,#Edmund_Lr,#Edmund_Lr,50,6
+1,3,12,#Goneril_Lr,#Goneril_Lr #Oswald_Lr,208,26
+1,3,12,#Oswald_Lr,#Goneril_Lr #Oswald_Lr,10,3
+1,4,13,#Kent_Lr,#Kent_Lr,57,8
+1,4,14,#Kent_Lr,#ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,145,20
+1,4,14,#Lear_Lr,#ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,104,16
+1,4,15,#Lear_Lr,#ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr #Oswald_Lr,6,1
+1,4,15,#Oswald_Lr,#ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr #Oswald_Lr,3,1
+1,4,16,#Lear_Lr,#ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,18,3
+1,4,17,#ATTENDANTS.LEAR.0.3_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,105,14
+1,4,17,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,104,14
+1,4,18,#Kent_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr #Oswald_Lr,34,6
+1,4,18,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr #Oswald_Lr,44,6
+1,4,18,#Oswald_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr #Oswald_Lr,20,4
+1,4,19,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Kent_Lr #Lear_Lr,12,2
+1,4,20,#Fool_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Kent_Lr #Lear_Lr,580,81
+1,4,20,#Kent_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Kent_Lr #Lear_Lr,11,2
+1,4,20,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Kent_Lr #Lear_Lr,73,15
+1,4,21,#Fool_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Goneril_Lr #Kent_Lr #Lear_Lr,128,18
+1,4,21,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Goneril_Lr #Kent_Lr #Lear_Lr,276,36
+1,4,21,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Fool_Lr #Goneril_Lr #Kent_Lr #Lear_Lr,111,19
+1,4,22,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Albany_Lr #Fool_Lr #Goneril_Lr #Kent_Lr #Lear_Lr,18,3
+1,4,22,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #ATTENDANTS.LEAR_Lr #Albany_Lr #Fool_Lr #Goneril_Lr #Kent_Lr #Lear_Lr,241,34
+1,4,23,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,8,1
+1,4,23,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,19,3
+1,4,24,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Fool_Lr #Goneril_Lr #Lear_Lr,4,1
+1,4,24,#Lear_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Fool_Lr #Goneril_Lr #Lear_Lr,138,19
+1,4,25,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Fool_Lr #Goneril_Lr,13,2
+1,4,25,#Fool_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Fool_Lr #Goneril_Lr,38,7
+1,4,25,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Fool_Lr #Goneril_Lr,19,3
+1,4,26,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,6,1
+1,4,26,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,98,14
+1,4,27,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr #Oswald_Lr,47,7
+1,4,27,#Oswald_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr #Oswald_Lr,2,1
+1,4,28,#Albany_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,21,3
+1,4,28,#Goneril_Lr,#ATTENDANTS.LEAR.0.3_Lr #Albany_Lr #Goneril_Lr,35,7
+1,5,29,#Kent_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Kent_Lr #Lear_Lr,12,2
+1,5,29,#Lear_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Kent_Lr #Lear_Lr,38,5
+1,5,30,#Fool_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Lear_Lr,144,17
+1,5,30,#Lear_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Lear_Lr,29,9
+1,5,31,#Fool_Lr,#Fool_Lr #Lear_Lr,56,8
+1,5,31,#Lear_Lr,#Fool_Lr #Lear_Lr,33,5
+1,5,32,#ATTENDANTS.X.1_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Lear_Lr,3,1
+1,5,32,#Fool_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Lear_Lr,21,3
+1,5,32,#Lear_Lr,#ATTENDANTS.X.1_Lr #Fool_Lr #Lear_Lr,8,2
+2,1,33,#Curan_Lr,#Curan_Lr #Edmund_Lr,77,9
+2,1,33,#Edmund_Lr,#Curan_Lr #Edmund_Lr,16,4
+2,1,34,#Edmund_Lr,#Edmund_Lr,48,6
+2,1,35,#Edgar_Lr,#Edgar_Lr #Edmund_Lr,8,1
+2,1,35,#Edmund_Lr,#Edgar_Lr #Edmund_Lr,100,15
+2,1,36,#Edmund_Lr,#Edmund_Lr,29,5
+2,1,37,#Edmund_Lr,#Edmund_Lr #Gloucester_Lr #SERVANTS_Lr,35,5
+2,1,37,#Gloucester_Lr,#Edmund_Lr #Gloucester_Lr #SERVANTS_Lr,19,6
+2,1,38,#Edmund_Lr,#Edmund_Lr #Gloucester_Lr,203,28
+2,1,38,#Gloucester_Lr,#Edmund_Lr #Gloucester_Lr,135,21
+2,1,39,#Cornwall_Lr,#ATTENDANTS.REGAN_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Regan_Lr,104,15
+2,1,39,#Edmund_Lr,#ATTENDANTS.REGAN_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Regan_Lr,20,4
+2,1,39,#Gloucester_Lr,#ATTENDANTS.REGAN_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Regan_Lr,60,9
+2,1,39,#Regan_Lr,#ATTENDANTS.REGAN_Lr #Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Regan_Lr,175,24
+2,2,40,#Kent_Lr,#Kent_Lr #Oswald_Lr,205,31
+2,2,40,#Oswald_Lr,#Kent_Lr #Oswald_Lr,82,13
+2,2,41,#Cornwall_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,211,35
+2,2,41,#Edmund_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,6,1
+2,2,41,#Gloucester_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,75,10
+2,2,41,#Kent_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,396,56
+2,2,41,#Oswald_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,92,13
+2,2,41,#Regan_Lr,#Cornwall_Lr #Edmund_Lr #Gloucester_Lr #Kent_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,46,6
+2,2,42,#Gloucester_Lr,#Gloucester_Lr #Kent_Lr,37,5
+2,2,42,#Kent_Lr,#Gloucester_Lr #Kent_Lr,33,4
+2,2,43,#Kent_Lr,#Kent_Lr,93,15
+2,3,44,#Edgar_Lr,#Edgar_Lr,152,21
+2,4,45,#ATTENDANTS.X.2_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Lear_Lr,15,3
+2,4,45,#Lear_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Lear_Lr,15,2
+2,4,46,#Fool_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr #Lear_Lr,99,15
+2,4,46,#Kent_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr #Lear_Lr,169,28
+2,4,46,#Lear_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr #Lear_Lr,98,19
+2,4,47,#ATTENDANTS.X.2_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr,10,1
+2,4,47,#Fool_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr,172,21
+2,4,47,#Kent_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr,18,4
+2,4,48,#Gloucester_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,41,7
+2,4,48,#Lear_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,215,34
+2,4,49,#Fool_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr #Lear_Lr,46,5
+2,4,49,#Lear_Lr,#ATTENDANTS.X.2_Lr #Fool_Lr #Kent_Lr #Lear_Lr,9,1
+2,4,50,#Cornwall_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SERVANTS_Lr,10,3
+2,4,50,#Lear_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SERVANTS_Lr,290,43
+2,4,50,#Regan_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SERVANTS_Lr,167,23
+2,4,51,#Cornwall_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,4,1
+2,4,51,#Lear_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,36,5
+2,4,51,#Regan_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,4,1
+2,4,52,#Cornwall_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,13,2
+2,4,52,#Goneril_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,67,10
+2,4,52,#Lear_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,534,72
+2,4,52,#Regan_Lr,#ATTENDANTS.X.2_Lr #Cornwall_Lr #Fool_Lr #Gloucester_Lr #Goneril_Lr #Kent_Lr #Lear_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,206,27
+2,4,53,#Cornwall_Lr,#Cornwall_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,12,2
+2,4,53,#Goneril_Lr,#Cornwall_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,25,3
+2,4,53,#Regan_Lr,#Cornwall_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,25,4
+2,4,54,#Cornwall_Lr,#Cornwall_Lr #Gloucester_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,35,5
+2,4,54,#Gloucester_Lr,#Cornwall_Lr #Gloucester_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,36,5
+2,4,54,#Goneril_Lr,#Cornwall_Lr #Gloucester_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,9,1
+2,4,54,#Regan_Lr,#Cornwall_Lr #Gloucester_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,43,6
+3,1,55,#ATTENDANTS.X.3_Lr,#ATTENDANTS.X.3_Lr #Kent_Lr,123,19
+3,1,55,#Kent_Lr,#ATTENDANTS.X.3_Lr #Kent_Lr,309,43
+3,2,56,#Fool_Lr,#Fool_Lr #Lear_Lr,105,16
+3,2,56,#Lear_Lr,#Fool_Lr #Lear_Lr,157,24
+3,2,57,#Fool_Lr,#Fool_Lr #Kent_Lr #Lear_Lr,43,6
+3,2,57,#Kent_Lr,#Fool_Lr #Kent_Lr #Lear_Lr,123,18
+3,2,57,#Lear_Lr,#Fool_Lr #Kent_Lr #Lear_Lr,148,21
+3,2,58,#Fool_Lr,#Fool_Lr,123,18
+3,3,59,#Edmund_Lr,#Edmund_Lr #Gloucester_Lr,4,1
+3,3,59,#Gloucester_Lr,#Edmund_Lr #Gloucester_Lr,175,19
+3,3,60,#Edmund_Lr,#Edmund_Lr,40,5
+3,4,61,#Kent_Lr,#Fool_Lr #Kent_Lr #Lear_Lr,43,6
+3,4,61,#Lear_Lr,#Fool_Lr #Kent_Lr #Lear_Lr,198,25
+3,4,62,#Lear_Lr,#Kent_Lr #Lear_Lr,67,10
+3,4,63,#Edgar_Lr,#Edgar_Lr #Kent_Lr #Lear_Lr,8,2
+3,4,64,#Edgar_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,327,39
+3,4,64,#Fool_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,79,11
+3,4,64,#Kent_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,23,4
+3,4,64,#Lear_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,170,23
+3,4,65,#Edgar_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,220,32
+3,4,65,#Fool_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,6,1
+3,4,65,#Gloucester_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,182,24
+3,4,65,#Kent_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,55,8
+3,4,65,#Lear_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,61,12
+3,5,66,#Cornwall_Lr,#Cornwall_Lr #Edmund_Lr,84,12
+3,5,66,#Edmund_Lr,#Cornwall_Lr #Edmund_Lr,108,14
+3,6,67,#Gloucester_Lr,#Gloucester_Lr #Kent_Lr,28,3
+3,6,67,#Kent_Lr,#Gloucester_Lr #Kent_Lr,17,2
+3,6,68,#Edgar_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,208,33
+3,6,68,#Fool_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,99,13
+3,6,68,#Kent_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,43,5
+3,6,68,#Lear_Lr,#Edgar_Lr #Fool_Lr #Kent_Lr #Lear_Lr,217,34
+3,6,69,#Gloucester_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,94,13
+3,6,69,#Kent_Lr,#Edgar_Lr #Fool_Lr #Gloucester_Lr #Kent_Lr #Lear_Lr,43,7
+3,6,70,#Edgar_Lr,#Edgar_Lr,104,16
+3,7,71,#Cornwall_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SERVANTS_Lr,85,12
+3,7,71,#Goneril_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SERVANTS_Lr,4,1
+3,7,71,#Regan_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SERVANTS_Lr,3,1
+3,7,72,#Cornwall_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,10,2
+3,7,72,#Oswald_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Oswald_Lr #Regan_Lr #SERVANTS_Lr,44,6
+3,7,73,#Cornwall_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SERVANTS_Lr,2,1
+3,7,73,#Goneril_Lr,#Cornwall_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SERVANTS_Lr,5,1
+3,7,74,#Cornwall_Lr,#Cornwall_Lr #Regan_Lr #SERVANTS_Lr,45,6
+3,7,75,#Cornwall_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0_Lr #SERVANTS_Lr,80,15
+3,7,75,#Gloucester_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0_Lr #SERVANTS_Lr,219,31
+3,7,75,#Regan_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0_Lr #SERVANTS_Lr,54,11
+3,7,76,#Cornwall_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS.0_Lr #SERVANTS_Lr,16,3
+3,7,76,#Gloucester_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS.0_Lr #SERVANTS_Lr,35,6
+3,7,76,#Regan_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS.0_Lr #SERVANTS_Lr,56,8
+3,7,76,#SERVANTS.0.1_Lr,#Cornwall_Lr #Gloucester_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS.0_Lr #SERVANTS_Lr,76,10
+3,7,77,#Cornwall_Lr,#Cornwall_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS_Lr,31,4
+3,7,77,#Regan_Lr,#Cornwall_Lr #Regan_Lr #SERVANTS.0.1_Lr #SERVANTS_Lr,8,1
+3,7,78,#SERVANTS.0.2_Lr,#SERVANTS.0.1_Lr #SERVANTS.0.2_Lr #SERVANTS_Lr,13,2
+3,7,79,#SERVANTS.0.2_Lr,#SERVANTS.0.1_Lr #SERVANTS.0.2_Lr #SERVANTS.0.3_Lr #SERVANTS_Lr,22,3
+3,7,79,#SERVANTS.0.3_Lr,#SERVANTS.0.1_Lr #SERVANTS.0.2_Lr #SERVANTS.0.3_Lr #SERVANTS_Lr,39,5
+4,0,90,#Cordelia_Lr,#ATTENDANTS.CORDELIA_Lr #Cordelia_Lr #Doctor_Lr #SOLDIERS.CORDELIA_Lr,57,8
+4,0,91,#Cordelia_Lr,#ATTENDANTS.CORDELIA_Lr #Cordelia_Lr #Doctor_Lr,60,9
+4,0,91,#Doctor_Lr,#ATTENDANTS.CORDELIA_Lr #Cordelia_Lr #Doctor_Lr,32,5
+4,0,92,#Cordelia_Lr,#ATTENDANTS.CORDELIA_Lr #Cordelia_Lr #Doctor_Lr #MESSENGERS.X.2_Lr,54,8
+4,0,92,#MESSENGERS.X.2_Lr,#ATTENDANTS.CORDELIA_Lr #Cordelia_Lr #Doctor_Lr #MESSENGERS.X.2_Lr,8,2
+4,1,80,#Edgar_Lr,#Edgar_Lr,70,9
+4,1,81,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr #OldMan_Lr,83,10
+4,1,81,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr #OldMan_Lr,215,28
+4,1,81,#OldMan_Lr,#Edgar_Lr #Gloucester_Lr #OldMan_Lr,58,11
+4,1,82,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr,94,14
+4,1,82,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr,120,18
+4,2,83,#Goneril_Lr,#Edmund_Lr #Goneril_Lr,14,2
+4,2,84,#Edmund_Lr,#Edmund_Lr #Goneril_Lr #Oswald_Lr,6,1
+4,2,84,#Goneril_Lr,#Edmund_Lr #Goneril_Lr #Oswald_Lr,117,17
+4,2,84,#Oswald_Lr,#Edmund_Lr #Goneril_Lr #Oswald_Lr,73,10
+4,2,85,#Goneril_Lr,#Goneril_Lr #Oswald_Lr,23,5
+4,2,85,#Oswald_Lr,#Goneril_Lr #Oswald_Lr,5,1
+4,2,86,#Albany_Lr,#Albany_Lr #Goneril_Lr,204,32
+4,2,86,#Goneril_Lr,#Albany_Lr #Goneril_Lr,95,15
+4,2,87,#Albany_Lr,#Albany_Lr #Goneril_Lr #MESSENGERS.X.1_Lr,29,6
+4,2,87,#Goneril_Lr,#Albany_Lr #Goneril_Lr #MESSENGERS.X.1_Lr,38,5
+4,2,87,#MESSENGERS.X.1_Lr,#Albany_Lr #Goneril_Lr #MESSENGERS.X.1_Lr,80,12
+4,2,88,#Albany_Lr,#Albany_Lr #MESSENGERS.X.1_Lr,45,7
+4,2,88,#MESSENGERS.X.1_Lr,#Albany_Lr #MESSENGERS.X.1_Lr,37,5
+4,3,89,#ATTENDANTS.X.4_Lr,#ATTENDANTS.X.4_Lr #Kent_Lr,229,35
+4,3,89,#Kent_Lr,#ATTENDANTS.X.4_Lr #Kent_Lr,203,31
+4,5,93,#Oswald_Lr,#Oswald_Lr #Regan_Lr,59,12
+4,5,93,#Regan_Lr,#Oswald_Lr #Regan_Lr,255,33
+4,6,94,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr,414,61
+4,6,94,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr,240,37
+4,6,95,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr #Lear_Lr,42,9
+4,6,95,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr #Lear_Lr,67,11
+4,6,95,#Lear_Lr,#Edgar_Lr #Gloucester_Lr #Lear_Lr,723,87
+4,6,96,#ATTENDANTS.CORDELIA.1_Lr,#ATTENDANTS.CORDELIA.1_Lr #Edgar_Lr #Gloucester_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,26,5
+4,6,96,#Lear_Lr,#ATTENDANTS.CORDELIA.1_Lr #Edgar_Lr #Gloucester_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,99,13
+4,6,97,#ATTENDANTS.CORDELIA.1_Lr,#ATTENDANTS.CORDELIA.1_Lr #Edgar_Lr #Gloucester_Lr,75,11
+4,6,97,#Edgar_Lr,#ATTENDANTS.CORDELIA.1_Lr #Edgar_Lr #Gloucester_Lr,31,6
+4,6,98,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr,37,5
+4,6,98,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr,40,7
+4,6,99,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr #Oswald_Lr,309,39
+4,6,99,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr #Oswald_Lr,59,9
+4,6,99,#Oswald_Lr,#Edgar_Lr #Gloucester_Lr #Oswald_Lr,109,16
+4,7,100,#Cordelia_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr,93,13
+4,7,100,#Doctor_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr,17,4
+4,7,100,#Kent_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr,47,7
+4,7,101,#ATTENDANTS.CORDELIA.1_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,13,2
+4,7,101,#Cordelia_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,188,28
+4,7,101,#Doctor_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,75,10
+4,7,101,#Kent_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,9,2
+4,7,101,#Lear_Lr,#ATTENDANTS.CORDELIA.1_Lr #Cordelia_Lr #Doctor_Lr #Kent_Lr #Lear_Lr #SERVANTS.CORDELIA_Lr,260,33
+4,7,102,#ATTENDANTS.CORDELIA.1_Lr,#ATTENDANTS.CORDELIA.1_Lr #Kent_Lr,43,7
+4,7,102,#Kent_Lr,#ATTENDANTS.CORDELIA.1_Lr #Kent_Lr,26,4
+4,7,103,#Kent_Lr,#Kent_Lr,17,2
+5,1,104,#Edmund_Lr,#ATTENDANTS.REGAN_Lr #Edmund_Lr #Regan_Lr #SOLDIERS.REGAN_Lr,57,9
+5,1,104,#Regan_Lr,#ATTENDANTS.REGAN_Lr #Edmund_Lr #Regan_Lr #SOLDIERS.REGAN_Lr,75,11
+5,1,105,#Albany_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,78,10
+5,1,105,#Edmund_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,12,2
+5,1,105,#Goneril_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,39,7
+5,1,105,#Regan_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,16,3
+5,1,106,#Albany_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,4,1
+5,1,106,#Edgar_Lr,#ATTENDANTS.REGAN_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.GONERIL_Lr #SOLDIERS.REGAN_Lr,14,2
+5,1,107,#Albany_Lr,#Albany_Lr #Edgar_Lr,7,1
+5,1,107,#Edgar_Lr,#Albany_Lr #Edgar_Lr,72,10
+5,1,108,#Albany_Lr,#Albany_Lr,9,1
+5,1,109,#Albany_Lr,#Albany_Lr #Edmund_Lr,5,1
+5,1,109,#Edmund_Lr,#Albany_Lr #Edmund_Lr,29,4
+5,1,110,#Edmund_Lr,#Edmund_Lr,122,15
+5,2,111,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr,29,4
+5,2,111,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr,5,1
+5,2,112,#Edgar_Lr,#Edgar_Lr #Gloucester_Lr,44,6
+5,2,112,#Gloucester_Lr,#Edgar_Lr #Gloucester_Lr,13,2
+5,3,113,#Cordelia_Lr,#Cordelia_Lr #Edmund_Lr #Lear_Lr #SOLDIERS.CAPTAINS.1_Lr #SOLDIERS_Lr,37,5
+5,3,113,#Edmund_Lr,#Cordelia_Lr #Edmund_Lr #Lear_Lr #SOLDIERS.CAPTAINS.1_Lr #SOLDIERS_Lr,22,4
+5,3,113,#Lear_Lr,#Cordelia_Lr #Edmund_Lr #Lear_Lr #SOLDIERS.CAPTAINS.1_Lr #SOLDIERS_Lr,161,21
+5,3,114,#Edmund_Lr,#Edmund_Lr #SOLDIERS.CAPTAINS.1_Lr,93,12
+5,3,114,#SOLDIERS.CAPTAINS.1_Lr,#Edmund_Lr #SOLDIERS.CAPTAINS.1_Lr,22,3
+5,3,115,#Albany_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,212,32
+5,3,115,#Edmund_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,161,24
+5,3,115,#Goneril_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,49,9
+5,3,115,#Regan_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,117,19
+5,3,116,#Albany_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,11,2
+5,3,116,#Herald_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,45,7
+5,3,116,#SOLDIERS.CAPTAINS.2_Lr,#Albany_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,2,1
+5,3,117,#Albany_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,59,10
+5,3,117,#Edgar_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,148,23
+5,3,117,#Edmund_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,88,11
+5,3,117,#Goneril_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,48,7
+5,3,117,#Herald_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,14,3
+5,3,118,#Albany_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,71,11
+5,3,118,#Edgar_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,347,46
+5,3,118,#Edmund_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,84,10
+5,3,119,#ATTENDANTS.ALBANY_Lr,#ATTENDANTS.ALBANY_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,33,5
+5,3,119,#Albany_Lr,#ATTENDANTS.ALBANY_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,6,2
+5,3,119,#Edgar_Lr,#ATTENDANTS.ALBANY_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,12,3
+5,3,119,#Edmund_Lr,#ATTENDANTS.ALBANY_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,13,2
+5,3,120,#Albany_Lr,#ATTENDANTS.ALBANY_Lr #Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #Kent_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,8,1
+5,3,121,#Albany_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #Kent_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,42,8
+5,3,121,#Kent_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Herald_Lr #Kent_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,15,3
+5,3,122,#Albany_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,22,4
+5,3,122,#Edgar_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,18,4
+5,3,122,#Edmund_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,93,14
+5,3,122,#Kent_Lr,#Albany_Lr #Edgar_Lr #Edmund_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,3,1
+5,3,123,#ATTENDANTS.CORDELIA.1_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,6,1
+5,3,123,#Albany_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,19,3
+5,3,123,#Edgar_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,12,3
+5,3,123,#Kent_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,74,12
+5,3,123,#Lear_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,216,31
+5,3,124,#Albany_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #MESSENGERS.X.3_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,102,14
+5,3,124,#Edgar_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #MESSENGERS.X.3_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,51,8
+5,3,124,#Kent_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #MESSENGERS.X.3_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,59,8
+5,3,124,#Lear_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #MESSENGERS.X.3_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,58,7
+5,3,124,#MESSENGERS.X.3_Lr,#ATTENDANTS.CORDELIA.1_Lr #Albany_Lr #Cordelia_Lr #Edgar_Lr #Goneril_Lr #Herald_Lr #Kent_Lr #Lear_Lr #MESSENGERS.X.3_Lr #Regan_Lr #SOLDIERS.CAPTAINS.2_Lr #SOLDIERS_Lr,5,1

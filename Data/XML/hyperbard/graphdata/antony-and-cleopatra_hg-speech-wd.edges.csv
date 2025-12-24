@@ -1,0 +1,382 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Philo_Ant,#Demetrius_Ant #Philo_Ant,76,10
+1,1,2,#Antony_JC,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #Mardian_Ant #Philo_Ant,19,3
+1,1,2,#Cleopatra_Ant,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #Mardian_Ant #Philo_Ant,18,2
+1,1,2,#Philo_Ant,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #Mardian_Ant #Philo_Ant,28,4
+1,1,3,#Antony_JC,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #MESSENGERS.X.1_Ant #Mardian_Ant #Philo_Ant,167,24
+1,1,3,#Cleopatra_Ant,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #MESSENGERS.X.1_Ant #Mardian_Ant #Philo_Ant,127,20
+1,1,3,#MESSENGERS.X.1_Ant,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Demetrius_Ant #EUNUCHS_Ant #Iras_Ant #MESSENGERS.X.1_Ant #Mardian_Ant #Philo_Ant,6,1
+1,1,4,#Demetrius_Ant,#Demetrius_Ant #MESSENGERS.X.1_Ant #Philo_Ant,35,5
+1,1,4,#Philo_Ant,#Demetrius_Ant #MESSENGERS.X.1_Ant #Philo_Ant,21,3
+1,2,5,#Alexas_Ant,#Alexas_Ant #Charmian_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,52,10
+1,2,5,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,285,42
+1,2,5,#Enobarbus_Ant,#Alexas_Ant #Charmian_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,27,5
+1,2,5,#Iras_Ant,#Alexas_Ant #Charmian_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,87,12
+1,2,5,#Soothsayer_Ant,#Alexas_Ant #Charmian_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,78,13
+1,2,6,#Alexas_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,7,1
+1,2,6,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,2,1
+1,2,6,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,32,5
+1,2,6,#Enobarbus_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,3,2
+1,2,7,#Cleopatra_Ant,#Alexas_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #MESSENGERS.ANTONY.1_Ant #Mardian_Ant #SERVANTS.Lamprius_Ant #SERVANTS.Lucillius_Ant #SERVANTS.Rannius_Ant #Soothsayer_Ant,9,1
+1,2,8,#Antony_JC,#Antony_JC #MESSENGERS.ANTONY.1_Ant,109,14
+1,2,8,#MESSENGERS.ANTONY.1_Ant,#Antony_JC #MESSENGERS.ANTONY.1_Ant,83,16
+1,2,9,#Antony_JC,#Antony_JC #MESSENGERS.ANTONY.2_Ant,15,3
+1,2,9,#MESSENGERS.ANTONY.2_Ant,#Antony_JC #MESSENGERS.ANTONY.2_Ant,9,2
+1,2,10,#Antony_JC,#Antony_JC,12,2
+1,2,11,#Antony_JC,#Antony_JC #MESSENGERS.ANTONY.3_Ant,8,3
+1,2,11,#MESSENGERS.ANTONY.3_Ant,#Antony_JC #MESSENGERS.ANTONY.3_Ant,22,4
+1,2,12,#Antony_JC,#Antony_JC,73,9
+1,2,13,#Antony_JC,#Antony_JC #Enobarbus_Ant,208,31
+1,2,13,#Enobarbus_Ant,#Antony_JC #Enobarbus_Ant,298,38
+1,3,14,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,6,1
+1,3,14,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,39,5
+1,3,15,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,48,6
+1,3,15,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,17,2
+1,3,16,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Iras_Ant,278,49
+1,3,16,#Charmian_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Iras_Ant,4,1
+1,3,16,#Cleopatra_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Iras_Ant,459,63
+1,4,17,#Lepidus_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #Octavius_JC,40,6
+1,4,17,#Octavius_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #Octavius_JC,229,31
+1,4,18,#Lepidus_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #Octavius_JC,3,1
+1,4,18,#MESSENGERS.CAESAR.1_Ant,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #Octavius_JC,49,7
+1,4,18,#Octavius_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #Octavius_JC,63,8
+1,4,19,#Lepidus_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #MESSENGERS.CAESAR.2_Ant #Octavius_JC,50,8
+1,4,19,#MESSENGERS.CAESAR.2_Ant,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #MESSENGERS.CAESAR.2_Ant #Octavius_JC,67,10
+1,4,19,#Octavius_JC,#ATTENDANTS.ROMAN_Ant #Lepidus_JC #MESSENGERS.CAESAR.1_Ant #MESSENGERS.CAESAR.2_Ant #Octavius_JC,176,26
+1,5,20,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,14,4
+1,5,20,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,196,29
+1,5,20,#Mardian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,36,6
+1,5,21,#Alexas_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,125,18
+1,5,21,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,17,4
+1,5,21,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,211,32
+2,1,22,#Menas_Ant,#Menas_Ant #Menecrates_Ant #Pompey_Ant,53,9
+2,1,22,#Pompey_Ant,#Menas_Ant #Menecrates_Ant #Pompey_Ant,164,23
+2,1,23,#Menas_Ant,#Menas_Ant #Menecrates_Ant #Pompey_Ant #Varrius_Ant,30,5
+2,1,23,#Pompey_Ant,#Menas_Ant #Menecrates_Ant #Pompey_Ant #Varrius_Ant,140,21
+2,1,23,#Varrius_Ant,#Menas_Ant #Menecrates_Ant #Pompey_Ant #Varrius_Ant,27,4
+2,2,24,#Enobarbus_Ant,#Enobarbus_Ant #Lepidus_JC,57,9
+2,2,24,#Lepidus_JC,#Enobarbus_Ant #Lepidus_JC,51,7
+2,2,25,#Enobarbus_Ant,#Antony_JC #Enobarbus_Ant #Lepidus_JC #Ventidius_Ant,3,1
+2,2,26,#Agrippa_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,135,19
+2,2,26,#Antony_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,584,83
+2,2,26,#Enobarbus_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,68,9
+2,2,26,#Lepidus_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,95,17
+2,2,26,#Maecenas_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,28,4
+2,2,26,#Octavius_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Octavius_JC #Ventidius_Ant,349,57
+2,2,27,#Agrippa_Ant,#Agrippa_Ant #Enobarbus_Ant #Maecenas_Ant,49,11
+2,2,27,#Enobarbus_Ant,#Agrippa_Ant #Enobarbus_Ant #Maecenas_Ant,418,60
+2,2,27,#Maecenas_Ant,#Agrippa_Ant #Enobarbus_Ant #Maecenas_Ant,73,11
+2,3,28,#Antony_JC,#Antony_JC #Octavia_Ant #Octavius_JC,49,8
+2,3,28,#Octavia_Ant,#Antony_JC #Octavia_Ant #Octavius_JC,16,3
+2,3,28,#Octavius_JC,#Antony_JC #Octavia_Ant #Octavius_JC,1,1
+2,3,29,#Antony_JC,#Antony_JC #Soothsayer_Ant,39,7
+2,3,29,#Soothsayer_Ant,#Antony_JC #Soothsayer_Ant,131,18
+2,3,30,#Antony_JC,#Antony_JC,78,9
+2,3,31,#Antony_JC,#Antony_JC #Ventidius_Ant,15,3
+2,4,32,#Agrippa_Ant,#Agrippa_Ant #Lepidus_JC #Maecenas_Ant,11,2
+2,4,32,#Agrippa_Ant #Maecenas_Ant,#Agrippa_Ant #Lepidus_JC #Maecenas_Ant,3,1
+2,4,32,#Lepidus_JC,#Agrippa_Ant #Lepidus_JC #Maecenas_Ant,43,8
+2,4,32,#Maecenas_Ant,#Agrippa_Ant #Lepidus_JC #Maecenas_Ant,14,3
+2,5,33,#Alexas_Ant #Charmian_Ant #Iras_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,3,1
+2,5,33,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,13,2
+2,5,34,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,33,5
+2,5,34,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,135,18
+2,5,34,#Mardian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,6,1
+2,5,35,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant #Mardian_Ant,339,48
+2,5,35,#MESSENGERS.X.2_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant #Mardian_Ant,90,18
+2,5,36,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,15,3
+2,5,36,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,56,8
+2,5,37,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant #Mardian_Ant,145,21
+2,5,37,#MESSENGERS.X.2_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant #Mardian_Ant,42,7
+2,5,38,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,7,3
+2,5,38,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,56,7
+2,5,39,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,47,7
+2,6,40,#Agrippa_Ant #Antony_JC #Lepidus_JC #Maecenas_Ant #Octavius_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,5,1
+2,6,40,#Antony_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,94,14
+2,6,40,#Antony_JC #Lepidus_JC #Octavius_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,3,1
+2,6,40,#Enobarbus_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,55,9
+2,6,40,#Lepidus_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,23,4
+2,6,40,#Octavius_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,76,14
+2,6,40,#Pompey_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SOLDIERS_Ant,422,65
+2,6,41,#Enobarbus_Ant,#Enobarbus_Ant #Menas_Ant,240,35
+2,6,41,#Menas_Ant,#Enobarbus_Ant #Menas_Ant,148,23
+2,7,42,#SERVANTS.0.1_Ant,#SERVANTS.0.1_Ant #SERVANTS_Ant,21,3
+2,7,43,#SERVANTS.0.1_Ant,#SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,45,6
+2,7,43,#SERVANTS.0.2_Ant,#SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,58,7
+2,7,44,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,14,2
+2,7,44,#Antony_JC,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,196,29
+2,7,44,#Boy_Ant,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,25,4
+2,7,44,#Enobarbus_Ant,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,94,16
+2,7,44,#Lepidus_JC,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,71,12
+2,7,44,#Menas_Ant,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,182,28
+2,7,44,#Octavius_JC,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,105,18
+2,7,44,#Pompey_Ant,#Agrippa_Ant #Antony_JC #Boy_Ant #CAPTAINS_Ant #Enobarbus_Ant #Lepidus_JC #Maecenas_Ant #Menas_Ant #Octavius_JC #Pompey_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant #SERVANTS_Ant,191,29
+2,7,45,#Enobarbus_Ant,#Enobarbus_Ant #Menas_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant,11,2
+2,7,45,#Menas_Ant,#Enobarbus_Ant #Menas_Ant #SERVANTS.0.1_Ant #SERVANTS.0.2_Ant,32,6
+3,1,46,#Silius_Ant,#SOLDIERS_Ant #Silius_Ant #Ventidius_Ant,67,12
+3,1,46,#Ventidius_Ant,#SOLDIERS_Ant #Silius_Ant #Ventidius_Ant,220,30
+3,2,47,#Agrippa_Ant,#Agrippa_Ant #Enobarbus_Ant,46,8
+3,2,47,#Enobarbus_Ant,#Agrippa_Ant #Enobarbus_Ant,121,19
+3,2,48,#Agrippa_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,30,5
+3,2,48,#Antony_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,125,20
+3,2,48,#Enobarbus_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,41,6
+3,2,48,#Lepidus_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,13,2
+3,2,48,#Octavia_Ant,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,17,3
+3,2,48,#Octavius_JC,#Agrippa_Ant #Antony_JC #Enobarbus_Ant #Lepidus_JC #Octavia_Ant #Octavius_JC,135,20
+3,3,49,#Alexas_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,4,1
+3,3,49,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,11,2
+3,3,50,#Alexas_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant,16,3
+3,3,50,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant,14,4
+3,3,50,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant,159,28
+3,3,50,#MESSENGERS.X.2_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant #MESSENGERS.X.2_Ant,92,17
+3,3,51,#Charmian_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,21,5
+3,3,51,#Cleopatra_Ant,#Alexas_Ant #Charmian_Ant #Cleopatra_Ant #Iras_Ant,61,8
+3,4,52,#Antony_JC,#Antony_JC #Octavia_Ant,186,25
+3,4,52,#Octavia_Ant,#Antony_JC #Octavia_Ant,112,16
+3,5,53,#Enobarbus_Ant,#Enobarbus_Ant #Eros_Ant,55,9
+3,5,53,#Eros_Ant,#Enobarbus_Ant #Eros_Ant,118,18
+3,6,54,#Agrippa_Ant,#Agrippa_Ant #Maecenas_Ant #Octavius_JC,22,4
+3,6,54,#Maecenas_Ant,#Agrippa_Ant #Maecenas_Ant #Octavius_JC,15,3
+3,6,54,#Octavius_JC,#Agrippa_Ant #Maecenas_Ant #Octavius_JC,246,37
+3,6,55,#Agrippa_Ant,#ATTENDANTS.OCTAVIA_Ant #Agrippa_Ant #Maecenas_Ant #Octavia_Ant #Octavius_JC,2,1
+3,6,55,#Maecenas_Ant,#ATTENDANTS.OCTAVIA_Ant #Agrippa_Ant #Maecenas_Ant #Octavia_Ant #Octavius_JC,37,6
+3,6,55,#Octavia_Ant,#ATTENDANTS.OCTAVIA_Ant #Agrippa_Ant #Maecenas_Ant #Octavia_Ant #Octavius_JC,89,14
+3,6,55,#Octavius_JC,#ATTENDANTS.OCTAVIA_Ant #Agrippa_Ant #Maecenas_Ant #Octavia_Ant #Octavius_JC,336,47
+3,7,56,#Cleopatra_Ant,#Cleopatra_Ant #Enobarbus_Ant,81,11
+3,7,56,#Enobarbus_Ant,#Cleopatra_Ant #Enobarbus_Ant,80,12
+3,7,57,#Antony_JC,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant,99,16
+3,7,57,#Canidius_Ant,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant,35,6
+3,7,57,#Cleopatra_Ant,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant,20,4
+3,7,57,#Enobarbus_Ant,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant,113,18
+3,7,58,#Antony_JC,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant #MESSENGERS.X.3_Ant,2,1
+3,7,58,#MESSENGERS.X.3_Ant,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant #MESSENGERS.X.3_Ant,13,2
+3,7,59,#Antony_JC,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant,35,5
+3,7,60,#Antony_JC,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant #SOLDIERS.ANTONY.X.1_Ant,7,2
+3,7,60,#SOLDIERS.ANTONY.X.1_Ant,#Antony_JC #Canidius_Ant #Cleopatra_Ant #Enobarbus_Ant #SOLDIERS.ANTONY.X.1_Ant,44,6
+3,7,61,#Canidius_Ant,#Canidius_Ant #SOLDIERS.ANTONY.X.1_Ant,56,9
+3,7,61,#SOLDIERS.ANTONY.X.1_Ant,#Canidius_Ant #SOLDIERS.ANTONY.X.1_Ant,43,7
+3,7,62,#Canidius_Ant,#Canidius_Ant #MESSENGERS.X.4_Ant #SOLDIERS.ANTONY.X.1_Ant,12,2
+3,7,62,#MESSENGERS.X.4_Ant,#Canidius_Ant #MESSENGERS.X.4_Ant #SOLDIERS.ANTONY.X.1_Ant,4,1
+3,8,63,#Octavius_JC,#Octavius_JC #SOLDIERS.CAESAR_Ant #Taurus_Ant,30,6
+3,8,63,#Taurus_Ant,#Octavius_JC #SOLDIERS.CAESAR_Ant #Taurus_Ant,2,1
+3,9,64,#Antony_JC,#Antony_JC #Enobarbus_Ant,30,4
+3,10,65,#Enobarbus_Ant,#Enobarbus_Ant,30,4
+3,10,66,#Enobarbus_Ant,#Enobarbus_Ant #Scarus_Ant,26,6
+3,10,66,#Scarus_Ant,#Enobarbus_Ant #Scarus_Ant,127,19
+3,10,67,#Canidius_Ant,#Canidius_Ant #Enobarbus_Ant #Scarus_Ant,43,6
+3,10,67,#Enobarbus_Ant,#Canidius_Ant #Enobarbus_Ant #Scarus_Ant,8,2
+3,10,67,#Scarus_Ant,#Canidius_Ant #Enobarbus_Ant #Scarus_Ant,12,2
+3,10,68,#Canidius_Ant,#Canidius_Ant #Enobarbus_Ant,19,3
+3,10,69,#Enobarbus_Ant,#Enobarbus_Ant,17,3
+3,11,70,#ATTENDANTS.ANTONY_Ant,#ATTENDANTS.ANTONY_Ant #Antony_JC,3,1
+3,11,70,#Antony_JC,#ATTENDANTS.ANTONY_Ant #Antony_JC,200,24
+3,11,71,#Antony_JC,#ATTENDANTS.ANTONY_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #Iras_Ant,250,35
+3,11,71,#Charmian_Ant,#ATTENDANTS.ANTONY_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #Iras_Ant,5,2
+3,11,71,#Cleopatra_Ant,#ATTENDANTS.ANTONY_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #Iras_Ant,35,8
+3,11,71,#Eros_Ant,#ATTENDANTS.ANTONY_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #Iras_Ant,43,8
+3,11,71,#Iras_Ant,#ATTENDANTS.ANTONY_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #Iras_Ant,20,4
+3,12,72,#Dolabella_Ant,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,32,5
+3,12,72,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,10,2
+3,12,73,#Ambassador_Ant,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Ambassador_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,101,14
+3,12,73,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Ambassador_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,57,9
+3,12,74,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,78,12
+3,12,74,#Thidias_Ant,#ATTENDANTS.CAESAR_Ant #Agrippa_Ant #Dolabella_Ant #Octavius_JC #Thidias_Ant,6,2
+3,13,75,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,15,3
+3,13,75,#Enobarbus_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,81,11
+3,13,76,#Ambassador_Ant,#Ambassador_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,6,2
+3,13,76,#Antony_JC,#Ambassador_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,110,17
+3,13,76,#Cleopatra_Ant,#Ambassador_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,4,1
+3,13,77,#Enobarbus_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,63,9
+3,13,78,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.1_Ant,24,3
+3,13,78,#SERVANTS.X.1_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.1_Ant,4,1
+3,13,79,#Enobarbus_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,46,6
+3,13,80,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,30,7
+3,13,80,#Enobarbus_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,64,8
+3,13,80,#Thidias_Ant,#Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,62,11
+3,13,81,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Thidias_Ant,69,11
+3,13,81,#Thidias_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Thidias_Ant,96,14
+3,13,82,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,49,8
+3,13,82,#Enobarbus_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,4,1
+3,13,82,#Thidias_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #Thidias_Ant,16,3
+3,13,83,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS_Ant #Thidias_Ant,82,12
+3,13,83,#Enobarbus_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS_Ant #Thidias_Ant,13,2
+3,13,83,#Thidias_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS_Ant #Thidias_Ant,2,1
+3,13,84,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,202,28
+3,13,84,#Cleopatra_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,12,3
+3,13,85,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.2_Ant #Thidias_Ant,170,22
+3,13,85,#SERVANTS.X.2_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.2_Ant #Thidias_Ant,7,2
+3,13,86,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.2_Ant,218,31
+3,13,86,#Cleopatra_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.X.2_Ant,122,18
+3,13,87,#Enobarbus_Ant,#Enobarbus_Ant,58,7
+4,1,88,#Maecenas_Ant,#Agrippa_Ant #Maecenas_Ant #Octavius_JC #SOLDIERS.CAESAR_Ant,33,5
+4,1,88,#Octavius_JC,#Agrippa_Ant #Maecenas_Ant #Octavius_JC #SOLDIERS.CAESAR_Ant,103,14
+4,2,89,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,49,8
+4,2,89,#Enobarbus_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant,21,4
+4,2,90,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant,71,11
+4,2,90,#Cleopatra_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant,3,1
+4,2,90,#Enobarbus_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant,13,2
+4,2,91,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant #SERVANTS_Ant,182,25
+4,2,91,#Cleopatra_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant #SERVANTS_Ant,4,1
+4,2,91,#Enobarbus_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant #SERVANTS_Ant,30,5
+4,2,91,#SERVANTS_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Enobarbus_Ant #Iras_Ant #SERVANTS.ANTONY_Ant #SERVANTS_Ant,3,1
+4,3,92,#SOLDIERS.ANTONY.0.1_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY_Ant,6,1
+4,3,93,#SOLDIERS.ANTONY.0.1_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY_Ant,6,2
+4,3,93,#SOLDIERS.ANTONY.0.2_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY_Ant,24,3
+4,3,94,#SOLDIERS.ANTONY.0.2_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,4,1
+4,3,95,#SOLDIERS.ANTONY.0.1_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,14,3
+4,3,95,#SOLDIERS.ANTONY.0.2_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,22,5
+4,3,95,#SOLDIERS.ANTONY.0.3_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,7,2
+4,3,96,#SOLDIERS.ANTONY.0.1_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0.4_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,39,6
+4,3,96,#SOLDIERS.ANTONY.0.2_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0.4_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,13,3
+4,3,96,#SOLDIERS.ANTONY.0.3_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0.4_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,8,2
+4,3,96,#SOLDIERS.ANTONY.0.4_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0.4_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,6,1
+4,3,96,#SOLDIERS.ANTONY_Ant,#SOLDIERS.ANTONY.0.1_Ant #SOLDIERS.ANTONY.0.2_Ant #SOLDIERS.ANTONY.0.3_Ant #SOLDIERS.ANTONY.0.4_Ant #SOLDIERS.ANTONY.0_Ant #SOLDIERS.ANTONY_Ant,11,2
+4,4,97,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant,12,2
+4,4,97,#Cleopatra_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant,3,1
+4,4,98,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant,108,16
+4,4,98,#Cleopatra_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant,20,4
+4,4,98,#Eros_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant,2,1
+4,4,99,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #SOLDIERS.ANTONY.X.2_Ant,28,4
+4,4,99,#SOLDIERS.ANTONY.X.2_Ant,#ATTENDANTS_Ant #Antony_JC #Charmian_Ant #Cleopatra_Ant #Eros_Ant #SOLDIERS.ANTONY.X.2_Ant,18,3
+4,4,100,#Antony_JC,#ATTENDANTS_Ant #Antony_JC #CAPTAINS.0.1_Ant #CAPTAINS_Ant #Charmian_Ant #Cleopatra_Ant #Eros_Ant #SOLDIERS.ANTONY.X.2_Ant #SOLDIERS.ANTONY_Ant,78,11
+4,4,100,#CAPTAINS.0.1_Ant,#ATTENDANTS_Ant #Antony_JC #CAPTAINS.0.1_Ant #CAPTAINS_Ant #Charmian_Ant #Cleopatra_Ant #Eros_Ant #SOLDIERS.ANTONY.X.2_Ant #SOLDIERS.ANTONY_Ant,7,1
+4,4,100,#CAPTAINS_Ant #SOLDIERS.ANTONY_Ant,#ATTENDANTS_Ant #Antony_JC #CAPTAINS.0.1_Ant #CAPTAINS_Ant #Charmian_Ant #Cleopatra_Ant #Eros_Ant #SOLDIERS.ANTONY.X.2_Ant #SOLDIERS.ANTONY_Ant,3,1
+4,4,101,#Charmian_Ant,#ATTENDANTS_Ant #CAPTAINS.0.1_Ant #Charmian_Ant #Cleopatra_Ant,6,1
+4,4,101,#Cleopatra_Ant,#ATTENDANTS_Ant #CAPTAINS.0.1_Ant #Charmian_Ant #Cleopatra_Ant,24,4
+4,5,102,#Antony_JC,#Antony_JC #Eros_Ant #SOLDIERS.ANTONY.X.3_Ant,71,11
+4,5,102,#Eros_Ant,#Antony_JC #Eros_Ant #SOLDIERS.ANTONY.X.3_Ant,10,2
+4,5,102,#SOLDIERS.ANTONY.X.3_Ant,#Antony_JC #Eros_Ant #SOLDIERS.ANTONY.X.3_Ant,63,12
+4,6,103,#Agrippa_Ant,#Agrippa_Ant #Dolabella_Ant #Enobarbus_Ant #Octavius_JC,3,1
+4,6,103,#Octavius_JC,#Agrippa_Ant #Dolabella_Ant #Enobarbus_Ant #Octavius_JC,18,3
+4,6,104,#Octavius_JC,#Dolabella_Ant #Enobarbus_Ant #Octavius_JC,20,3
+4,6,105,#MESSENGERS.X.5_Ant,#Dolabella_Ant #Enobarbus_Ant #MESSENGERS.X.5_Ant #Octavius_JC,6,2
+4,6,105,#Octavius_JC,#Dolabella_Ant #Enobarbus_Ant #MESSENGERS.X.5_Ant #Octavius_JC,21,4
+4,6,106,#Enobarbus_Ant,#Enobarbus_Ant,64,9
+4,6,107,#Enobarbus_Ant,#Enobarbus_Ant #SOLDIERS.CAESAR.X.1_Ant,4,1
+4,6,107,#SOLDIERS.CAESAR.X.1_Ant,#Enobarbus_Ant #SOLDIERS.CAESAR.X.1_Ant,62,10
+4,6,108,#Enobarbus_Ant,#Enobarbus_Ant,83,11
+4,7,109,#Agrippa_Ant,#Agrippa_Ant #SOLDIERS.CAESAR_Ant,18,3
+4,7,110,#Antony_JC,#Antony_JC #Scarus_Ant,6,2
+4,7,110,#Scarus_Ant,#Antony_JC #Scarus_Ant,53,7
+4,7,111,#Antony_JC,#Antony_JC #Eros_Ant #Scarus_Ant,18,3
+4,7,111,#Eros_Ant,#Antony_JC #Eros_Ant #Scarus_Ant,12,2
+4,7,111,#Scarus_Ant,#Antony_JC #Eros_Ant #Scarus_Ant,23,4
+4,8,112,#Antony_JC,#Antony_JC #SOLDIERS.ANTONY_Ant #Scarus_Ant,93,12
+4,8,113,#Antony_JC,#Antony_JC #Cleopatra_Ant #SOLDIERS.ANTONY_Ant #Scarus_Ant,200,33
+4,8,113,#Cleopatra_Ant,#Antony_JC #Cleopatra_Ant #SOLDIERS.ANTONY_Ant #Scarus_Ant,28,5
+4,9,114,#Enobarbus_Ant,#Enobarbus_Ant #WATCHMEN.1_Ant #WATCHMEN.2_Ant #WATCHMEN.Sentry_Ant,113,17
+4,9,114,#WATCHMEN.1_Ant,#Enobarbus_Ant #WATCHMEN.1_Ant #WATCHMEN.2_Ant #WATCHMEN.Sentry_Ant,25,5
+4,9,114,#WATCHMEN.2_Ant,#Enobarbus_Ant #WATCHMEN.1_Ant #WATCHMEN.2_Ant #WATCHMEN.Sentry_Ant,26,5
+4,9,114,#WATCHMEN.Sentry_Ant,#Enobarbus_Ant #WATCHMEN.1_Ant #WATCHMEN.2_Ant #WATCHMEN.Sentry_Ant,91,14
+4,10,115,#Antony_JC,#Antony_JC #SOLDIERS.ANTONY_Ant #Scarus_Ant,67,9
+4,10,115,#Scarus_Ant,#Antony_JC #SOLDIERS.ANTONY_Ant #Scarus_Ant,4,1
+4,11,116,#Octavius_JC,#Octavius_JC #SOLDIERS.CAESAR_Ant,34,4
+4,12,117,#Antony_JC,#Antony_JC #Scarus_Ant,24,3
+4,12,118,#Scarus_Ant,#Scarus_Ant,48,7
+4,12,119,#Antony_JC,#Antony_JC #Scarus_Ant,69,9
+4,12,120,#Antony_JC,#Antony_JC,104,14
+4,12,121,#Antony_JC,#Antony_JC #Cleopatra_Ant,60,9
+4,12,121,#Cleopatra_Ant,#Antony_JC #Cleopatra_Ant,8,1
+4,12,122,#Antony_JC,#Antony_JC,91,13
+4,13,123,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,26,5
+4,13,123,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Mardian_Ant,58,9
+4,14,124,#Antony_JC,#Antony_JC #Eros_Ant,164,23
+4,14,124,#Eros_Ant,#Antony_JC #Eros_Ant,10,3
+4,14,125,#Antony_JC,#Antony_JC #Eros_Ant #Mardian_Ant,49,8
+4,14,125,#Mardian_Ant,#Antony_JC #Eros_Ant #Mardian_Ant,76,12
+4,14,126,#Antony_JC,#Antony_JC #Eros_Ant,48,7
+4,14,127,#Antony_JC,#Antony_JC,95,11
+4,14,128,#Antony_JC,#Antony_JC #Eros_Ant,313,45
+4,14,128,#Eros_Ant,#Antony_JC #Eros_Ant,89,16
+4,14,129,#Antony_JC,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,16,2
+4,14,129,#GUARDS.0.1_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,3,1
+4,14,130,#Antony_JC,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,8,1
+4,14,130,#GUARDS.0.1_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,8,2
+4,14,130,#GUARDS.0.2_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,6,2
+4,14,130,#GUARDS.Dercetus_Ant #GUARDS_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,3,1
+4,14,131,#GUARDS.0.3_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS.Dercetus_Ant #GUARDS_Ant,2,1
+4,14,132,#GUARDS.Dercetus_Ant,#Antony_JC #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS.Dercetus_Ant,22,3
+4,14,133,#Diomedes_Ant,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS.Dercetus_Ant,9,2
+4,14,133,#GUARDS.Dercetus_Ant,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS.Dercetus_Ant,3,1
+4,14,134,#Antony_JC,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant,31,5
+4,14,134,#Diomedes_Ant,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant,95,15
+4,14,135,#Antony_JC,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS_Ant,67,8
+4,14,135,#GUARDS.0.1_Ant,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS_Ant,16,2
+4,14,135,#GUARDS_Ant,#Antony_JC #Diomedes_Ant #Eros_Ant #GUARDS.0.1_Ant #GUARDS.0.2_Ant #GUARDS.0.3_Ant #GUARDS_Ant,3,1
+4,15,136,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,4,1
+4,15,136,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,40,6
+4,15,137,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #Iras_Ant,5,1
+4,15,137,#Diomedes_Ant,#Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #Iras_Ant,21,3
+4,15,138,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant,43,8
+4,15,138,#Cleopatra_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant,193,27
+4,15,139,#Antony_JC,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,102,15
+4,15,139,#Charmian_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,11,4
+4,15,139,#Charmian_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,3,1
+4,15,139,#Cleopatra_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,273,36
+4,15,139,#Iras_Ant,#Antony_JC #Charmian_Ant #Cleopatra_Ant #Diomedes_Ant #GUARDS_Ant #Iras_Ant #LADIES_Ant,9,3
+5,1,140,#Dolabella_Ant,#Agrippa_Ant #Dolabella_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,3,1
+5,1,140,#Octavius_JC,#Agrippa_Ant #Dolabella_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,19,3
+5,1,141,#Agrippa_Ant,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,37,6
+5,1,141,#GUARDS.Dercetus_Ant,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,130,17
+5,1,141,#Maecenas_Ant,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,21,4
+5,1,141,#Octavius_JC,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,187,26
+5,1,142,#Egyptian_Ant,#Agrippa_Ant #Egyptian_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,37,6
+5,1,142,#Octavius_JC,#Agrippa_Ant #Egyptian_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,58,8
+5,1,143,#Octavius_JC,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,61,8
+5,1,143,#Proculeius_Ant,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,3,1
+5,1,144,#Octavius_JC,#Agrippa_Ant #GUARDS.Dercetus_Ant #Gallus_Ant #Maecenas_Ant #Octavius_JC,4,1
+5,1,145,#Agrippa_Ant #GUARDS.Dercetus_Ant #Maecenas_Ant,#Agrippa_Ant #GUARDS.Dercetus_Ant #Maecenas_Ant #Octavius_JC,1,1
+5,1,145,#Octavius_JC,#Agrippa_Ant #GUARDS.Dercetus_Ant #Maecenas_Ant #Octavius_JC,61,9
+5,2,146,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,59,8
+5,2,147,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Proculeius_Ant,113,16
+5,2,147,#Proculeius_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant #Proculeius_Ant,108,15
+5,2,148,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,6,1
+5,2,148,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,141,20
+5,2,148,#Gallus_Ant,#Charmian_Ant #Cleopatra_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,13,2
+5,2,148,#Iras_Ant,#Charmian_Ant #Cleopatra_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,2,1
+5,2,148,#Proculeius_Ant,#Charmian_Ant #Cleopatra_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,63,12
+5,2,149,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,4,1
+5,2,149,#Dolabella_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,24,4
+5,2,149,#Proculeius_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Proculeius_Ant #SOLDIERS.CAESAR_Ant,26,5
+5,2,150,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Iras_Ant,241,35
+5,2,150,#Dolabella_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Iras_Ant,93,16
+5,2,151,#ATTENDANTS.CAESAR_Ant #Gallus_Ant #Maecenas_Ant #Proculeius_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,4,1
+5,2,151,#Cleopatra_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,99,14
+5,2,151,#Dolabella_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,5,1
+5,2,151,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,124,18
+5,2,152,#Cleopatra_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant #Seleucus_Ant,225,32
+5,2,152,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant #Seleucus_Ant,19,4
+5,2,152,#Seleucus_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant #Seleucus_Ant,26,4
+5,2,153,#Cleopatra_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,35,5
+5,2,153,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,88,14
+5,2,154,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,3,1
+5,2,154,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,36,5
+5,2,154,#Iras_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,14,2
+5,2,155,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Iras_Ant,2,1
+5,2,155,#Dolabella_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #Iras_Ant,3,1
+5,2,156,#Cleopatra_Ant,#Cleopatra_Ant #Dolabella_Ant #Iras_Ant,10,4
+5,2,156,#Dolabella_Ant,#Cleopatra_Ant #Dolabella_Ant #Iras_Ant,61,9
+5,2,157,#Cleopatra_Ant,#Cleopatra_Ant #Iras_Ant,123,19
+5,2,157,#Iras_Ant,#Cleopatra_Ant #Iras_Ant,22,4
+5,2,158,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,52,8
+5,2,159,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant,3,1
+5,2,160,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.1_Ant,4,1
+5,2,160,#GUARDS.CAESAR.1_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.1_Ant,17,3
+5,2,161,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant,41,6
+5,2,162,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Countryman_Ant #GUARDS.CAESAR.1_Ant,4,1
+5,2,162,#GUARDS.CAESAR.1_Ant,#Charmian_Ant #Cleopatra_Ant #Countryman_Ant #GUARDS.CAESAR.1_Ant,4,1
+5,2,163,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Countryman_Ant,46,9
+5,2,163,#Countryman_Ant,#Charmian_Ant #Cleopatra_Ant #Countryman_Ant,252,29
+5,2,164,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,63,10
+5,2,164,#Cleopatra_Ant,#Charmian_Ant #Cleopatra_Ant #Iras_Ant,258,35
+5,2,165,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR_Ant #Iras_Ant,17,3
+5,2,165,#GUARDS.CAESAR.0.1_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR_Ant #Iras_Ant,13,3
+5,2,166,#Charmian_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Iras_Ant,17,3
+5,2,166,#GUARDS.CAESAR.0.1_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Iras_Ant,9,1
+5,2,166,#GUARDS.CAESAR.0.2_Ant,#Charmian_Ant #Cleopatra_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Iras_Ant,7,1
+5,2,167,#Dolabella_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Iras_Ant,27,5
+5,2,167,#GUARDS.CAESAR.0.2_Ant,#Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Iras_Ant,2,1
+5,2,168,#ATTENDANTS.CAESAR_Ant #Gallus_Ant #Maecenas_Ant #Proculeius_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,7,1
+5,2,168,#Dolabella_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,38,6
+5,2,168,#GUARDS.CAESAR.0.1_Ant,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,64,10
+5,2,168,#Octavius_JC,#ATTENDANTS.CAESAR_Ant #Charmian_Ant #Cleopatra_Ant #Dolabella_Ant #GUARDS.CAESAR.0.1_Ant #GUARDS.CAESAR.0.2_Ant #GUARDS.CAESAR_Ant #Gallus_Ant #Iras_Ant #Maecenas_Ant #Octavius_JC #Proculeius_Ant,159,24

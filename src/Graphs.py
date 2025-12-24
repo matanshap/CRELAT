@@ -24,7 +24,6 @@ from sklearn.decomposition import PCA
 
 def PlotHM(raw_data, save_plot, save_path):
     # Convert the data into a pandas dataframe
-    G = nx.Graph()
     df = pd.DataFrame(raw_data, columns=['char1', 'char2', 'value'])
 
     # Get a list of unique characters to define the order of axes
@@ -34,10 +33,15 @@ def PlotHM(raw_data, save_plot, save_path):
     matrix = df.pivot(index='char1', columns='char2', values='value')
     matrix = matrix.reindex(index=characters[::-1], columns=characters[::-1])  # Reversed order
     matrix = matrix.fillna(0)
+    matrix = matrix + matrix.T
+    # Create a mask to show only lower triangle (without diagonal)
+    # np.triu returns upper triangle, which we want to mask (hide)
+    # k=0 includes diagonal, k=1 excludes diagonal - we use k=0 to hide diagonal too
+    mask = np.triu(np.ones_like(matrix, dtype=bool), k=0)  # k=0 includes diagonal in mask
     # Create the heatmap using seaborn
     # Increase figure size to accommodate more precise numbers
     plt.figure(figsize=(max(12, len(characters) * 0.8), max(10, len(characters) * 0.8)))
-    ax = sns.heatmap(matrix, cmap='coolwarm', annot=True, fmt='.3f', annot_kws={'size': 8})
+    ax = sns.heatmap(matrix, cmap='coolwarm', annot=True, fmt='.3f', annot_kws={'size': 8}, mask=mask)
 
     # Ensure same labels on both x and y axes
     ax.set_xticklabels(ax.get_xticklabels(), rotation=45, ha='right')

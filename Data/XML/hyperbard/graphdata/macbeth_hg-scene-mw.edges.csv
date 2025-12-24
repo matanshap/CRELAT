@@ -1,0 +1,29 @@
+act,scene,n_tokens,n_lines,onstage
+1,1,61,13,#WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac
+1,2,485,78,#ATTENDANTS_Mac #Angus_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.Captain_Mac
+1,3,1143,175,#Angus_Mac #Banquo_Mac #Macbeth_Mac #Ross_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac
+1,4,467,65,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #Lennox_Mac #Macbeth_Mac #Malcolm_Mac #Ross_Mac
+1,5,606,87,#LadyMacbeth_Mac #MESSENGERS.1_Mac #Macbeth_Mac
+1,6,253,39,#ATTENDANTS_Mac #Angus_Mac #Banquo_Mac #Donalbain_Mac #Duncan_Mac #LadyMacbeth_Mac #Lennox_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac
+1,7,688,96,#LadyMacbeth_Mac #Macbeth_Mac
+2,1,519,77,#Banquo_Mac #Fleance_Mac #Macbeth_Mac #SERVANTS.X.1_Mac
+2,2,619,95,#LadyMacbeth_Mac #Macbeth_Mac
+2,3,1161,172,#Banquo_Mac #Donalbain_Mac #LadyMacbeth_Mac #Lennox_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Porter_Mac #Ross_Mac
+2,4,327,56,#Macduff_Mac #OldMan_Mac #Ross_Mac
+3,1,1150,162,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #Macbeth_Mac #Ross_Mac #SERVANTS.X.2_Mac
+3,2,442,63,#LadyMacbeth_Mac #Macbeth_Mac #SERVANTS.X.3_Mac
+3,3,180,33,#Banquo_Mac #Fleance_Mac #MURDERERS.1_Mac #MURDERERS.2_Mac #MURDERERS.3_Mac
+3,4,1192,176,#ATTENDANTS_Mac #Banquo_Mac #LadyMacbeth_Mac #Lennox_Mac #MURDERERS.1_Mac #Macbeth_Mac #Ross_Mac
+3,5,246,36,#Hecate_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac
+3,6,410,56,#Lennox_Mac #Lord_Mac
+4,1,1079,177,#Banquo_Mac #Hecate_Mac #Lennox_Mac #Macbeth_Mac #SPIRITS.1_Mac #SPIRITS.2_Mac #SPIRITS.3_Mac #SPIRITS.KINGS_Mac #WITCHES.1_Mac #WITCHES.2_Mac #WITCHES.3_Mac
+4,2,671,98,#LadyMacduff_Mac #MESSENGERS.2_Mac #MURDERERS.0.1_Mac #MURDERERS_Mac #MacduffsSon_Mac #Ross_Mac
+4,3,1914,282,#Doctor1_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac
+5,1,590,84,#Doctor2_Mac #Gentlewoman_Mac #LadyMacbeth_Mac
+5,2,245,37,#Angus_Mac #Caithness_Mac #Lennox_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac
+5,3,487,76,#ATTENDANTS_Mac #Doctor2_Mac #Macbeth_Mac #SERVANTS.X.4_Mac #Seyton_Mac
+5,4,168,27,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM.0.1_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac
+5,5,424,59,#MESSENGERS.3_Mac #Macbeth_Mac #SOLDIERS.MACBETH_Mac #Seyton_Mac
+5,6,81,11,#Angus_Mac #Caithness_Mac #Macduff_Mac #Malcolm_Mac #Menteith_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac #YoungSiward_Mac
+5,7,242,36,#Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Siward_Mac #YoungSiward_Mac
+5,8,631,88,#ATTENDANTS_Mac #Macbeth_Mac #Macduff_Mac #Malcolm_Mac #Ross_Mac #SOLDIERS.MALCOLM_Mac #Siward_Mac

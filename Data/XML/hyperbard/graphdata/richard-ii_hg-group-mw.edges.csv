@@ -1,0 +1,78 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,145,20,#ATTENDANTS_R2 #Gaunt_R2 #LORDS_R2 #RichardII_R2
+1,1,2,1454,191,#ATTENDANTS_R2 #Gaunt_R2 #HenryIV_1H4 #LORDS_R2 #Mowbray_R2 #RichardII_R2
+1,2,3,578,76,#DuchessOfGloucester_R2 #Gaunt_R2
+1,3,4,45,6,#Aumerle_R2 #LordMarshal_R2
+1,3,5,152,19,#Aumerle_R2 #Gaunt_R2 #HERALDS.1_R2 #LORDS_R2 #LordMarshal_R2 #Mowbray_R2 #OFFICERS_R2 #RichardII_R2
+1,3,6,1382,186,#Aumerle_R2 #Gaunt_R2 #HERALDS.1_R2 #HERALDS.2_R2 #HenryIV_1H4 #LORDS_R2 #LordMarshal_R2 #Mowbray_R2 #OFFICERS_R2 #RichardII_R2
+1,3,7,340,43,#Aumerle_R2 #Gaunt_R2 #HERALDS.1_R2 #HERALDS.2_R2 #HenryIV_1H4 #LORDS_R2 #LordMarshal_R2 #OFFICERS_R2 #RichardII_R2
+1,3,8,481,62,#Aumerle_R2 #Gaunt_R2 #HenryIV_1H4 #LordMarshal_R2
+1,4,9,403,53,#Aumerle_R2 #Bagot_R2 #Green_R2 #RichardII_R2
+1,4,10,80,13,#Aumerle_R2 #Bagot_R2 #Bushy_R2 #Green_R2 #RichardII_R2
+2,1,11,531,74,#ATTENDANTS.GAUNT_R2 #Gaunt_R2 #York_R2
+2,1,12,555,71,#ATTENDANTS.GAUNT_R2 #Aumerle_R2 #Bagot_R2 #Bushy_R2 #Gaunt_R2 #Green_R2 #Queen_R2 #RichardII_R2 #Ross_R2 #Willoughby_R2 #York_R2
+2,1,13,70,8,#Aumerle_R2 #Bagot_R2 #Bushy_R2 #Green_R2 #Queen_R2 #RichardII_R2 #Ross_R2 #Willoughby_R2 #York_R2
+2,1,14,531,70,#Aumerle_R2 #Bagot_R2 #Bushy_R2 #Green_R2 #Northumberland_R2 #Queen_R2 #RichardII_R2 #Ross_R2 #Willoughby_R2 #York_R2
+2,1,15,71,9,#Aumerle_R2 #Bagot_R2 #Bushy_R2 #Green_R2 #Northumberland_R2 #Queen_R2 #RichardII_R2 #Ross_R2 #Willoughby_R2
+2,1,16,612,79,#Northumberland_R2 #Ross_R2 #Willoughby_R2
+2,2,17,312,41,#Bagot_R2 #Bushy_R2 #Queen_R2
+2,2,18,236,35,#Bagot_R2 #Bushy_R2 #Green_R2 #Queen_R2
+2,2,19,106,13,#Bagot_R2 #Bushy_R2 #Green_R2 #Queen_R2 #York_R2
+2,2,20,184,24,#Bagot_R2 #Bushy_R2 #Green_R2 #Queen_R2 #SERVANTS.YORK.1_R2 #York_R2
+2,2,21,106,16,#Bagot_R2 #Bushy_R2 #Green_R2 #Queen_R2 #York_R2
+2,2,22,211,28,#Bagot_R2 #Bushy_R2 #Green_R2
+2,3,23,154,20,#HenryIV_1H4 #Northumberland_R2
+2,3,24,297,39,#HenryIV_1H4 #Hotspur_R2 #Northumberland_R2
+2,3,25,83,11,#HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Ross_R2 #Willoughby_R2
+2,3,26,112,13,#Berkeley_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Ross_R2 #Willoughby_R2
+2,3,27,731,92,#Berkeley_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #Ross_R2 #Willoughby_R2 #York_R2
+2,4,28,136,17,#Salisbury_R2 #WelshCaptain_R2
+2,4,29,56,7,#Salisbury_R2
+3,1,30,274,37,#Bushy_R2 #Green_R2 #HenryIV_1H4 #LORDS_R2 #Northumberland_R2 #York_R2
+3,1,31,69,10,#HenryIV_1H4 #LORDS_R2 #York_R2
+3,2,32,481,63,#Aumerle_R2 #BishopOfCarlisle_R2 #RichardII_R2 #SOLDIERS.RICHARD_R2
+3,2,33,231,29,#Aumerle_R2 #BishopOfCarlisle_R2 #RichardII_R2 #SOLDIERS.RICHARD_R2 #Salisbury_R2
+3,2,34,1032,134,#Aumerle_R2 #BishopOfCarlisle_R2 #RichardII_R2 #SOLDIERS.RICHARD_R2 #Salisbury_R2 #Scroop_R2
+3,3,35,152,20,#ATTENDANTS.HENRY_R2 #HenryIV_1H4 #Northumberland_R2 #SOLDIERS.HENRY_R2 #York_R2
+3,3,36,308,43,#ATTENDANTS.HENRY_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #SOLDIERS.HENRY_R2 #York_R2
+3,3,37,965,128,#ATTENDANTS.HENRY_R2 #Aumerle_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #RichardII_R2 #SOLDIERS.HENRY_R2 #York_R2
+3,3,38,21,4,#ATTENDANTS.HENRY_R2 #Aumerle_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #SOLDIERS.HENRY_R2 #York_R2
+3,3,39,187,25,#ATTENDANTS.HENRY_R2 #Aumerle_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #RichardII_R2 #SOLDIERS.HENRY_R2 #York_R2
+3,4,40,17,2,#LADIES_R2 #Queen_R2
+3,4,41,157,24,#LADIES.0.1_R2 #LADIES_R2 #Queen_R2
+3,4,42,623,82,#Gardener_R2 #LADIES.0.1_R2 #LADIES_R2 #Queen_R2 #SERVANTS.GARDENER.1_R2 #SERVANTS.GARDENER.2_R2
+3,4,43,55,6,#Gardener_R2 #LADIES.0.1_R2 #SERVANTS.GARDENER.1_R2 #SERVANTS.GARDENER.2_R2
+4,1,44,3,1,#AbbotOfWestminster_R2 #Aumerle_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS_R2 #Surrey_R2
+4,1,45,842,110,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0_R2 #OFFICERS_R2 #Surrey_R2
+4,1,46,391,54,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0_R2 #OFFICERS_R2 #Surrey_R2 #York_R2
+4,1,47,31,4,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0_R2 #OFFICERS_R2 #Surrey_R2
+4,1,48,922,117,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0_R2 #OFFICERS_R2 #RichardII_R2 #Surrey_R2 #York_R2
+4,1,49,321,45,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0.1_R2 #OFFICERS.0_R2 #OFFICERS_R2 #RichardII_R2 #Surrey_R2 #York_R2
+4,1,50,12,2,#AbbotOfWestminster_R2 #Aumerle_R2 #Bagot_R2 #BishopOfCarlisle_R2 #Fitzwater_R2 #HERALDS.X_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS.1_R2 #Northumberland_R2 #OFFICERS.0.1_R2 #OFFICERS_R2 #Surrey_R2 #York_R2
+4,1,51,104,14,#AbbotOfWestminster_R2 #Aumerle_R2 #BishopOfCarlisle_R2 #OFFICERS.0.1_R2
+5,1,52,45,6,#LADIES_R2 #Queen_R2
+5,1,53,355,45,#LADIES_R2 #OFFICERS_R2 #Queen_R2 #RichardII_R2
+5,1,54,434,53,#LADIES_R2 #Northumberland_R2 #OFFICERS_R2 #Queen_R2 #RichardII_R2
+5,2,55,315,43,#DuchessOfYork_R2 #York_R2
+5,2,56,366,50,#Aumerle_R2 #DuchessOfYork_R2 #York_R2
+5,2,57,22,3,#Aumerle_R2 #DuchessOfYork_R2 #SERVANTS.YORK.1_R2 #York_R2
+5,2,58,197,26,#Aumerle_R2 #DuchessOfYork_R2 #York_R2
+5,2,59,60,7,#Aumerle_R2 #DuchessOfYork_R2
+5,3,60,172,22,#HenryIV_1H4 #Hotspur_R2 #LORDS_R2
+5,3,61,39,6,#Aumerle_R2 #HenryIV_1H4 #Hotspur_R2 #LORDS_R2
+5,3,62,77,10,#Aumerle_R2 #HenryIV_1H4
+5,3,63,267,35,#Aumerle_R2 #HenryIV_1H4 #York_R2
+5,3,64,604,80,#Aumerle_R2 #DuchessOfYork_R2 #HenryIV_1H4 #York_R2
+5,4,65,25,3,#Exton_R2 #SERVANTS.EXTON_R2
+5,4,66,69,9,#Exton_R2 #SERVANTS.EXTON.0.1_R2 #SERVANTS.EXTON_R2
+5,5,67,542,67,#RichardII_R2
+5,5,68,227,29,#Groom_R2 #RichardII_R2
+5,5,69,27,3,#Groom_R2 #Jailer_R2 #RichardII_R2
+5,5,70,57,8,#Jailer_R2 #RichardII_R2
+5,5,71,124,15,#Exton_R2 #Jailer_R2 #RichardII_R2 #SERVANTS.EXTON_R2
+5,6,72,32,4,#HenryIV_1H4 #York_R2
+5,6,73,64,8,#HenryIV_1H4 #Northumberland_R2 #York_R2
+5,6,74,45,6,#Fitzwater_R2 #HenryIV_1H4 #Northumberland_R2 #York_R2
+5,6,75,86,11,#BishopOfCarlisle_R2 #Fitzwater_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #York_R2
+5,6,76,121,15,#BishopOfCarlisle_R2 #Exton_R2 #Fitzwater_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #SERVANTS.EXTON_R2 #York_R2
+5,6,77,63,8,#BishopOfCarlisle_R2 #Fitzwater_R2 #HenryIV_1H4 #Hotspur_R2 #Northumberland_R2 #SERVANTS.EXTON_R2 #York_R2

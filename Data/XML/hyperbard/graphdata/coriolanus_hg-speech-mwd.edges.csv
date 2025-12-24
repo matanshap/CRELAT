@@ -1,0 +1,1135 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,8,2
+1,1,1,2,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,2,1
+1,1,1,3,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,10,2
+1,1,1,4,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,2,1
+1,1,1,5,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,11,2
+1,1,1,6,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,6,1
+1,1,1,7,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,16,2
+1,1,1,8,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor,11,1
+1,1,2,9,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,4,1
+1,1,2,10,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,93,11
+1,1,2,11,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,7,2
+1,1,2,12,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,10,2
+1,1,2,13,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,10,2
+1,1,2,14,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,21,3
+1,1,2,15,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,5,1
+1,1,2,16,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,50,6
+1,1,2,17,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,22,3
+1,1,2,18,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,40,5
+1,1,2,19,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor,2,1
+1,1,3,20,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,4,1
+1,1,3,21,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,10,2
+1,1,3,22,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,10,2
+1,1,3,23,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,20,3
+1,1,3,24,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,41,5
+1,1,3,25,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,12,3
+1,1,3,26,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,7,1
+1,1,3,27,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,112,14
+1,1,3,28,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,67,8
+1,1,3,29,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,41,6
+1,1,3,30,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,24,3
+1,1,3,31,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,74,10
+1,1,3,32,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,7,1
+1,1,3,33,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,63,8
+1,1,3,34,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,39,6
+1,1,3,35,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,11,2
+1,1,3,36,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,14,2
+1,1,3,37,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,3,1
+1,1,3,38,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,12,2
+1,1,3,39,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,21,3
+1,1,3,40,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,4,1
+1,1,3,41,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,122,16
+1,1,3,42,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,4,1
+1,1,3,43,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,42,5
+1,1,3,44,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,8,1
+1,1,3,45,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,63,8
+1,1,3,46,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,8,1
+1,1,3,47,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor,57,7
+1,1,4,48,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,3,1
+1,1,4,49,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,18,3
+1,1,4,50,#CITIZENS.ROMAN.0.2_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,6,1
+1,1,4,51,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,188,23
+1,1,4,52,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,14,2
+1,1,4,53,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,86,13
+1,1,4,54,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,26,4
+1,1,4,55,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,87,16
+1,1,4,56,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,4,1
+1,1,4,57,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,49,7
+1,1,4,58,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,3,1
+1,1,4,59,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #Menenius_Cor,6,1
+1,1,5,60,#MESSENGERS.X.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #MESSENGERS.X.1_Cor #Menenius_Cor,3,1
+1,1,5,61,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #MESSENGERS.X.1_Cor #Menenius_Cor,4,1
+1,1,5,62,#MESSENGERS.X.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #MESSENGERS.X.1_Cor #Menenius_Cor,9,1
+1,1,5,63,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Coriolanus_Cor #MESSENGERS.X.1_Cor #Menenius_Cor,15,2
+1,1,6,64,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+1,1,7,65,#SENATORS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+1,1,7,66,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,32,5
+1,1,7,67,#Cominius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+1,1,7,68,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,33,4
+1,1,7,69,#SENATORS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+1,1,7,70,#Cominius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+1,1,7,71,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,4
+1,1,7,72,#Lartius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+1,1,7,73,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+1,1,7,74,#SENATORS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+1,1,7,75,#Lartius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,3
+1,1,7,76,#Cominius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+1,1,7,77,#SENATORS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+1,1,7,78,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+1,1,8,79,#Coriolanus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.1_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+1,1,9,80,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+1,1,9,81,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+1,1,9,82,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+1,1,9,83,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+1,1,9,84,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+1,1,9,85,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,1
+1,1,9,86,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+1,1,9,87,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+1,1,9,88,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,5
+1,1,9,89,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,59,8
+1,1,9,90,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+1,1,9,91,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,5
+1,1,9,92,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,23,4
+1,1,9,93,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+1,2,10,94,#SENATORS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN_Cor,19,3
+1,2,10,95,#Aufidius_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN_Cor,111,16
+1,2,10,96,#SENATORS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN_Cor,17,3
+1,2,10,97,#Aufidius_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN_Cor,53,8
+1,2,11,98,#SENATORS.VOLSCIAN.0.2_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,39,6
+1,2,11,99,#Aufidius_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,47,7
+1,2,11,100,#SENATORS.VOLSCIAN_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,4,1
+1,2,11,101,#Aufidius_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,5,1
+1,2,11,102,#SENATORS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,1,1
+1,2,11,103,#SENATORS.VOLSCIAN.0.2_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,1,1
+1,2,11,104,#SENATORS.VOLSCIAN_Cor,#Aufidius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN.0.2_Cor #SENATORS.VOLSCIAN_Cor,1,1
+1,3,12,105,#Volumnia_Cor,#Virgilia_Cor #Volumnia_Cor,168,18
+1,3,12,106,#Virgilia_Cor,#Virgilia_Cor #Volumnia_Cor,10,2
+1,3,12,107,#Volumnia_Cor,#Virgilia_Cor #Volumnia_Cor,56,7
+1,3,13,108,#Gentlewoman_Cor,#Gentlewoman_Cor #Virgilia_Cor #Volumnia_Cor,9,2
+1,3,13,109,#Virgilia_Cor,#Gentlewoman_Cor #Virgilia_Cor #Volumnia_Cor,8,1
+1,3,13,110,#Volumnia_Cor,#Gentlewoman_Cor #Virgilia_Cor #Volumnia_Cor,78,10
+1,3,13,111,#Virgilia_Cor,#Gentlewoman_Cor #Virgilia_Cor #Volumnia_Cor,7,1
+1,3,13,112,#Volumnia_Cor,#Gentlewoman_Cor #Virgilia_Cor #Volumnia_Cor,45,6
+1,3,14,113,#Virgilia_Cor,#Virgilia_Cor #Volumnia_Cor,7,1
+1,3,14,114,#Volumnia_Cor,#Virgilia_Cor #Volumnia_Cor,12,2
+1,3,15,115,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,7,1
+1,3,15,116,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,2,1
+1,3,15,117,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,7,1
+1,3,15,118,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,24,3
+1,3,15,119,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,7,1
+1,3,15,120,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,15,2
+1,3,15,121,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,90,9
+1,3,15,122,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,5,1
+1,3,15,123,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,6,1
+1,3,15,124,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+1,3,15,125,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,17,2
+1,3,15,126,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,9,1
+1,3,15,127,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+1,3,15,128,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+1,3,15,129,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,17,2
+1,3,15,130,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,17,2
+1,3,15,131,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,17,2
+1,3,15,132,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+1,3,15,133,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,1
+1,3,15,134,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,47,5
+1,3,15,135,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,2
+1,3,15,136,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,15,2
+1,3,15,137,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,8,1
+1,3,15,138,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,14,2
+1,3,15,139,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,2,1
+1,3,15,140,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,68,8
+1,3,15,141,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,12,2
+1,3,15,142,#Volumnia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,15,2
+1,3,15,143,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,27,4
+1,3,15,144,#Virgilia_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,14,2
+1,3,15,145,#Valeria_Cor,#Gentlewoman_Cor #Usher_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+1,4,16,146,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,8,1
+1,4,16,147,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,4,16,148,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,2,1
+1,4,16,149,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,1,1
+1,4,16,150,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,7,1
+1,4,16,151,#MESSENGERS.X.2_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,10,1
+1,4,16,152,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,6,1
+1,4,16,153,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,4,16,154,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,20,2
+1,4,16,155,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,6,1
+1,4,16,156,#MESSENGERS.X.2_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,4,16,157,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SOLDIERS.ROMAN_Cor,36,5
+1,4,17,158,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SENATORS.VOLSCIAN_Cor #SOLDIERS.ROMAN_Cor,7,1
+1,4,18,159,#SENATORS.VOLSCIAN.0.1_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SENATORS.VOLSCIAN.0.1_Cor #SENATORS.VOLSCIAN_Cor #SOLDIERS.ROMAN_Cor,66,11
+1,4,19,160,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,4,19,161,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN_Cor,7,1
+1,4,20,162,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #MESSENGERS.X.2_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor,60,9
+1,4,21,163,#Coriolanus_Cor,#Coriolanus_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN_Cor,118,14
+1,4,22,164,#Coriolanus_Cor,#Coriolanus_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor,27,4
+1,4,23,165,#SOLDIERS.ROMAN.0.1_Cor,#SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN_Cor,3,1
+1,4,24,166,#SOLDIERS.ROMAN.0.2_Cor,#SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,2,1
+1,4,24,167,#SOLDIERS.ROMAN.0.1_Cor,#SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,6,1
+1,4,24,168,#SOLDIERS.ROMAN_Cor,#SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,6,1
+1,4,25,169,#Lartius_Cor,#Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,4,25,170,#SOLDIERS.ROMAN_Cor,#Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,3,1
+1,4,25,171,#SOLDIERS.ROMAN.0.1_Cor,#Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,28,4
+1,4,25,172,#Lartius_Cor,#Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,74,11
+1,4,26,173,#SOLDIERS.ROMAN.0.1_Cor,#Coriolanus_Cor #Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor,2,1
+1,4,26,174,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #SENATORS.VOLSCIAN.0.1_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor #SOLDIERS.VOLSCIAN_Cor,11,2
+1,5,27,175,#SOLDIERS.ROMAN.0.1_Cor,#SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN_Cor,6,1
+1,5,28,176,#SOLDIERS.ROMAN.0.2_Cor,#SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN_Cor,3,1
+1,5,29,177,#SOLDIERS.ROMAN.0.3_Cor,#SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN_Cor,9,1
+1,5,30,178,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor #SOLDIERS.ROMAN_Cor,44,5
+1,5,31,179,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,45,6
+1,5,31,180,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,16,3
+1,5,31,181,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,33,5
+1,5,31,182,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,25,4
+1,5,31,183,#Coriolanus_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,11,2
+1,5,31,184,#Lartius_Cor,#Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,3,1
+1,5,32,185,#Lartius_Cor,#Lartius_Cor #SOLDIERS.ROMAN.0.1_Cor #SOLDIERS.ROMAN.0.2_Cor #SOLDIERS.ROMAN.0.3_Cor #SOLDIERS.ROMAN.Trumpeter_Cor,22,3
+1,6,33,186,#Cominius_Cor,#Cominius_Cor #SOLDIERS.ROMAN_Cor,70,11
+1,6,34,187,#Cominius_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,2,1
+1,6,34,188,#MESSENGERS.X.3_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,27,4
+1,6,34,189,#Cominius_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,14,3
+1,6,34,190,#MESSENGERS.X.3_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,6,34,191,#Cominius_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,24,3
+1,6,34,192,#MESSENGERS.X.3_Cor,#Cominius_Cor #MESSENGERS.X.3_Cor #SOLDIERS.ROMAN_Cor,30,4
+1,6,35,193,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,24,4
+1,6,35,194,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,4,1
+1,6,35,195,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,21,3
+1,6,35,196,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,4,1
+1,6,35,197,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,15,2
+1,6,35,198,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,29,4
+1,6,35,199,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,9,1
+1,6,35,200,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,43,6
+1,6,35,201,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,20,3
+1,6,35,202,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,35,5
+1,6,35,203,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,4,1
+1,6,35,204,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,29,3
+1,6,35,205,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,13,2
+1,6,35,206,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,16,2
+1,6,35,207,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,24,5
+1,6,35,208,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,59,9
+1,6,35,209,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,34,5
+1,6,35,210,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,153,20
+1,6,35,211,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,16,3
+1,7,36,212,#Lartius_Cor,#Lartius_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor #SOLDIERS.ROMAN_Cor,43,5
+1,7,36,213,#SOLDIERS.ROMAN.Lieutenant_Cor,#Lartius_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor #SOLDIERS.ROMAN_Cor,5,1
+1,7,36,214,#Lartius_Cor,#Lartius_Cor #SOLDIERS.ROMAN.Lieutenant_Cor #SOLDIERS.ROMAN.Scout_Cor #SOLDIERS.ROMAN_Cor,16,3
+1,8,37,215,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor,15,2
+1,8,37,216,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor,19,3
+1,8,37,217,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor,14,2
+1,8,37,218,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor,9,2
+1,8,37,219,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor,37,6
+1,8,37,220,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor,18,4
+1,8,38,221,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SOLDIERS.VOLSCIAN_Cor,12,3
+1,9,39,222,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #SOLDIERS.ROMAN_Cor,88,12
+1,9,40,223,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,12,3
+1,9,40,224,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,53,7
+1,9,40,225,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,72,9
+1,9,40,226,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,13,2
+1,9,40,227,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,53,8
+1,9,40,228,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,130,17
+1,9,40,229,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,111,14
+1,9,40,230,#Lartius_Cor #SOLDIERS.ROMAN_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,3,1
+1,9,40,231,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,43,6
+1,9,40,232,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,42,6
+1,9,40,233,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,4,1
+1,9,40,234,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,21,3
+1,9,40,235,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,7,1
+1,9,40,236,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,44,6
+1,9,40,237,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,21,3
+1,9,40,238,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,3,1
+1,9,40,239,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,16,3
+1,9,40,240,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #SOLDIERS.ROMAN.0_Cor #SOLDIERS.ROMAN_Cor,19,3
+1,10,41,241,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN_Cor,4,1
+1,10,42,242,#SOLDIERS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,7,1
+1,10,42,243,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,116,14
+1,10,42,244,#SOLDIERS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,3,1
+1,10,42,245,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,103,13
+1,10,42,246,#SOLDIERS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,4,1
+1,10,42,247,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,35,4
+1,10,42,248,#SOLDIERS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.0.1_Cor #SOLDIERS.VOLSCIAN_Cor,3,1
+2,1,43,249,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+2,1,43,250,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,1,43,251,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+2,1,43,252,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,1,43,253,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,1,43,254,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,1,43,255,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+2,1,43,256,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+2,1,43,257,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,23,3
+2,1,43,258,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,1,43,259,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+2,1,43,260,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,1
+2,1,43,261,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,1,43,262,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+2,1,43,263,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,26,3
+2,1,43,264,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,1,43,265,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+2,1,43,266,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+2,1,43,267,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,53,6
+2,1,43,268,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+2,1,43,269,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,61,7
+2,1,43,270,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,1,43,271,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+2,1,43,272,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,1,43,273,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,189,21
+2,1,43,274,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+2,1,43,275,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,116,14
+2,1,43,276,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,21,3
+2,1,43,277,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,116,14
+2,1,44,278,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,24,3
+2,1,44,279,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,13,2
+2,1,44,280,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+2,1,44,281,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,8,2
+2,1,44,282,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,12,3
+2,1,44,283,#Valeria_Cor #Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+2,1,44,284,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,22,3
+2,1,44,285,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,12,2
+2,1,44,286,#Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,1
+2,1,44,287,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,56,6
+2,1,44,288,#Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+2,1,44,289,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,1
+2,1,44,290,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,20,2
+2,1,44,291,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,14,2
+2,1,44,292,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,5,1
+2,1,44,293,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,2
+2,1,44,294,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,41,5
+2,1,44,295,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,35,4
+2,1,44,296,#Valeria_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,8,2
+2,1,44,297,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,11,2
+2,1,44,298,#Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,5,1
+2,1,44,299,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+2,1,44,300,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,31,4
+2,1,44,301,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,36,4
+2,1,44,302,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,14,2
+2,1,44,303,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,10,2
+2,1,44,304,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,12,3
+2,1,44,305,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,35,4
+2,1,45,306,#Herald_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,32,5
+2,1,45,307,#Menenius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,5,1
+2,1,45,308,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,13,2
+2,1,45,309,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+2,1,45,310,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,12,3
+2,1,45,311,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,28,5
+2,1,45,312,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,34,6
+2,1,45,313,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,5,2
+2,1,45,314,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,9,2
+2,1,45,315,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,16,2
+2,1,45,316,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,81,10
+2,1,45,317,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,2,1
+2,1,45,318,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+2,1,45,319,#Herald_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,6,1
+2,1,45,320,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,34,6
+2,1,45,321,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,31,5
+2,1,45,322,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,18,3
+2,1,45,323,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Herald_Cor #Lartius_Cor #Menenius_Cor #SOLDIERS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+2,1,46,324,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,126,18
+2,1,46,325,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,2
+2,1,46,326,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+2,1,46,327,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,20,3
+2,1,46,328,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+2,1,46,329,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,42,7
+2,1,46,330,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,41,6
+2,1,46,331,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,1,46,332,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,28,3
+2,1,46,333,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,3
+2,1,46,334,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,1,46,335,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+2,1,46,336,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,79,11
+2,1,46,337,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,53,7
+2,1,47,338,#TRIBUNES.Brutus_Cor,#MESSENGERS.X.4_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,1,47,339,#MESSENGERS.X.4_Cor,#MESSENGERS.X.4_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,71,9
+2,1,47,340,#TRIBUNES.Brutus_Cor,#MESSENGERS.X.4_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+2,1,47,341,#TRIBUNES.Sicinius_Cor,#MESSENGERS.X.4_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,2,48,342,#OFFICERS.1_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,11,2
+2,2,48,343,#OFFICERS.2_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,12,2
+2,2,48,344,#OFFICERS.1_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,14,2
+2,2,48,345,#OFFICERS.2_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,76,9
+2,2,48,346,#OFFICERS.1_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,73,8
+2,2,48,347,#OFFICERS.2_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,98,11
+2,2,48,348,#OFFICERS.1_Cor,#OFFICERS.1_Cor #OFFICERS.2_Cor,13,2
+2,2,49,349,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,80,13
+2,2,50,350,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,48,8
+2,2,50,351,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,20,4
+2,2,50,352,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,4
+2,2,50,353,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+2,2,50,354,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,3
+2,2,50,355,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,4
+2,2,50,356,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+2,2,50,357,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+2,2,50,358,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+2,2,50,359,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,5
+2,2,50,360,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+2,2,50,361,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,24,3
+2,2,51,362,#Menenius_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,40,6
+2,2,51,363,#Cominius_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,330,41
+2,2,51,364,#Menenius_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,2,51,365,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+2,2,51,366,#Cominius_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,43,6
+2,2,51,367,#Menenius_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+2,2,51,368,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,2,51,369,#OFFICERS.1_Cor,#Cominius_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,2,52,370,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,2
+2,2,52,371,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+2,2,52,372,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,2
+2,2,52,373,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,37,6
+2,2,52,374,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,3
+2,2,52,375,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,26,4
+2,2,52,376,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+2,2,52,377,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,2,52,378,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,31,4
+2,2,52,379,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,28,4
+2,2,52,380,#SENATORS.ROMAN_Cor,#Cominius_Cor #Coriolanus_Cor #LICTORS_Cor #Menenius_Cor #OFFICERS.1_Cor #OFFICERS.2_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,2,53,381,#TRIBUNES.Brutus_Cor,#SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+2,2,53,382,#TRIBUNES.Sicinius_Cor,#SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,23,3
+2,2,53,383,#TRIBUNES.Brutus_Cor,#SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+2,3,54,384,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,13,2
+2,3,54,385,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,6,1
+2,3,54,386,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,94,10
+2,3,54,387,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,31,4
+2,3,54,388,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,68,7
+2,3,54,389,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,12,2
+2,3,54,390,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,28,4
+2,3,54,391,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,3,1
+2,3,54,392,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,29,4
+2,3,54,393,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,10,2
+2,3,54,394,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,32,4
+2,3,55,395,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor #Menenius_Cor,73,8
+2,3,55,396,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor #Menenius_Cor,2,1
+2,3,56,397,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor,16,2
+2,3,56,398,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor,46,6
+2,3,56,399,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor,18,3
+2,3,56,400,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor,20,3
+2,3,56,401,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor,17,3
+2,3,57,402,#Coriolanus_Cor,#Coriolanus_Cor,10,2
+2,3,58,403,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,14,2
+2,3,58,404,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,11,1
+2,3,58,405,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,3,1
+2,3,58,406,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,3,1
+2,3,58,407,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,6,1
+2,3,58,408,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,5,1
+2,3,58,409,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,13,2
+2,3,58,410,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,14,2
+2,3,58,411,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,9,2
+2,3,58,412,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,7,1
+2,3,58,413,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,27,3
+2,3,58,414,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,6,1
+2,3,58,415,#Coriolanus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,15,2
+2,3,58,416,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,5,2
+2,3,58,417,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #Coriolanus_Cor,9,2
+2,3,59,418,#Coriolanus_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,24,3
+2,3,59,419,#CITIZENS.ROMAN.4_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,13,2
+2,3,59,420,#Coriolanus_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,2,1
+2,3,59,421,#CITIZENS.ROMAN.4_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,24,3
+2,3,59,422,#Coriolanus_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,93,11
+2,3,59,423,#CITIZENS.ROMAN.5_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,14,2
+2,3,59,424,#CITIZENS.ROMAN.4_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,8,2
+2,3,59,425,#Coriolanus_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,22,3
+2,3,59,426,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor,#CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #Coriolanus_Cor,7,1
+2,3,60,427,#Coriolanus_Cor,#Coriolanus_Cor,107,13
+2,3,61,428,#Coriolanus_Cor,#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor,52,8
+2,3,61,429,#CITIZENS.ROMAN.6_Cor,#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor,12,2
+2,3,61,430,#CITIZENS.ROMAN.7_Cor,#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor,18,3
+2,3,61,431,#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,#CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #Coriolanus_Cor,7,1
+2,3,62,432,#Coriolanus_Cor,#Coriolanus_Cor,2,1
+2,3,63,433,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,27,4
+2,3,63,434,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,3,63,435,#TRIBUNES.Sicinius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,21,3
+2,3,63,436,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,3,63,437,#TRIBUNES.Sicinius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+2,3,63,438,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,3,63,439,#TRIBUNES.Sicinius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,3,63,440,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+2,3,63,441,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,3,63,442,#TRIBUNES.Brutus_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+2,3,63,443,#TRIBUNES.Sicinius_Cor,#Coriolanus_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+2,3,64,444,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+2,3,64,445,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+2,3,65,446,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+2,3,65,447,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,3,65,448,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+2,3,65,449,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,2
+2,3,65,450,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+2,3,65,451,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,1
+2,3,65,452,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,26,3
+2,3,65,453,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+2,3,65,454,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+2,3,65,455,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,74,10
+2,3,65,456,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+2,3,65,457,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,115,15
+2,3,65,458,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,72,10
+2,3,65,459,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,54,8
+2,3,65,460,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+2,3,65,461,#CITIZENS.ROMAN.3_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+2,3,65,462,#CITIZENS.ROMAN.2_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+2,3,65,463,#CITIZENS.ROMAN.1_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,1
+2,3,65,464,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,41,5
+2,3,65,465,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,70,10
+2,3,65,466,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,4
+2,3,65,467,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,45,6
+2,3,65,468,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,82,11
+2,3,65,469,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,44,7
+2,3,65,470,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,27,4
+2,3,65,471,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor,#CITIZENS.ROMAN.1_Cor #CITIZENS.ROMAN.2_Cor #CITIZENS.ROMAN.3_Cor #CITIZENS.ROMAN.4_Cor #CITIZENS.ROMAN.5_Cor #CITIZENS.ROMAN.6_Cor #CITIZENS.ROMAN.7_Cor #CITIZENS.ROMAN.8_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,2
+2,3,66,472,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,6
+2,3,66,473,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,28,4
+3,1,67,474,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,7,1
+3,1,67,475,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,13,2
+3,1,67,476,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,21,3
+3,1,67,477,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,18,3
+3,1,67,478,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,3,1
+3,1,67,479,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,25,3
+3,1,67,480,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,4,1
+3,1,67,481,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,4,1
+3,1,67,482,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,2,1
+3,1,67,483,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,37,5
+3,1,67,484,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,4,1
+3,1,67,485,#Lartius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,2,1
+3,1,67,486,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor,17,2
+3,1,68,487,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,5
+3,1,68,488,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,68,489,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,68,490,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+3,1,68,491,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,68,492,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,68,493,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+3,1,68,494,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,68,495,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,69,496,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,1,69,497,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,69,498,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,2
+3,1,69,499,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,7
+3,1,69,500,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,501,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,30,4
+3,1,69,502,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,35,5
+3,1,69,503,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,69,504,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,505,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,69,506,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,2
+3,1,69,507,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,1,69,508,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,1,69,509,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+3,1,69,510,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,48,7
+3,1,69,511,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,69,512,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,28,4
+3,1,69,513,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+3,1,69,514,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,515,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,69,516,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,80,12
+3,1,69,517,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,69,518,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,69,519,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,42,6
+3,1,69,520,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+3,1,69,521,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+3,1,69,522,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,523,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,3
+3,1,69,524,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,3
+3,1,69,525,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,3
+3,1,69,526,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,527,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,174,23
+3,1,69,528,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,69,529,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+3,1,69,530,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,69,531,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+3,1,69,532,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+3,1,69,533,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,170,23
+3,1,69,534,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,69,535,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,69,536,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,171,24
+3,1,69,537,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,69,538,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+3,1,69,539,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,62,8
+3,1,69,540,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,69,541,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,69,542,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,1,70,543,#TRIBUNES.Sicinius_Cor,#AEDILES.X.1_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,71,544,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,5
+3,1,71,545,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,71,546,#SENATORS.ROMAN_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,71,547,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,71,548,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+3,1,71,549,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,72,550,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,72,551,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,1
+3,1,72,552,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,72,553,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,73,554,#SENATORS.ROMAN.0.2_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,3
+3,1,73,555,#Cominius_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,73,556,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,4
+3,1,73,557,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,73,558,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,1,73,559,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+3,1,73,560,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+3,1,73,561,#SENATORS.ROMAN.0.1_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+3,1,73,562,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,1,73,563,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,2
+3,1,73,564,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+3,1,73,565,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,73,566,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,73,567,#Coriolanus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,4
+3,1,73,568,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,73,569,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,35,5
+3,1,73,570,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+3,1,73,571,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,73,572,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,73,573,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+3,1,73,574,#AEDILES_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,73,575,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+3,1,73,576,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,27,4
+3,1,73,577,#Coriolanus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,21,3
+3,1,73,578,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,1,73,579,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,73,580,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+3,1,73,581,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Lartius_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,1,74,582,#Menenius_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,13,2
+3,1,74,583,#SENATORS.ROMAN.0.2_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,3,1
+3,1,75,584,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,9,2
+3,1,75,585,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,6,1
+3,1,75,586,#SENATORS.ROMAN.0.1_Cor,#Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,17,3
+3,1,75,587,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,13,2
+3,1,76,588,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,5,1
+3,1,76,589,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,26,4
+3,1,76,590,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,14,3
+3,1,76,591,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,9,2
+3,1,76,592,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,16,3
+3,1,76,593,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,40,7
+3,1,76,594,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,27,4
+3,1,76,595,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,3,1
+3,1,77,596,#SENATORS.ROMAN.0.1_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,6,1
+3,1,77,597,#Menenius_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,52,8
+3,1,77,598,#SENATORS.ROMAN.0.1_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,5,1
+3,1,77,599,#Menenius_Cor,#Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor,15,2
+3,1,78,600,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,3
+3,1,78,601,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,78,602,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,36,5
+3,1,79,603,#CITIZENS.ROMAN.0.1_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,3
+3,1,79,604,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,79,605,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,79,606,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,1,1
+3,1,79,607,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+3,1,79,608,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+3,1,79,609,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,3
+3,1,79,610,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,79,611,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,79,612,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,1,79,613,#CITIZENS.ROMAN_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,1,79,614,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,35,4
+3,1,79,615,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,35,6
+3,1,79,616,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,31,5
+3,1,79,617,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,1,79,618,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,83,9
+3,1,79,619,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,79,620,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,11,2
+3,1,79,621,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+3,1,79,622,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,4
+3,1,79,623,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,43,6
+3,1,79,624,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,1,79,625,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+3,1,79,626,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,56,7
+3,1,79,627,#SENATORS.ROMAN.0.1_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,23,4
+3,1,79,628,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,3
+3,1,79,629,#TRIBUNES.Brutus_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,1,79,630,#TRIBUNES.Sicinius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,20,4
+3,1,79,631,#Menenius_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,4
+3,1,79,632,#SENATORS.ROMAN.0.1_Cor,#AEDILES_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN.0.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,2,80,633,#Coriolanus_Cor,#Coriolanus_Cor #NOBLES_Cor,45,6
+3,2,81,634,#NOBLES.0.1_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor,4,1
+3,2,81,635,#Coriolanus_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor,51,7
+3,2,82,636,#Coriolanus_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,26,4
+3,2,82,637,#Volumnia_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,20,3
+3,2,82,638,#Coriolanus_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,2,1
+3,2,82,639,#Volumnia_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,40,5
+3,2,82,640,#Coriolanus_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,3,1
+3,2,82,641,#Volumnia_Cor,#Coriolanus_Cor #NOBLES.0.1_Cor #NOBLES_Cor #Volumnia_Cor,4,1
+3,2,83,642,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,16,3
+3,2,84,643,#SENATORS.ROMAN.0.1_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,17,3
+3,2,84,644,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,25,4
+3,2,84,645,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,39,5
+3,2,84,646,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,4,1
+3,2,84,647,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,4,1
+3,2,84,648,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,5,1
+3,2,84,649,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,5,1
+3,2,84,650,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,16,2
+3,2,84,651,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,53,7
+3,2,84,652,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,2,1
+3,2,84,653,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,3,2
+3,2,84,654,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,50,6
+3,2,84,655,#Coriolanus_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,4,1
+3,2,84,656,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,145,18
+3,2,84,657,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,24,4
+3,2,84,658,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,122,16
+3,2,84,659,#Menenius_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,25,4
+3,2,84,660,#Volumnia_Cor,#Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,25,4
+3,2,85,661,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,3,1
+3,2,85,662,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,25,3
+3,2,85,663,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,3,1
+3,2,85,664,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,11,2
+3,2,85,665,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,13,2
+3,2,85,666,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,75,8
+3,2,85,667,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,5,2
+3,2,85,668,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,31,4
+3,2,85,669,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,109,14
+3,2,85,670,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,62,8
+3,2,85,671,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,60,9
+3,2,85,672,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Volumnia_Cor,3,1
+3,2,86,673,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor,27,4
+3,2,86,674,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor,21,3
+3,2,86,675,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor,3,1
+3,2,86,676,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES.0.1_Cor #NOBLES_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor,6,1
+3,3,87,677,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,35,5
+3,3,88,678,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,88,679,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,88,680,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,88,681,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,2
+3,3,88,682,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+3,3,88,683,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,88,684,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,3,88,685,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,88,686,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,58,7
+3,3,88,687,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,88,688,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,28,4
+3,3,88,689,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,88,690,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,2
+3,3,88,691,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,3,89,692,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,48,6
+3,3,90,693,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,90,694,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,2
+3,3,90,695,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,51,7
+3,3,91,696,#SENATORS.ROMAN.0.1_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,91,697,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,3,92,698,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,699,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,3,92,700,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,701,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,702,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+3,3,92,703,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,30,5
+3,3,92,704,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,3,92,705,#Menenius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,4
+3,3,92,706,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,3
+3,3,92,707,#Menenius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,6
+3,3,92,708,#Cominius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,709,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,4
+3,3,92,710,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+3,3,92,711,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,3,92,712,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,31,4
+3,3,92,713,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+3,3,92,714,#Menenius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,715,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,55,7
+3,3,92,716,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,717,#CITIZENS.ROMAN_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,3,92,718,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,52,8
+3,3,92,719,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+3,3,92,720,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,3,92,721,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,3,92,722,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,1,1
+3,3,92,723,#Menenius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+3,3,92,724,#Cominius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+3,3,92,725,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,52,7
+3,3,92,726,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,98,13
+3,3,92,727,#CITIZENS.ROMAN_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,2
+3,3,92,728,#Cominius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,3,92,729,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+3,3,92,730,#Cominius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,54,8
+3,3,92,731,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+3,3,92,732,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+3,3,92,733,#CITIZENS.ROMAN_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+3,3,92,734,#Coriolanus_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #Coriolanus_Cor #Menenius_Cor #SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,115,16
+3,3,93,735,#AEDILES.X.2_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+3,3,93,736,#CITIZENS.ROMAN_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,9,1
+3,3,93,737,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,4
+3,3,93,738,#CITIZENS.ROMAN_Cor,#AEDILES.X.2_Cor #CITIZENS.ROMAN_Cor #SENATORS.ROMAN.0.1_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,2
+4,1,94,739,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,83,12
+4,1,94,740,#Virgilia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+4,1,94,741,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,4,2
+4,1,94,742,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,12,2
+4,1,94,743,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,158,22
+4,1,94,744,#Volumnia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,32,5
+4,1,94,745,#Virgilia_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+4,1,94,746,#Cominius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,59,7
+4,1,94,747,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,80,10
+4,1,94,748,#Menenius_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,35,5
+4,1,94,749,#Coriolanus_Cor,#Cominius_Cor #Coriolanus_Cor #Menenius_Cor #NOBLES_Cor #Virgilia_Cor #Volumnia_Cor,5,2
+4,2,95,750,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+4,2,95,751,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,3
+4,2,95,752,#TRIBUNES.Sicinius_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,3
+4,2,95,753,#TRIBUNES.Brutus_Cor,#AEDILES.X.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+4,2,96,754,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,2,97,755,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+4,2,97,756,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,1,1
+4,2,97,757,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+4,2,97,758,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,10,1
+4,2,97,759,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,13,2
+4,2,97,760,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,6,1
+4,2,97,761,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,19,3
+4,2,97,762,#Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,16,2
+4,2,97,763,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+4,2,97,764,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,33,4
+4,2,97,765,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+4,2,97,766,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,42,5
+4,2,97,767,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,2,1
+4,2,97,768,#Virgilia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,9,2
+4,2,97,769,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,13,2
+4,2,97,770,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+4,2,97,771,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,20,3
+4,2,97,772,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,4,1
+4,2,97,773,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,32,4
+4,2,97,774,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+4,2,97,775,#Volumnia_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,49,6
+4,2,97,776,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,5,1
+4,2,97,777,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor #Virgilia_Cor #Volumnia_Cor,12,2
+4,2,98,778,#Volumnia_Cor,#Menenius_Cor #Virgilia_Cor #Volumnia_Cor,38,6
+4,2,98,779,#Menenius_Cor,#Menenius_Cor #Virgilia_Cor #Volumnia_Cor,16,3
+4,2,98,780,#Volumnia_Cor,#Menenius_Cor #Virgilia_Cor #Volumnia_Cor,31,5
+4,2,99,781,#Menenius_Cor,#Menenius_Cor,3,1
+4,3,100,782,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,15,2
+4,3,100,783,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,9,1
+4,3,100,784,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,17,2
+4,3,100,785,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,2,1
+4,3,100,786,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,3,1
+4,3,100,787,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,44,5
+4,3,100,788,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,15,3
+4,3,100,789,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,30,4
+4,3,100,790,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,67,7
+4,3,100,791,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,2,1
+4,3,100,792,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,2,1
+4,3,100,793,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,8,2
+4,3,100,794,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,50,6
+4,3,100,795,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,24,3
+4,3,100,796,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,28,4
+4,3,100,797,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,24,3
+4,3,100,798,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,32,4
+4,3,100,799,#Adrian_Cor,#Adrian_Cor #Nicanor_Cor,17,2
+4,3,100,800,#Nicanor_Cor,#Adrian_Cor #Nicanor_Cor,5,1
+4,4,101,801,#Coriolanus_Cor,#Coriolanus_Cor,48,6
+4,4,102,802,#Coriolanus_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,3,1
+4,4,102,803,#CITIZENS.ANTIUM.1_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,2,1
+4,4,102,804,#Coriolanus_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,15,2
+4,4,102,805,#CITIZENS.ANTIUM.1_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,14,2
+4,4,102,806,#Coriolanus_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,6,2
+4,4,102,807,#CITIZENS.ANTIUM.1_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,4,1
+4,4,102,808,#Coriolanus_Cor,#CITIZENS.ANTIUM.1_Cor #Coriolanus_Cor,4,1
+4,4,103,809,#Coriolanus_Cor,#Coriolanus_Cor,119,16
+4,5,104,810,#SERVANTS.1_Cor,#SERVANTS.1_Cor,13,2
+4,5,105,811,#SERVANTS.2_Cor,#SERVANTS.2_Cor,8,2
+4,5,106,812,#Coriolanus_Cor,#Coriolanus_Cor,14,2
+4,5,107,813,#SERVANTS.1_Cor,#Coriolanus_Cor #SERVANTS.1_Cor,18,3
+4,5,108,814,#Coriolanus_Cor,#Coriolanus_Cor,9,2
+4,5,109,815,#SERVANTS.2_Cor,#Coriolanus_Cor #SERVANTS.2_Cor,23,3
+4,5,109,816,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.2_Cor,1,1
+4,5,109,817,#SERVANTS.2_Cor,#Coriolanus_Cor #SERVANTS.2_Cor,4,1
+4,5,109,818,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.2_Cor,4,1
+4,5,109,819,#SERVANTS.2_Cor,#Coriolanus_Cor #SERVANTS.2_Cor,10,2
+4,5,110,820,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,3,1
+4,5,110,821,#SERVANTS.1_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,22,3
+4,5,110,822,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,12,2
+4,5,110,823,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,10,2
+4,5,110,824,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,3,1
+4,5,110,825,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,2,1
+4,5,110,826,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,4,1
+4,5,110,827,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,4,1
+4,5,110,828,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,18,3
+4,5,110,829,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,9,2
+4,5,110,830,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,15,2
+4,5,110,831,#SERVANTS.2_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,3,1
+4,5,111,832,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,3,1
+4,5,111,833,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,3,1
+4,5,111,834,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,3,1
+4,5,111,835,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,1,1
+4,5,111,836,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,2,1
+4,5,111,837,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,7,1
+4,5,111,838,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,18,2
+4,5,111,839,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,6,1
+4,5,111,840,#SERVANTS.3_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,8,2
+4,5,111,841,#Coriolanus_Cor,#Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.3_Cor,20,3
+4,5,112,842,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,4,1
+4,5,112,843,#SERVANTS.2_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,15,2
+4,5,112,844,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,16,3
+4,5,112,845,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,24,4
+4,5,112,846,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,4,1
+4,5,112,847,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,13,2
+4,5,112,848,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,29,4
+4,5,112,849,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,9,1
+4,5,112,850,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,6,1
+4,5,112,851,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,304,39
+4,5,112,852,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,274,37
+4,5,112,853,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,4,1
+4,5,112,854,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #SERVANTS.1_Cor #SERVANTS.2_Cor,97,14
+4,5,113,855,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,4,1
+4,5,113,856,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,27,3
+4,5,113,857,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,22,3
+4,5,113,858,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,27,3
+4,5,113,859,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,23,3
+4,5,113,860,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,15,2
+4,5,113,861,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,13,2
+4,5,113,862,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,3,1
+4,5,113,863,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,6,1
+4,5,113,864,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,4,1
+4,5,113,865,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,13,2
+4,5,113,866,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,20,3
+4,5,113,867,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor,6,1
+4,5,114,868,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,10,2
+4,5,114,869,#SERVANTS.1_Cor #SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,5,1
+4,5,114,870,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,17,2
+4,5,114,871,#SERVANTS.1_Cor #SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,2,1
+4,5,114,872,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,12,2
+4,5,114,873,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,7,2
+4,5,114,874,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,15,2
+4,5,114,875,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,20,3
+4,5,114,876,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,24,3
+4,5,114,877,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,14,2
+4,5,114,878,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,5,1
+4,5,114,879,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,126,13
+4,5,114,880,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,13,2
+4,5,114,881,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,40,5
+4,5,114,882,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,3,1
+4,5,114,883,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,30,4
+4,5,114,884,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,5,1
+4,5,114,885,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,30,4
+4,5,114,886,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,22,3
+4,5,114,887,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,45,6
+4,5,114,888,#SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,28,3
+4,5,114,889,#SERVANTS.1_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,8,2
+4,5,114,890,#SERVANTS.3_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,28,4
+4,5,114,891,#SERVANTS.1_Cor #SERVANTS.2_Cor,#SERVANTS.1_Cor #SERVANTS.2_Cor #SERVANTS.3_Cor,4,1
+4,6,115,892,#TRIBUNES.Sicinius_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,69,9
+4,6,115,893,#TRIBUNES.Brutus_Cor,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+4,6,116,894,#TRIBUNES.Brutus_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+4,6,116,895,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+4,6,116,896,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,116,897,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,24,3
+4,6,116,898,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+4,6,116,899,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,116,900,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+4,6,117,901,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,2
+4,6,117,902,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,117,903,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,1
+4,6,118,904,#CITIZENS.ROMAN.0.1_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,2
+4,6,118,905,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+4,6,118,906,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+4,6,118,907,#CITIZENS.ROMAN_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,118,908,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+4,6,119,909,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+4,6,119,910,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,19,4
+4,6,119,911,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+4,6,119,912,#Menenius_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,119,913,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,2
+4,6,119,914,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+4,6,120,915,#AEDILES.X.3_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,6
+4,6,120,916,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,30,5
+4,6,120,917,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+4,6,120,918,#TRIBUNES.Brutus_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+4,6,120,919,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,55,8
+4,6,120,920,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,2
+4,6,120,921,#TRIBUNES.Brutus_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+4,6,121,922,#MESSENGERS.TRIBUNES.1_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,20,3
+4,6,121,923,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,16,3
+4,6,121,924,#MESSENGERS.TRIBUNES.1_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,3
+4,6,121,925,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+4,6,121,926,#MESSENGERS.TRIBUNES.1_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,36,5
+4,6,121,927,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,121,928,#TRIBUNES.Brutus_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+4,6,121,929,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,121,930,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,3
+4,6,122,931,#MESSENGERS.TRIBUNES.2_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,36,6
+4,6,123,932,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,2
+4,6,123,933,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,123,934,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,3
+4,6,123,935,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+4,6,123,936,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+4,6,123,937,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,4
+4,6,123,938,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,42,7
+4,6,123,939,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,25,4
+4,6,123,940,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+4,6,123,941,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+4,6,123,942,#TRIBUNES.Brutus_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,123,943,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,42,6
+4,6,123,944,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,10,2
+4,6,123,945,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,55,8
+4,6,123,946,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,6
+4,6,123,947,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,15,4
+4,6,123,948,#TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,123,949,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,26,3
+4,6,123,950,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,38,6
+4,6,124,951,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,80,12
+4,6,124,952,#CITIZENS.ROMAN_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,124,953,#CITIZENS.ROMAN.0.1_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+4,6,125,954,#CITIZENS.ROMAN.0.2_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,126,955,#CITIZENS.ROMAN.0.3_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,37,4
+4,6,126,956,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+4,6,126,957,#Menenius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+4,6,126,958,#Cominius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #Cominius_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+4,6,127,959,#TRIBUNES.Sicinius_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,34,4
+4,6,127,960,#CITIZENS.ROMAN.0.1_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+4,6,127,961,#CITIZENS.ROMAN.0.2_Cor,#AEDILES.X.3_Cor #CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #CITIZENS.ROMAN_Cor #MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,8,1
+4,6,128,962,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,1
+4,6,128,963,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,2,1
+4,6,128,964,#TRIBUNES.Brutus_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,14,2
+4,6,128,965,#TRIBUNES.Sicinius_Cor,#CITIZENS.ROMAN.0.1_Cor #CITIZENS.ROMAN.0.2_Cor #CITIZENS.ROMAN.0.3_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+4,7,129,966,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,7,1
+4,7,129,967,#SOLDIERS.VOLSCIAN.Lieutenant_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,39,5
+4,7,129,968,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,51,7
+4,7,129,969,#SOLDIERS.VOLSCIAN.Lieutenant_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,33,5
+4,7,129,970,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,85,10
+4,7,129,971,#SOLDIERS.VOLSCIAN.Lieutenant_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,9,1
+4,7,129,972,#Aufidius_Cor,#Aufidius_Cor #SOLDIERS.VOLSCIAN.Lieutenant_Cor,250,32
+5,1,130,973,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,62,7
+5,1,130,974,#Cominius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,7,1
+5,1,130,975,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,3,1
+5,1,130,976,#Cominius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,52,7
+5,1,130,977,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,22,3
+5,1,130,978,#Cominius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,29,4
+5,1,130,979,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,6,2
+5,1,130,980,#Cominius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,48,6
+5,1,130,981,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,43,5
+5,1,130,982,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,45,6
+5,1,130,983,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+5,1,130,984,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,5,1
+5,1,130,985,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+5,1,130,986,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,12,2
+5,1,130,987,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,27,5
+5,1,130,988,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,17,3
+5,1,130,989,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,94,12
+5,1,130,990,#TRIBUNES.Brutus_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,13,2
+5,1,130,991,#Menenius_Cor,#Cominius_Cor #Menenius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,18,3
+5,1,131,992,#Cominius_Cor,#Cominius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,4,1
+5,1,131,993,#TRIBUNES.Sicinius_Cor,#Cominius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,1,1
+5,1,131,994,#Cominius_Cor,#Cominius_Cor #TRIBUNES.Brutus_Cor #TRIBUNES.Sicinius_Cor,100,12
+5,2,132,995,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,4,1
+5,2,132,996,#WATCHMEN.2_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,4,1
+5,2,132,997,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,22,3
+5,2,132,998,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,2,1
+5,2,132,999,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,2,1
+5,2,132,1000,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,15,2
+5,2,132,1001,#WATCHMEN.2_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,12,2
+5,2,132,1002,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,31,4
+5,2,132,1003,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,14,2
+5,2,132,1004,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,81,11
+5,2,132,1005,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,40,4
+5,2,132,1006,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,15,3
+5,2,132,1007,#WATCHMEN.2_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,27,3
+5,2,132,1008,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,16,2
+5,2,132,1009,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,6,1
+5,2,132,1010,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,6,1
+5,2,132,1011,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,114,13
+5,2,132,1012,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,14,2
+5,2,132,1013,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,6,1
+5,2,132,1014,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,4,1
+5,2,132,1015,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,27,3
+5,2,132,1016,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,4,1
+5,2,133,1017,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,3,1
+5,2,133,1018,#Menenius_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,175,21
+5,2,133,1019,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,1,1
+5,2,133,1020,#Menenius_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,2,1
+5,2,133,1021,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,93,12
+5,2,133,1022,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor #Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,5,1
+5,2,134,1023,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,6,1
+5,2,134,1024,#WATCHMEN.2_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,14,2
+5,2,134,1025,#WATCHMEN.1_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,12,2
+5,2,134,1026,#WATCHMEN.2_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,9,2
+5,2,134,1027,#Menenius_Cor,#Menenius_Cor #WATCHMEN.1_Cor #WATCHMEN.2_Cor,67,7
+5,2,135,1028,#WATCHMEN.1_Cor,#WATCHMEN.1_Cor #WATCHMEN.2_Cor,6,1
+5,2,135,1029,#WATCHMEN.2_Cor,#WATCHMEN.1_Cor #WATCHMEN.2_Cor,15,2
+5,3,136,1030,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor,31,4
+5,3,136,1031,#Aufidius_Cor,#Aufidius_Cor #Coriolanus_Cor,31,5
+5,3,136,1032,#Coriolanus_Cor,#Aufidius_Cor #Coriolanus_Cor,115,15
+5,3,137,1033,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,123,17
+5,3,137,1034,#Virgilia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,4,1
+5,3,137,1035,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,10,1
+5,3,137,1036,#Virgilia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,11,2
+5,3,137,1037,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,101,14
+5,3,137,1038,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,30,5
+5,3,137,1039,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,43,7
+5,3,137,1040,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,14,2
+5,3,137,1041,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,28,4
+5,3,137,1042,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,19,3
+5,3,137,1043,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,40,6
+5,3,137,1044,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,3,1
+5,3,137,1045,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,4,1
+5,3,137,1046,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,12,2
+5,3,137,1047,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,57,9
+5,3,137,1048,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,48,6
+5,3,137,1049,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,15,3
+5,3,137,1050,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,263,35
+5,3,137,1051,#Virgilia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,16,3
+5,3,137,1052,#YoungMartius_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,17,2
+5,3,137,1053,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,20,3
+5,3,137,1054,#Volumnia_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,435,53
+5,3,137,1055,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,92,12
+5,3,137,1056,#Aufidius_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,4,1
+5,3,137,1057,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,52,6
+5,3,137,1058,#Aufidius_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,24,3
+5,3,137,1059,#Coriolanus_Cor,#ATTENDANTS.ROMAN_Cor #Aufidius_Cor #Coriolanus_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor #YoungMartius_Cor,55,8
+5,4,138,1060,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,9,2
+5,4,138,1061,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,4,1
+5,4,138,1062,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,45,5
+5,4,138,1063,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,15,2
+5,4,138,1064,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,32,4
+5,4,138,1065,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,5,1
+5,4,138,1066,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,94,10
+5,4,138,1067,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,7,1
+5,4,138,1068,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,43,5
+5,4,138,1069,#TRIBUNES.Sicinius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,6,1
+5,4,138,1070,#Menenius_Cor,#Menenius_Cor #TRIBUNES.Sicinius_Cor,32,4
+5,4,139,1071,#MESSENGERS.TRIBUNES.1_Cor,#MESSENGERS.TRIBUNES.1_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,39,5
+5,4,140,1072,#TRIBUNES.Sicinius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,3,1
+5,4,140,1073,#MESSENGERS.TRIBUNES.2_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,30,4
+5,4,140,1074,#TRIBUNES.Sicinius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,11,2
+5,4,140,1075,#MESSENGERS.TRIBUNES.2_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,56,7
+5,4,140,1076,#Menenius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,54,7
+5,4,140,1077,#TRIBUNES.Sicinius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,12,2
+5,4,140,1078,#MESSENGERS.TRIBUNES.2_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,10,1
+5,4,140,1079,#TRIBUNES.Sicinius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,5,1
+5,4,140,1080,#MESSENGERS.TRIBUNES.2_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,5,1
+5,4,140,1081,#TRIBUNES.Sicinius_Cor,#MESSENGERS.TRIBUNES.1_Cor #MESSENGERS.TRIBUNES.2_Cor #Menenius_Cor #TRIBUNES.Sicinius_Cor,7,1
+5,5,141,1082,#SENATORS.ROMAN.0.1_Cor,#SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,41,7
+5,5,141,1083,#SENATORS.ROMAN_Cor,#SENATORS.ROMAN.0.1_Cor #SENATORS.ROMAN_Cor #Valeria_Cor #Virgilia_Cor #Volumnia_Cor,3,1
+5,6,142,1084,#Aufidius_Cor,#ATTENDANTS.VOLSCIAN_Cor #Aufidius_Cor,63,9
+5,6,143,1085,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS_Cor,2,1
+5,6,144,1086,#CONSPIRATORS.0.1_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS_Cor,6,1
+5,6,144,1087,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS_Cor,16,3
+5,6,145,1088,#CONSPIRATORS.0.2_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS_Cor,22,4
+5,6,145,1089,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS_Cor,13,2
+5,6,146,1090,#CONSPIRATORS.0.3_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,21,3
+5,6,146,1091,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,60,8
+5,6,146,1092,#CONSPIRATORS.0.3_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,16,3
+5,6,146,1093,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,105,13
+5,6,146,1094,#CONSPIRATORS.0.1_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,29,4
+5,6,146,1095,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,48,6
+5,6,146,1096,#CONSPIRATORS.0.1_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,21,3
+5,6,146,1097,#CONSPIRATORS.0.2_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,16,3
+5,6,146,1098,#CONSPIRATORS.0.3_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,43,6
+5,6,146,1099,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor,3,1
+5,6,147,1100,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor,4,1
+5,6,147,1101,#LORDS.VOLSCIAN_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor,5,1
+5,6,147,1102,#Aufidius_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor,19,3
+5,6,147,1103,#LORDS.VOLSCIAN_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN_Cor,2,1
+5,6,148,1104,#LORDS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,54,7
+5,6,149,1105,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,6,1
+5,6,149,1106,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,105,15
+5,6,149,1107,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,18,3
+5,6,149,1108,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,3,1
+5,6,149,1109,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,3,1
+5,6,149,1110,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,1,1
+5,6,149,1111,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,95,13
+5,6,149,1112,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,3,1
+5,6,149,1113,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,8,1
+5,6,149,1114,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,1,1
+5,6,149,1115,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,2,1
+5,6,149,1116,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,68,9
+5,6,149,1117,#LORDS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,6,1
+5,6,149,1118,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,44,6
+5,6,149,1119,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,27,4
+5,6,149,1120,#CONSPIRATORS_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,5,1
+5,6,149,1121,#CITIZENS.VOLSCIAN_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN_Cor,22,3
+5,6,150,1122,#LORDS.VOLSCIAN.0.2_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,35,5
+5,6,150,1123,#Coriolanus_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,17,3
+5,6,150,1124,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,2,1
+5,6,150,1125,#CONSPIRATORS_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,6,1
+5,6,150,1126,#LORDS.VOLSCIAN_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,4,1
+5,6,150,1127,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,6,1
+5,6,150,1128,#LORDS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,2,1
+5,6,150,1129,#LORDS.VOLSCIAN.0.2_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN_Cor,9,1
+5,6,151,1130,#LORDS.VOLSCIAN.0.3_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN.0.3_Cor #LORDS.VOLSCIAN_Cor,12,2
+5,6,151,1131,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN.0.3_Cor #LORDS.VOLSCIAN_Cor,54,7
+5,6,151,1132,#LORDS.VOLSCIAN.0.1_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN.0.3_Cor #LORDS.VOLSCIAN_Cor,27,4
+5,6,151,1133,#LORDS.VOLSCIAN.0.2_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN.0.3_Cor #LORDS.VOLSCIAN_Cor,17,3
+5,6,151,1134,#Aufidius_Cor,#Aufidius_Cor #CITIZENS.VOLSCIAN_Cor #CONSPIRATORS.0.1_Cor #CONSPIRATORS.0.2_Cor #CONSPIRATORS.0.3_Cor #CONSPIRATORS_Cor #Coriolanus_Cor #LORDS.VOLSCIAN.0.1_Cor #LORDS.VOLSCIAN.0.2_Cor #LORDS.VOLSCIAN.0.3_Cor #LORDS.VOLSCIAN_Cor,61,9

@@ -1,0 +1,648 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#Antonio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,58,7
+1,1,1,2,#Salarino_MV,#Antonio_MV #Salarino_MV #Solanio_MV,52,7
+1,1,1,3,#Solanio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,61,8
+1,1,1,4,#Salarino_MV,#Antonio_MV #Salarino_MV #Solanio_MV,154,19
+1,1,1,5,#Antonio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,40,5
+1,1,1,6,#Solanio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,6,1
+1,1,1,7,#Antonio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,2,1
+1,1,1,8,#Solanio_MV,#Antonio_MV #Salarino_MV #Solanio_MV,86,11
+1,1,2,9,#Solanio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,20,3
+1,1,2,10,#Salarino_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,17,2
+1,1,2,11,#Antonio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,24,3
+1,1,2,12,#Salarino_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,5,1
+1,1,2,13,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,17,3
+1,1,2,14,#Salarino_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,8,1
+1,1,3,15,#Lorenzo_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,27,3
+1,1,3,16,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,5,1
+1,1,3,17,#Gratiano_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,30,4
+1,1,3,18,#Antonio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,23,3
+1,1,3,19,#Gratiano_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,197,27
+1,1,3,20,#Lorenzo_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,25,3
+1,1,3,21,#Gratiano_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,18,3
+1,1,3,22,#Antonio_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,10,1
+1,1,3,23,#Gratiano_MV,#Antonio_MV #Bassanio_MV #Gratiano_MV #Lorenzo_MV,18,2
+1,1,4,24,#Antonio_MV,#Antonio_MV #Bassanio_MV,4,1
+1,1,4,25,#Bassanio_MV,#Antonio_MV #Bassanio_MV,48,5
+1,1,4,26,#Antonio_MV,#Antonio_MV #Bassanio_MV,24,3
+1,1,4,27,#Bassanio_MV,#Antonio_MV #Bassanio_MV,101,13
+1,1,4,28,#Antonio_MV,#Antonio_MV #Bassanio_MV,38,5
+1,1,4,29,#Bassanio_MV,#Antonio_MV #Bassanio_MV,109,13
+1,1,4,30,#Antonio_MV,#Antonio_MV #Bassanio_MV,69,8
+1,1,4,31,#Bassanio_MV,#Antonio_MV #Bassanio_MV,119,16
+1,1,4,32,#Antonio_MV,#Antonio_MV #Bassanio_MV,72,9
+1,2,5,33,#Portia_MV,#Nerissa_MV #Portia_MV,13,2
+1,2,5,34,#Nerissa_MV,#Nerissa_MV #Portia_MV,61,7
+1,2,5,35,#Portia_MV,#Nerissa_MV #Portia_MV,5,1
+1,2,5,36,#Nerissa_MV,#Nerissa_MV #Portia_MV,7,1
+1,2,5,37,#Portia_MV,#Nerissa_MV #Portia_MV,150,15
+1,2,5,38,#Nerissa_MV,#Nerissa_MV #Portia_MV,71,9
+1,2,5,39,#Portia_MV,#Nerissa_MV #Portia_MV,23,3
+1,2,5,40,#Nerissa_MV,#Nerissa_MV #Portia_MV,6,1
+1,2,5,41,#Portia_MV,#Nerissa_MV #Portia_MV,45,5
+1,2,5,42,#Nerissa_MV,#Nerissa_MV #Portia_MV,6,1
+1,2,5,43,#Portia_MV,#Nerissa_MV #Portia_MV,69,8
+1,2,5,44,#Nerissa_MV,#Nerissa_MV #Portia_MV,10,2
+1,2,5,45,#Portia_MV,#Nerissa_MV #Portia_MV,97,10
+1,2,5,46,#Nerissa_MV,#Nerissa_MV #Portia_MV,11,2
+1,2,5,47,#Portia_MV,#Nerissa_MV #Portia_MV,81,9
+1,2,5,48,#Nerissa_MV,#Nerissa_MV #Portia_MV,9,2
+1,2,5,49,#Portia_MV,#Nerissa_MV #Portia_MV,42,5
+1,2,5,50,#Nerissa_MV,#Nerissa_MV #Portia_MV,11,2
+1,2,5,51,#Portia_MV,#Nerissa_MV #Portia_MV,60,6
+1,2,5,52,#Nerissa_MV,#Nerissa_MV #Portia_MV,26,3
+1,2,5,53,#Portia_MV,#Nerissa_MV #Portia_MV,49,5
+1,2,5,54,#Nerissa_MV,#Nerissa_MV #Portia_MV,51,6
+1,2,5,55,#Portia_MV,#Nerissa_MV #Portia_MV,60,6
+1,2,5,56,#Nerissa_MV,#Nerissa_MV #Portia_MV,26,3
+1,2,5,57,#Portia_MV,#Nerissa_MV #Portia_MV,12,2
+1,2,5,58,#Nerissa_MV,#Nerissa_MV #Portia_MV,21,3
+1,2,5,59,#Portia_MV,#Nerissa_MV #Portia_MV,12,2
+1,2,6,60,#Portia_MV,#Nerissa_MV #Portia_MV #SERVANTS.1_MV,4,1
+1,2,6,61,#SERVANTS.1_MV,#Nerissa_MV #Portia_MV #SERVANTS.1_MV,35,4
+1,2,6,62,#Portia_MV,#Nerissa_MV #Portia_MV #SERVANTS.1_MV,68,8
+1,3,7,63,#Shylock_MV,#Bassanio_MV #Shylock_MV,4,1
+1,3,7,64,#Bassanio_MV,#Bassanio_MV #Shylock_MV,5,1
+1,3,7,65,#Shylock_MV,#Bassanio_MV #Shylock_MV,4,1
+1,3,7,66,#Bassanio_MV,#Bassanio_MV #Shylock_MV,11,2
+1,3,7,67,#Shylock_MV,#Bassanio_MV #Shylock_MV,5,1
+1,3,7,68,#Bassanio_MV,#Bassanio_MV #Shylock_MV,13,2
+1,3,7,69,#Shylock_MV,#Bassanio_MV #Shylock_MV,9,2
+1,3,7,70,#Bassanio_MV,#Bassanio_MV #Shylock_MV,4,1
+1,3,7,71,#Shylock_MV,#Bassanio_MV #Shylock_MV,5,1
+1,3,7,72,#Bassanio_MV,#Bassanio_MV #Shylock_MV,8,2
+1,3,7,73,#Shylock_MV,#Bassanio_MV #Shylock_MV,113,13
+1,3,7,74,#Bassanio_MV,#Bassanio_MV #Shylock_MV,4,1
+1,3,7,75,#Shylock_MV,#Bassanio_MV #Shylock_MV,21,3
+1,3,7,76,#Bassanio_MV,#Bassanio_MV #Shylock_MV,8,1
+1,3,7,77,#Shylock_MV,#Bassanio_MV #Shylock_MV,59,7
+1,3,8,78,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,4,1
+1,3,8,79,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,93,12
+1,3,8,80,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,4,1
+1,3,8,81,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,62,9
+1,3,8,82,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,35,6
+1,3,8,83,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,5,2
+1,3,8,84,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,4,1
+1,3,8,85,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,30,6
+1,3,8,86,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,5,1
+1,3,8,87,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,30,4
+1,3,8,88,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,8,1
+1,3,8,89,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,118,15
+1,3,8,90,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,44,5
+1,3,8,91,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,13,2
+1,3,8,92,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,40,6
+1,3,8,93,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,18,3
+1,3,8,94,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,8,1
+1,3,8,95,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,185,24
+1,3,8,96,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,63,8
+1,3,8,97,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,48,6
+1,3,8,98,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,3,1
+1,3,8,99,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,72,9
+1,3,8,100,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,18,2
+1,3,8,101,#Bassanio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,16,2
+1,3,8,102,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,33,4
+1,3,8,103,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,90,11
+1,3,8,104,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,8,1
+1,3,8,105,#Shylock_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,42,6
+1,3,8,106,#Antonio_MV,#Antonio_MV #Bassanio_MV #Shylock_MV,4,1
+1,3,9,107,#Antonio_MV,#Antonio_MV #Bassanio_MV,8,1
+1,3,9,108,#Bassanio_MV,#Antonio_MV #Bassanio_MV,9,1
+1,3,9,109,#Antonio_MV,#Antonio_MV #Bassanio_MV,18,2
+2,1,10,110,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,95,12
+2,1,10,111,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,75,10
+2,1,10,112,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,127,17
+2,1,10,113,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,35,5
+2,1,10,114,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,9,1
+2,1,10,115,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,12,2
+2,1,10,116,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,11,2
+2,2,11,117,#LanceletGobbo_MV,#LanceletGobbo_MV,271,31
+2,2,12,118,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,14,2
+2,2,12,119,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,24,3
+2,2,12,120,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,13,2
+2,2,12,121,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,38,4
+2,2,12,122,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,26,3
+2,2,12,123,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,21,3
+2,2,12,124,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,27,3
+2,2,12,125,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,14,2
+2,2,12,126,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,6,1
+2,2,12,127,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,17,2
+2,2,12,128,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,7,1
+2,2,12,129,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,44,6
+2,2,12,130,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,15,2
+2,2,12,131,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,19,2
+2,2,12,132,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,25,3
+2,2,12,133,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,6,1
+2,2,12,134,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,9,1
+2,2,12,135,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,60,7
+2,2,12,136,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,14,2
+2,2,12,137,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,30,4
+2,2,12,138,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,7,1
+2,2,12,139,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,26,3
+2,2,12,140,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,46,5
+2,2,12,141,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,30,4
+2,2,12,142,#OldGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,22,3
+2,2,12,143,#LanceletGobbo_MV,#LanceletGobbo_MV #OldGobbo_MV,115,11
+2,2,13,144,#Bassanio_MV,#ATTENDANTS.BASSANIO.1_MV #ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,40,5
+2,2,14,145,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,3,1
+2,2,14,146,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,4,1
+2,2,14,147,#Bassanio_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,6,1
+2,2,14,148,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,7,1
+2,2,14,149,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,18,2
+2,2,14,150,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,12,2
+2,2,14,151,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,20,2
+2,2,14,152,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,11,2
+2,2,14,153,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,30,4
+2,2,14,154,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,18,2
+2,2,14,155,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,32,4
+2,2,14,156,#Bassanio_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,7,1
+2,2,14,157,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,3,1
+2,2,14,158,#OldGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,9,1
+2,2,14,159,#Bassanio_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,40,5
+2,2,14,160,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,25,3
+2,2,14,161,#Bassanio_MV,#ATTENDANTS.BASSANIO.2_MV #ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,32,4
+2,2,15,162,#LanceletGobbo_MV,#ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #LanceletGobbo_MV #OldGobbo_MV,119,13
+2,2,16,163,#Bassanio_MV,#ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV,30,4
+2,2,16,164,#ATTENDANTS.BASSANIO.Leonardo_MV,#ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV,7,1
+2,2,17,165,#Gratiano_MV,#ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #Gratiano_MV,3,1
+2,2,17,166,#ATTENDANTS.BASSANIO.Leonardo_MV,#ATTENDANTS.BASSANIO.Leonardo_MV #Bassanio_MV #Gratiano_MV,4,1
+2,2,18,167,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,2,1
+2,2,18,168,#Bassanio_MV,#Bassanio_MV #Gratiano_MV,1,1
+2,2,18,169,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,5,1
+2,2,18,170,#Bassanio_MV,#Bassanio_MV #Gratiano_MV,4,1
+2,2,18,171,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,12,2
+2,2,18,172,#Bassanio_MV,#Bassanio_MV #Gratiano_MV,79,11
+2,2,18,173,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,70,9
+2,2,18,174,#Bassanio_MV,#Bassanio_MV #Gratiano_MV,6,1
+2,2,18,175,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,15,2
+2,2,18,176,#Bassanio_MV,#Bassanio_MV #Gratiano_MV,32,5
+2,2,18,177,#Gratiano_MV,#Bassanio_MV #Gratiano_MV,16,2
+2,3,19,178,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV,73,9
+2,3,19,179,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV,38,5
+2,3,19,180,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV,3,1
+2,3,20,181,#Jessica_MV,#Jessica_MV,49,6
+2,4,21,182,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,19,3
+2,4,21,183,#Gratiano_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,6,1
+2,4,21,184,#Salarino_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,8,1
+2,4,21,185,#Solanio_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,15,2
+2,4,21,186,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,12,2
+2,4,22,187,#Lorenzo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,5,1
+2,4,22,188,#LanceletGobbo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,14,2
+2,4,22,189,#Lorenzo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,24,3
+2,4,22,190,#Gratiano_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,4,1
+2,4,22,191,#LanceletGobbo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,4,1
+2,4,22,192,#Lorenzo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,3,1
+2,4,22,193,#LanceletGobbo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,18,2
+2,4,22,194,#Lorenzo_MV,#Gratiano_MV #LanceletGobbo_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,15,3
+2,4,23,195,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,16,3
+2,4,23,196,#Salarino_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,8,1
+2,4,23,197,#Solanio_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,4,1
+2,4,23,198,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,10,2
+2,4,23,199,#Salarino_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV #Solanio_MV,5,1
+2,4,24,200,#Gratiano_MV,#Gratiano_MV #Lorenzo_MV,7,1
+2,4,24,201,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV,87,11
+2,5,25,202,#Shylock_MV,#LanceletGobbo_MV #Shylock_MV,43,6
+2,5,25,203,#LanceletGobbo_MV,#LanceletGobbo_MV #Shylock_MV,2,1
+2,5,25,204,#Shylock_MV,#LanceletGobbo_MV #Shylock_MV,10,1
+2,5,25,205,#LanceletGobbo_MV,#LanceletGobbo_MV #Shylock_MV,13,2
+2,5,26,206,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,6,1
+2,5,26,207,#Shylock_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,66,8
+2,5,26,208,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,12,2
+2,5,26,209,#Shylock_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,4,1
+2,5,26,210,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,52,6
+2,5,26,211,#Shylock_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,96,12
+2,5,26,212,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Shylock_MV,25,4
+2,5,27,213,#Shylock_MV,#Jessica_MV #Shylock_MV,8,1
+2,5,27,214,#Jessica_MV,#Jessica_MV #Shylock_MV,7,1
+2,5,27,215,#Shylock_MV,#Jessica_MV #Shylock_MV,77,10
+2,5,28,216,#Jessica_MV,#Jessica_MV,16,2
+2,6,29,217,#Gratiano_MV,#Gratiano_MV #Salarino_MV,12,2
+2,6,29,218,#Salarino_MV,#Gratiano_MV #Salarino_MV,5,1
+2,6,29,219,#Gratiano_MV,#Gratiano_MV #Salarino_MV,15,2
+2,6,29,220,#Salarino_MV,#Gratiano_MV #Salarino_MV,21,3
+2,6,29,221,#Gratiano_MV,#Gratiano_MV #Salarino_MV,91,12
+2,6,30,222,#Salarino_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV,7,1
+2,6,30,223,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV,43,5
+2,6,31,224,#Jessica_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,17,2
+2,6,31,225,#Lorenzo_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,4,1
+2,6,31,226,#Jessica_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,23,3
+2,6,31,227,#Lorenzo_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,9,1
+2,6,31,228,#Jessica_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,58,7
+2,6,31,229,#Lorenzo_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,7,1
+2,6,31,230,#Jessica_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,30,4
+2,6,31,231,#Lorenzo_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,32,5
+2,6,31,232,#Jessica_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,18,2
+2,6,32,233,#Gratiano_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV,9,1
+2,6,32,234,#Lorenzo_MV,#Gratiano_MV #Lorenzo_MV #Salarino_MV,52,6
+2,6,33,235,#Lorenzo_MV,#Gratiano_MV #Jessica_MV #Lorenzo_MV #Salarino_MV,16,2
+2,6,34,236,#Antonio_MV,#Antonio_MV #Gratiano_MV,2,1
+2,6,34,237,#Gratiano_MV,#Antonio_MV #Gratiano_MV,2,1
+2,6,34,238,#Antonio_MV,#Antonio_MV #Gratiano_MV,39,5
+2,6,34,239,#Gratiano_MV,#Antonio_MV #Gratiano_MV,18,2
+2,7,35,240,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,18,3
+2,7,35,241,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,63,10
+2,7,35,242,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,17,2
+2,7,35,243,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,391,51
+2,7,35,244,#Portia_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,14,3
+2,7,35,245,#Morocco_MV,#ATTENDANTS.MOROCCO_MV #ATTENDANTS.PORTIA_MV #Morocco_MV #Nerissa_MV #Portia_MV,104,16
+2,7,36,246,#Portia_MV,#ATTENDANTS.PORTIA_MV #Nerissa_MV #Portia_MV,15,2
+2,8,37,247,#Salarino_MV,#Salarino_MV #Solanio_MV,23,3
+2,8,37,248,#Solanio_MV,#Salarino_MV #Solanio_MV,16,2
+2,8,37,249,#Salarino_MV,#Salarino_MV #Solanio_MV,42,6
+2,8,37,250,#Solanio_MV,#Salarino_MV #Solanio_MV,89,12
+2,8,37,251,#Salarino_MV,#Salarino_MV #Solanio_MV,16,2
+2,8,37,252,#Solanio_MV,#Salarino_MV #Solanio_MV,14,2
+2,8,37,253,#Salarino_MV,#Salarino_MV #Solanio_MV,48,7
+2,8,37,254,#Solanio_MV,#Salarino_MV #Solanio_MV,18,2
+2,8,37,255,#Salarino_MV,#Salarino_MV #Solanio_MV,115,15
+2,8,37,256,#Solanio_MV,#Salarino_MV #Solanio_MV,29,4
+2,8,37,257,#Salarino_MV,#Salarino_MV #Solanio_MV,3,1
+2,9,38,258,#Nerissa_MV,#ATTENDANTS.PORTIA_MV #Nerissa_MV,23,3
+2,9,39,259,#Portia_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,38,5
+2,9,39,260,#Arragon_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,57,7
+2,9,39,261,#Portia_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,14,2
+2,9,39,262,#Arragon_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,282,39
+2,9,39,263,#Portia_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,10,1
+2,9,39,264,#Arragon_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,59,8
+2,9,39,265,#Portia_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,11,2
+2,9,39,266,#Arragon_MV,#ATTENDANTS.ARRAGON_MV #ATTENDANTS.PORTIA_MV #Arragon_MV #Nerissa_MV #Portia_MV,98,17
+2,9,40,267,#Portia_MV,#ATTENDANTS.PORTIA_MV #Nerissa_MV #Portia_MV,24,3
+2,9,40,268,#Nerissa_MV,#ATTENDANTS.PORTIA_MV #Nerissa_MV #Portia_MV,12,2
+2,9,40,269,#Portia_MV,#ATTENDANTS.PORTIA_MV #Nerissa_MV #Portia_MV,5,1
+2,9,41,270,#Messenger_MV,#ATTENDANTS.PORTIA_MV #Messenger_MV #Nerissa_MV #Portia_MV,4,1
+2,9,41,271,#Portia_MV,#ATTENDANTS.PORTIA_MV #Messenger_MV #Nerissa_MV #Portia_MV,5,2
+2,9,41,272,#Messenger_MV,#ATTENDANTS.PORTIA_MV #Messenger_MV #Nerissa_MV #Portia_MV,72,10
+2,9,41,273,#Portia_MV,#ATTENDANTS.PORTIA_MV #Messenger_MV #Nerissa_MV #Portia_MV,42,5
+2,9,41,274,#Nerissa_MV,#ATTENDANTS.PORTIA_MV #Messenger_MV #Nerissa_MV #Portia_MV,8,1
+3,1,42,275,#Solanio_MV,#Salarino_MV #Solanio_MV,6,1
+3,1,42,276,#Salarino_MV,#Salarino_MV #Solanio_MV,57,7
+3,1,42,277,#Solanio_MV,#Salarino_MV #Solanio_MV,64,7
+3,1,42,278,#Salarino_MV,#Salarino_MV #Solanio_MV,4,1
+3,1,42,279,#Solanio_MV,#Salarino_MV #Solanio_MV,13,2
+3,1,42,280,#Salarino_MV,#Salarino_MV #Solanio_MV,10,1
+3,1,42,281,#Solanio_MV,#Salarino_MV #Solanio_MV,21,3
+3,1,43,282,#Solanio_MV,#Salarino_MV #Shylock_MV #Solanio_MV,8,2
+3,1,43,283,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,14,2
+3,1,43,284,#Salarino_MV,#Salarino_MV #Shylock_MV #Solanio_MV,16,2
+3,1,43,285,#Solanio_MV,#Salarino_MV #Shylock_MV #Solanio_MV,24,3
+3,1,43,286,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,5,1
+3,1,43,287,#Salarino_MV,#Salarino_MV #Shylock_MV #Solanio_MV,9,1
+3,1,43,288,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,7,1
+3,1,43,289,#Solanio_MV,#Salarino_MV #Shylock_MV #Solanio_MV,10,2
+3,1,43,290,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,10,1
+3,1,43,291,#Salarino_MV,#Salarino_MV #Shylock_MV #Solanio_MV,42,5
+3,1,43,292,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,66,7
+3,1,43,293,#Salarino_MV,#Salarino_MV #Shylock_MV #Solanio_MV,17,2
+3,1,43,294,#Shylock_MV,#Salarino_MV #Shylock_MV #Solanio_MV,194,21
+3,1,44,295,#SERVANTS.2_MV,#SERVANTS.2_MV #Salarino_MV #Shylock_MV #Solanio_MV,15,2
+3,1,44,296,#Salarino_MV,#SERVANTS.2_MV #Salarino_MV #Shylock_MV #Solanio_MV,9,1
+3,1,45,297,#Solanio_MV,#SERVANTS.2_MV #Salarino_MV #Shylock_MV #Solanio_MV #Tubal_MV,17,3
+3,1,46,298,#Shylock_MV,#Shylock_MV #Tubal_MV,12,2
+3,1,46,299,#Tubal_MV,#Shylock_MV #Tubal_MV,13,2
+3,1,46,300,#Shylock_MV,#Shylock_MV #Tubal_MV,129,14
+3,1,46,301,#Tubal_MV,#Shylock_MV #Tubal_MV,13,2
+3,1,46,302,#Shylock_MV,#Shylock_MV #Tubal_MV,7,1
+3,1,46,303,#Tubal_MV,#Shylock_MV #Tubal_MV,8,2
+3,1,46,304,#Shylock_MV,#Shylock_MV #Tubal_MV,12,1
+3,1,46,305,#Tubal_MV,#Shylock_MV #Tubal_MV,11,2
+3,1,46,306,#Shylock_MV,#Shylock_MV #Tubal_MV,14,2
+3,1,46,307,#Tubal_MV,#Shylock_MV #Tubal_MV,12,2
+3,1,46,308,#Shylock_MV,#Shylock_MV #Tubal_MV,20,3
+3,1,46,309,#Tubal_MV,#Shylock_MV #Tubal_MV,18,3
+3,1,46,310,#Shylock_MV,#Shylock_MV #Tubal_MV,17,2
+3,1,46,311,#Tubal_MV,#Shylock_MV #Tubal_MV,16,2
+3,1,46,312,#Shylock_MV,#Shylock_MV #Tubal_MV,32,4
+3,1,46,313,#Tubal_MV,#Shylock_MV #Tubal_MV,5,1
+3,1,46,314,#Shylock_MV,#Shylock_MV #Tubal_MV,55,6
+3,2,47,315,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,207,24
+3,2,47,316,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,12,2
+3,2,47,317,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,14,2
+3,2,47,318,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,33,4
+3,2,47,319,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,15,2
+3,2,47,320,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,8,1
+3,2,47,321,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,5,1
+3,2,47,322,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,32,5
+3,2,47,323,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV,185,23
+3,2,48,324,#MUSICIANS_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,53,10
+3,2,48,325,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,269,36
+3,2,48,326,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,49,7
+3,2,48,327,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,263,35
+3,2,48,328,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,213,26
+3,2,48,329,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,83,11
+3,2,48,330,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,28,3
+3,2,48,331,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,52,6
+3,2,48,332,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,10,1
+3,2,48,333,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,102,13
+3,2,48,334,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,4,1
+3,2,48,335,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,1
+3,2,48,336,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,7,1
+3,2,48,337,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,4,1
+3,2,48,338,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,9,1
+3,2,48,339,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,11,2
+3,2,48,340,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,4,1
+3,2,48,341,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,11,2
+3,2,49,342,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,15,2
+3,2,49,343,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,33,6
+3,2,49,344,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,9,1
+3,2,49,345,#Lorenzo_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,38,5
+3,2,49,346,#Salerio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,16,4
+3,2,49,347,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,15,2
+3,2,49,348,#Salerio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,22,3
+3,2,49,349,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,40,5
+3,2,49,350,#Salerio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,11,1
+3,2,49,351,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,61,9
+3,2,49,352,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,167,22
+3,2,49,353,#Salerio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,99,13
+3,2,49,354,#Jessica_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,56,7
+3,2,49,355,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,10,1
+3,2,49,356,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,34,5
+3,2,49,357,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,6,1
+3,2,49,358,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,5,1
+3,2,49,359,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,131,17
+3,2,49,360,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,68,7
+3,2,49,361,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,7,1
+3,2,49,362,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV #Salerio_MV,34,4
+3,3,50,363,#Shylock_MV,#Antonio_MV #Jailer_MV #Shylock_MV #Solanio_MV,22,3
+3,3,50,364,#Antonio_MV,#Antonio_MV #Jailer_MV #Shylock_MV #Solanio_MV,5,1
+3,3,50,365,#Shylock_MV,#Antonio_MV #Jailer_MV #Shylock_MV #Solanio_MV,63,7
+3,3,50,366,#Antonio_MV,#Antonio_MV #Jailer_MV #Shylock_MV #Solanio_MV,6,1
+3,3,50,367,#Shylock_MV,#Antonio_MV #Jailer_MV #Shylock_MV #Solanio_MV,51,6
+3,3,51,368,#Solanio_MV,#Antonio_MV #Jailer_MV #Solanio_MV,11,2
+3,3,51,369,#Antonio_MV,#Antonio_MV #Jailer_MV #Solanio_MV,39,6
+3,3,51,370,#Solanio_MV,#Antonio_MV #Jailer_MV #Solanio_MV,12,2
+3,3,51,371,#Antonio_MV,#Antonio_MV #Jailer_MV #Solanio_MV,85,11
+3,4,52,372,#Lorenzo_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,72,9
+3,4,52,373,#Portia_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,186,26
+3,4,52,374,#Lorenzo_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,13,2
+3,4,52,375,#Portia_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,29,4
+3,4,52,376,#Lorenzo_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,8,1
+3,4,52,377,#Jessica_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,7,1
+3,4,52,378,#Portia_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Jessica_MV #Lorenzo_MV #Nerissa_MV #Portia_MV,20,2
+3,4,53,379,#Portia_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Nerissa_MV #Portia_MV,87,12
+3,4,53,380,#ATTENDANTS.PORTIA.Balthazar_MV,#ATTENDANTS.PORTIA.Balthazar_MV #Nerissa_MV #Portia_MV,7,1
+3,4,54,381,#Portia_MV,#Nerissa_MV #Portia_MV,23,3
+3,4,54,382,#Nerissa_MV,#Nerissa_MV #Portia_MV,4,1
+3,4,54,383,#Portia_MV,#Nerissa_MV #Portia_MV,152,19
+3,4,54,384,#Nerissa_MV,#Nerissa_MV #Portia_MV,6,1
+3,4,54,385,#Portia_MV,#Nerissa_MV #Portia_MV,46,6
+3,5,55,386,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV,75,8
+3,5,55,387,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV,8,1
+3,5,55,388,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV,18,2
+3,5,55,389,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV,19,2
+3,5,55,390,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV,31,4
+3,5,55,391,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV,13,2
+3,5,55,392,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV,51,6
+3,5,56,393,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,11,2
+3,5,56,394,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,16,2
+3,5,56,395,#Jessica_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,52,6
+3,5,56,396,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,26,3
+3,5,56,397,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,29,3
+3,5,56,398,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,37,5
+3,5,56,399,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,8,1
+3,5,56,400,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,12,2
+3,5,56,401,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,10,2
+3,5,56,402,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,5,1
+3,5,56,403,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,8,1
+3,5,56,404,#Lorenzo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,48,6
+3,5,56,405,#LanceletGobbo_MV,#Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,34,4
+3,5,57,406,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,62,8
+3,5,57,407,#Jessica_MV,#Jessica_MV #Lorenzo_MV,86,11
+3,5,57,408,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,14,2
+3,5,57,409,#Jessica_MV,#Jessica_MV #Lorenzo_MV,8,1
+3,5,57,410,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,9,1
+3,5,57,411,#Jessica_MV,#Jessica_MV #Lorenzo_MV,10,1
+3,5,57,412,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,20,3
+3,5,57,413,#Jessica_MV,#Jessica_MV #Lorenzo_MV,5,1
+4,1,58,414,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,4,1
+4,1,58,415,#Antonio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,5,1
+4,1,58,416,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,27,4
+4,1,58,417,#Antonio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,57,8
+4,1,58,418,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,9,1
+4,1,58,419,#Salerio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV,10,1
+4,1,59,420,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,145,19
+4,1,59,421,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,228,28
+4,1,59,422,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,14,2
+4,1,59,423,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,10,1
+4,1,59,424,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,10,1
+4,1,59,425,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,9,1
+4,1,59,426,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,8,1
+4,1,59,427,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,9,1
+4,1,59,428,#Antonio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,122,14
+4,1,59,429,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,8,1
+4,1,59,430,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,26,3
+4,1,59,431,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,8,1
+4,1,59,432,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,131,15
+4,1,59,433,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,24,4
+4,1,59,434,#Salerio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,16,3
+4,1,59,435,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,7,1
+4,1,59,436,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,27,3
+4,1,59,437,#Antonio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Salerio_MV #Shylock_MV,39,5
+4,1,60,438,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,6,1
+4,1,60,439,#Nerissa_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,8,1
+4,1,60,440,#Bassanio_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,8,1
+4,1,60,441,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,8,1
+4,1,60,442,#Gratiano_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,37,4
+4,1,60,443,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,9,1
+4,1,60,444,#Gratiano_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,79,11
+4,1,60,445,#Shylock_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,36,4
+4,1,60,446,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,17,3
+4,1,60,447,#Nerissa_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,13,2
+4,1,60,448,#Duke_MV,#ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Salerio_MV #Shylock_MV,171,19
+4,1,61,449,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,18,2
+4,1,61,450,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,451,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,20,3
+4,1,61,452,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,16,2
+4,1,61,453,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,454,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,455,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,456,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,32,5
+4,1,61,457,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,458,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,5,1
+4,1,61,459,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,2,1
+4,1,61,460,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,6,1
+4,1,61,461,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,462,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,172,23
+4,1,61,463,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,16,2
+4,1,61,464,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,465,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,79,10
+4,1,61,466,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,37,5
+4,1,61,467,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,17,2
+4,1,61,468,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,9,1
+4,1,61,469,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,470,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,471,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,21,3
+4,1,61,472,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,38,5
+4,1,61,473,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,64,8
+4,1,61,474,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,11,2
+4,1,61,475,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,13,2
+4,1,61,476,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,477,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,21,3
+4,1,61,478,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,17,2
+4,1,61,479,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,5,1
+4,1,61,480,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,20,3
+4,1,61,481,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,11,2
+4,1,61,482,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,483,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,18,2
+4,1,61,484,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,485,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,17,2
+4,1,61,486,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,9,1
+4,1,61,487,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,488,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,149,18
+4,1,61,489,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,48,6
+4,1,61,490,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,19,2
+4,1,61,491,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,26,3
+4,1,61,492,#Nerissa_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,16,2
+4,1,61,493,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,32,5
+4,1,61,494,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,19,2
+4,1,61,495,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,3,1
+4,1,61,496,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,19,2
+4,1,61,497,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,498,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,65,8
+4,1,61,499,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,500,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,501,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,20,3
+4,1,61,502,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,503,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,14,2
+4,1,61,504,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,4,1
+4,1,61,505,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,17,2
+4,1,61,506,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,507,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,80,9
+4,1,61,508,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,14,2
+4,1,61,509,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,510,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,511,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,9,1
+4,1,61,512,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,16,2
+4,1,61,513,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,17,2
+4,1,61,514,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,515,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,15,2
+4,1,61,516,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,14,2
+4,1,61,517,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,125,18
+4,1,61,518,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,36,5
+4,1,61,519,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,40,5
+4,1,61,520,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,521,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,37,4
+4,1,61,522,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,7,1
+4,1,61,523,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,524,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,85,11
+4,1,61,525,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,16,2
+4,1,61,526,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,8,1
+4,1,61,527,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,3,1
+4,1,61,528,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,6,1
+4,1,61,529,#Shylock_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,24,3
+4,1,61,530,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,6,1
+4,1,61,531,#Gratiano_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV #Shylock_MV,27,3
+4,1,62,532,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,9,1
+4,1,62,533,#Portia_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,23,3
+4,1,62,534,#Duke_MV,#ATTENDANTS.DUKE.0_MV #ATTENDANTS.DUKE_MV #Antonio_MV #Bassanio_MV #Duke_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,23,3
+4,1,63,535,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,35,5
+4,1,63,536,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,13,2
+4,1,63,537,#Portia_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,47,6
+4,1,63,538,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,35,4
+4,1,63,539,#Portia_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,48,5
+4,1,63,540,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,18,2
+4,1,63,541,#Portia_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,17,2
+4,1,63,542,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,32,4
+4,1,63,543,#Portia_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,26,3
+4,1,63,544,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,30,3
+4,1,63,545,#Portia_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Nerissa_MV #Portia_MV #Salerio_MV,43,5
+4,1,64,546,#Antonio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Salerio_MV,21,3
+4,1,64,547,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Salerio_MV,22,3
+4,1,65,548,#Bassanio_MV,#ATTENDANTS.DUKE.0_MV #Antonio_MV #Bassanio_MV #Salerio_MV,20,3
+4,2,66,549,#Portia_MV,#Nerissa_MV #Portia_MV,33,5
+4,2,67,550,#Gratiano_MV,#Gratiano_MV #Nerissa_MV #Portia_MV,25,4
+4,2,67,551,#Portia_MV,#Gratiano_MV #Nerissa_MV #Portia_MV,27,4
+4,2,67,552,#Gratiano_MV,#Gratiano_MV #Nerissa_MV #Portia_MV,4,1
+4,2,67,553,#Nerissa_MV,#Gratiano_MV #Nerissa_MV #Portia_MV,24,4
+4,2,67,554,#Portia_MV,#Gratiano_MV #Nerissa_MV #Portia_MV,35,4
+4,2,68,555,#Nerissa_MV,#Gratiano_MV #Nerissa_MV,10,1
+5,1,69,556,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,48,6
+5,1,69,557,#Jessica_MV,#Jessica_MV #Lorenzo_MV,21,4
+5,1,69,558,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,25,4
+5,1,69,559,#Jessica_MV,#Jessica_MV #Lorenzo_MV,14,3
+5,1,69,560,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,24,4
+5,1,69,561,#Jessica_MV,#Jessica_MV #Lorenzo_MV,25,4
+5,1,69,562,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,19,3
+5,1,69,563,#Jessica_MV,#Jessica_MV #Lorenzo_MV,16,2
+5,1,70,564,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,9,1
+5,1,70,565,#ATTENDANTS.PORTIA.Stephano_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,2,1
+5,1,70,566,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,10,2
+5,1,70,567,#ATTENDANTS.PORTIA.Stephano_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,36,5
+5,1,70,568,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,4,1
+5,1,70,569,#ATTENDANTS.PORTIA.Stephano_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,16,2
+5,1,70,570,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,31,4
+5,1,71,571,#LanceletGobbo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,7,1
+5,1,71,572,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,2,1
+5,1,71,573,#LanceletGobbo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,10,2
+5,1,71,574,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,4,1
+5,1,71,575,#LanceletGobbo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,3,1
+5,1,71,576,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,1,1
+5,1,71,577,#LanceletGobbo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #LanceletGobbo_MV #Lorenzo_MV,25,3
+5,1,72,578,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV,39,5
+5,1,73,579,#Lorenzo_MV,#Jessica_MV #Lorenzo_MV,93,12
+5,1,74,580,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV,21,3
+5,1,74,581,#Jessica_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV,9,1
+5,1,74,582,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV,154,20
+5,1,75,583,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,26,3
+5,1,75,584,#Nerissa_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,10,1
+5,1,75,585,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,38,5
+5,1,75,586,#Nerissa_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,1
+5,1,75,587,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,15,2
+5,1,75,588,#Nerissa_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,7,1
+5,1,75,589,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,65,9
+5,1,75,590,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,11,2
+5,1,75,591,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,14,2
+5,1,75,592,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,4,1
+5,1,75,593,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,20,3
+5,1,75,594,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,16,3
+5,1,75,595,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,26,4
+5,1,75,596,#Lorenzo_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,17,2
+5,1,75,597,#Portia_MV,#ATTENDANTS.PORTIA.Stephano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,26,3
+5,1,76,598,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,16,2
+5,1,76,599,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,36,4
+5,1,76,600,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,23,3
+5,1,76,601,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,20,2
+5,1,76,602,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,1
+5,1,76,603,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,22,3
+5,1,76,604,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,38,4
+5,1,76,605,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,7,1
+5,1,76,606,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,32,4
+5,1,76,607,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,78,8
+5,1,76,608,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,10,1
+5,1,76,609,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,9,1
+5,1,76,610,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,43,5
+5,1,76,611,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,103,11
+5,1,76,612,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,18,2
+5,1,76,613,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,45,6
+5,1,76,614,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,15,2
+5,1,76,615,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,27,3
+5,1,76,616,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,23,3
+5,1,76,617,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,9,2
+5,1,76,618,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,54,7
+5,1,76,619,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,81,10
+5,1,76,620,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,116,14
+5,1,76,621,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,95,11
+5,1,76,622,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,17,2
+5,1,76,623,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,20,2
+5,1,76,624,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,1
+5,1,76,625,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,2
+5,1,76,626,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,28,4
+5,1,76,627,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,27,4
+5,1,76,628,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,22,3
+5,1,76,629,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,40,5
+5,1,76,630,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,18,2
+5,1,76,631,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,8,1
+5,1,76,632,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,10,1
+5,1,76,633,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,17,2
+5,1,76,634,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,24,3
+5,1,76,635,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,25,3
+5,1,76,636,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,106,14
+5,1,76,637,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,3,1
+5,1,76,638,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,9,1
+5,1,76,639,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,10,1
+5,1,76,640,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,18,2
+5,1,76,641,#Bassanio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,16,2
+5,1,76,642,#Antonio_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,23,3
+5,1,76,643,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,12,2
+5,1,76,644,#Nerissa_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,35,4
+5,1,76,645,#Lorenzo_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,11,2
+5,1,76,646,#Portia_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,35,5
+5,1,76,647,#Gratiano_MV,#ATTENDANTS.BASSANIO_MV #ATTENDANTS.PORTIA.Stephano_MV #Antonio_MV #Bassanio_MV #Gratiano_MV #Jessica_MV #Lorenzo_MV #MUSICIANS_MV #Nerissa_MV #Portia_MV,68,8

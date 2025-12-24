@@ -99,15 +99,21 @@ class Book:
             data=self.co_occurances_raw
         elif data_sel==1:
             data=self.w2v_pairs
+        elif data_sel==2:
+            data=self.bert_pairs_average_ent_emb
         Graphs.PlotHM(data,save_plot,save_path)
-    def PlotGraph(self,data_sel,save_plot,save_path):
+    def PlotGraph(self, data_sel, save_plot, save_path):
         if data_sel==0:
-            data=self.co_occurances_raw
+            data = self.co_occurances_raw
+            data = [[pair[0], pair[1], 1 / pair[2]] for pair in data]
             title = self.book_name + " Co-Occurances"
         elif data_sel==1:
             data=self.w2v_pairs
             title = self.book_name + " W2V Cosine Similarity"
-        Graphs.PlotGraph(data,save_plot,save_path,title)
+        elif data_sel==2:
+            data = [[pair[0], pair[1], pair[2] - 1] for pair in self.bert_pairs_average_ent_emb]
+            title = self.book_name + " BERT - Entity Embedding Similarity"
+        Graphs.PlotGraph(data, save_plot, save_path, title)
     def PrintChars(self):
         i=1
         print("(Entities)")
@@ -325,37 +331,37 @@ class Book:
         clusters_labels_bert_ent_emb, clusters_centers_bert_ent_emb = cluster_bert_ent_emb.kmeans()
         clusters_labels_bert_cls, clusters_centers_bert_cls = cluster_bert_cls.kmeans()
 
-        clusters_labels_cooc_dbscan, clusters_centers_cooc_dbscan = cluster_cooc.dbscan()
-        clusters_labels_w2v_dbscan, clusters_centers_w2v_dbscan = cluster_w2v.dbscan()
-        clusters_labels_bert_ent_emb_dbscan, clusters_centers_bert_ent_emb_dbscan = cluster_bert_ent_emb.dbscan()
-        clusters_labels_bert_cls_dbscan, clusters_centers_bert_cls_dbscan = cluster_bert_cls.dbscan()
+        # clusters_labels_cooc_dbscan, clusters_centers_cooc_dbscan = cluster_cooc.dbscan()
+        # clusters_labels_w2v_dbscan, clusters_centers_w2v_dbscan = cluster_w2v.dbscan()
+        # clusters_labels_bert_ent_emb_dbscan, clusters_centers_bert_ent_emb_dbscan = cluster_bert_ent_emb.dbscan()
+        # clusters_labels_bert_cls_dbscan, clusters_centers_bert_cls_dbscan = cluster_bert_cls.dbscan()
         # Sort the cluster centers
         clusters_centers_cooc1 = sorted(list(clusters_centers_cooc))
         clusters_centers_w2v1 = sorted(list(clusters_centers_w2v))
         clusters_centers_bert1_ent_emb = sorted(list(clusters_centers_bert_ent_emb))
         clusters_centers_bert1_cls = sorted(list(clusters_centers_bert_cls))
-        clusters_centers_cooc_dbscan1 = sorted(list(clusters_centers_cooc_dbscan))
-        clusters_centers_w2v_dbscan1 = sorted(list(clusters_centers_w2v_dbscan))
-        clusters_centers_bert_ent_emb_dbscan1 = sorted(list(clusters_centers_bert_ent_emb_dbscan))
-        clusters_centers_bert_cls_dbscan1 = sorted(list(clusters_centers_bert_cls_dbscan))
+        # clusters_centers_cooc_dbscan1 = sorted(list(clusters_centers_cooc_dbscan))
+        # clusters_centers_w2v_dbscan1 = sorted(list(clusters_centers_w2v_dbscan))
+        # clusters_centers_bert_ent_emb_dbscan1 = sorted(list(clusters_centers_bert_ent_emb_dbscan))
+        # clusters_centers_bert_cls_dbscan1 = sorted(list(clusters_centers_bert_cls_dbscan))
         # Create mappings for the cluster labels
         cooc_map = {i: clusters_centers_cooc1.index(center) for i, center in enumerate(clusters_centers_cooc)}
         w2v_map = {i: clusters_centers_w2v1.index(center) for i, center in enumerate(clusters_centers_w2v)}
         bert_ent_emb_map = {i: clusters_centers_bert1_ent_emb.index(center) for i, center in enumerate(clusters_centers_bert_ent_emb)}
         bert_cls_map = {i: clusters_centers_bert1_cls.index(center) for i, center in enumerate(clusters_centers_bert_cls)}
-        cooc_map_dbscan = {i: clusters_centers_cooc_dbscan1.index(center) for i, center in enumerate(clusters_centers_cooc_dbscan)}
-        w2v_map_dbscan = {i: clusters_centers_w2v_dbscan1.index(center) for i, center in enumerate(clusters_centers_w2v_dbscan)}
-        bert_ent_emb_map_dbscan = {i: clusters_centers_bert_ent_emb_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_ent_emb_dbscan)}
-        bert_cls_map_dbscan = {i: clusters_centers_bert_cls_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_cls_dbscan)}
+        # cooc_map_dbscan = {i: clusters_centers_cooc_dbscan1.index(center) for i, center in enumerate(clusters_centers_cooc_dbscan)}
+        # w2v_map_dbscan = {i: clusters_centers_w2v_dbscan1.index(center) for i, center in enumerate(clusters_centers_w2v_dbscan)}
+        # bert_ent_emb_map_dbscan = {i: clusters_centers_bert_ent_emb_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_ent_emb_dbscan)}
+        # bert_cls_map_dbscan = {i: clusters_centers_bert_cls_dbscan1.index(center) for i, center in enumerate(clusters_centers_bert_cls_dbscan)}
         # Update cluster labels with the mappings
         clusters_labels_cooc = [cooc_map[label] for label in clusters_labels_cooc]
         clusters_labels_w2v = [w2v_map[label] for label in clusters_labels_w2v]
         clusters_labels_bert_ent_emb = [bert_ent_emb_map[label] for label in clusters_labels_bert_ent_emb]
         clusters_labels_bert_cls = [bert_cls_map[label] for label in clusters_labels_bert_cls]
-        clusters_labels_cooc_dbscan = [cooc_map_dbscan[label] for label in clusters_labels_cooc_dbscan]
-        clusters_labels_w2v_dbscan = [w2v_map_dbscan[label] for label in clusters_labels_w2v_dbscan]
-        clusters_labels_bert_ent_emb_dbscan = [bert_ent_emb_map_dbscan[label] for label in clusters_labels_bert_ent_emb_dbscan]
-        clusters_labels_bert_cls_dbscan = [bert_cls_map_dbscan[label] for label in clusters_labels_bert_cls_dbscan]
+        # clusters_labels_cooc_dbscan = [cooc_map_dbscan[label] for label in clusters_labels_cooc_dbscan]
+        # clusters_labels_w2v_dbscan = [w2v_map_dbscan[label] for label in clusters_labels_w2v_dbscan]
+        # clusters_labels_bert_ent_emb_dbscan = [bert_ent_emb_map_dbscan[label] for label in clusters_labels_bert_ent_emb_dbscan]
+        # clusters_labels_bert_cls_dbscan = [bert_cls_map_dbscan[label] for label in clusters_labels_bert_cls_dbscan]
         # Append cluster labels to the original data and sort them
         def append_and_sort(data, labels):
             new_list = []

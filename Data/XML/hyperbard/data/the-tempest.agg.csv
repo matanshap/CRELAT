@@ -1,0 +1,655 @@
+act,scene,stagegroup,stagegroup_raw,setting,onstage,speaker,n_lines,n_tokens
+1,1,1,1,1,#Boatswain_Tmp #Shipmaster_Tmp,#Shipmaster_Tmp,1,1
+1,1,1,1,2,#Boatswain_Tmp #Shipmaster_Tmp,#Boatswain_Tmp,1,4
+1,1,1,1,3,#Boatswain_Tmp #Shipmaster_Tmp,#Shipmaster_Tmp,2,16
+1,1,2,3,4,#Boatswain_Tmp #SAILORS_Tmp,#Boatswain_Tmp,4,27
+1,1,3,4,5,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Alonso_Tmp,2,10
+1,1,3,4,6,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,1,5
+1,1,3,4,7,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+1,1,3,4,8,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,2,17
+1,1,3,4,9,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,4
+1,1,3,4,10,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,3,20
+1,1,3,4,11,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,7
+1,1,3,4,12,#Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,8,72
+1,1,4,5,13,#Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,6,53
+1,1,5,7,14,#Boatswain_Tmp #SAILORS_Tmp,#Boatswain_Tmp,4,29
+1,1,6,8,15,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,2,18
+1,1,6,8,16,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,10
+1,1,6,8,17,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,1,3
+1,1,6,8,18,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,17
+1,1,6,8,19,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,3,21
+1,1,6,8,20,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#Boatswain_Tmp,2,15
+1,1,6,8,21,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #SAILORS_Tmp #Sebastian_Tmp,#SAILORS_Tmp,1,8
+1,1,7,9,22,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Boatswain_Tmp,1,6
+1,1,7,9,23,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,15
+1,1,7,9,24,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+1,1,7,9,25,#Antonio_Tmp #Boatswain_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,22
+1,1,8,10,26,#Antonio_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,19
+1,1,8,10,27,#Antonio_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+1,1,8,10,28,#Antonio_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+1,1,9,11,29,#Gonzalo_Tmp,#Gonzalo_Tmp,4,33
+1,2,10,13,30,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,13,111
+1,2,10,13,31,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,13
+1,2,10,13,32,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,4
+1,2,10,13,33,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,51
+1,2,10,13,34,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,9
+1,2,10,13,35,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,15,90
+1,2,10,13,36,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,23
+1,2,10,13,37,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,6,42
+1,2,10,13,38,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,4
+1,2,10,13,39,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,20
+1,2,10,13,40,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,26
+1,2,10,13,41,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,5,41
+1,2,10,13,42,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,5
+1,2,10,13,43,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,19
+1,2,10,13,44,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,6
+1,2,10,13,45,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,30
+1,2,10,13,46,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,19
+1,2,10,13,47,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,18
+1,2,10,13,48,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,23
+1,2,10,13,49,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,13,100
+1,2,10,13,50,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+1,2,10,13,51,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,9,79
+1,2,10,13,52,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,5
+1,2,10,13,53,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,19,140
+1,2,10,13,54,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,6
+1,2,10,13,55,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,10,77
+1,2,10,13,56,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+1,2,10,13,57,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,15
+1,2,10,13,58,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,16
+1,2,10,13,59,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,13,92
+1,2,10,13,60,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,26
+1,2,10,13,61,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,26
+1,2,10,13,62,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,8
+1,2,10,13,63,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,13,102
+1,2,10,13,64,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,8
+1,2,10,13,65,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,46
+1,2,10,13,66,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,4
+1,2,10,13,67,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,11,67
+1,2,10,13,68,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,8
+1,2,10,13,69,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,6,44
+1,2,10,13,70,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,25
+1,2,10,13,71,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,12,86
+1,2,11,14,72,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,5,41
+1,2,11,14,73,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,12
+1,2,11,14,74,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,12,86
+1,2,11,14,75,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,17
+1,2,11,14,76,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,8,61
+1,2,11,14,77,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,10
+1,2,11,14,78,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+1,2,11,14,79,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,5
+1,2,11,14,80,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,8,61
+1,2,11,14,81,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,18
+1,2,11,14,82,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,12,87
+1,2,11,14,83,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,17
+1,2,11,14,84,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+1,2,11,14,85,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,18
+1,2,11,14,86,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,3,24
+1,2,11,14,87,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,9
+1,2,11,14,88,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,2
+1,2,11,14,89,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,7
+1,2,11,14,90,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,5,31
+1,2,11,14,91,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,11
+1,2,11,14,92,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,1
+1,2,11,14,93,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,5,39
+1,2,11,14,94,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+1,2,11,14,95,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,25
+1,2,11,14,96,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,2
+1,2,11,14,97,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,9
+1,2,11,14,98,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,3
+1,2,11,14,99,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,53
+1,2,11,14,100,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,2
+1,2,11,14,101,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,16,121
+1,2,11,14,102,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+1,2,11,14,103,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,9,71
+1,2,11,14,104,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+1,2,11,14,105,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,23
+1,2,11,14,106,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,3,13
+1,2,11,14,107,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,10
+1,2,11,14,108,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,2,14
+1,2,11,14,109,#Ariel_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,36
+1,2,12,15,110,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,9
+1,2,12,15,111,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,9
+1,2,12,15,112,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,16
+1,2,12,15,113,#Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,11
+1,2,12,15,114,#Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,5,31
+1,2,13,16,115,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,1,4
+1,2,13,16,116,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,13
+1,2,14,17,117,#Ariel_Tmp #Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,9
+1,2,14,17,118,#Ariel_Tmp #Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,6
+1,2,15,18,119,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,14
+1,2,15,18,120,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,4,28
+1,2,15,18,121,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,6,48
+1,2,15,18,122,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,17,131
+1,2,15,18,123,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,39
+1,2,15,18,124,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,3,21
+1,2,15,18,125,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,15,95
+1,2,15,18,126,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,3,25
+1,2,15,18,127,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,50
+1,2,15,18,128,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Caliban_Tmp,4,25
+1,2,15,18,129,#Caliban_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,3
+1,2,16,20,130,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,13,49
+1,2,16,20,131,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,9,73
+1,2,16,20,132,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,9,52
+1,2,16,20,133,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,25
+1,2,16,20,134,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,13
+1,2,16,20,135,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,22
+1,2,16,20,136,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,51
+1,2,16,20,137,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,15
+1,2,16,20,138,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,21
+1,2,16,20,139,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,7,52
+1,2,16,20,140,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,7
+1,2,16,20,141,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,19
+1,2,16,20,142,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,13
+1,2,16,20,143,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,5,42
+1,2,16,20,144,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+1,2,16,20,145,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,2,16
+1,2,16,20,146,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,49
+1,2,16,20,147,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,31
+1,2,16,20,148,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,17
+1,2,16,20,149,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,10,65
+1,2,16,20,150,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,1,6
+1,2,16,20,151,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,26
+1,2,16,20,152,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,39
+1,2,16,20,153,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,12
+1,2,16,20,154,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,17
+1,2,16,20,155,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,45
+1,2,16,20,156,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+1,2,16,20,157,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,6
+1,2,16,20,158,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,7
+1,2,16,20,159,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,7,53
+1,2,16,20,160,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,15
+1,2,16,20,161,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,16
+1,2,16,20,162,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,9,72
+1,2,16,20,163,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,19
+1,2,16,20,164,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,5,23
+1,2,16,20,165,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,17
+1,2,16,20,166,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,3
+1,2,16,20,167,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,6
+2,1,17,22,168,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,9,72
+2,1,17,22,169,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,2
+2,1,17,22,170,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,6
+2,1,17,22,171,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,8
+2,1,17,22,172,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,15
+2,1,17,22,173,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,1
+2,1,17,22,174,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,17,22,175,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,11
+2,1,17,22,176,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,17,22,177,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,12
+2,1,17,22,178,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,10
+2,1,17,22,179,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,3
+2,1,17,22,180,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,9
+2,1,17,22,181,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,3
+2,1,17,22,182,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,6
+2,1,17,22,183,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+2,1,17,22,184,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,13
+2,1,17,22,185,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,3
+2,1,17,22,186,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,2
+2,1,17,22,187,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,3
+2,1,17,22,188,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,2
+2,1,17,22,189,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,17,22,190,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,1,7
+2,1,17,22,191,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,3
+2,1,17,22,192,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,3
+2,1,17,22,193,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,1,4
+2,1,17,22,194,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,1
+2,1,17,22,195,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,1,1
+2,1,17,22,196,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,17,22,197,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,2,10
+2,1,17,22,198,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,17,22,199,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,9
+2,1,17,22,200,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,1,8
+2,1,17,22,201,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,8
+2,1,17,22,202,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,7
+2,1,17,22,203,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,6
+2,1,17,22,204,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,17,22,205,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,6
+2,1,17,22,206,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,9
+2,1,17,22,207,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,17,22,208,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,7
+2,1,17,22,209,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,4
+2,1,17,22,210,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,8
+2,1,17,22,211,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,12
+2,1,17,22,212,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+2,1,17,22,213,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,4,25
+2,1,17,22,214,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,14
+2,1,17,22,215,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,8
+2,1,17,22,216,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,4,30
+2,1,17,22,217,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,11
+2,1,17,22,218,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,2,12
+2,1,17,22,219,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,5
+2,1,17,22,220,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,12
+2,1,17,22,221,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,14
+2,1,17,22,222,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,3,17
+2,1,17,22,223,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,5
+2,1,17,22,224,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Adrian_Tmp,1,1
+2,1,17,22,225,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,4
+2,1,17,22,226,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,8
+2,1,17,22,227,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,8
+2,1,17,22,228,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,8
+2,1,17,22,229,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,19
+2,1,17,22,230,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,13
+2,1,17,22,231,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,1
+2,1,17,22,232,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,4
+2,1,17,22,233,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,4,27
+2,1,17,22,234,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,7
+2,1,17,22,235,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,6
+2,1,17,22,236,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,17,22,237,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,19
+2,1,17,22,238,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,17,22,239,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,8
+2,1,17,22,240,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,8,65
+2,1,17,22,241,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Francisco_Tmp,10,76
+2,1,17,22,242,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,4
+2,1,17,22,243,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,5,43
+2,1,17,22,244,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,2
+2,1,17,22,245,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,9,60
+2,1,17,22,246,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,7
+2,1,17,22,247,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,4,27
+2,1,17,22,248,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,17,22,249,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,3
+2,1,17,22,250,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,13
+2,1,17,22,251,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,17,22,252,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,2
+2,1,17,22,253,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,8
+2,1,17,22,254,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,17,22,255,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+2,1,17,22,256,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,10
+2,1,17,22,257,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,7
+2,1,17,22,258,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,10,67
+2,1,17,22,259,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,7
+2,1,17,22,260,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,9
+2,1,17,22,261,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,6,44
+2,1,17,22,262,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+2,1,17,22,263,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,7
+2,1,17,22,264,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,12
+2,1,17,22,265,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,3
+2,1,17,22,266,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,3
+2,1,17,22,267,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,6
+2,1,17,22,268,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,9
+2,1,17,22,269,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,4,31
+2,1,17,22,270,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,17,22,271,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,3,20
+2,1,17,22,272,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,17,22,273,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,6
+2,1,17,22,274,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,3,25
+2,1,18,23,275,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,7
+2,1,18,23,276,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,7
+2,1,18,23,277,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,3,22
+2,1,18,23,278,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,5
+2,1,18,23,279,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,3,24
+2,1,18,23,280,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,22
+2,1,18,23,281,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,17
+2,1,18,23,282,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,4
+2,1,19,24,283,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,6
+2,1,19,24,284,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,7
+2,1,19,24,285,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,3,15
+2,1,19,24,286,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,8,56
+2,1,19,24,287,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+2,1,19,24,288,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,19,24,289,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,6,42
+2,1,19,24,290,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,14
+2,1,19,24,291,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,9
+2,1,19,24,292,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,21
+2,1,19,24,293,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+2,1,19,24,294,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,19,24,295,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,8
+2,1,19,24,296,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,6,40
+2,1,19,24,297,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,25
+2,1,19,24,298,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,8,51
+2,1,19,24,299,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,7
+2,1,19,24,300,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,6,43
+2,1,19,24,301,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,2
+2,1,19,24,302,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,9
+2,1,19,24,303,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,1
+2,1,19,24,304,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,9,74
+2,1,19,24,305,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,28
+2,1,19,24,306,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,12,97
+2,1,19,24,307,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,3
+2,1,19,24,308,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,2,10
+2,1,19,24,309,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,8
+2,1,19,24,310,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,4,26
+2,1,19,24,311,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+2,1,19,24,312,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,15,126
+2,1,19,24,313,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,5,37
+2,1,19,24,314,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,17
+2,1,19,24,315,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+2,1,20,25,316,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Ariel_Tmp,9,53
+2,1,20,25,317,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,6
+2,1,20,25,318,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,6
+2,1,20,25,319,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,2,13
+2,1,20,25,320,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,3
+2,1,20,25,321,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,32
+2,1,20,25,322,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,3
+2,1,20,25,323,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,24
+2,1,20,25,324,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,4
+2,1,20,25,325,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,6,56
+2,1,20,25,326,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,2,13
+2,1,20,25,327,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,13
+2,1,20,25,328,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,2
+2,1,20,25,329,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Ariel_Tmp,2,18
+2,2,21,27,330,#Caliban_Tmp,#Caliban_Tmp,17,144
+2,2,22,28,331,#Caliban_Tmp #Trinculo_Tmp,#Trinculo_Tmp,25,239
+2,2,23,29,332,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,14,110
+2,2,23,29,333,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,5
+2,2,23,29,334,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,7,65
+2,2,23,29,335,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,5
+2,2,23,29,336,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,7,66
+2,2,23,29,337,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,11
+2,2,23,29,338,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,6,61
+2,2,23,29,339,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,21
+2,2,23,29,340,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,6,42
+2,2,23,29,341,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,19
+2,2,23,29,342,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,7,56
+2,2,23,29,343,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,1
+2,2,23,29,344,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,24
+2,2,23,29,345,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,3,22
+2,2,23,29,346,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,6,40
+2,2,23,29,347,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,6,49
+2,2,23,29,348,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,11
+2,2,23,29,349,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,23
+2,2,23,29,350,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,6,49
+2,2,23,29,351,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,16
+2,2,23,29,352,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,6
+2,2,23,29,353,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,15
+2,2,23,29,354,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,17
+2,2,23,29,355,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,7
+2,2,23,29,356,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,25
+2,2,23,29,357,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,6
+2,2,23,29,358,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,18
+2,2,23,29,359,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,22
+2,2,23,29,360,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,16
+2,2,23,29,361,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,4,34
+2,2,23,29,362,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,20
+2,2,23,29,363,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,17
+2,2,23,29,364,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,9
+2,2,23,29,365,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,6
+2,2,23,29,366,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,3,23
+2,2,23,29,367,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,2
+2,2,23,29,368,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,10
+2,2,23,29,369,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,5,39
+2,2,23,29,370,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,12
+2,2,23,29,371,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,6,54
+2,2,23,29,372,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,5,37
+2,2,23,29,373,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,4
+2,2,23,29,374,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,6
+2,2,23,29,375,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,8,37
+2,2,23,29,376,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,6
+3,1,24,31,377,#Ferdinand_Tmp,#Ferdinand_Tmp,16,121
+3,1,25,32,378,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,7,55
+3,1,25,32,379,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,18
+3,1,25,32,380,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,3,20
+3,1,25,32,381,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,4,23
+3,1,25,32,382,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,4,31
+3,1,25,32,383,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,9
+3,1,25,32,384,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+3,1,25,32,385,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,4,31
+3,1,25,32,386,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,12
+3,1,25,32,387,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,12,88
+3,1,25,32,388,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,12,89
+3,1,25,32,389,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,9,68
+3,1,25,32,390,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,4
+3,1,25,32,391,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,6,46
+3,1,25,32,392,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,12
+3,1,25,32,393,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,16
+3,1,25,32,394,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,2,3
+3,1,25,32,395,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,10,83
+3,1,25,32,396,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,1,8
+3,1,25,32,397,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,1,3
+3,1,25,32,398,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,2,14
+3,1,25,32,399,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,15
+3,1,25,32,400,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,1,3
+3,1,26,33,401,#Prospero_Tmp,#Prospero_Tmp,5,35
+3,2,27,35,402,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,27
+3,2,27,35,403,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,4,31
+3,2,27,35,404,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,15
+3,2,27,35,405,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,19
+3,2,27,35,406,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,5,41
+3,2,27,35,407,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,8
+3,2,27,35,408,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,5
+3,2,27,35,409,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,13
+3,2,27,35,410,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,12
+3,2,27,35,411,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,17
+3,2,27,35,412,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,6,48
+3,2,27,35,413,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,11
+3,2,27,35,414,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,11
+3,2,27,35,415,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,9
+3,2,27,35,416,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,27
+3,2,27,35,417,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,20
+3,2,27,35,418,#Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,14
+3,2,28,36,419,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,23
+3,2,28,36,420,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Ariel_Tmp,1,2
+3,2,28,36,421,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,18
+3,2,28,36,422,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,20
+3,2,28,36,423,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,4
+3,2,28,36,424,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,6
+3,2,28,36,425,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,4,31
+3,2,28,36,426,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,3
+3,2,28,36,427,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,10
+3,2,28,36,428,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,13
+3,2,28,36,429,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,18
+3,2,28,36,430,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Ariel_Tmp,1,5
+3,2,28,36,431,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,5,41
+3,2,28,36,432,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,29
+3,2,28,36,433,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,11
+3,2,28,36,434,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,6
+3,2,28,36,435,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Ariel_Tmp,1,2
+3,2,28,36,436,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,16
+3,2,28,36,437,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,4,35
+3,2,28,36,438,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,3
+3,2,28,36,439,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,9
+3,2,28,36,440,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,11
+3,2,28,36,441,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,4
+3,2,28,36,442,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,17,139
+3,2,28,36,443,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,6
+3,2,28,36,444,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,15
+3,2,28,36,445,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,31
+3,2,28,36,446,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,1
+3,2,28,36,447,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,21
+3,2,28,36,448,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,13
+3,2,28,36,449,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,4
+3,2,28,36,450,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Ariel_Tmp,1,6
+3,2,28,36,451,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,23
+3,2,28,36,452,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,5,30
+3,2,28,36,453,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,4
+3,2,28,36,454,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,4
+3,2,28,36,455,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,13
+3,2,28,36,456,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,20
+3,2,28,36,457,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,5
+3,2,28,36,458,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,12
+3,2,28,36,459,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,3
+3,2,28,36,460,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,4
+3,2,28,36,461,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,9,72
+3,2,28,36,462,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,16
+3,2,28,36,463,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,4
+3,2,28,36,464,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,10
+3,2,28,36,465,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,13
+3,2,28,36,466,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,17
+3,2,28,36,467,#Ariel_Tmp #Caliban_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,3
+3,3,29,38,468,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,5,30
+3,3,29,38,469,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,7,60
+3,3,29,38,470,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,3,23
+3,3,29,38,471,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,7
+3,3,29,38,472,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,4,24
+3,3,29,38,473,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+3,3,30,39,474,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,8
+3,3,30,39,475,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,3
+3,3,31,40,476,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,8
+3,3,31,40,477,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,28
+3,3,31,40,478,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Antonio_Tmp,4,28
+3,3,31,40,479,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,8,55
+3,3,31,40,480,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Prospero_Tmp,3,16
+3,3,31,40,481,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Alonso_Tmp,5,26
+3,3,31,40,482,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #SPIRITS_Tmp #Sebastian_Tmp,#Prospero_Tmp,1,3
+3,3,32,41,483,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Francisco_Tmp,1,3
+3,3,32,41,484,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Sebastian_Tmp,4,22
+3,3,32,41,485,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,2
+3,3,32,41,486,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,9,57
+3,3,32,41,487,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,4,29
+3,3,33,42,488,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ariel_Tmp,32,240
+3,3,34,43,489,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,12,88
+3,3,35,44,490,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,14
+3,3,35,44,491,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Alonso_Tmp,8,63
+3,3,36,45,492,#Adrian_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Sebastian_Tmp,2,11
+3,3,36,45,493,#Adrian_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Sebastian_Tmp,#Antonio_Tmp,1,4
+3,3,37,46,494,#Adrian_Tmp #Francisco_Tmp #Gonzalo_Tmp,#Gonzalo_Tmp,6,48
+3,3,37,46,495,#Adrian_Tmp #Francisco_Tmp #Gonzalo_Tmp,#Adrian_Tmp,1,4
+4,1,38,48,496,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,11,90
+4,1,38,48,497,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,2,7
+4,1,38,48,498,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,11,78
+4,1,38,48,499,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,9,61
+4,1,38,48,500,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,3,18
+4,1,39,49,501,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,8
+4,1,39,49,502,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,8,65
+4,1,39,49,503,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,1
+4,1,39,49,504,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,1,4
+4,1,39,49,505,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,5,33
+4,1,39,49,506,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,2,13
+4,1,39,49,507,#Ariel_Tmp #Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ariel_Tmp,1,3
+4,1,40,50,508,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,31
+4,1,40,50,509,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,3,18
+4,1,40,50,510,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,4,22
+4,1,41,51,511,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Iris_Tmp,#SPIRITS.Iris_Tmp,17,122
+4,1,42,52,512,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp,#SPIRITS.Ceres_Tmp,8,58
+4,1,42,52,513,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp,#SPIRITS.Iris_Tmp,3,17
+4,1,42,52,514,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp,#SPIRITS.Ceres_Tmp,6,40
+4,1,42,52,515,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp,#SPIRITS.Iris_Tmp,13,81
+4,1,43,53,516,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#SPIRITS.Ceres_Tmp,2,13
+4,1,43,53,517,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#SPIRITS.Juno_Tmp,7,41
+4,1,43,53,518,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#SPIRITS.Ceres_Tmp,8,44
+4,1,43,53,519,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#Ferdinand_Tmp,3,17
+4,1,43,53,520,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#Prospero_Tmp,3,16
+4,1,43,53,521,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#Ferdinand_Tmp,3,17
+4,1,43,53,522,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#Prospero_Tmp,4,23
+4,1,43,53,523,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp,#SPIRITS.Iris_Tmp,6,46
+4,1,44,54,524,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp,#SPIRITS.Iris_Tmp,5,31
+4,1,45,55,525,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp #SPIRITS.Ceres_Tmp #SPIRITS.Iris_Tmp #SPIRITS.Juno_Tmp #SPIRITS.NYMPHS_Tmp #SPIRITS.REAPERS_Tmp,#Prospero_Tmp,4,29
+4,1,46,56,526,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp,2,12
+4,1,46,56,527,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Miranda_Tmp,2,12
+4,1,46,56,528,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Prospero_Tmp,18,138
+4,1,46,56,529,#Ferdinand_Tmp #Miranda_Tmp #Prospero_Tmp,#Ferdinand_Tmp #Miranda_Tmp,1,4
+4,1,47,58,530,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,1,9
+4,1,47,58,531,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,1,8
+4,1,47,58,532,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,2,8
+4,1,47,58,533,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,3,23
+4,1,47,58,534,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,1,8
+4,1,47,58,535,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,16,112
+4,1,47,58,536,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,4,27
+4,1,47,58,537,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+4,1,48,59,538,#Prospero_Tmp,#Prospero_Tmp,6,43
+4,1,49,60,539,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,1,6
+4,1,50,61,540,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,19
+4,1,50,61,541,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,20
+4,1,50,61,542,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,15
+4,1,50,61,543,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,17
+4,1,50,61,544,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,6
+4,1,50,61,545,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,5,29
+4,1,50,61,546,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,9
+4,1,50,61,547,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,14
+4,1,50,61,548,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,14
+4,1,50,61,549,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,14
+4,1,50,61,550,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,5,39
+4,1,50,61,551,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,11
+4,1,50,61,552,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,3,16
+4,1,50,61,553,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,9
+4,1,50,61,554,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,3,12
+4,1,50,61,555,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,12
+4,1,50,61,556,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,5
+4,1,50,61,557,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,5,40
+4,1,50,61,558,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,32
+4,1,50,61,559,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,13
+4,1,50,61,560,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,4,39
+4,1,50,61,561,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,13
+4,1,50,61,562,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,3,24
+4,1,50,61,563,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,28
+4,1,50,61,564,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,1,2
+4,1,50,61,565,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,3
+4,1,51,62,566,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #SPIRITS_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,1,3
+4,1,51,62,567,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #SPIRITS_Tmp #Stephano_Tmp #Trinculo_Tmp,#Ariel_Tmp,1,5
+4,1,51,62,568,#Ariel_Tmp #Caliban_Tmp #Prospero_Tmp #SPIRITS_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,1,7
+4,1,52,63,569,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,5,30
+4,1,52,63,570,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,1,3
+4,1,52,63,571,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,5,37
+5,1,53,65,571,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,3,25
+5,1,53,65,572,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,2,15
+5,1,53,65,573,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,3,20
+5,1,53,65,574,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,16,96
+5,1,53,65,575,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,1,5
+5,1,53,65,576,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,1,6
+5,1,53,65,577,#Ariel_Tmp #Prospero_Tmp,#Prospero_Tmp,14,102
+5,1,53,65,578,#Ariel_Tmp #Prospero_Tmp,#Ariel_Tmp,1,4
+5,1,54,66,579,#Prospero_Tmp,#Prospero_Tmp,25,202
+5,1,55,67,580,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,31,223
+5,1,55,67,581,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ariel_Tmp,7,44
+5,1,55,67,582,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,7,52
+5,1,55,67,583,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ariel_Tmp,2,14
+5,1,56,68,584,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,3,18
+5,1,56,68,585,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,6,36
+5,1,56,68,586,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,11,82
+5,1,56,68,587,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,3,15
+5,1,56,68,588,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,2,9
+5,1,56,68,589,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,8,52
+5,1,56,68,590,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,5
+5,1,56,68,591,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,7,37
+5,1,56,68,592,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,6,41
+5,1,56,68,593,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,1,6
+5,1,56,68,594,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,2,12
+5,1,56,68,595,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,4,26
+5,1,56,68,596,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,4
+5,1,56,68,597,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,4,31
+5,1,56,68,598,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,6,38
+5,1,56,68,599,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Francisco_Tmp #Gonzalo_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,21,153
+5,1,57,69,600,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Miranda_Tmp,1,6
+5,1,57,69,601,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ferdinand_Tmp,2,10
+5,1,57,69,602,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Miranda_Tmp,2,16
+5,1,57,69,603,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,3,15
+5,1,57,69,604,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Sebastian_Tmp,1,4
+5,1,57,69,605,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ferdinand_Tmp,2,13
+5,1,57,69,606,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,4,18
+5,1,57,69,607,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Miranda_Tmp,4,23
+5,1,57,69,608,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,1,4
+5,1,57,69,609,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,4,30
+5,1,57,69,610,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Ferdinand_Tmp,9,66
+5,1,57,69,611,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,3,17
+5,1,57,69,612,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Prospero_Tmp,3,14
+5,1,57,69,613,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,6,36
+5,1,57,69,614,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,1,4
+5,1,57,69,615,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,9,68
+5,1,57,69,616,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Alonso_Tmp,4,18
+5,1,57,69,617,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp,#Gonzalo_Tmp,1,4
+5,1,58,70,618,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Gonzalo_Tmp,6,44
+5,1,58,70,619,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Boatswain_Tmp,5,41
+5,1,58,70,620,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Ariel_Tmp,2,10
+5,1,58,70,621,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,1,3
+5,1,58,70,622,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Alonso_Tmp,3,16
+5,1,58,70,623,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Boatswain_Tmp,14,96
+5,1,58,70,624,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Ariel_Tmp,1,4
+5,1,58,70,625,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,1,7
+5,1,58,70,626,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Alonso_Tmp,4,29
+5,1,58,70,627,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,10,60
+5,1,59,71,628,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,4,20
+5,1,60,72,629,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,3,24
+5,1,60,72,630,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,2,15
+5,1,60,72,631,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,2,19
+5,1,60,72,632,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Sebastian_Tmp,3,13
+5,1,60,72,633,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Antonio_Tmp,2,13
+5,1,60,72,634,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,10,81
+5,1,60,72,635,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,1,6
+5,1,60,72,636,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Alonso_Tmp,1,7
+5,1,60,72,637,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Sebastian_Tmp,1,8
+5,1,60,72,638,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Alonso_Tmp,3,22
+5,1,60,72,639,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Trinculo_Tmp,3,27
+5,1,60,72,640,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Sebastian_Tmp,1,4
+5,1,60,72,641,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,2,11
+5,1,60,72,642,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,1,7
+5,1,60,72,643,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Stephano_Tmp,1,8
+5,1,60,72,644,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Alonso_Tmp,1,11
+5,1,60,72,645,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,4,31
+5,1,60,72,646,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Caliban_Tmp,4,31
+5,1,60,72,647,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Prospero_Tmp,1,3
+5,1,60,72,648,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Alonso_Tmp,1,9
+5,1,60,72,649,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Caliban_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp #Stephano_Tmp #Trinculo_Tmp,#Sebastian_Tmp,1,4
+5,1,61,73,650,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,12,100
+5,1,61,73,651,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Alonso_Tmp,3,15
+5,1,61,73,652,#Adrian_Tmp #Alonso_Tmp #Antonio_Tmp #Ariel_Tmp #Boatswain_Tmp #Ferdinand_Tmp #Francisco_Tmp #Gonzalo_Tmp #Miranda_Tmp #Prospero_Tmp #Sebastian_Tmp #Shipmaster_Tmp,#Prospero_Tmp,7,43
+6,0,62,76,653,#Prospero_Tmp,#Prospero_Tmp,20,128

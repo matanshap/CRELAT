@@ -18,3 +18,7 @@
 - [ ]
 
 
+## 23/12/2025 meeting
+
+- [ ] For each character-pair, for each interaction, add +1 to co-oc count, and +cosine-similarity of the bert embedding of their speech to the cosine count.
+ 

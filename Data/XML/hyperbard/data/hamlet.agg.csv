@@ -1,0 +1,1177 @@
+act,scene,stagegroup,stagegroup_raw,setting,onstage,speaker,n_lines,n_tokens
+1,1,1,1,1,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,1,2
+1,1,1,1,2,#Barnardo_Ham #Francisco_Ham,#Francisco_Ham,1,7
+1,1,1,1,3,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,1,4
+1,1,1,1,4,#Barnardo_Ham #Francisco_Ham,#Francisco_Ham,1,1
+1,1,1,1,5,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,1,1
+1,1,1,1,6,#Barnardo_Ham #Francisco_Ham,#Francisco_Ham,1,7
+1,1,1,1,7,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,1,9
+1,1,1,1,8,#Barnardo_Ham #Francisco_Ham,#Francisco_Ham,2,14
+1,1,1,1,9,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,1,5
+1,1,1,1,10,#Barnardo_Ham #Francisco_Ham,#Francisco_Ham,1,4
+1,1,1,1,11,#Barnardo_Ham #Francisco_Ham,#Barnardo_Ham,3,19
+1,1,2,2,12,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Francisco_Ham,1,10
+1,1,2,2,13,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,1,2,2,14,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,5
+1,1,2,2,15,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Francisco_Ham,1,4
+1,1,2,2,16,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,2,8
+1,1,2,2,17,#Barnardo_Ham #Francisco_Ham #Horatio_Ham #Marcellus_Ham,#Francisco_Ham,1,8
+1,1,3,3,18,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,2
+1,1,3,3,19,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,5
+1,1,3,3,20,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,1,3,3,21,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,5
+1,1,3,3,22,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,7
+1,1,3,3,23,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,4
+1,1,3,3,24,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,7,53
+1,1,3,3,25,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,1,3,3,26,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,4,24
+1,1,3,3,27,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,2,12
+1,1,3,3,28,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,5,35
+1,1,4,4,29,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,9
+1,1,4,4,30,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,9
+1,1,4,4,31,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,8
+1,1,4,4,32,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,9
+1,1,4,4,33,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,1,4,4,34,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,5
+1,1,4,4,35,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,4
+1,1,4,4,36,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,5,32
+1,1,4,4,37,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,3
+1,1,4,4,38,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,4
+1,1,4,4,39,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,7
+1,1,5,5,40,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,1,5,5,41,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,3,20
+1,1,5,5,42,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,3,18
+1,1,5,5,43,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,1,5,5,44,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,6,38
+1,1,5,5,45,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,2,18
+1,1,5,5,46,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,3,26
+1,1,5,5,47,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,10,81
+1,1,5,5,48,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,29,225
+1,1,5,5,49,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,4,35
+1,1,5,5,50,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,14,104
+1,1,6,6,51,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,15,100
+1,1,6,6,52,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,7
+1,1,6,6,53,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,1,6,6,54,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,2
+1,1,6,6,55,#Barnardo_Ham #Ghost_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,2
+1,1,7,7,56,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,5,29
+1,1,7,7,57,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham,1,9
+1,1,7,7,58,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,9,68
+1,1,7,7,59,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,8,64
+1,1,7,7,60,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,9,77
+1,1,7,7,61,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,2,17
+1,2,8,9,62,#Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham #Voltemand_Ham,#Claudius_Ham,39,299
+1,2,8,9,63,#Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham #Voltemand_Ham,#Cornelius_Ham #Voltemand_Ham,1,10
+1,2,8,9,64,#Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham #Voltemand_Ham,#Claudius_Ham,1,6
+1,2,9,10,65,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,10,74
+1,2,9,10,66,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Laertes_Ham,7,51
+1,2,9,10,67,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,1,8
+1,2,9,10,68,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Polonius_Ham,4,32
+1,2,9,10,69,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,3,25
+1,2,9,10,70,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Hamlet_Ham,1,9
+1,2,9,10,71,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,1,10
+1,2,9,10,72,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Hamlet_Ham,1,11
+1,2,9,10,73,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Gertrude_Ham,6,46
+1,2,9,10,74,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+1,2,9,10,75,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Gertrude_Ham,2,10
+1,2,9,10,76,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Hamlet_Ham,11,86
+1,2,9,10,77,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,32,243
+1,2,9,10,78,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Gertrude_Ham,2,18
+1,2,9,10,79,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Hamlet_Ham,1,9
+1,2,9,10,80,#Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Laertes_Ham #Polonius_Ham,#Claudius_Ham,8,60
+1,2,10,11,81,#Hamlet_Ham,#Hamlet_Ham,32,261
+1,2,11,12,82,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,2,11,12,83,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,13
+1,2,11,12,84,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,2,11,12,85,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,3,18
+1,2,11,12,86,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,3
+1,2,11,12,87,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,3,18
+1,2,11,12,88,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,2,11,12,89,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,6,48
+1,2,11,12,90,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,2,11,12,91,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,17
+1,2,11,12,92,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,7
+1,2,11,12,93,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,5,38
+1,2,11,12,94,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,3
+1,2,11,12,95,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,5
+1,2,11,12,96,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,2,11,12,97,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,18
+1,2,11,12,98,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,8
+1,2,11,12,99,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,2
+1,2,11,12,100,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,2,11,12,101,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,2,11,12,102,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,4,24
+1,2,11,12,103,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,6
+1,2,11,12,104,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,17,128
+1,2,11,12,105,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,2,11,12,106,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,8
+1,2,11,12,107,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,6
+1,2,11,12,108,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,7,50
+1,2,11,12,109,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,2,11,12,110,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,3,25
+1,2,11,12,111,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,11
+1,2,11,12,112,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,1,4
+1,2,11,12,113,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,2,11,12,114,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,1,3
+1,2,11,12,115,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,2,11,12,116,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,1,6
+1,2,11,12,117,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,6
+1,2,11,12,118,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,2,11,12,119,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,2,11,12,120,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,8
+1,2,11,12,121,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,2,11,12,122,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,3
+1,2,11,12,123,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,6
+1,2,11,12,124,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,2
+1,2,11,12,125,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,6
+1,2,11,12,126,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,2,11,12,127,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,5
+1,2,11,12,128,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,2,9
+1,2,11,12,129,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham #Marcellus_Ham,1,2
+1,2,11,12,130,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,2,11,12,131,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,5
+1,2,11,12,132,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,2,13
+1,2,11,12,133,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,8
+1,2,11,12,134,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,2,11,12,135,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,10,73
+1,2,11,12,136,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Barnardo_Ham #Horatio_Ham #Marcellus_Ham,1,5
+1,2,11,12,137,#Barnardo_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,7
+1,2,12,13,138,#Hamlet_Ham,#Hamlet_Ham,5,38
+1,3,13,15,139,#Laertes_Ham #Ophelia_Ham,#Laertes_Ham,4,25
+1,3,13,15,140,#Laertes_Ham #Ophelia_Ham,#Ophelia_Ham,1,4
+1,3,13,15,141,#Laertes_Ham #Ophelia_Ham,#Laertes_Ham,6,40
+1,3,13,15,142,#Laertes_Ham #Ophelia_Ham,#Ophelia_Ham,1,4
+1,3,13,15,143,#Laertes_Ham #Ophelia_Ham,#Laertes_Ham,36,275
+1,3,13,15,144,#Laertes_Ham #Ophelia_Ham,#Ophelia_Ham,7,54
+1,3,13,15,145,#Laertes_Ham #Ophelia_Ham,#Laertes_Ham,1,4
+1,3,14,16,146,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Laertes_Ham,3,22
+1,3,14,16,147,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Polonius_Ham,28,219
+1,3,14,16,148,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Laertes_Ham,1,9
+1,3,14,16,149,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,8
+1,3,14,16,150,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Laertes_Ham,2,11
+1,3,14,16,151,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,14
+1,3,14,16,152,#Laertes_Ham #Ophelia_Ham #Polonius_Ham,#Laertes_Ham,1,1
+1,3,15,17,153,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,9
+1,3,15,17,154,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,8
+1,3,15,17,155,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,10,73
+1,3,15,17,156,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,14
+1,3,15,17,157,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,3,22
+1,3,15,17,158,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,10
+1,3,15,17,159,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,5,44
+1,3,15,17,160,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,11
+1,3,15,17,161,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,10
+1,3,15,17,162,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,17
+1,3,15,17,163,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,21,168
+1,3,15,17,164,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,5
+1,4,16,19,165,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,8
+1,4,16,19,166,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,8
+1,4,16,19,167,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,4,16,19,168,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,4,16,19,169,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,4
+1,4,16,19,170,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,3,25
+1,4,16,19,171,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,5,37
+1,4,16,19,172,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,4,16,19,173,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,27,191
+1,4,17,20,174,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,4,17,20,175,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,20,146
+1,4,17,20,176,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,3,18
+1,4,17,20,177,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,3,19
+1,4,17,20,178,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,4,17,20,179,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,9
+1,4,17,20,180,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,4,17,20,181,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,5,40
+1,4,17,20,182,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,10,74
+1,4,17,20,183,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,9
+1,4,17,20,184,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,4,17,20,185,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,4,17,20,186,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,4,17,20,187,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,6,45
+1,4,18,21,188,#Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,4,18,21,189,#Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,9
+1,4,18,21,190,#Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,8
+1,4,18,21,191,#Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,8
+1,4,18,21,192,#Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,4,18,21,193,#Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,4
+1,5,19,23,194,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,2,10
+1,5,19,23,195,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,1,2
+1,5,19,23,196,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,2
+1,5,19,23,197,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,3,16
+1,5,19,23,198,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,3
+1,5,19,23,199,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,2,13
+1,5,19,23,200,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,6
+1,5,19,23,201,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,1,9
+1,5,19,23,202,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,1
+1,5,19,23,203,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,16,124
+1,5,19,23,204,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,2
+1,5,19,23,205,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,1,7
+1,5,19,23,206,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,1
+1,5,19,23,207,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,2,16
+1,5,19,23,208,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,3,23
+1,5,19,23,209,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,10,75
+1,5,19,23,210,#Ghost_Ham #Hamlet_Ham,#Hamlet_Ham,1,6
+1,5,19,23,211,#Ghost_Ham #Hamlet_Ham,#Ghost_Ham,50,373
+1,5,20,24,212,#Hamlet_Ham,#Hamlet_Ham,21,161
+1,5,21,25,213,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,5,21,25,214,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,2
+1,5,21,25,215,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,3
+1,5,21,25,216,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,5,21,25,217,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,5
+1,5,21,25,218,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,7
+1,5,21,25,219,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,5,21,25,220,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,4
+1,5,21,25,221,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,2
+1,5,21,25,222,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,5,21,25,223,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,5
+1,5,21,25,224,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,5,21,25,225,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,4
+1,5,21,25,226,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,3,15
+1,5,21,25,227,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham #Marcellus_Ham,1,5
+1,5,21,25,228,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,13
+1,5,21,25,229,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,2,14
+1,5,21,25,230,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,7,54
+1,5,21,25,231,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,5,21,25,232,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,10
+1,5,21,25,233,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,5,21,25,234,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,7,56
+1,5,21,25,235,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,7
+1,5,21,25,236,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,8
+1,5,21,25,237,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham #Marcellus_Ham,1,5
+1,5,21,25,238,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,4
+1,5,21,25,239,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,6
+1,5,21,25,240,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,5,21,25,241,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,3
+1,5,21,25,242,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Marcellus_Ham,1,6
+1,5,21,25,243,#Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,1,5
+1,5,22,26,244,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Ghost_Ham,1,1
+1,5,22,26,245,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,4,22
+1,5,22,26,246,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,5
+1,5,22,26,247,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,13
+1,5,22,26,248,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Ghost_Ham,1,1
+1,5,22,26,249,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,5,32
+1,5,22,26,250,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Ghost_Ham,1,4
+1,5,22,26,251,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,2,19
+1,5,22,26,252,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Horatio_Ham,1,9
+1,5,22,26,253,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,17,128
+1,5,22,26,254,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Ghost_Ham,1,1
+1,5,22,26,255,#Ghost_Ham #Hamlet_Ham #Horatio_Ham #Marcellus_Ham,#Hamlet_Ham,9,77
+2,1,23,29,256,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,8
+2,1,23,29,257,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,258,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,3,17
+2,1,23,29,259,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,6
+2,1,23,29,260,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,11,85
+2,1,23,29,261,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,5
+2,1,23,29,262,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,8,64
+2,1,23,29,263,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,264,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,2,12
+2,1,23,29,265,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,6
+2,1,23,29,266,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,9,58
+2,1,23,29,267,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,268,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,5
+2,1,23,29,269,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,7
+2,1,23,29,270,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,12,83
+2,1,23,29,271,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,272,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,3,27
+2,1,23,29,273,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,2,11
+2,1,23,29,274,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,15,115
+2,1,23,29,275,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,276,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,7
+2,1,23,29,277,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,3
+2,1,23,29,278,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,5
+2,1,23,29,279,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,4
+2,1,23,29,280,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,6
+2,1,23,29,281,#Polonius_Ham #Reynaldo_Ham,#Reynaldo_Ham,1,3
+2,1,23,29,282,#Polonius_Ham #Reynaldo_Ham,#Polonius_Ham,1,1
+2,1,24,31,283,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,6
+2,1,24,31,284,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,10
+2,1,24,31,285,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,7
+2,1,24,31,286,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,8,64
+2,1,24,31,287,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,4
+2,1,24,31,288,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,12
+2,1,24,31,289,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,3
+2,1,24,31,290,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,14,125
+2,1,24,31,291,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,7,54
+2,1,24,31,292,#Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,3,20
+2,1,24,31,293,#Ophelia_Ham #Polonius_Ham,#Polonius_Ham,12,87
+2,2,25,33,294,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,18,143
+2,2,25,33,295,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Gertrude_Ham,8,63
+2,2,25,33,296,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,4,22
+2,2,25,33,297,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Guildenstern_Ham,4,24
+2,2,25,33,298,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,1,5
+2,2,25,33,299,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Gertrude_Ham,4,28
+2,2,25,33,300,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,12
+2,2,25,33,301,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,2
+2,2,26,35,302,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,2,10
+2,2,26,35,303,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,9
+2,2,26,35,304,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,7,61
+2,2,26,35,305,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,10
+2,2,26,35,306,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,2,16
+2,2,26,35,307,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,9
+2,2,27,36,308,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham,#Claudius_Ham,2,18
+2,2,27,36,309,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham,#Gertrude_Ham,2,16
+2,2,27,36,310,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham,#Claudius_Ham,1,5
+2,2,28,37,311,#ATTENDANTS_Ham #Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Polonius_Ham #Voltemand_Ham,#Claudius_Ham,2,11
+2,2,28,37,312,#ATTENDANTS_Ham #Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Polonius_Ham #Voltemand_Ham,#Voltemand_Ham,22,149
+2,2,28,37,313,#ATTENDANTS_Ham #Claudius_Ham #Cornelius_Ham #Gertrude_Ham #Polonius_Ham #Voltemand_Ham,#Claudius_Ham,6,38
+2,2,29,38,314,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,11,84
+2,2,29,38,315,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Gertrude_Ham,1,5
+2,2,29,38,316,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,18,135
+2,2,29,38,317,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Gertrude_Ham,1,6
+2,2,29,38,318,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,15,105
+2,2,29,38,319,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,7
+2,2,29,38,320,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,1,6
+2,2,29,38,321,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,7
+2,2,29,38,322,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,21,174
+2,2,29,38,323,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,5
+2,2,29,38,324,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Gertrude_Ham,1,5
+2,2,29,38,325,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,4,22
+2,2,29,38,326,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,4
+2,2,29,38,327,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,4,27
+2,2,29,38,328,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,6
+2,2,29,38,329,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,2,12
+2,2,29,38,330,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+2,2,29,38,331,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Polonius_Ham,6,48
+2,2,29,38,332,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Polonius_Ham,#Claudius_Ham,1,4
+2,2,30,39,333,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,9
+2,2,30,39,334,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Polonius_Ham,2,15
+2,2,31,40,335,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,6
+2,2,31,40,336,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,2
+2,2,31,40,337,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,6
+2,2,31,40,338,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,6
+2,2,31,40,339,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,4
+2,2,31,40,340,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,9
+2,2,31,40,341,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,3
+2,2,31,40,342,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,2,19
+2,2,31,40,343,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,5
+2,2,31,40,344,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,19
+2,2,31,40,345,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,4
+2,2,31,40,346,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,21
+2,2,31,40,347,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,6,52
+2,2,31,40,348,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,3
+2,2,31,40,349,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,6
+2,2,31,40,350,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,2
+2,2,31,40,351,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,9
+2,2,31,40,352,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,9,80
+2,2,31,40,353,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,2,19
+2,2,31,40,354,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,3
+2,2,31,40,355,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,7,55
+2,2,31,40,356,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,23
+2,2,31,40,357,#Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,5
+2,2,31,40,358,#Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,4
+2,2,32,41,359,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,10
+2,2,32,41,360,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,4
+2,2,33,42,361,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,3
+2,2,33,42,362,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,4
+2,2,33,42,363,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,16
+2,2,33,42,364,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,7
+2,2,33,42,365,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,16
+2,2,33,42,366,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+2,2,33,42,367,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,3
+2,2,33,42,368,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,13
+2,2,33,42,369,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,4
+2,2,33,42,370,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,15
+2,2,33,42,371,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,9
+2,2,33,42,372,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,35
+2,2,33,42,373,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,3
+2,2,33,42,374,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+2,2,33,42,375,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,5
+2,2,33,42,376,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,18
+2,2,33,42,377,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,6
+2,2,33,42,378,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,25
+2,2,33,42,379,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,13
+2,2,33,42,380,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,25
+2,2,33,42,381,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,3,19
+2,2,33,42,382,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+2,2,33,42,383,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,19
+2,2,33,42,384,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,26
+2,2,33,42,385,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham #Rosencrantz_Ham,1,4
+2,2,33,42,386,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,5,40
+2,2,33,42,387,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,8
+2,2,33,42,388,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,6,50
+2,2,33,42,389,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,6
+2,2,33,42,390,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,5,39
+2,2,33,42,391,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,5
+2,2,33,42,392,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,6,54
+2,2,33,42,393,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,3
+2,2,33,42,394,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,15
+2,2,33,42,395,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,6
+2,2,33,42,396,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,19,167
+2,2,33,42,397,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,10
+2,2,33,42,398,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,12
+2,2,33,42,399,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,4,34
+2,2,33,42,400,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,8,72
+2,2,33,42,401,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,15
+2,2,33,42,402,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,16
+2,2,33,42,403,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,12
+2,2,33,42,404,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,18
+2,2,33,42,405,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,5
+2,2,33,42,406,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+2,2,33,42,407,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,7,62
+2,2,33,42,408,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,7,59
+2,2,33,42,409,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,5,43
+2,2,33,42,410,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+2,2,33,42,411,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,9
+2,2,33,42,412,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+2,2,33,42,413,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,11
+2,2,33,42,414,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,6,52
+2,2,33,42,415,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,4
+2,2,33,42,416,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,8,57
+2,2,33,42,417,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,5
+2,2,33,42,418,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,17
+2,2,34,43,419,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,5
+2,2,34,43,420,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,25
+2,2,34,43,421,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,19
+2,2,34,43,422,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,23
+2,2,34,43,423,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,8
+2,2,34,43,424,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,15
+2,2,34,43,425,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,7
+2,2,34,43,426,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,2
+2,2,34,43,427,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,3
+2,2,34,43,428,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+2,2,34,43,429,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,7,43
+2,2,34,43,430,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,10
+2,2,34,43,431,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,7
+2,2,34,43,432,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,13
+2,2,34,43,433,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,4
+2,2,34,43,434,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,8
+2,2,34,43,435,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,16
+2,2,34,43,436,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+2,2,34,43,437,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,5
+2,2,34,43,438,#Guildenstern_Ham #Hamlet_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,6,36
+2,2,35,44,439,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,12,114
+2,2,35,44,440,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,1,5
+2,2,35,44,441,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,33,266
+2,2,35,44,442,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,12
+2,2,35,44,443,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,30,221
+2,2,35,44,444,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,4
+2,2,35,44,445,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,28
+2,2,35,44,446,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,1,9
+2,2,35,44,447,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+2,2,35,44,448,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,6
+2,2,35,44,449,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,15,111
+2,2,35,44,450,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,17
+2,2,35,44,451,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,6,58
+2,2,35,44,452,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,10
+2,2,35,44,453,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,5,38
+2,2,35,44,454,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,2
+2,2,35,44,455,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,8
+2,2,36,45,456,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,13
+2,2,36,45,457,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,1,3
+2,2,36,45,458,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,31
+2,2,36,45,459,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #Rosencrantz_Ham,#PLAYERS.1_Ham,1,3
+2,2,36,45,460,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,11
+2,2,37,46,461,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,13
+2,2,37,46,462,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,3
+2,2,37,46,463,#Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,5
+2,2,38,47,464,#Hamlet_Ham,#Hamlet_Ham,59,457
+3,1,39,49,465,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,4,30
+3,1,39,49,466,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,17
+3,1,39,49,467,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Guildenstern_Ham,4,29
+3,1,39,49,468,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,5
+3,1,39,49,469,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,4
+3,1,39,49,470,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,7
+3,1,39,49,471,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,12
+3,1,39,49,472,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,7
+3,1,39,49,473,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,6,52
+3,1,39,49,474,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,3,17
+3,1,39,49,475,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,4,29
+3,1,39,49,476,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Ophelia_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,4
+3,1,40,50,477,#Claudius_Ham #Gertrude_Ham #Ophelia_Ham #Polonius_Ham,#Claudius_Ham,10,66
+3,1,40,50,478,#Claudius_Ham #Gertrude_Ham #Ophelia_Ham #Polonius_Ham,#Gertrude_Ham,6,41
+3,1,40,50,479,#Claudius_Ham #Gertrude_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,5
+3,1,41,51,480,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Polonius_Ham,8,51
+3,1,41,51,481,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Claudius_Ham,7,43
+3,1,41,51,482,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Polonius_Ham,1,8
+3,1,42,52,483,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,35,276
+3,1,42,52,484,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,12
+3,1,42,52,485,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+3,1,42,52,486,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,3,20
+3,1,42,52,487,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,1,8
+3,1,42,52,488,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,7,46
+3,1,42,52,489,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+3,1,42,52,490,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,2
+3,1,42,52,491,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,1,3
+3,1,42,52,492,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,4
+3,1,42,52,493,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,2,16
+3,1,42,52,494,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,2,10
+3,1,42,52,495,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,5,46
+3,1,42,52,496,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,8
+3,1,42,52,497,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,3,24
+3,1,42,52,498,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,5
+3,1,42,52,499,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,11,98
+3,1,42,52,500,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,4
+3,1,42,52,501,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,2,20
+3,1,42,52,502,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,6
+3,1,42,52,503,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,7,62
+3,1,42,52,504,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,1,4
+3,1,42,52,505,#Claudius_Ham #Hamlet_Ham #Ophelia_Ham #Polonius_Ham,#Hamlet_Ham,9,78
+3,1,43,53,506,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Ophelia_Ham,13,99
+3,1,43,53,507,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Claudius_Ham,14,107
+3,1,43,53,508,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Polonius_Ham,12,100
+3,1,43,53,509,#Claudius_Ham #Ophelia_Ham #Polonius_Ham,#Claudius_Ham,2,12
+3,2,44,55,510,#Hamlet_Ham #PLAYERS_Ham,#Hamlet_Ham,15,139
+3,2,45,56,511,#Hamlet_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham,#PLAYERS.0.1_Ham,1,4
+3,2,45,56,512,#Hamlet_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham,#Hamlet_Ham,21,186
+3,2,45,56,513,#Hamlet_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham,#PLAYERS.0.1_Ham,2,10
+3,2,45,56,514,#Hamlet_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham,#Hamlet_Ham,8,73
+3,2,46,58,515,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,12
+3,2,46,58,516,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,7
+3,2,46,58,517,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,5
+3,2,47,59,518,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+3,2,47,59,519,#Guildenstern_Ham #Hamlet_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,3
+3,2,48,60,520,#Hamlet_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,1,3
+3,2,49,61,521,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,6
+3,2,49,61,522,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,2,14
+3,2,49,61,523,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,4
+3,2,49,61,524,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,34,261
+3,2,49,61,525,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,3,21
+3,2,49,61,526,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,2,14
+3,2,50,62,527,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,5
+3,2,50,62,528,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,17
+3,2,50,62,529,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,2,12
+3,2,50,62,530,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,14
+3,2,50,62,531,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,11
+3,2,50,62,532,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,50,62,533,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,14
+3,2,50,62,534,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,18
+3,2,50,62,535,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,8
+3,2,50,62,536,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,8
+3,2,50,62,537,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,7
+3,2,50,62,538,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,6
+3,2,50,62,539,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+3,2,50,62,540,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,3
+3,2,50,62,541,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+3,2,50,62,542,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,3
+3,2,50,62,543,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+3,2,50,62,544,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,5
+3,2,50,62,545,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,9
+3,2,50,62,546,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,4
+3,2,50,62,547,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,1
+3,2,50,62,548,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,5
+3,2,50,62,549,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,2
+3,2,50,62,550,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,3
+3,2,50,62,551,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,29
+3,2,50,62,552,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,7
+3,2,50,62,553,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,8,71
+3,2,50,62,554,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,5
+3,2,50,62,555,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,8
+3,2,50,62,556,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,2,9
+3,2,51,63,557,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.Prologue_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,14
+3,2,51,63,558,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.Prologue_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,8
+3,2,51,63,559,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.Prologue_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,24
+3,2,51,63,560,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.Prologue_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,2,10
+3,2,51,63,561,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.Prologue_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Prologue_Ham,3,16
+3,2,52,64,562,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,10
+3,2,52,64,563,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,4
+3,2,52,64,564,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+3,2,53,65,565,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.King_Ham,6,45
+3,2,53,65,566,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Queen_Ham,13,111
+3,2,53,65,567,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.King_Ham,5,37
+3,2,53,65,568,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Queen_Ham,4,29
+3,2,53,65,569,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,2
+3,2,53,65,570,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Queen_Ham,4,30
+3,2,53,65,571,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.King_Ham,30,233
+3,2,53,65,572,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Queen_Ham,8,66
+3,2,53,65,573,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+3,2,53,65,574,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.King_Ham,3,22
+3,2,53,65,575,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Queen_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Queen_Ham,2,11
+3,2,54,66,576,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+3,2,54,66,577,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,7
+3,2,54,66,578,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+3,2,54,66,579,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,2,11
+3,2,54,66,580,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,14
+3,2,54,66,581,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,6
+3,2,54,66,582,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,7,59
+3,2,55,67,583,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,8
+3,2,55,67,584,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,9
+3,2,55,67,585,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,15
+3,2,55,67,586,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,8
+3,2,55,67,587,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,11
+3,2,55,67,588,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,4
+3,2,55,67,589,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,22
+3,2,55,67,590,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#PLAYERS.Lucianus_Ham,7,40
+3,2,55,67,591,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,35
+3,2,55,67,592,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Ophelia_Ham,1,3
+3,2,55,67,593,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,5
+3,2,55,67,594,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,4
+3,2,55,67,595,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,4
+3,2,55,67,596,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,5
+3,2,55,67,597,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #Ophelia_Ham #PLAYERS.0.1_Ham #PLAYERS.King_Ham #PLAYERS.Lucianus_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,3
+3,2,56,68,598,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,8,60
+3,2,56,68,599,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,3
+3,2,56,68,600,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,5,26
+3,2,56,68,601,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,4
+3,2,56,68,602,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,2,14
+3,2,56,68,603,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,4
+3,2,56,68,604,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,1,6
+3,2,56,68,605,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Horatio_Ham,1,6
+3,2,56,68,606,#Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,5,27
+3,2,57,69,607,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,9
+3,2,57,69,608,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,57,69,609,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,3
+3,2,57,69,610,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,5
+3,2,57,69,611,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,6
+3,2,57,69,612,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+3,2,57,69,613,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,5
+3,2,57,69,614,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,29
+3,2,57,69,615,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,3,17
+3,2,57,69,616,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,5
+3,2,57,69,617,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,15
+3,2,57,69,618,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+3,2,57,69,619,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Guildenstern_Ham,5,43
+3,2,57,69,620,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+3,2,57,69,621,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,3
+3,2,57,69,622,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,5,37
+3,2,57,69,623,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,13
+3,2,57,69,624,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,22
+3,2,57,69,625,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,14
+3,2,57,69,626,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,16
+3,2,57,69,627,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,7
+3,2,57,69,628,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,8
+3,2,57,69,629,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,3,27
+3,2,57,69,630,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,57,69,631,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,3,18
+3,2,57,69,632,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,12
+3,2,58,70,633,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,39
+3,2,58,70,634,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,14
+3,2,58,70,635,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,12
+3,2,58,70,636,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,4
+3,2,58,70,637,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,3
+3,2,58,70,638,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,4
+3,2,58,70,639,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,58,70,640,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,8
+3,2,58,70,641,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,4,33
+3,2,58,70,642,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Guildenstern_Ham,2,15
+3,2,58,70,643,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Rosencrantz_Ham,#Hamlet_Ham,10,94
+3,2,59,71,644,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,59,71,645,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,2,10
+3,2,59,71,646,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,12
+3,2,59,71,647,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,9
+3,2,59,71,648,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+3,2,59,71,649,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,6
+3,2,59,71,650,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+3,2,59,71,651,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,4
+3,2,59,71,652,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,25
+3,2,59,71,653,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Polonius_Ham,1,4
+3,2,59,71,654,#Guildenstern_Ham #Hamlet_Ham #Horatio_Ham #PLAYERS.0.1_Ham #PLAYERS_Ham #Polonius_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,9
+3,2,60,72,655,#Hamlet_Ham #PLAYERS.0.1_Ham,#Hamlet_Ham,14,100
+3,3,61,75,656,#Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,7,52
+3,3,61,75,657,#Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Guildenstern_Ham,4,25
+3,3,61,75,658,#Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,13,104
+3,3,61,75,659,#Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,3,22
+3,3,61,75,660,#Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,4
+3,3,62,77,661,#Claudius_Ham #Polonius_Ham,#Polonius_Ham,10,73
+3,3,62,77,662,#Claudius_Ham #Polonius_Ham,#Claudius_Ham,1,4
+3,3,63,78,663,#Claudius_Ham,#Claudius_Ham,37,295
+3,3,64,79,664,#Claudius_Ham #Hamlet_Ham,#Hamlet_Ham,25,196
+3,3,65,80,665,#Claudius_Ham,#Claudius_Ham,2,15
+3,4,66,82,666,#Gertrude_Ham #Polonius_Ham,#Polonius_Ham,7,45
+3,4,67,83,667,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,3
+3,4,67,83,668,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,11
+3,4,67,83,669,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+3,4,67,83,670,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,7
+3,4,67,83,671,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,7
+3,4,67,83,672,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,8
+3,4,67,83,673,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,8
+3,4,67,83,674,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+3,4,67,83,675,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,4
+3,4,67,83,676,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+3,4,67,83,677,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,24
+3,4,67,83,678,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,10
+3,4,67,83,679,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,29
+3,4,67,83,680,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,11
+3,4,67,83,681,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,3
+3,4,67,83,682,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,9
+3,4,67,83,683,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Polonius_Ham,1,4
+3,4,67,83,684,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,6
+3,4,67,83,685,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,8
+3,4,67,83,686,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,9
+3,4,67,83,687,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,2,17
+3,4,67,83,688,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+3,4,67,83,689,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,10,72
+3,4,67,83,690,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,16
+3,4,67,83,691,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,12,83
+3,4,67,83,692,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,13
+3,4,67,83,693,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,36,277
+3,4,67,83,694,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,4,28
+3,4,67,83,695,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,4,23
+3,4,67,83,696,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,3,18
+3,4,67,83,697,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,6,44
+3,4,67,83,698,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,2
+3,4,67,83,699,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,6
+3,4,68,84,700,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,17
+3,4,68,84,701,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,3
+3,4,68,84,702,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,4,27
+3,4,68,84,703,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Ghost_Ham,6,38
+3,4,68,84,704,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,6
+3,4,68,84,705,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,9,69
+3,4,68,84,706,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,7,51
+3,4,68,84,707,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,6
+3,4,68,84,708,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+3,4,68,84,709,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,9
+3,4,68,84,710,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,5
+3,4,68,84,711,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+3,4,68,84,712,#Gertrude_Ham #Ghost_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,3,27
+3,4,69,85,713,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,3,16
+3,4,69,85,714,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,17,131
+3,4,69,85,715,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,9
+3,4,69,85,716,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,24,192
+3,4,69,85,717,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,1,4
+3,4,69,85,718,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,16,133
+3,4,69,85,719,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,3,25
+3,4,69,85,720,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,1,7
+3,4,69,85,721,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Gertrude_Ham,2,8
+3,4,69,85,722,#Gertrude_Ham #Hamlet_Ham #Polonius_Ham,#Hamlet_Ham,16,127
+4,1,70,87,723,#Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,3,20
+4,1,70,87,724,#Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Gertrude_Ham,1,8
+4,1,71,88,725,#Claudius_Ham #Gertrude_Ham,#Gertrude_Ham,1,9
+4,1,71,88,726,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,1,5
+4,1,71,88,727,#Claudius_Ham #Gertrude_Ham,#Gertrude_Ham,6,43
+4,1,71,88,728,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,12,97
+4,1,71,88,729,#Claudius_Ham #Gertrude_Ham,#Gertrude_Ham,4,31
+4,1,71,88,730,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,5,36
+4,1,72,89,731,#Claudius_Ham #Gertrude_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,5,43
+4,1,73,90,732,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,8,60
+4,2,74,92,733,#Hamlet_Ham,#Hamlet_Ham,1,2
+4,2,75,93,734,#ATTENDANTS.GUARDS_Ham #Hamlet_Ham,#ATTENDANTS.GUARDS_Ham,1,3
+4,2,75,93,735,#ATTENDANTS.GUARDS_Ham #Hamlet_Ham,#Hamlet_Ham,2,12
+4,2,76,94,736,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,10
+4,2,76,94,737,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,7
+4,2,76,94,738,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,16
+4,2,76,94,739,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,4
+4,2,76,94,740,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,2
+4,2,76,94,741,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,28
+4,2,76,94,742,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,8
+4,2,76,94,743,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,7,62
+4,2,76,94,744,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,6
+4,2,76,94,745,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,13
+4,2,76,94,746,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,17
+4,2,76,94,747,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,19
+4,2,76,94,748,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Guildenstern_Ham,1,4
+4,2,76,94,749,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,11
+4,3,77,96,750,#ATTENDANTS_Ham #Claudius_Ham,#Claudius_Ham,11,85
+4,3,78,97,751,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,5
+4,3,78,97,752,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,2,13
+4,3,78,97,753,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,4
+4,3,78,97,754,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,8
+4,3,78,97,755,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Claudius_Ham,1,4
+4,3,78,97,756,#ATTENDANTS_Ham #Claudius_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,5
+4,3,79,98,757,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,4
+4,3,79,98,758,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,2
+4,3,79,98,759,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,3
+4,3,79,98,760,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,7,61
+4,3,79,98,761,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,2
+4,3,79,98,762,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,24
+4,3,79,98,763,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,6
+4,3,79,98,764,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,2,18
+4,3,79,98,765,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,3
+4,3,79,98,766,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,5,43
+4,3,79,98,767,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,4
+4,3,79,98,768,#ATTENDANTS.GUARDS_Ham #ATTENDANTS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,6
+4,3,80,99,769,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,8,49
+4,3,80,99,770,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,2
+4,3,80,99,771,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,2
+4,3,80,99,772,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,1
+4,3,80,99,773,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,8
+4,3,80,99,774,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,14
+4,3,80,99,775,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Claudius_Ham,1,4
+4,3,80,99,776,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,3,22
+4,3,81,100,777,#ATTENDANTS.GUARDS_Ham #Claudius_Ham #Guildenstern_Ham #Rosencrantz_Ham,#Claudius_Ham,4,34
+4,3,82,101,778,#Claudius_Ham,#Claudius_Ham,11,91
+4,4,83,103,779,#Fortinbras_Ham #SOLDIERS.FORTINBRAS.Captain_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,7,50
+4,4,83,103,780,#Fortinbras_Ham #SOLDIERS.FORTINBRAS.Captain_Ham #SOLDIERS.FORTINBRAS_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,6
+4,4,83,103,781,#Fortinbras_Ham #SOLDIERS.FORTINBRAS.Captain_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,1,3
+4,4,84,105,782,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,1,6
+4,4,84,105,783,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,5
+4,4,84,105,784,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,1,6
+4,4,84,105,785,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,5
+4,4,84,105,786,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,1,4
+4,4,84,105,787,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,6
+4,4,84,105,788,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,2,12
+4,4,84,105,789,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,6,53
+4,4,84,105,790,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,1,8
+4,4,84,105,791,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,5
+4,4,84,105,792,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#Hamlet_Ham,5,41
+4,4,84,105,793,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham #SOLDIERS.FORTINBRAS.Captain_Ham,#SOLDIERS.FORTINBRAS.Captain_Ham,1,5
+4,4,85,106,794,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Rosencrantz_Ham,1,7
+4,4,85,106,795,#ATTENDANTS.GUARDS_Ham #Guildenstern_Ham #Hamlet_Ham #Rosencrantz_Ham,#Hamlet_Ham,1,9
+4,4,86,107,796,#Hamlet_Ham,#Hamlet_Ham,36,279
+4,5,87,109,797,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#Gertrude_Ham,1,6
+4,5,87,109,798,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#ATTENDANTS.1_Ham,2,11
+4,5,87,109,799,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#Gertrude_Ham,1,4
+4,5,87,109,800,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#ATTENDANTS.1_Ham,13,88
+4,5,87,109,801,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#Horatio_Ham,3,15
+4,5,87,109,802,#ATTENDANTS.1_Ham #Gertrude_Ham #Horatio_Ham,#Gertrude_Ham,1,4
+4,5,88,110,803,#Gertrude_Ham #Horatio_Ham,#Gertrude_Ham,4,32
+4,5,89,111,804,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,1,7
+4,5,89,111,805,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Gertrude_Ham,1,3
+4,5,89,111,806,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,4,20
+4,5,89,111,807,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Gertrude_Ham,1,7
+4,5,89,111,808,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,6,30
+4,5,89,111,809,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Gertrude_Ham,1,3
+4,5,89,111,810,#Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,2,10
+4,5,90,112,811,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Gertrude_Ham,1,5
+4,5,90,112,812,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,3,16
+4,5,90,112,813,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Claudius_Ham,1,5
+4,5,90,112,814,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,3,30
+4,5,90,112,815,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Claudius_Ham,1,4
+4,5,90,112,816,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,10,63
+4,5,90,112,817,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Claudius_Ham,1,2
+4,5,90,112,818,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,10,66
+4,5,90,112,819,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Claudius_Ham,1,6
+4,5,90,112,820,#Claudius_Ham #Gertrude_Ham #Horatio_Ham #Ophelia_Ham,#Ophelia_Ham,6,55
+4,5,91,113,821,#Claudius_Ham #Gertrude_Ham #Horatio_Ham,#Claudius_Ham,1,10
+4,5,92,114,822,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,24,166
+4,5,92,114,823,#Claudius_Ham #Gertrude_Ham,#Gertrude_Ham,1,5
+4,5,92,114,824,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,2,10
+4,5,93,115,825,#Claudius_Ham #Gertrude_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,4
+4,5,93,115,826,#Claudius_Ham #Gertrude_Ham #MESSENGERS.1_Ham,#MESSENGERS.1_Ham,11,77
+4,5,93,115,827,#Claudius_Ham #Gertrude_Ham #MESSENGERS.1_Ham,#Gertrude_Ham,2,16
+4,5,93,115,828,#Claudius_Ham #Gertrude_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,4
+4,5,94,116,829,#Claudius_Ham #FOLLOWERS.LAERTES_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,9
+4,5,94,116,830,#Claudius_Ham #FOLLOWERS.LAERTES_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#FOLLOWERS.LAERTES_Ham,1,4
+4,5,94,116,831,#Claudius_Ham #FOLLOWERS.LAERTES_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,6
+4,5,94,116,832,#Claudius_Ham #FOLLOWERS.LAERTES_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#FOLLOWERS.LAERTES_Ham,1,4
+4,5,94,116,833,#Claudius_Ham #FOLLOWERS.LAERTES_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,6
+4,5,95,117,834,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,3,8
+4,5,95,117,835,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Gertrude_Ham,1,3
+4,5,95,117,836,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,5,28
+4,5,95,117,837,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,9,55
+4,5,95,117,838,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,4
+4,5,95,117,839,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,1
+4,5,95,117,840,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Gertrude_Ham,1,4
+4,5,95,117,841,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,5
+4,5,95,117,842,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,7,53
+4,5,95,117,843,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,4
+4,5,95,117,844,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,3,21
+4,5,95,117,845,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,6,31
+4,5,95,117,846,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,4
+4,5,95,117,847,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,1,5
+4,5,95,117,848,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,3,21
+4,5,95,117,849,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,6,42
+4,5,95,117,850,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,6
+4,5,96,118,851,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Laertes_Ham,10,83
+4,5,96,118,852,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Ophelia_Ham,4,26
+4,5,96,118,853,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Laertes_Ham,2,13
+4,5,96,118,854,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Ophelia_Ham,4,26
+4,5,96,118,855,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Laertes_Ham,1,5
+4,5,96,118,856,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Ophelia_Ham,3,16
+4,5,96,118,857,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Laertes_Ham,2,8
+4,5,96,118,858,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Ophelia_Ham,7,64
+4,5,96,118,859,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Laertes_Ham,2,13
+4,5,96,118,860,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham #Ophelia_Ham,#Ophelia_Ham,12,67
+4,5,97,119,861,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,1,6
+4,5,97,119,862,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,11,89
+4,5,97,119,863,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Laertes_Ham,6,42
+4,5,97,119,864,#Claudius_Ham #Gertrude_Ham #Laertes_Ham #MESSENGERS.1_Ham,#Claudius_Ham,3,19
+4,6,98,121,865,#ATTENDANTS_Ham #Horatio_Ham,#Horatio_Ham,1,8
+4,6,99,122,866,#ATTENDANTS.0.1_Ham #ATTENDANTS_Ham #Horatio_Ham,#ATTENDANTS.0.1_Ham,2,10
+4,6,99,122,867,#ATTENDANTS.0.1_Ham #ATTENDANTS_Ham #Horatio_Ham,#Horatio_Ham,1,4
+4,6,100,123,868,#ATTENDANTS_Ham #Horatio_Ham,#Horatio_Ham,3,19
+4,6,101,125,869,#ATTENDANTS_Ham #Horatio_Ham #SAILORS.0.1_Ham #SAILORS_Ham,#SAILORS.0.1_Ham,1,4
+4,6,101,125,870,#ATTENDANTS_Ham #Horatio_Ham #SAILORS.0.1_Ham #SAILORS_Ham,#Horatio_Ham,1,5
+4,6,101,125,871,#ATTENDANTS_Ham #Horatio_Ham #SAILORS.0.1_Ham #SAILORS_Ham,#SAILORS.0.1_Ham,4,36
+4,6,101,125,872,#ATTENDANTS_Ham #Horatio_Ham #SAILORS.0.1_Ham #SAILORS_Ham,#Horatio_Ham,22,201
+4,7,102,128,873,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,5,37
+4,7,102,128,874,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,5,34
+4,7,102,128,875,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,16,134
+4,7,102,128,876,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,5,38
+4,7,102,128,877,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,6,56
+4,7,103,129,878,#Claudius_Ham #Laertes_Ham #MESSENGERS.2_Ham,#Claudius_Ham,1,4
+4,7,103,129,879,#Claudius_Ham #Laertes_Ham #MESSENGERS.2_Ham,#MESSENGERS.2_Ham,3,13
+4,7,103,129,880,#Claudius_Ham #Laertes_Ham #MESSENGERS.2_Ham,#Claudius_Ham,1,5
+4,7,103,129,881,#Claudius_Ham #Laertes_Ham #MESSENGERS.2_Ham,#MESSENGERS.2_Ham,3,23
+4,7,103,129,882,#Claudius_Ham #Laertes_Ham #MESSENGERS.2_Ham,#Claudius_Ham,3,7
+4,7,104,130,883,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,7,61
+4,7,104,130,884,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,4
+4,7,104,130,885,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,3,16
+4,7,104,130,886,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,4,32
+4,7,104,130,887,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,3,19
+4,7,104,130,888,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,2,12
+4,7,104,130,889,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,8,66
+4,7,104,130,890,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,3,20
+4,7,104,130,891,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,7,50
+4,7,104,130,892,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,6
+4,7,104,130,893,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,14,111
+4,7,104,130,894,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,4
+4,7,104,130,895,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,1,2
+4,7,104,130,896,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,4
+4,7,104,130,897,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,1,3
+4,7,104,130,898,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,2,15
+4,7,104,130,899,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,13,88
+4,7,104,130,900,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,6
+4,7,104,130,901,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,3,21
+4,7,104,130,902,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,4
+4,7,104,130,903,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,18,139
+4,7,104,130,904,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,1,7
+4,7,104,130,905,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,14,102
+4,7,104,130,906,#Claudius_Ham #Laertes_Ham,#Laertes_Ham,10,74
+4,7,104,130,907,#Claudius_Ham #Laertes_Ham,#Claudius_Ham,18,122
+4,7,105,131,908,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Gertrude_Ham,2,15
+4,7,105,131,909,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Laertes_Ham,1,3
+4,7,105,131,910,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Gertrude_Ham,19,135
+4,7,105,131,911,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Laertes_Ham,1,5
+4,7,105,131,912,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Gertrude_Ham,1,2
+4,7,105,131,913,#Claudius_Ham #Gertrude_Ham #Laertes_Ham,#Laertes_Ham,7,58
+4,7,106,132,914,#Claudius_Ham #Gertrude_Ham,#Claudius_Ham,4,25
+5,1,107,134,915,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,2,15
+5,1,107,134,916,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,3,21
+5,1,107,134,917,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,2,12
+5,1,107,134,918,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,4
+5,1,107,134,919,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,5,42
+5,1,107,134,920,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,6
+5,1,107,134,921,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,7,63
+5,1,107,134,922,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,4
+5,1,107,134,923,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,1,7
+5,1,107,134,924,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,3,23
+5,1,107,134,925,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,6,44
+5,1,107,134,926,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,4
+5,1,107,134,927,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,1,8
+5,1,107,134,928,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,4
+5,1,107,134,929,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,5,36
+5,1,107,134,930,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,2
+5,1,107,134,931,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,2,15
+5,1,107,134,932,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,2,9
+5,1,107,134,933,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,5,51
+5,1,107,134,934,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,2,11
+5,1,107,134,935,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,1,6
+5,1,107,134,936,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,5
+5,1,107,134,937,#Gravedigger_Ham #GravediggersCompanion_Ham,#Gravedigger_Ham,1,2
+5,1,107,134,938,#Gravedigger_Ham #GravediggersCompanion_Ham,#GravediggersCompanion_Ham,1,4
+5,1,108,135,939,#Gravedigger_Ham #GravediggersCompanion_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,6,47
+5,1,109,136,940,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,4,30
+5,1,109,136,941,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,12
+5,1,109,136,942,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,10
+5,1,109,136,943,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,12
+5,1,109,136,944,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,4,26
+5,1,109,136,945,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,6,50
+5,1,109,136,946,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,1,109,136,947,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,5,37
+5,1,109,136,948,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,3
+5,1,109,136,949,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,6,50
+5,1,109,136,950,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,4,27
+5,1,109,136,951,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,15,146
+5,1,109,136,952,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,6
+5,1,109,136,953,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,6
+5,1,109,136,954,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,8
+5,1,109,136,955,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,3,21
+5,1,109,136,956,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,3,17
+5,1,109,136,957,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,11
+5,1,109,136,958,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,3,24
+5,1,109,136,959,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,3,25
+5,1,109,136,960,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,2,12
+5,1,109,136,961,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,7
+5,1,109,136,962,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,1,4
+5,1,109,136,963,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,3
+5,1,109,136,964,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,1,3
+5,1,109,136,965,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,7
+5,1,109,136,966,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,2,12
+5,1,109,136,967,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,7,59
+5,1,109,136,968,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,3,20
+5,1,109,136,969,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,5
+5,1,109,136,970,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,3,27
+5,1,109,136,971,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,8
+5,1,109,136,972,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,3,21
+5,1,109,136,973,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,1
+5,1,109,136,974,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,2,15
+5,1,109,136,975,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,4
+5,1,109,136,976,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,1,4
+5,1,109,136,977,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,2
+5,1,109,136,978,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,1,6
+5,1,109,136,979,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,3
+5,1,109,136,980,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,2,14
+5,1,109,136,981,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,12
+5,1,109,136,982,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,5,40
+5,1,109,136,983,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,5
+5,1,109,136,984,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,5,43
+5,1,109,136,985,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,3
+5,1,109,136,986,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,2,12
+5,1,109,136,987,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,4
+5,1,109,136,988,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,4,29
+5,1,109,136,989,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,1
+5,1,109,136,990,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Gravedigger_Ham,1,2
+5,1,109,136,991,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,13,122
+5,1,109,136,992,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,1,109,136,993,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,11
+5,1,109,136,994,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,2
+5,1,109,136,995,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,4
+5,1,109,136,996,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,1,109,136,997,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,3,25
+5,1,109,136,998,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,8
+5,1,109,136,999,#Gravedigger_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,10,89
+5,1,110,137,1000,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,6,47
+5,1,110,137,1001,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,1,3
+5,1,110,137,1002,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,1,8
+5,1,110,137,1003,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,1,3
+5,1,110,137,1004,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Doctor_Ham,10,65
+5,1,110,137,1005,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,1,6
+5,1,110,137,1006,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Doctor_Ham,4,25
+5,1,110,137,1007,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,5,31
+5,1,110,137,1008,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,1,4
+5,1,110,137,1009,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Gertrude_Ham,4,29
+5,1,110,137,1010,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,9,65
+5,1,110,137,1011,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,5,30
+5,1,110,137,1012,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Laertes_Ham,1,5
+5,1,110,137,1013,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,5,36
+5,1,110,137,1014,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Claudius_Ham,1,3
+5,1,110,137,1015,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Gertrude_Ham,1,2
+5,1,110,137,1016,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#ATTENDANTS_Ham,1,1
+5,1,110,137,1017,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Horatio_Ham,1,5
+5,1,110,137,1018,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,2,16
+5,1,110,137,1019,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Gertrude_Ham,1,5
+5,1,110,137,1020,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,3,24
+5,1,110,137,1021,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Claudius_Ham,1,5
+5,1,110,137,1022,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Gertrude_Ham,1,6
+5,1,110,137,1023,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,12,89
+5,1,110,137,1024,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Gertrude_Ham,5,32
+5,1,110,137,1025,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Hamlet_Ham,5,38
+5,1,111,138,1026,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Horatio_Ham #Laertes_Ham #Ophelia_Ham,#Claudius_Ham,1,8
+5,1,112,139,1027,#ATTENDANTS_Ham #Claudius_Ham #Doctor_Ham #Gertrude_Ham #Gravedigger_Ham #Laertes_Ham #Ophelia_Ham,#Claudius_Ham,7,46
+5,2,113,141,1028,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,17
+5,2,113,141,1029,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,2,113,141,1030,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,9,65
+5,2,113,141,1031,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,4
+5,2,113,141,1032,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,14,99
+5,2,113,141,1033,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,3
+5,2,113,141,1034,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,17
+5,2,113,141,1035,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,3
+5,2,113,141,1036,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,9,70
+5,2,113,141,1037,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,2,113,141,1038,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,10,70
+5,2,113,141,1039,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,2,113,141,1040,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,9,62
+5,2,113,141,1041,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,7
+5,2,113,141,1042,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,6,40
+5,2,113,141,1043,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,6
+5,2,113,141,1044,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,10,68
+5,2,113,141,1045,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,17
+5,2,113,141,1046,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,8,61
+5,2,113,141,1047,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,2,114,142,1048,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,2,8
+5,2,114,142,1049,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,9
+5,2,114,142,1050,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Horatio_Ham,1,4
+5,2,114,142,1051,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,5,48
+5,2,114,142,1052,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,2,18
+5,2,114,142,1053,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,3,21
+5,2,114,142,1054,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,8
+5,2,114,142,1055,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,10
+5,2,114,142,1056,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,7
+5,2,114,142,1057,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,12
+5,2,114,142,1058,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,4,37
+5,2,114,142,1059,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,4
+5,2,114,142,1060,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,7,64
+5,2,114,142,1061,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,9,78
+5,2,114,142,1062,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,7
+5,2,114,142,1063,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,14
+5,2,114,142,1064,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,1
+5,2,114,142,1065,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Horatio_Ham,2,15
+5,2,114,142,1066,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,7
+5,2,114,142,1067,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,2
+5,2,114,142,1068,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Horatio_Ham,2,11
+5,2,114,142,1069,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,3
+5,2,114,142,1070,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,6
+5,2,114,142,1071,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,19
+5,2,114,142,1072,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,2,9
+5,2,114,142,1073,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,3,23
+5,2,114,142,1074,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,3,20
+5,2,114,142,1075,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,3
+5,2,114,142,1076,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,3
+5,2,114,142,1077,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,7
+5,2,114,142,1078,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,7,57
+5,2,114,142,1079,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,5
+5,2,114,142,1080,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Horatio_Ham,2,13
+5,2,114,142,1081,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,6
+5,2,114,142,1082,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,7,57
+5,2,114,142,1083,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,5,43
+5,2,114,142,1084,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,5
+5,2,114,142,1085,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,2,11
+5,2,114,142,1086,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,6,57
+5,2,114,142,1087,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,6
+5,2,114,142,1088,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,2,10
+5,2,114,142,1089,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Osric_Ham,1,7
+5,2,114,142,1090,#Hamlet_Ham #Horatio_Ham #Osric_Ham,#Hamlet_Ham,1,1
+5,2,115,143,1091,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,3,15
+5,2,115,143,1092,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,10
+5,2,115,143,1093,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,8,72
+5,2,116,144,1094,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#ATTENDANTS.2_Ham,5,42
+5,2,116,144,1095,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,4,28
+5,2,116,144,1096,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#ATTENDANTS.2_Ham,1,9
+5,2,116,144,1097,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,3
+5,2,116,144,1098,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#ATTENDANTS.2_Ham,2,16
+5,2,116,144,1099,#ATTENDANTS.2_Ham #Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,1,4
+5,2,117,145,1100,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,5
+5,2,117,145,1101,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,4,39
+5,2,117,145,1102,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,1,4
+5,2,117,145,1103,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,2,18
+5,2,117,145,1104,#Hamlet_Ham #Horatio_Ham,#Horatio_Ham,2,19
+5,2,117,145,1105,#Hamlet_Ham #Horatio_Ham,#Hamlet_Ham,6,64
+5,2,118,146,1106,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,9
+5,2,118,146,1107,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,19,140
+5,2,118,146,1108,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,9,68
+5,2,118,146,1109,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,3,17
+5,2,118,146,1110,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,4
+5,2,118,146,1111,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,3,22
+5,2,118,146,1112,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,4
+5,2,118,146,1113,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,4
+5,2,118,146,1114,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,2,12
+5,2,118,146,1115,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,2,14
+5,2,118,146,1116,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,2,19
+5,2,118,146,1117,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,8
+5,2,118,146,1118,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,10
+5,2,118,146,1119,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,1,4
+5,2,118,146,1120,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,13,104
+5,2,118,146,1121,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,3
+5,2,118,146,1122,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,3
+5,2,118,146,1123,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,1
+5,2,118,146,1124,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,1
+5,2,118,146,1125,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,1
+5,2,118,146,1126,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,1,6
+5,2,118,146,1127,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,2
+5,2,118,146,1128,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,3,17
+5,2,118,146,1129,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,2,15
+5,2,118,146,1130,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,8
+5,2,118,146,1131,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,4
+5,2,118,146,1132,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Gertrude_Ham,3,21
+5,2,118,146,1133,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,2
+5,2,118,146,1134,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,4
+5,2,118,146,1135,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Gertrude_Ham,1,9
+5,2,118,146,1136,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,9
+5,2,118,146,1137,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,9
+5,2,118,146,1138,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Gertrude_Ham,1,6
+5,2,118,146,1139,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,6
+5,2,118,146,1140,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,5
+5,2,118,146,1141,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,8
+5,2,118,146,1142,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,3,26
+5,2,118,146,1143,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,5
+5,2,118,146,1144,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,1,3
+5,2,118,146,1145,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,1,4
+5,2,118,146,1146,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,5
+5,2,118,146,1147,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,3
+5,2,118,146,1148,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,1,6
+5,2,118,146,1149,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Horatio_Ham,1,10
+5,2,118,146,1150,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,1,4
+5,2,118,146,1151,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Laertes_Ham,2,17
+5,2,118,146,1152,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,4
+5,2,118,146,1153,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Claudius_Ham,1,6
+5,2,118,146,1154,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Gertrude_Ham,2,17
+5,2,118,146,1155,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,1,8
+5,2,119,147,1156,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Hamlet_Ham,1,4
+5,2,119,147,1157,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Laertes_Ham,8,65
+5,2,119,147,1158,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Hamlet_Ham,2,9
+5,2,119,147,1159,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#ATTENDANTS_Ham,1,2
+5,2,119,147,1160,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Claudius_Ham,1,9
+5,2,119,147,1161,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Hamlet_Ham,3,17
+5,2,119,147,1162,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Laertes_Ham,5,30
+5,2,119,147,1163,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Hamlet_Ham,9,72
+5,2,119,147,1164,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Horatio_Ham,3,17
+5,2,119,147,1165,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham,#Hamlet_Ham,10,65
+5,2,120,148,1166,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Osric_Ham,3,16
+5,2,120,148,1167,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Hamlet_Ham,8,54
+5,2,120,148,1168,#ATTENDANTS_Ham #Claudius_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham,#Horatio_Ham,3,24
+5,2,121,149,1169,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,1,4
+5,2,121,149,1170,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Horatio_Ham,2,15
+5,2,121,149,1171,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,4,28
+5,2,121,149,1172,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#AMBASSADORS_Ham,6,40
+5,2,121,149,1173,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Horatio_Ham,16,109
+5,2,121,149,1174,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,5,39
+5,2,121,149,1175,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Horatio_Ham,7,40
+5,2,121,149,1176,#AMBASSADORS_Ham #ATTENDANTS_Ham #Claudius_Ham #Fortinbras_Ham #Gertrude_Ham #Hamlet_Ham #Horatio_Ham #Laertes_Ham #Osric_Ham #SOLDIERS.FORTINBRAS_Ham,#Fortinbras_Ham,9,63

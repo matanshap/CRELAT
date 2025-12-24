@@ -1,0 +1,342 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#HughEvans_Wiv,#HughEvans_Wiv #Shallow_2H4 #Slender_Wiv,318,38
+1,1,1,#Shallow_2H4,#HughEvans_Wiv #Shallow_2H4 #Slender_Wiv,103,17
+1,1,1,#Slender_Wiv,#HughEvans_Wiv #Shallow_2H4 #Slender_Wiv,94,17
+1,1,2,#HughEvans_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,37,5
+1,1,2,#MasterPage_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,63,10
+1,1,2,#Shallow_2H4,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,130,16
+1,1,2,#Slender_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,20,3
+1,1,3,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,35,6
+1,1,3,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,87,16
+1,1,3,#HughEvans_Wiv,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,122,15
+1,1,3,#MasterPage_Wiv,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,14,2
+1,1,3,#Nym_H5,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,38,4
+1,1,3,#Pistol_2H4,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,38,6
+1,1,3,#Shallow_2H4,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,26,4
+1,1,3,#Slender_Wiv,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,165,24
+1,1,4,#MasterPage_Wiv,#AnnePage_Wiv #Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,9,2
+1,1,5,#Slender_Wiv,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,7,1
+1,1,6,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,15,2
+1,1,6,#MasterPage_Wiv,#Bardolph_1H4 #Falstaff_1H4 #HughEvans_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5 #Pistol_2H4 #Shallow_2H4 #Slender_Wiv,28,4
+1,1,7,#Slender_Wiv,#HughEvans_Wiv #Shallow_2H4 #Slender_Wiv,15,2
+1,1,8,#HughEvans_Wiv,#HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,131,18
+1,1,8,#Shallow_2H4,#HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,90,13
+1,1,8,#Simple_Wiv,#HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,19,3
+1,1,8,#Slender_Wiv,#HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,190,24
+1,1,9,#AnnePage_Wiv,#AnnePage_Wiv #HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,12,2
+1,1,9,#HughEvans_Wiv,#AnnePage_Wiv #HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,11,2
+1,1,9,#Shallow_2H4,#AnnePage_Wiv #HughEvans_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,22,3
+1,1,10,#AnnePage_Wiv,#AnnePage_Wiv #Simple_Wiv #Slender_Wiv,14,3
+1,1,10,#Slender_Wiv,#AnnePage_Wiv #Simple_Wiv #Slender_Wiv,32,5
+1,1,11,#AnnePage_Wiv,#AnnePage_Wiv #Slender_Wiv,34,5
+1,1,11,#Slender_Wiv,#AnnePage_Wiv #Slender_Wiv,191,22
+1,1,12,#AnnePage_Wiv,#AnnePage_Wiv #MasterPage_Wiv #Slender_Wiv,11,2
+1,1,12,#MasterPage_Wiv,#AnnePage_Wiv #MasterPage_Wiv #Slender_Wiv,23,5
+1,1,12,#Slender_Wiv,#AnnePage_Wiv #MasterPage_Wiv #Slender_Wiv,46,7
+1,2,13,#HughEvans_Wiv,#HughEvans_Wiv #Simple_Wiv,100,12
+1,2,13,#Simple_Wiv,#HughEvans_Wiv #Simple_Wiv,2,1
+1,3,14,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv #Nym_H5 #Pistol_2H4 #Robin_Wiv,28,5
+1,3,14,#Host_Wiv,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv #Nym_H5 #Pistol_2H4 #Robin_Wiv,59,9
+1,3,15,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,11,1
+1,3,15,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,24,3
+1,3,15,#Pistol_2H4,#Bardolph_1H4 #Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,9,2
+1,3,16,#Falstaff_1H4,#Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,345,41
+1,3,16,#Nym_H5,#Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,61,11
+1,3,16,#Pistol_2H4,#Falstaff_1H4 #Nym_H5 #Pistol_2H4 #Robin_Wiv,83,14
+1,3,17,#Nym_H5,#Nym_H5 #Pistol_2H4,59,8
+1,3,17,#Pistol_2H4,#Nym_H5 #Pistol_2H4,73,13
+1,4,18,#MistressQuickly_1H4,#MistressQuickly_1H4 #Simple_Wiv,3,1
+1,4,19,#MistressQuickly_1H4,#MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,64,8
+1,4,19,#Rugby_Wiv,#MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,3,1
+1,4,20,#MistressQuickly_1H4,#MistressQuickly_1H4 #Simple_Wiv,131,18
+1,4,20,#Simple_Wiv,#MistressQuickly_1H4 #Simple_Wiv,55,8
+1,4,21,#MistressQuickly_1H4,#MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,46,6
+1,4,21,#Rugby_Wiv,#MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,6,1
+1,4,22,#MistressQuickly_1H4,#MistressQuickly_1H4 #Simple_Wiv,6,1
+1,4,23,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Simple_Wiv,35,4
+1,4,23,#MistressQuickly_1H4,#DoctorCaius_Wiv #MistressQuickly_1H4 #Simple_Wiv,26,4
+1,4,24,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Simple_Wiv,19,2
+1,4,25,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Simple_Wiv,12,2
+1,4,25,#MistressQuickly_1H4,#DoctorCaius_Wiv #MistressQuickly_1H4 #Simple_Wiv,8,2
+1,4,26,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,49,7
+1,4,26,#Rugby_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,9,2
+1,4,27,#MistressQuickly_1H4,#MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,11,2
+1,4,28,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,126,20
+1,4,28,#MistressQuickly_1H4,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,190,24
+1,4,28,#Simple_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv #Simple_Wiv,40,6
+1,4,29,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv,76,9
+1,4,29,#MistressQuickly_1H4,#DoctorCaius_Wiv #MistressQuickly_1H4 #Rugby_Wiv,31,5
+1,4,30,#MistressQuickly_1H4,#MistressQuickly_1H4,37,4
+1,4,31,#Fenton_Wiv,#Fenton_Wiv #MistressQuickly_1H4,73,11
+1,4,31,#MistressQuickly_1H4,#Fenton_Wiv #MistressQuickly_1H4,168,22
+1,4,32,#MistressQuickly_1H4,#MistressQuickly_1H4,26,3
+2,1,33,#MistressPage_Wiv,#MistressPage_Wiv,256,31
+2,1,34,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,288,37
+2,1,34,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,312,40
+2,1,35,#MasterFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5 #Pistol_2H4,20,4
+2,1,35,#Pistol_2H4,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5 #Pistol_2H4,95,16
+2,1,36,#MasterFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5,9,1
+2,1,36,#Nym_H5,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Nym_H5,81,9
+2,1,37,#MasterFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,27,5
+2,1,37,#MasterPage_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,45,8
+2,1,37,#MistressFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,22,4
+2,1,37,#MistressPage_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,18,4
+2,1,38,#MistressFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4,9,1
+2,1,38,#MistressPage_Wiv,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4,30,5
+2,1,38,#MistressQuickly_1H4,#MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4,10,2
+2,1,39,#MasterFord_Wiv,#MasterFord_Wiv #MasterPage_Wiv,70,9
+2,1,39,#MasterPage_Wiv,#MasterFord_Wiv #MasterPage_Wiv,90,11
+2,1,40,#Host_Wiv,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv,11,2
+2,1,40,#MasterPage_Wiv,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv,30,4
+2,1,41,#Host_Wiv,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv #Shallow_2H4,56,9
+2,1,41,#MasterFord_Wiv,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv #Shallow_2H4,39,4
+2,1,41,#MasterPage_Wiv,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv #Shallow_2H4,22,4
+2,1,41,#Shallow_2H4,#Host_Wiv #MasterFord_Wiv #MasterPage_Wiv #Shallow_2H4,147,18
+2,1,42,#MasterFord_Wiv,#MasterFord_Wiv,72,7
+2,2,43,#Falstaff_1H4,#Falstaff_1H4 #Pistol_2H4,222,25
+2,2,43,#Pistol_2H4,#Falstaff_1H4 #Pistol_2H4,30,5
+2,2,44,#Falstaff_1H4,#Falstaff_1H4 #Pistol_2H4 #Robin_Wiv,3,1
+2,2,44,#Robin_Wiv,#Falstaff_1H4 #Pistol_2H4 #Robin_Wiv,8,1
+2,2,45,#Falstaff_1H4,#Falstaff_1H4 #MistressQuickly_1H4 #Pistol_2H4 #Robin_Wiv,142,24
+2,2,45,#MistressQuickly_1H4,#Falstaff_1H4 #MistressQuickly_1H4 #Pistol_2H4 #Robin_Wiv,656,77
+2,2,46,#Falstaff_1H4,#Falstaff_1H4 #Pistol_2H4,4,2
+2,2,46,#Pistol_2H4,#Falstaff_1H4 #Pistol_2H4,27,3
+2,2,47,#Falstaff_1H4,#Falstaff_1H4,56,6
+2,2,48,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,29,5
+2,2,48,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,17,3
+2,2,49,#Falstaff_1H4,#Falstaff_1H4,14,2
+2,2,50,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MasterFord_Wiv,17,3
+2,2,50,#MasterFord_Wiv,#Bardolph_1H4 #Falstaff_1H4 #MasterFord_Wiv,15,3
+2,2,51,#Falstaff_1H4,#Falstaff_1H4 #MasterFord_Wiv,348,49
+2,2,51,#MasterFord_Wiv,#Falstaff_1H4 #MasterFord_Wiv,653,84
+2,2,52,#MasterFord_Wiv,#MasterFord_Wiv,241,28
+2,3,53,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Rugby_Wiv,72,10
+2,3,53,#Rugby_Wiv,#DoctorCaius_Wiv #Rugby_Wiv,34,7
+2,3,54,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,98,15
+2,3,54,#Host_Wiv,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,164,24
+2,3,54,#MasterPage_Wiv,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,29,5
+2,3,54,#MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,4,2
+2,3,54,#Shallow_2H4,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,146,18
+2,3,54,#Slender_Wiv,#DoctorCaius_Wiv #Host_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,5,1
+2,3,55,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Host_Wiv #Rugby_Wiv,58,8
+2,3,55,#Host_Wiv,#DoctorCaius_Wiv #Host_Wiv #Rugby_Wiv,61,8
+3,1,56,#HughEvans_Wiv,#HughEvans_Wiv #Simple_Wiv,39,6
+3,1,56,#Simple_Wiv,#HughEvans_Wiv #Simple_Wiv,21,4
+3,1,57,#HughEvans_Wiv,#HughEvans_Wiv,105,16
+3,1,58,#HughEvans_Wiv,#HughEvans_Wiv #Simple_Wiv,29,5
+3,1,58,#Simple_Wiv,#HughEvans_Wiv #Simple_Wiv,27,4
+3,1,59,#HughEvans_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,72,11
+3,1,59,#MasterPage_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,81,14
+3,1,59,#Shallow_2H4,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,76,11
+3,1,59,#Slender_Wiv,#HughEvans_Wiv #MasterPage_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,8,2
+3,1,60,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,59,9
+3,1,60,#Host_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,136,17
+3,1,60,#HughEvans_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,68,10
+3,1,60,#MasterPage_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,8,1
+3,1,60,#Shallow_2H4,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,6,1
+3,1,61,#Shallow_2H4,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,8,2
+3,1,61,#Slender_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Simple_Wiv #Slender_Wiv,4,1
+3,1,62,#DoctorCaius_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #Rugby_Wiv #Simple_Wiv,35,5
+3,1,62,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #Rugby_Wiv #Simple_Wiv,48,7
+3,2,63,#MistressPage_Wiv,#MistressPage_Wiv #Robin_Wiv,44,6
+3,2,63,#Robin_Wiv,#MistressPage_Wiv #Robin_Wiv,16,2
+3,2,64,#MasterFord_Wiv,#MasterFord_Wiv #MistressPage_Wiv #Robin_Wiv,43,7
+3,2,64,#MistressPage_Wiv,#MasterFord_Wiv #MistressPage_Wiv #Robin_Wiv,75,11
+3,2,64,#Robin_Wiv,#MasterFord_Wiv #MistressPage_Wiv #Robin_Wiv,3,1
+3,2,65,#MasterFord_Wiv,#MasterFord_Wiv,175,20
+3,2,66,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,15,2
+3,2,66,#Host_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,43,5
+3,2,66,#MasterFord_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,59,7
+3,2,66,#MasterPage_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,91,11
+3,2,66,#MasterPage_Wiv #Shallow_2H4,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,4,1
+3,2,66,#Shallow_2H4,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,40,6
+3,2,66,#Slender_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv #Shallow_2H4 #Slender_Wiv,36,4
+3,2,67,#DoctorCaius_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #Rugby_Wiv,7,1
+3,2,68,#Host_Wiv,#DoctorCaius_Wiv #Host_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,15,2
+3,2,69,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,7,2
+3,2,69,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,18,3
+3,3,70,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,10,2
+3,3,70,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,5,1
+3,3,71,#MistressFord_Wiv,#John_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,90,12
+3,3,71,#MistressPage_Wiv,#John_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,16,4
+3,3,72,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,4,1
+3,3,73,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,17,3
+3,3,73,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,37,5
+3,3,73,#Robin_Wiv,#MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,51,6
+3,3,74,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,6,2
+3,3,74,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,11,2
+3,3,75,#MistressFord_Wiv,#MistressFord_Wiv,19,3
+3,3,76,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv,248,30
+3,3,76,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv,80,13
+3,3,77,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv #Robin_Wiv,12,2
+3,3,77,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #Robin_Wiv,9,2
+3,3,77,#Robin_Wiv,#Falstaff_1H4 #MistressFord_Wiv #Robin_Wiv,23,4
+3,3,78,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,36,4
+3,3,78,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,72,11
+3,3,78,#MistressPage_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv #Robin_Wiv,265,36
+3,3,79,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,4,1
+3,3,80,#MistressFord_Wiv,#Falstaff_1H4 #John_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,24,3
+3,3,81,#John_Wiv #Robert_Wiv,#DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,4,1
+3,3,81,#MasterFord_Wiv,#DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,57,7
+3,3,81,#MistressFord_Wiv,#DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Robert_Wiv,16,2
+3,3,82,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,51,7
+3,3,82,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,10,2
+3,3,83,#DoctorCaius_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,14,2
+3,3,83,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,7,2
+3,3,83,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,10,2
+3,3,84,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,88,12
+3,3,84,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,79,10
+3,3,85,#DoctorCaius_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,16,2
+3,3,85,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,52,6
+3,3,85,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,77,11
+3,3,85,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,30,4
+3,3,85,#MistressFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,15,3
+3,3,85,#MistressPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,10,4
+3,3,86,#DoctorCaius_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,11,2
+3,3,86,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,11,2
+3,3,86,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,6,2
+3,3,86,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv,37,6
+3,3,87,#DoctorCaius_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv,9,1
+3,3,87,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv,22,4
+3,4,88,#AnnePage_Wiv,#AnnePage_Wiv #Fenton_Wiv,33,6
+3,4,88,#Fenton_Wiv,#AnnePage_Wiv #Fenton_Wiv,134,17
+3,4,89,#AnnePage_Wiv,#AnnePage_Wiv #Fenton_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,49,8
+3,4,89,#MistressQuickly_1H4,#AnnePage_Wiv #Fenton_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,22,4
+3,4,89,#Shallow_2H4,#AnnePage_Wiv #Fenton_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,68,11
+3,4,89,#Slender_Wiv,#AnnePage_Wiv #Fenton_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,173,21
+3,4,90,#Fenton_Wiv,#AnnePage_Wiv #Fenton_Wiv #MasterPage_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,11,2
+3,4,90,#MasterPage_Wiv,#AnnePage_Wiv #Fenton_Wiv #MasterPage_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,59,8
+3,4,90,#MistressPage_Wiv,#AnnePage_Wiv #Fenton_Wiv #MasterPage_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,8,1
+3,4,90,#Slender_Wiv,#AnnePage_Wiv #Fenton_Wiv #MasterPage_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Shallow_2H4 #Slender_Wiv,3,1
+3,4,91,#AnnePage_Wiv,#AnnePage_Wiv #Fenton_Wiv #MistressPage_Wiv #MistressQuickly_1H4,25,3
+3,4,91,#Fenton_Wiv,#AnnePage_Wiv #Fenton_Wiv #MistressPage_Wiv #MistressQuickly_1H4,46,6
+3,4,91,#MistressPage_Wiv,#AnnePage_Wiv #Fenton_Wiv #MistressPage_Wiv #MistressQuickly_1H4,57,7
+3,4,91,#MistressQuickly_1H4,#AnnePage_Wiv #Fenton_Wiv #MistressPage_Wiv #MistressQuickly_1H4,9,2
+3,4,92,#Fenton_Wiv,#Fenton_Wiv #MistressQuickly_1H4,19,2
+3,4,92,#MistressQuickly_1H4,#Fenton_Wiv #MistressQuickly_1H4,34,5
+3,4,93,#MistressQuickly_1H4,#MistressQuickly_1H4,93,9
+3,5,94,#Falstaff_1H4,#Falstaff_1H4,3,1
+3,5,95,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,2,1
+3,5,95,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,12,1
+3,5,96,#Falstaff_1H4,#Falstaff_1H4,148,15
+3,5,97,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4,11,3
+3,5,97,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4,31,4
+3,5,98,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,3,1
+3,5,98,#Falstaff_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,22,4
+3,5,98,#MistressQuickly_1H4,#Bardolph_1H4 #Falstaff_1H4 #MistressQuickly_1H4,12,2
+3,5,99,#Falstaff_1H4,#Falstaff_1H4 #MistressQuickly_1H4,76,11
+3,5,99,#MistressQuickly_1H4,#Falstaff_1H4 #MistressQuickly_1H4,92,14
+3,5,100,#Falstaff_1H4,#Falstaff_1H4,20,2
+3,5,101,#Falstaff_1H4,#Falstaff_1H4 #MasterFord_Wiv,528,66
+3,5,101,#MasterFord_Wiv,#Falstaff_1H4 #MasterFord_Wiv,78,15
+3,5,102,#MasterFord_Wiv,#MasterFord_Wiv,130,14
+4,1,103,#MistressPage_Wiv,#MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,24,4
+4,1,103,#MistressQuickly_1H4,#MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,29,4
+4,1,104,#HughEvans_Wiv,#HughEvans_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,200,36
+4,1,104,#MistressPage_Wiv,#HughEvans_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,84,15
+4,1,104,#MistressQuickly_1H4,#HughEvans_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,86,14
+4,1,104,#WilliamPage_Wiv,#HughEvans_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #WilliamPage_Wiv,37,13
+4,2,105,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv,53,6
+4,2,105,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv,5,1
+4,2,106,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,6,1
+4,2,106,#MistressPage_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,6,2
+4,2,107,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,48,10
+4,2,107,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,194,27
+4,2,108,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,43,8
+4,2,108,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,82,12
+4,2,108,#MistressPage_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,119,16
+4,2,109,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,84,11
+4,2,109,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,46,7
+4,2,110,#MistressPage_Wiv,#MistressPage_Wiv,46,6
+4,2,111,#MistressFord_Wiv,#John_Wiv #MistressFord_Wiv #Robert_Wiv,26,3
+4,2,112,#John_Wiv,#John_Wiv #Robert_Wiv,9,1
+4,2,112,#Robert_Wiv,#John_Wiv #Robert_Wiv,16,2
+4,2,113,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #Robert_Wiv #Shallow_2H4,11,2
+4,2,113,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #Robert_Wiv #Shallow_2H4,72,10
+4,2,113,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #Robert_Wiv #Shallow_2H4,17,2
+4,2,113,#Shallow_2H4,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #Robert_Wiv #Shallow_2H4,8,1
+4,2,114,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Robert_Wiv #Shallow_2H4,28,5
+4,2,114,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Robert_Wiv #Shallow_2H4,158,20
+4,2,114,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Robert_Wiv #Shallow_2H4,13,3
+4,2,114,#MistressFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Robert_Wiv #Shallow_2H4,36,7
+4,2,114,#Shallow_2H4,#DoctorCaius_Wiv #HughEvans_Wiv #John_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Robert_Wiv #Shallow_2H4,12,2
+4,2,115,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Shallow_2H4,76,9
+4,2,115,#MistressFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #Shallow_2H4,39,6
+4,2,116,#MasterFord_Wiv,#DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,25,4
+4,2,116,#MistressPage_Wiv,#DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,8,2
+4,2,117,#HughEvans_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,30,3
+4,2,117,#MasterFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,33,5
+4,2,117,#MasterPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,9,2
+4,2,117,#MistressFord_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,11,2
+4,2,117,#MistressPage_Wiv,#DoctorCaius_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #Shallow_2H4,12,2
+4,2,118,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,70,10
+4,2,118,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,114,14
+4,3,119,#Bardolph_1H4,#Bardolph_1H4 #Host_Wiv,32,4
+4,3,119,#Host_Wiv,#Bardolph_1H4 #Host_Wiv,62,7
+4,4,120,#HughEvans_Wiv,#HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,89,12
+4,4,120,#MasterFord_Wiv,#HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,106,15
+4,4,120,#MasterPage_Wiv,#HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,162,22
+4,4,120,#MistressFord_Wiv,#HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,32,4
+4,4,120,#MistressPage_Wiv,#HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv,259,35
+4,4,121,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,12,2
+4,4,122,#MistressPage_Wiv,#MistressPage_Wiv,58,7
+4,5,123,#Host_Wiv,#Host_Wiv #Simple_Wiv,82,12
+4,5,123,#Simple_Wiv,#Host_Wiv #Simple_Wiv,43,5
+4,5,124,#Falstaff_1H4,#Falstaff_1H4 #Host_Wiv #Simple_Wiv,84,14
+4,5,124,#Host_Wiv,#Falstaff_1H4 #Host_Wiv #Simple_Wiv,34,6
+4,5,124,#Simple_Wiv,#Falstaff_1H4 #Host_Wiv #Simple_Wiv,125,18
+4,5,125,#Falstaff_1H4,#Falstaff_1H4 #Host_Wiv,34,4
+4,5,125,#Host_Wiv,#Falstaff_1H4 #Host_Wiv,15,2
+4,5,126,#Bardolph_1H4,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv,45,7
+4,5,126,#Host_Wiv,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv,28,4
+4,5,127,#Host_Wiv,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv #HughEvans_Wiv,5,1
+4,5,127,#HughEvans_Wiv,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv #HughEvans_Wiv,69,9
+4,5,128,#DoctorCaius_Wiv,#Bardolph_1H4 #DoctorCaius_Wiv #Falstaff_1H4 #Host_Wiv,48,5
+4,5,128,#Host_Wiv,#Bardolph_1H4 #DoctorCaius_Wiv #Falstaff_1H4 #Host_Wiv,8,2
+4,5,129,#Host_Wiv,#Bardolph_1H4 #Falstaff_1H4 #Host_Wiv,20,3
+4,5,130,#Falstaff_1H4,#Falstaff_1H4,96,11
+4,5,131,#Falstaff_1H4,#Falstaff_1H4 #MistressQuickly_1H4,109,14
+4,5,131,#MistressQuickly_1H4,#Falstaff_1H4 #MistressQuickly_1H4,87,12
+4,6,132,#Fenton_Wiv,#Fenton_Wiv #Host_Wiv,384,48
+4,6,132,#Host_Wiv,#Fenton_Wiv #Host_Wiv,56,7
+5,1,133,#Falstaff_1H4,#Falstaff_1H4 #MistressQuickly_1H4,48,7
+5,1,133,#MistressQuickly_1H4,#Falstaff_1H4 #MistressQuickly_1H4,18,2
+5,1,134,#Falstaff_1H4,#Falstaff_1H4 #MasterFord_Wiv,182,21
+5,1,134,#MasterFord_Wiv,#Falstaff_1H4 #MasterFord_Wiv,14,2
+5,2,135,#MasterPage_Wiv,#MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,54,7
+5,2,135,#Shallow_2H4,#MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,24,3
+5,2,135,#Slender_Wiv,#MasterPage_Wiv #Shallow_2H4 #Slender_Wiv,36,4
+5,3,136,#DoctorCaius_Wiv,#DoctorCaius_Wiv #MistressFord_Wiv #MistressPage_Wiv,8,1
+5,3,136,#MistressPage_Wiv,#DoctorCaius_Wiv #MistressFord_Wiv #MistressPage_Wiv,41,6
+5,3,137,#MistressFord_Wiv,#MistressFord_Wiv #MistressPage_Wiv,34,6
+5,3,137,#MistressPage_Wiv,#MistressFord_Wiv #MistressPage_Wiv,100,13
+5,4,138,#HughEvans_Wiv,#BOYS_Wiv #HughEvans_Wiv,33,4
+5,5,139,#Falstaff_1H4,#Falstaff_1H4,147,15
+5,5,140,#Falstaff_1H4,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,105,14
+5,5,140,#MistressFord_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,21,5
+5,5,140,#MistressFord_Wiv #MistressPage_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,2,1
+5,5,140,#MistressPage_Wiv,#Falstaff_1H4 #MistressFord_Wiv #MistressPage_Wiv,3,1
+5,5,141,#Falstaff_1H4,#Falstaff_1H4,27,3
+5,5,142,#Falstaff_1H4,#AnnePage_Wiv #BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,39,5
+5,5,142,#HughEvans_Wiv,#AnnePage_Wiv #BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,92,12
+5,5,142,#MistressQuickly_1H4,#AnnePage_Wiv #BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,246,34
+5,5,142,#Pistol_2H4,#AnnePage_Wiv #BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,50,8
+5,5,143,#BOYS_Wiv #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MistressQuickly_1H4 #Pistol_2H4,59,10
+5,5,144,#Falstaff_1H4,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,196,22
+5,5,144,#HughEvans_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,59,10
+5,5,144,#MasterFord_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,149,20
+5,5,144,#MasterPage_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,68,8
+5,5,144,#MistressFord_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,28,3
+5,5,144,#MistressPage_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4,93,13
+5,5,145,#MasterPage_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,40,7
+5,5,145,#MistressPage_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,29,4
+5,5,145,#Slender_Wiv,#BOYS_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,142,17
+5,5,146,#DoctorCaius_Wiv,#BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,45,6
+5,5,146,#MasterFord_Wiv,#BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,9,1
+5,5,146,#MistressPage_Wiv,#BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,7,1
+5,5,147,#AnnePage_Wiv,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,7,1
+5,5,147,#Falstaff_1H4,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,28,4
+5,5,147,#Fenton_Wiv,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,83,11
+5,5,147,#MasterFord_Wiv,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,48,6
+5,5,147,#MasterPage_Wiv,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,37,6
+5,5,147,#MistressPage_Wiv,#AnnePage_Wiv #BOYS_Wiv #DoctorCaius_Wiv #Falstaff_1H4 #Fenton_Wiv #HughEvans_Wiv #MasterFord_Wiv #MasterPage_Wiv #MistressFord_Wiv #MistressPage_Wiv #MistressQuickly_1H4 #Pistol_2H4 #Slender_Wiv,44,6

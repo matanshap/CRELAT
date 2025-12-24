@@ -1,0 +1,263 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#Jeweler_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim,26,4
+1,1,1,#Merchant_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim,35,6
+1,1,1,#Painter_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim,60,10
+1,1,1,#Poet_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim,181,27
+1,1,2,#Painter_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim,99,18
+1,1,2,#Poet_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim,332,45
+1,1,3,#MESSENGERS.X.1_Tim,#Jeweler_Tim #MESSENGERS.X.1_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim #Timon_Tim,43,7
+1,1,3,#Timon_Tim,#Jeweler_Tim #MESSENGERS.X.1_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim #Timon_Tim,79,10
+1,1,4,#OldMan_Tim,#Jeweler_Tim #Merchant_Tim #OldMan_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim #Timon_Tim,207,29
+1,1,4,#SERVANTS.TIMON.Lucilius_Tim,#Jeweler_Tim #Merchant_Tim #OldMan_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim #Timon_Tim,35,5
+1,1,4,#Timon_Tim,#Jeweler_Tim #Merchant_Tim #OldMan_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON.Lucilius_Tim #SERVANTS.TIMON_Tim #Timon_Tim,92,15
+1,1,5,#Jeweler_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,43,6
+1,1,5,#Merchant_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,15,2
+1,1,5,#Painter_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,16,3
+1,1,5,#Poet_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,8,1
+1,1,5,#Timon_Tim,#Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,110,16
+1,1,6,#Apemantus_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,237,39
+1,1,6,#Jeweler_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,9,2
+1,1,6,#Merchant_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,13,3
+1,1,6,#Painter_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,3,1
+1,1,6,#Poet_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,17,5
+1,1,6,#Timon_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,89,18
+1,1,7,#MESSENGERS.X.2_Tim,#Apemantus_Tim #Jeweler_Tim #MESSENGERS.X.2_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,9,2
+1,1,7,#Timon_Tim,#Apemantus_Tim #Jeweler_Tim #MESSENGERS.X.2_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,11,2
+1,1,8,#Timon_Tim,#Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,28,3
+1,1,9,#Alcibiades_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,14,2
+1,1,9,#Apemantus_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,34,6
+1,1,9,#Timon_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #Apemantus_Tim #Jeweler_Tim #Merchant_Tim #Painter_Tim #Poet_Tim #SENATORS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,22,4
+1,1,10,#Apemantus_Tim,#Apemantus_Tim #LORDS.0.1_Tim #LORDS_Tim,12,2
+1,1,10,#LORDS.0.1_Tim,#Apemantus_Tim #LORDS.0.1_Tim #LORDS_Tim,11,2
+1,1,11,#Apemantus_Tim,#Apemantus_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim,57,7
+1,1,11,#LORDS.0.1_Tim,#Apemantus_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim,2,1
+1,1,11,#LORDS.0.2_Tim,#Apemantus_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim,23,4
+1,1,12,#LORDS.0.1_Tim,#LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim,29,5
+1,1,12,#LORDS.0.2_Tim,#LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim,49,7
+1,2,13,#FRIENDS.Ventidius_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,59,9
+1,2,13,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,93,12
+1,2,14,#Apemantus_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,185,23
+1,2,14,#LORDS.0.1_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,7,1
+1,2,14,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,94,11
+1,2,15,#Alcibiades_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,31,4
+1,2,15,#Apemantus_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,169,24
+1,2,15,#LORDS.0.1_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,30,4
+1,2,15,#LORDS.0.2_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,25,3
+1,2,15,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,215,24
+1,2,16,#Apemantus_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,1,1
+1,2,16,#LORDS.0.3_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,9,1
+1,2,16,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,4,1
+1,2,17,#SERVANTS.TIMON.X.1_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.X.1_Tim #Timon_Tim,28,4
+1,2,17,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.X.1_Tim #Timon_Tim,13,3
+1,2,18,#Cupid_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,47,6
+1,2,18,#FRIENDS.Lucius_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,8,1
+1,2,18,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,12,2
+1,2,19,#Apemantus_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,108,15
+1,2,19,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,46,6
+1,2,20,#Apemantus_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,14,2
+1,2,20,#LADIES.0.1_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,9,1
+1,2,20,#LADIES_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,4,1
+1,2,20,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #Cupid_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LADIES_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,13,2
+1,2,21,#Flavius_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,52,7
+1,2,21,#Timon_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,7,2
+1,2,22,#LORDS.0.1_Tim,#ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,4,1
+1,2,23,#ATTENDANTS.TIMON.0.1_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,5,1
+1,2,23,#LORDS.0.2_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,2,1
+1,2,24,#Alcibiades_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,4,1
+1,2,24,#LORDS.0.1_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,8,1
+1,2,24,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,37,5
+1,2,25,#SERVANTS.TIMON.1_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.1_Tim #Timon_Tim,16,2
+1,2,25,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.1_Tim #Timon_Tim,4,1
+1,2,26,#Flavius_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,17,3
+1,2,26,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,17,3
+1,2,27,#SERVANTS.TIMON.2_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.2_Tim #Timon_Tim,22,3
+1,2,27,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.2_Tim #Timon_Tim,11,2
+1,2,28,#SERVANTS.TIMON.3_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.3_Tim #Timon_Tim,26,4
+1,2,28,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #SERVANTS.TIMON.3_Tim #Timon_Tim,17,3
+1,2,29,#Flavius_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #Flavius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,122,15
+1,2,30,#Alcibiades_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,5,1
+1,2,30,#LORDS.0.1_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,27,4
+1,2,30,#LORDS.0.2_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,12,2
+1,2,30,#LORDS.0.3_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,7,1
+1,2,30,#LORDS_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,4,1
+1,2,30,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #ATTENDANTS.TIMON_Tim #Alcibiades_Tim #Apemantus_Tim #FRIENDS.Lucius_Tim #FRIENDS.Ventidius_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #LORDS_Tim #SENATORS_Tim #Timon_Tim,159,21
+1,2,31,#Apemantus_Tim,#ATTENDANTS.TIMON.0.1_Tim #Apemantus_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #Timon_Tim,95,12
+1,2,31,#Timon_Tim,#ATTENDANTS.TIMON.0.1_Tim #Apemantus_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim #Timon_Tim,37,5
+1,2,32,#Apemantus_Tim,#ATTENDANTS.TIMON.0.1_Tim #Apemantus_Tim #LADIES.0.1_Tim #LORDS.0.1_Tim #LORDS.0.2_Tim #LORDS.0.3_Tim,30,4
+2,1,33,#SENATORS.X_Tim,#SENATORS.X_Tim,115,14
+2,1,34,#SENATORS.X_Tim,#SENATORS.X_Tim #SERVANTS.Caphis_Tim,166,21
+2,1,34,#SERVANTS.Caphis_Tim,#SENATORS.X_Tim #SERVANTS.Caphis_Tim,12,3
+2,2,35,#Flavius_Tim,#Flavius_Tim,76,10
+2,2,36,#SERVANTS.Caphis_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,23,4
+2,2,36,#SERVANTS.ISIDORE.1_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,3,1
+2,2,36,#SERVANTS.VARRO.1_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,9,2
+2,2,37,#SERVANTS.Caphis_Tim,#ATTENDANTS_Tim #Alcibiades_Tim #Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,73,10
+2,2,37,#SERVANTS.ISIDORE.1_Tim,#ATTENDANTS_Tim #Alcibiades_Tim #Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,23,4
+2,2,37,#SERVANTS.VARRO.1_Tim,#ATTENDANTS_Tim #Alcibiades_Tim #Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,16,3
+2,2,37,#Timon_Tim,#ATTENDANTS_Tim #Alcibiades_Tim #Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,56,11
+2,2,38,#Flavius_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,31,6
+2,2,38,#Timon_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,37,7
+2,2,39,#Apemantus_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,55,11
+2,2,39,#Fool_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,23,3
+2,2,39,#SERVANTS.Caphis_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,18,3
+2,2,39,#SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,12,4
+2,2,39,#SERVANTS.ISIDORE.1_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,13,3
+2,2,39,#SERVANTS.VARRO.1_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,13,3
+2,2,40,#Apemantus_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.Page_Tim #SERVANTS.VARRO.1_Tim,48,7
+2,2,40,#Fool_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.Page_Tim #SERVANTS.VARRO.1_Tim,7,1
+2,2,40,#SERVANTS.Page_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.Page_Tim #SERVANTS.VARRO.1_Tim,48,7
+2,2,41,#Apemantus_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,63,10
+2,2,41,#Fool_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,138,17
+2,2,41,#SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,13,3
+2,2,41,#SERVANTS.VARRO.1_Tim,#Apemantus_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim,15,3
+2,2,42,#Apemantus_Tim,#Apemantus_Tim #Flavius_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,5,1
+2,2,42,#Fool_Tim,#Apemantus_Tim #Flavius_Tim #Fool_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,13,2
+2,2,43,#Flavius_Tim,#Flavius_Tim #SERVANTS.Caphis_Tim #SERVANTS.ISIDORE.1_Tim #SERVANTS.VARRO.1_Tim #Timon_Tim,9,1
+2,2,44,#Flavius_Tim,#Flavius_Tim #Timon_Tim,326,44
+2,2,44,#Timon_Tim,#Flavius_Tim #Timon_Tim,182,27
+2,2,45,#SERVANTS.TIMON.Flaminius_Tim,#Flavius_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim #Timon_Tim,6,1
+2,2,45,#SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim,#Flavius_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim #Timon_Tim,4,1
+2,2,45,#Timon_Tim,#Flavius_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.TIMON.X.2_Tim #Timon_Tim,52,7
+2,2,46,#Flavius_Tim,#Flavius_Tim #Timon_Tim,117,16
+2,2,46,#Timon_Tim,#Flavius_Tim #Timon_Tim,182,24
+2,2,47,#Flavius_Tim,#Flavius_Tim,20,3
+3,1,48,#SERVANTS.LUCULLUS.1_Tim,#SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,13,2
+3,1,48,#SERVANTS.TIMON.Flaminius_Tim,#SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,4,1
+3,1,49,#FRIENDS.Lucullus_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,35,5
+3,1,49,#SERVANTS.LUCULLUS.1_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,3,1
+3,1,50,#FRIENDS.Lucullus_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim,126,15
+3,1,50,#SERVANTS.TIMON.Flaminius_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim,49,7
+3,1,51,#FRIENDS.Lucullus_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,52,7
+3,1,51,#SERVANTS.LUCULLUS.1_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,7,1
+3,1,51,#SERVANTS.TIMON.Flaminius_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.LUCULLUS.1_Tim #SERVANTS.TIMON.Flaminius_Tim,5,1
+3,1,52,#FRIENDS.Lucullus_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim,69,10
+3,1,52,#SERVANTS.TIMON.Flaminius_Tim,#FRIENDS.Lucullus_Tim #SERVANTS.TIMON.Flaminius_Tim,22,3
+3,1,53,#SERVANTS.TIMON.Flaminius_Tim,#SERVANTS.TIMON.Flaminius_Tim,107,14
+3,2,54,#FRIENDS.Lucius_Tim,#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,98,13
+3,2,54,#STRANGERS.1_Tim,#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,44,5
+3,2,54,#STRANGERS.2_Tim,#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,45,6
+3,2,55,#FRIENDS.Lucius_Tim,#FRIENDS.Lucius_Tim #SERVANTS.TIMON.Servilius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,227,27
+3,2,55,#SERVANTS.TIMON.Servilius_Tim,#FRIENDS.Lucius_Tim #SERVANTS.TIMON.Servilius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,79,13
+3,2,56,#FRIENDS.Lucius_Tim,#FRIENDS.Lucius_Tim #STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,16,2
+3,2,57,#STRANGERS.1_Tim,#STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,186,26
+3,2,57,#STRANGERS.2_Tim,#STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,3,1
+3,2,57,#STRANGERS.3_Tim,#STRANGERS.1_Tim #STRANGERS.2_Tim #STRANGERS.3_Tim,4,1
+3,3,58,#FRIENDS.Sempronius_Tim,#FRIENDS.Sempronius_Tim #SERVANTS.TIMON.X.2_Tim,212,25
+3,3,58,#SERVANTS.TIMON.X.2_Tim,#FRIENDS.Sempronius_Tim #SERVANTS.TIMON.X.2_Tim,17,3
+3,3,59,#SERVANTS.TIMON.X.2_Tim,#SERVANTS.TIMON.X.2_Tim,131,16
+3,4,60,#SERVANTS.Hortensius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,6,2
+3,4,60,#SERVANTS.LUCIUS.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,14,3
+3,4,60,#SERVANTS.Titus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,11,2
+3,4,60,#SERVANTS.VARRO.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,7,1
+3,4,61,#SERVANTS.Hortensius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,35,5
+3,4,61,#SERVANTS.LUCIUS.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,95,17
+3,4,61,#SERVANTS.Philotus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,31,5
+3,4,61,#SERVANTS.Titus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,29,4
+3,4,61,#SERVANTS.VARRO.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,28,4
+3,4,62,#SERVANTS.LUCIUS.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,12,2
+3,4,62,#SERVANTS.TIMON.Flaminius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,17,3
+3,4,62,#SERVANTS.Titus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,13,2
+3,4,63,#Flavius_Tim,#Flavius_Tim #SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,102,14
+3,4,63,#SERVANTS.LUCIUS.1_Tim,#Flavius_Tim #SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,25,3
+3,4,63,#SERVANTS.Titus_Tim,#Flavius_Tim #SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,11,2
+3,4,63,#SERVANTS.VARRO.2_Tim,#Flavius_Tim #SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,4,1
+3,4,64,#SERVANTS.VARRO.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,7,2
+3,4,64,#SERVANTS.VARRO.2_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,30,4
+3,4,65,#SERVANTS.LUCIUS.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,33,4
+3,4,65,#SERVANTS.TIMON.Servilius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,46,6
+3,4,65,#SERVANTS.Titus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,16,3
+3,4,66,#SERVANTS.TIMON.Flaminius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,6,1
+3,4,67,#SERVANTS.Hortensius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,4,1
+3,4,67,#SERVANTS.LUCIUS.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,14,4
+3,4,67,#SERVANTS.Philotus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,3,1
+3,4,67,#SERVANTS.Titus_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,9,2
+3,4,67,#SERVANTS.VARRO.1_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,2,1
+3,4,67,#SERVANTS.VARRO.2_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,6,2
+3,4,67,#Timon_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim #Timon_Tim,78,11
+3,4,68,#SERVANTS.Hortensius_Tim,#SERVANTS.Hortensius_Tim #SERVANTS.LUCIUS.1_Tim #SERVANTS.Philotus_Tim #SERVANTS.TIMON.Flaminius_Tim #SERVANTS.TIMON.Servilius_Tim #SERVANTS.Titus_Tim #SERVANTS.VARRO.1_Tim #SERVANTS.VARRO.2_Tim,25,3
+3,4,69,#Flavius_Tim,#Flavius_Tim #SERVANTS.TIMON.Flaminius_Tim #Timon_Tim,29,7
+3,4,69,#Timon_Tim,#Flavius_Tim #SERVANTS.TIMON.Flaminius_Tim #Timon_Tim,69,10
+3,5,70,#SENATORS.0.1_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS_Tim,23,3
+3,5,71,#Alcibiades_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS_Tim,443,59
+3,5,71,#SENATORS.0.1_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS_Tim,156,23
+3,5,71,#SENATORS.0.2_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS_Tim,74,11
+3,5,72,#Alcibiades_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS.0.3_Tim #SENATORS_Tim,44,7
+3,5,72,#SENATORS.0.1_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS.0.3_Tim #SENATORS_Tim,40,7
+3,5,72,#SENATORS.0.3_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS.0.3_Tim #SENATORS_Tim,1,1
+3,5,73,#Alcibiades_Tim,#ATTENDANTS.ALCIBIADES_Tim #Alcibiades_Tim #SENATORS.0.1_Tim #SENATORS.0.2_Tim #SENATORS.0.3_Tim,120,14
+3,6,74,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS_Tim,8,1
+3,6,75,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS_Tim,84,11
+3,6,75,#FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS_Tim,81,12
+3,6,76,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,30,5
+3,6,76,#FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,54,9
+3,6,76,#Timon_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,81,12
+3,6,77,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,8,2
+3,6,77,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,2,1
+3,6,77,#FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,18,3
+3,6,77,#FRIENDS.0.3_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,43,8
+3,6,77,#Timon_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,204,23
+3,6,78,#FRIENDS.0_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,8,2
+3,6,78,#Timon_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #FRIENDS_Tim #SERVANTS.TIMON_Tim #Timon_Tim,99,17
+3,6,79,#Timon_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #SERVANTS.TIMON_Tim #Timon_Tim,28,4
+3,6,80,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #FRIENDS_Tim,4,1
+3,6,80,#FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #FRIENDS_Tim,8,2
+3,6,80,#FRIENDS.0.3_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0_Tim #FRIENDS_Tim,6,1
+3,6,81,#FRIENDS.0.1_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0.4_Tim #FRIENDS.0_Tim #FRIENDS_Tim,38,5
+3,6,81,#FRIENDS.0.2_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0.4_Tim #FRIENDS.0_Tim #FRIENDS_Tim,8,2
+3,6,81,#FRIENDS.0.3_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0.4_Tim #FRIENDS.0_Tim #FRIENDS_Tim,8,2
+3,6,81,#FRIENDS.0.4_Tim,#FRIENDS.0.1_Tim #FRIENDS.0.2_Tim #FRIENDS.0.3_Tim #FRIENDS.0.4_Tim #FRIENDS.0_Tim #FRIENDS_Tim,18,3
+4,1,82,#Timon_Tim,#Timon_Tim,305,41
+4,2,83,#Flavius_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON_Tim,23,3
+4,2,83,#SERVANTS.TIMON.0.1_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON_Tim,41,6
+4,2,84,#SERVANTS.TIMON.0.2_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON_Tim,53,8
+4,2,85,#Flavius_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON.0_Tim #SERVANTS.TIMON_Tim,7,1
+4,2,85,#SERVANTS.TIMON.0.2_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON.0_Tim #SERVANTS.TIMON_Tim,4,1
+4,2,86,#Flavius_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON.0.3_Tim #SERVANTS.TIMON.0_Tim #SERVANTS.TIMON_Tim,64,9
+4,2,86,#SERVANTS.TIMON.0.3_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON.0.3_Tim #SERVANTS.TIMON.0_Tim #SERVANTS.TIMON_Tim,47,6
+4,2,87,#Flavius_Tim,#Flavius_Tim #SERVANTS.TIMON.0.1_Tim #SERVANTS.TIMON.0.2_Tim #SERVANTS.TIMON.0.3_Tim #SERVANTS.TIMON.0_Tim,173,22
+4,3,88,#Timon_Tim,#Timon_Tim,360,53
+4,3,89,#Alcibiades_Tim,#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim #Timon_Tim,213,32
+4,3,89,#Phrynia_Tim,#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim #Timon_Tim,4,1
+4,3,89,#Phrynia_Tim #Timandra_Tim,#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim #Timon_Tim,29,4
+4,3,89,#Timandra_Tim,#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim #Timon_Tim,15,4
+4,3,89,#Timon_Tim,#Alcibiades_Tim #Phrynia_Tim #Timandra_Tim #Timon_Tim,774,106
+4,3,90,#Timon_Tim,#Timon_Tim,151,22
+4,3,91,#Apemantus_Tim,#Apemantus_Tim #Timon_Tim,637,93
+4,3,91,#Timon_Tim,#Apemantus_Tim #Timon_Tim,925,131
+4,3,92,#Apemantus_Tim,#Apemantus_Tim #BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,9,2
+4,3,93,#BANDITS.1_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,89,12
+4,3,93,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,16,3
+4,3,93,#BANDITS.2_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,33,6
+4,3,93,#BANDITS.2_Tim #BANDITS.3_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,1,1
+4,3,93,#BANDITS.3_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,44,6
+4,3,93,#Timon_Tim,#BANDITS.1_Tim #BANDITS.2_Tim #BANDITS.3_Tim #Timon_Tim,275,36
+4,3,94,#Flavius_Tim,#Flavius_Tim #Timon_Tim,273,38
+4,3,94,#Timon_Tim,#Flavius_Tim #Timon_Tim,348,51
+5,1,95,#Painter_Tim,#Painter_Tim #Poet_Tim,108,13
+5,1,95,#Poet_Tim,#Painter_Tim #Poet_Tim,31,4
+5,1,96,#Painter_Tim,#Painter_Tim #Poet_Tim #Timon_Tim,157,23
+5,1,96,#Painter_Tim #Poet_Tim,#Painter_Tim #Poet_Tim #Timon_Tim,40,7
+5,1,96,#Poet_Tim,#Painter_Tim #Poet_Tim #Timon_Tim,149,23
+5,1,96,#Timon_Tim,#Painter_Tim #Poet_Tim #Timon_Tim,423,61
+5,1,97,#Flavius_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim,63,9
+5,1,97,#SENATORS.1_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim,18,3
+5,1,97,#SENATORS.2_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim,46,6
+5,1,98,#Flavius_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim #Timon_Tim,15,2
+5,1,98,#SENATORS.1_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim #Timon_Tim,132,22
+5,1,98,#SENATORS.2_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim #Timon_Tim,118,17
+5,1,98,#Timon_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim #Timon_Tim,497,65
+5,1,99,#SENATORS.1_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim,11,3
+5,1,99,#SENATORS.2_Tim,#Flavius_Tim #SENATORS.1_Tim #SENATORS.2_Tim,22,3
+5,2,100,#MESSENGERS.X.3_Tim,#MESSENGERS.X.3_Tim #SENATORS.3_Tim #SENATORS.4_Tim,70,11
+5,2,100,#SENATORS.3_Tim,#MESSENGERS.X.3_Tim #SENATORS.3_Tim #SENATORS.4_Tim,12,2
+5,2,100,#SENATORS.4_Tim,#MESSENGERS.X.3_Tim #SENATORS.3_Tim #SENATORS.4_Tim,9,1
+5,2,101,#SENATORS.1_Tim,#MESSENGERS.X.3_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SENATORS.3_Tim #SENATORS.4_Tim,35,4
+5,2,101,#SENATORS.3_Tim,#MESSENGERS.X.3_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SENATORS.3_Tim #SENATORS.4_Tim,4,1
+5,3,102,#SOLDIERS.1_Tim,#SOLDIERS.1_Tim,84,10
+5,4,103,#Alcibiades_Tim,#Alcibiades_Tim #SOLDIERS_Tim,10,2
+5,4,104,#Alcibiades_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS_Tim,160,22
+5,4,104,#SENATORS.1_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS_Tim,176,26
+5,4,104,#SENATORS.1_Tim #SENATORS.2_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS_Tim,4,1
+5,4,104,#SENATORS.2_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS_Tim,156,24
+5,4,105,#Alcibiades_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS.1_Tim #SOLDIERS_Tim,137,20
+5,4,105,#SOLDIERS.1_Tim,#Alcibiades_Tim #SENATORS.1_Tim #SENATORS.2_Tim #SOLDIERS.1_Tim #SOLDIERS_Tim,34,5

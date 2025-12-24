@@ -1,0 +1,110 @@
+act,scene,stagegroup,n_tokens,n_lines,onstage
+1,1,1,577,80,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym
+1,1,2,112,16,#Imogen_Cym #Posthumus_Cym #Queen_Cym
+1,1,3,143,20,#Imogen_Cym #Posthumus_Cym
+1,1,4,47,7,#Imogen_Cym #Posthumus_Cym #Queen_Cym
+1,1,5,148,23,#Imogen_Cym #Posthumus_Cym
+1,1,6,46,8,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Posthumus_Cym
+1,1,7,170,29,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym
+1,1,8,59,11,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Queen_Cym
+1,1,9,5,1,#Imogen_Cym #Queen_Cym
+1,1,10,176,26,#Imogen_Cym #Pisanio_Cym #Queen_Cym
+1,2,11,265,41,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym
+1,3,12,315,44,#Imogen_Cym #Pisanio_Cym
+1,3,13,24,5,#Imogen_Cym #LADIES.IMOGEN_Cym #Pisanio_Cym
+1,4,14,213,28,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym
+1,4,15,1157,150,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym
+1,4,16,16,3,#Dutchman_Cym #Frenchman_Cym #Philario_Cym #Spaniard_Cym
+1,5,17,17,2,#Cornelius_Cym #LADIES.QUEEN_Cym #Queen_Cym
+1,5,18,3,2,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #LADIES.QUEEN_Cym #Queen_Cym
+1,5,19,181,27,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym
+1,5,20,163,23,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym
+1,5,21,257,31,#LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym
+1,5,22,60,8,#LADIES.QUEEN.0.1_Cym #Queen_Cym
+1,5,23,24,4,#LADIES.QUEEN.0.1_Cym #LADIES.QUEEN_Cym #Pisanio_Cym #Queen_Cym
+1,5,24,21,3,#LADIES.QUEEN.0.1_Cym #Pisanio_Cym
+1,6,25,69,9,#Imogen_Cym
+1,6,26,338,55,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym
+1,6,27,1252,180,#Iachimo_Cym #Imogen_Cym
+2,1,28,365,51,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym
+2,1,29,112,14,#ATTENDANTS.CLOTEN.2_Cym
+2,2,30,57,9,#Imogen_Cym #LADIES.IMOGEN_Cym
+2,2,31,24,5,#Imogen_Cym
+2,2,32,330,42,#Iachimo_Cym #Imogen_Cym
+2,3,33,93,13,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym
+2,3,34,136,20,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym #MUSICIANS_Cym
+2,3,35,171,24,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym
+2,3,36,12,2,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #MESSENGERS.1_Cym #Queen_Cym
+2,3,37,70,10,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym
+2,3,38,110,14,#Cloten_Cym
+2,3,39,68,14,#Cloten_Cym #LADIES.IMOGEN_Cym
+2,3,40,2,1,#Cloten_Cym #Imogen_Cym #LADIES.IMOGEN_Cym
+2,3,41,431,57,#Cloten_Cym #Imogen_Cym
+2,3,42,104,15,#Cloten_Cym #Imogen_Cym #Pisanio_Cym
+2,3,43,55,9,#Cloten_Cym #Imogen_Cym
+2,3,44,7,1,#Cloten_Cym
+2,4,45,205,29,#Philario_Cym #Posthumus_Cym
+2,4,46,1052,161,#Iachimo_Cym #Philario_Cym #Posthumus_Cym
+2,4,47,25,5,#Iachimo_Cym #Philario_Cym
+2,5,48,285,36,#Posthumus_Cym
+3,1,49,684,92,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym
+3,2,50,173,23,#Pisanio_Cym
+3,2,51,517,64,#Imogen_Cym #Pisanio_Cym
+3,3,52,673,84,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym
+3,3,53,244,31,#Belarius_Cym
+3,4,54,1600,222,#Imogen_Cym #Pisanio_Cym
+3,5,55,134,22,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym
+3,5,56,195,27,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym
+3,5,57,101,15,#ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym
+3,5,58,24,4,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym
+3,5,59,83,10,#ATTENDANTS_Cym #Queen_Cym
+3,5,60,34,6,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym
+3,5,61,83,11,#Cloten_Cym
+3,5,62,396,59,#Cloten_Cym #Pisanio_Cym
+3,5,63,161,18,#Cloten_Cym
+3,5,64,81,10,#Cloten_Cym #Pisanio_Cym
+3,5,65,53,6,#Pisanio_Cym
+3,6,66,233,27,#Imogen_Cym
+3,6,67,139,21,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym
+3,6,68,416,67,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym
+3,7,69,70,10,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES_Cym
+3,7,70,47,9,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym
+4,1,71,240,26,#Cloten_Cym
+4,2,72,398,59,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym
+4,2,73,120,19,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym
+4,2,74,74,10,#Arviragus_Cym #Belarius_Cym #Cloten_Cym #Guiderius_Cym
+4,2,75,265,44,#Cloten_Cym #Guiderius_Cym
+4,2,76,99,14,#Arviragus_Cym #Belarius_Cym
+4,2,77,361,51,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym
+4,2,78,125,20,#Arviragus_Cym #Belarius_Cym
+4,2,79,111,15,#Belarius_Cym
+4,2,80,90,16,#Belarius_Cym #Guiderius_Cym
+4,2,81,505,77,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym
+4,2,82,165,29,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym
+4,2,83,77,9,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym
+4,2,84,360,42,#Imogen_Cym
+4,2,85,582,81,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym
+4,3,86,136,18,#ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym
+4,3,87,161,25,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym
+4,3,88,99,11,#ATTENDANTS.0.2_Cym #Pisanio_Cym
+4,4,89,456,65,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym
+5,1,90,274,33,#Posthumus_Cym
+5,2,91,83,10,#Iachimo_Cym
+5,2,92,26,4,#Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym
+5,2,93,36,6,#Iachimo_Cym #Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN_Cym
+5,3,94,532,71,#ATTENDANTS.3_Cym #Posthumus_Cym
+5,3,95,183,21,#Posthumus_Cym
+5,3,96,17,2,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON_Cym
+5,3,97,78,12,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON_Cym
+5,4,98,21,3,#JAILERS.1_Cym #JAILERS.2_Cym #Posthumus_Cym
+5,4,99,224,28,#Posthumus_Cym
+5,4,100,323,63,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym
+5,4,101,154,21,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Jupiter_Cym #Posthumus_Cym
+5,4,102,70,10,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym
+5,4,103,233,28,#Posthumus_Cym
+5,4,104,365,41,#JAILERS.1_Cym #Posthumus_Cym
+5,4,105,38,7,#JAILERS.1_Cym #MESSENGERS.2_Cym #Posthumus_Cym
+5,4,106,87,9,#JAILERS.1_Cym
+5,5,107,187,27,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym
+5,5,108,374,53,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym
+5,5,109,3421,506,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym

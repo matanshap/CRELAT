@@ -1,0 +1,878 @@
+act,scene,stagegroup,setting,speaker,onstage,n_tokens,n_lines
+1,1,1,1,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,24,3
+1,1,1,2,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,4,1
+1,1,1,3,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,52,7
+1,1,1,4,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,4,1
+1,1,1,5,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,44,5
+1,1,1,6,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,3,1
+1,1,1,7,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,74,9
+1,1,1,8,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,4,1
+1,1,1,9,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,16,3
+1,1,1,10,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,5,1
+1,1,1,11,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,219,28
+1,1,1,12,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,20,3
+1,1,1,13,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,46,6
+1,1,1,14,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,5,1
+1,1,1,15,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,3,1
+1,1,1,16,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,21,3
+1,1,1,17,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,17,3
+1,1,1,18,#ATTENDANTS.2_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,5,1
+1,1,1,19,#ATTENDANTS.1_Cym,#ATTENDANTS.1_Cym #ATTENDANTS.2_Cym,11,2
+1,1,2,20,#Queen_Cym,#Imogen_Cym #Posthumus_Cym #Queen_Cym,77,10
+1,1,2,21,#Posthumus_Cym,#Imogen_Cym #Posthumus_Cym #Queen_Cym,8,2
+1,1,2,22,#Queen_Cym,#Imogen_Cym #Posthumus_Cym #Queen_Cym,27,4
+1,1,3,23,#Imogen_Cym,#Imogen_Cym #Posthumus_Cym,68,10
+1,1,3,24,#Posthumus_Cym,#Imogen_Cym #Posthumus_Cym,75,10
+1,1,4,25,#Queen_Cym,#Imogen_Cym #Posthumus_Cym #Queen_Cym,47,7
+1,1,5,26,#Posthumus_Cym,#Imogen_Cym #Posthumus_Cym,22,3
+1,1,5,27,#Imogen_Cym,#Imogen_Cym #Posthumus_Cym,40,7
+1,1,5,28,#Posthumus_Cym,#Imogen_Cym #Posthumus_Cym,78,11
+1,1,5,29,#Imogen_Cym,#Imogen_Cym #Posthumus_Cym,8,2
+1,1,6,30,#Posthumus_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Posthumus_Cym,3,1
+1,1,6,31,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Posthumus_Cym,28,4
+1,1,6,32,#Posthumus_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Posthumus_Cym,15,3
+1,1,7,33,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,12,2
+1,1,7,34,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,15,3
+1,1,7,35,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,25,4
+1,1,7,36,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,3,1
+1,1,7,37,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,9,1
+1,1,7,38,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,10,1
+1,1,7,39,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,15,2
+1,1,7,40,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,13,2
+1,1,7,41,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,8,2
+1,1,7,42,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,4,1
+1,1,7,43,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,31,5
+1,1,7,44,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,4,1
+1,1,7,45,#Imogen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,18,3
+1,1,7,46,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym,3,1
+1,1,8,47,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Queen_Cym,18,3
+1,1,8,48,#Queen_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Queen_Cym,24,5
+1,1,8,49,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Imogen_Cym #Queen_Cym,17,3
+1,1,9,50,#Queen_Cym,#Imogen_Cym #Queen_Cym,5,1
+1,1,10,51,#Queen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,9,1
+1,1,10,52,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,8,1
+1,1,10,53,#Queen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,7,2
+1,1,10,54,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,25,4
+1,1,10,55,#Queen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,6,1
+1,1,10,56,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,42,5
+1,1,10,57,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,32,4
+1,1,10,58,#Queen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,15,3
+1,1,10,59,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,5,1
+1,1,10,60,#Queen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,3,1
+1,1,10,61,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym #Queen_Cym,24,3
+1,2,11,62,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,36,4
+1,2,11,63,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,13,2
+1,2,11,64,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,2
+1,2,11,65,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,23,3
+1,2,11,66,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,12,2
+1,2,11,67,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,6,1
+1,2,11,68,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,9,2
+1,2,11,69,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,19,3
+1,2,11,70,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,2
+1,2,11,71,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,1
+1,2,11,72,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,16,2
+1,2,11,73,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,10,2
+1,2,11,74,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,13,2
+1,2,11,75,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,27,3
+1,2,11,76,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,11,2
+1,2,11,77,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,12,2
+1,2,11,78,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,18,2
+1,2,11,79,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,4,1
+1,2,11,80,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,4,1
+1,2,11,81,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,5,1
+1,2,11,82,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,3,1
+1,3,12,83,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,40,5
+1,3,12,84,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,6,1
+1,3,12,85,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+1,3,12,86,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+1,3,12,87,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,10,2
+1,3,12,88,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,53,7
+1,3,12,89,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,17,3
+1,3,12,90,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+1,3,12,91,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,57,8
+1,3,12,92,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,7,2
+1,3,12,93,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,113,13
+1,3,13,94,#LADIES.IMOGEN_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym #Pisanio_Cym,7,2
+1,3,13,95,#Imogen_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym #Pisanio_Cym,14,2
+1,3,13,96,#Pisanio_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym #Pisanio_Cym,3,1
+1,4,14,97,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,62,7
+1,4,14,98,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,22,3
+1,4,14,99,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,21,3
+1,4,14,100,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,30,4
+1,4,14,101,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,4,1
+1,4,14,102,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,54,7
+1,4,14,103,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Spaniard_Cym,20,3
+1,4,15,104,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,63,7
+1,4,15,105,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,7,2
+1,4,15,106,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,21,3
+1,4,15,107,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,44,5
+1,4,15,108,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,50,6
+1,4,15,109,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,28,4
+1,4,15,110,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,9,2
+1,4,15,111,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,71,9
+1,4,15,112,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,14,2
+1,4,15,113,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,9,1
+1,4,15,114,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,11,2
+1,4,15,115,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,23,3
+1,4,15,116,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,64,7
+1,4,15,117,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,12,2
+1,4,15,118,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,6,1
+1,4,15,119,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,5,1
+1,4,15,120,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,12,2
+1,4,15,121,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,39,4
+1,4,15,122,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,6,1
+1,4,15,123,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,7,1
+1,4,15,124,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,53,7
+1,4,15,125,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,42,5
+1,4,15,126,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,5,1
+1,4,15,127,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,21,3
+1,4,15,128,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,29,4
+1,4,15,129,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,2,1
+1,4,15,130,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,48,6
+1,4,15,131,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,24,3
+1,4,15,132,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,2,1
+1,4,15,133,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,14,2
+1,4,15,134,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,23,3
+1,4,15,135,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,17,2
+1,4,15,136,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,7,1
+1,4,15,137,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,55,7
+1,4,15,138,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,21,2
+1,4,15,139,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,36,4
+1,4,15,140,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,15,2
+1,4,15,141,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,14,2
+1,4,15,142,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,38,5
+1,4,15,143,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,6,1
+1,4,15,144,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,71,8
+1,4,15,145,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,74,9
+1,4,15,146,#Iachimo_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,38,5
+1,4,15,147,#Posthumus_Cym,#Dutchman_Cym #Frenchman_Cym #Iachimo_Cym #Philario_Cym #Posthumus_Cym #Spaniard_Cym,1,1
+1,4,16,148,#Frenchman_Cym,#Dutchman_Cym #Frenchman_Cym #Philario_Cym #Spaniard_Cym,5,1
+1,4,16,149,#Philario_Cym,#Dutchman_Cym #Frenchman_Cym #Philario_Cym #Spaniard_Cym,11,2
+1,5,17,150,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN_Cym #Queen_Cym,17,2
+1,5,18,151,#LADIES.QUEEN.0.1_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #LADIES.QUEEN_Cym #Queen_Cym,2,1
+1,5,18,152,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #LADIES.QUEEN_Cym #Queen_Cym,1,1
+1,5,19,153,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym,8,1
+1,5,19,154,#Cornelius_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym,42,7
+1,5,19,155,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym,106,14
+1,5,19,156,#Cornelius_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym,22,4
+1,5,19,157,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Queen_Cym,3,1
+1,5,20,158,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,35,5
+1,5,20,159,#Cornelius_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,11,2
+1,5,20,160,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,4,1
+1,5,20,161,#Cornelius_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,99,12
+1,5,20,162,#Queen_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,9,2
+1,5,20,163,#Cornelius_Cym,#Cornelius_Cym #LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,5,1
+1,5,21,164,#Queen_Cym,#LADIES.QUEEN.0.1_Cym #Pisanio_Cym #Queen_Cym,257,31
+1,5,22,165,#Queen_Cym,#LADIES.QUEEN.0.1_Cym #Queen_Cym,60,8
+1,5,23,166,#Queen_Cym,#LADIES.QUEEN.0.1_Cym #LADIES.QUEEN_Cym #Pisanio_Cym #Queen_Cym,24,4
+1,5,24,167,#Pisanio_Cym,#LADIES.QUEEN.0.1_Cym #Pisanio_Cym,21,3
+1,6,25,168,#Imogen_Cym,#Imogen_Cym,69,9
+1,6,26,169,#Pisanio_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,12,2
+1,6,26,170,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,14,4
+1,6,26,171,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,6,2
+1,6,26,172,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,53,7
+1,6,26,173,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,71,10
+1,6,26,174,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,55,8
+1,6,26,175,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,4,1
+1,6,26,176,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,59,8
+1,6,26,177,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,5,1
+1,6,26,178,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,23,4
+1,6,26,179,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,9,2
+1,6,26,180,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,19,4
+1,6,26,181,#Pisanio_Cym,#Iachimo_Cym #Imogen_Cym #Pisanio_Cym,8,2
+1,6,27,182,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,8,1
+1,6,27,183,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,2,1
+1,6,27,184,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,9,1
+1,6,27,185,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,17,3
+1,6,27,186,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,14,3
+1,6,27,187,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,83,11
+1,6,27,188,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,5,1
+1,6,27,189,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,31,5
+1,6,27,190,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,4,1
+1,6,27,191,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,38,5
+1,6,27,192,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,5,1
+1,6,27,193,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,3,1
+1,6,27,194,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,17,3
+1,6,27,195,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,17,3
+1,6,27,196,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,18,3
+1,6,27,197,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,27,4
+1,6,27,198,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,50,7
+1,6,27,199,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,103,14
+1,6,27,200,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,7,2
+1,6,27,201,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,30,5
+1,6,27,202,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,5,1
+1,6,27,203,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,86,11
+1,6,27,204,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,34,5
+1,6,27,205,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,51,8
+1,6,27,206,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,3,1
+1,6,27,207,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,8,1
+1,6,27,208,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,123,15
+1,6,27,209,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,100,13
+1,6,27,210,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,3,1
+1,6,27,211,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,84,10
+1,6,27,212,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,11,1
+1,6,27,213,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,36,5
+1,6,27,214,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,4,1
+1,6,27,215,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,72,9
+1,6,27,216,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,22,4
+1,6,27,217,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,26,4
+1,6,27,218,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,3,1
+1,6,27,219,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,28,4
+1,6,27,220,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,10,2
+1,6,27,221,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,35,5
+1,6,27,222,#Imogen_Cym,#Iachimo_Cym #Imogen_Cym,20,3
+2,1,28,223,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,53,6
+2,1,28,224,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,13,2
+2,1,28,225,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,16,2
+2,1,28,226,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,18,2
+2,1,28,227,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,9,2
+2,1,28,228,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,14,2
+2,1,28,229,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,6,1
+2,1,28,230,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,57,6
+2,1,28,231,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,14,2
+2,1,28,232,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,2,1
+2,1,28,233,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,15,2
+2,1,28,234,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,15,2
+2,1,28,235,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,1
+2,1,28,236,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,4,1
+2,1,28,237,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,11,2
+2,1,28,238,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,1
+2,1,28,239,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,9,2
+2,1,28,240,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,11,2
+2,1,28,241,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,16,2
+2,1,28,242,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,5,1
+2,1,28,243,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,15,2
+2,1,28,244,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,5,1
+2,1,28,245,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,4,1
+2,1,28,246,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,13,2
+2,1,28,247,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,20,2
+2,1,28,248,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,4,1
+2,1,29,249,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.2_Cym,112,14
+2,2,30,250,#Imogen_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym,5,1
+2,2,30,251,#LADIES.IMOGEN_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym,3,1
+2,2,30,252,#Imogen_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym,4,1
+2,2,30,253,#LADIES.IMOGEN_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym,3,1
+2,2,30,254,#Imogen_Cym,#Imogen_Cym #LADIES.IMOGEN_Cym,42,5
+2,2,31,255,#Imogen_Cym,#Imogen_Cym,24,5
+2,2,32,256,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym,330,42
+2,3,33,257,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,17,2
+2,3,33,258,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,8,1
+2,3,33,259,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,21,3
+2,3,33,260,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,25,3
+2,3,33,261,#ATTENDANTS.CLOTEN.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,3,1
+2,3,33,262,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym,19,3
+2,3,34,263,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym #MUSICIANS_Cym,51,6
+2,3,34,264,#MUSICIANS_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym #MUSICIANS_Cym,44,9
+2,3,34,265,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #Cloten_Cym #MUSICIANS_Cym,41,5
+2,3,35,266,#ATTENDANTS.CLOTEN.2_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,4,1
+2,3,35,267,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,38,4
+2,3,35,268,#Cymbeline_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,13,2
+2,3,35,269,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,11,2
+2,3,35,270,#Cymbeline_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,30,4
+2,3,35,271,#Queen_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,72,10
+2,3,35,272,#Cloten_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,3,1
+2,3,36,273,#MESSENGERS.1_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #MESSENGERS.1_Cym #Queen_Cym,12,2
+2,3,37,274,#Cymbeline_Cym,#ATTENDANTS.CLOTEN.1_Cym #ATTENDANTS.CLOTEN.2_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,70,10
+2,3,38,275,#Cloten_Cym,#Cloten_Cym,110,14
+2,3,39,276,#LADIES.IMOGEN_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,4,1
+2,3,39,277,#Cloten_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,2,1
+2,3,39,278,#LADIES.IMOGEN_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,2,1
+2,3,39,279,#Cloten_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,5,1
+2,3,39,280,#LADIES.IMOGEN_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,19,3
+2,3,39,281,#Cloten_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,6,1
+2,3,39,282,#LADIES.IMOGEN_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,5,2
+2,3,39,283,#Cloten_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,10,2
+2,3,39,284,#LADIES.IMOGEN_Cym,#Cloten_Cym #LADIES.IMOGEN_Cym,15,2
+2,3,40,285,#LADIES.IMOGEN_Cym,#Cloten_Cym #Imogen_Cym #LADIES.IMOGEN_Cym,2,1
+2,3,41,286,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,7,1
+2,3,41,287,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,31,4
+2,3,41,288,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,6,1
+2,3,41,289,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,23,3
+2,3,41,290,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,4,1
+2,3,41,291,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,39,5
+2,3,41,292,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,12,2
+2,3,41,293,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,5,1
+2,3,41,294,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,5,1
+2,3,41,295,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,86,10
+2,3,41,296,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,108,14
+2,3,41,297,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,56,8
+2,3,41,298,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,5,1
+2,3,41,299,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,44,5
+2,3,42,300,#Cloten_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,5,1
+2,3,42,301,#Imogen_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,7,1
+2,3,42,302,#Cloten_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,2,1
+2,3,42,303,#Imogen_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,80,10
+2,3,42,304,#Pisanio_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,4,1
+2,3,42,305,#Imogen_Cym,#Cloten_Cym #Imogen_Cym #Pisanio_Cym,6,1
+2,3,43,306,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,7,2
+2,3,43,307,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,16,2
+2,3,43,308,#Cloten_Cym,#Cloten_Cym #Imogen_Cym,5,1
+2,3,43,309,#Imogen_Cym,#Cloten_Cym #Imogen_Cym,27,4
+2,3,44,310,#Cloten_Cym,#Cloten_Cym,7,1
+2,4,45,311,#Posthumus_Cym,#Philario_Cym #Posthumus_Cym,23,3
+2,4,45,312,#Philario_Cym,#Philario_Cym #Posthumus_Cym,7,1
+2,4,45,313,#Posthumus_Cym,#Philario_Cym #Posthumus_Cym,38,6
+2,4,45,314,#Philario_Cym,#Philario_Cym #Posthumus_Cym,50,7
+2,4,45,315,#Posthumus_Cym,#Philario_Cym #Posthumus_Cym,87,12
+2,4,46,316,#Philario_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,2,1
+2,4,46,317,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,22,3
+2,4,46,318,#Philario_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,2,1
+2,4,46,319,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,13,2
+2,4,46,320,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,12,2
+2,4,46,321,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,21,3
+2,4,46,322,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,5,1
+2,4,46,323,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,5,1
+2,4,46,324,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,3,1
+2,4,46,325,#Philario_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,11,2
+2,4,46,326,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,7,1
+2,4,46,327,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,21,3
+2,4,46,328,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,41,5
+2,4,46,329,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,7,1
+2,4,46,330,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,8,2
+2,4,46,331,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,17,3
+2,4,46,332,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,54,8
+2,4,46,333,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,46,6
+2,4,46,334,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,44,6
+2,4,46,335,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,1,1
+2,4,46,336,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,83,11
+2,4,46,337,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,17,3
+2,4,46,338,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,6,2
+2,4,46,339,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,8,2
+2,4,46,340,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,35,6
+2,4,46,341,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,18,3
+2,4,46,342,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,32,5
+2,4,46,343,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,35,5
+2,4,46,344,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,31,4
+2,4,46,345,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,15,3
+2,4,46,346,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,37,5
+2,4,46,347,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,9,2
+2,4,46,348,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,7,1
+2,4,46,349,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,67,8
+2,4,46,350,#Philario_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,33,5
+2,4,46,351,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,29,4
+2,4,46,352,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,8,1
+2,4,46,353,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,75,11
+2,4,46,354,#Philario_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,16,3
+2,4,46,355,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,10,2
+2,4,46,356,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,46,7
+2,4,46,357,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,19,3
+2,4,46,358,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,4,1
+2,4,46,359,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,11,2
+2,4,46,360,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,3,1
+2,4,46,361,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,27,4
+2,4,46,362,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,3,1
+2,4,46,363,#Posthumus_Cym,#Iachimo_Cym #Philario_Cym #Posthumus_Cym,26,3
+2,4,47,364,#Philario_Cym,#Iachimo_Cym #Philario_Cym,21,4
+2,4,47,365,#Iachimo_Cym,#Iachimo_Cym #Philario_Cym,4,1
+2,5,48,366,#Posthumus_Cym,#Posthumus_Cym,285,36
+3,1,49,367,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,8,1
+3,1,49,368,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,64,9
+3,1,49,369,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,9,2
+3,1,49,370,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,23,4
+3,1,49,371,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,150,20
+3,1,49,372,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,42,5
+3,1,49,373,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,5,1
+3,1,49,374,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,64,6
+3,1,49,375,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,124,17
+3,1,49,376,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,53,8
+3,1,49,377,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,65,9
+3,1,49,378,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,3,1
+3,1,49,379,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,59,6
+3,1,49,380,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,2,1
+3,1,49,381,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,13,2
+3,2,50,382,#Pisanio_Cym,#Pisanio_Cym,173,23
+3,2,51,383,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,8,1
+3,2,51,384,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,3,1
+3,2,51,385,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,8,1
+3,2,51,386,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,372,45
+3,2,51,387,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,15,2
+3,2,51,388,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,65,8
+3,2,51,389,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+3,2,51,390,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,42,5
+3,3,52,391,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,78,9
+3,3,52,392,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,2,1
+3,3,52,393,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,2,1
+3,3,52,394,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,141,17
+3,3,52,395,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,72,10
+3,3,52,396,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,80,10
+3,3,52,397,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,178,21
+3,3,52,398,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,2,1
+3,3,52,399,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,118,14
+3,3,53,400,#Belarius_Cym,#Belarius_Cym,244,31
+3,4,54,401,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,142,19
+3,4,54,402,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,17,3
+3,4,54,403,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,108,11
+3,4,54,404,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,67,8
+3,4,54,405,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,50,5
+3,4,54,406,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,3,1
+3,4,54,407,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,96,12
+3,4,54,408,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+3,4,54,409,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,128,17
+3,4,54,410,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,9,3
+3,4,54,411,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,193,26
+3,4,54,412,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,17,3
+3,4,54,413,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,6,1
+3,4,54,414,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,6,1
+3,4,54,415,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,61,9
+3,4,54,416,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,24,4
+3,4,54,417,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,30,5
+3,4,54,418,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,9,2
+3,4,54,419,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,8,2
+3,4,54,420,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,41,6
+3,4,54,421,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,3,1
+3,4,54,422,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,38,5
+3,4,54,423,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,26,4
+3,4,54,424,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,6,1
+3,4,54,425,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,28,4
+3,4,54,426,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,11,2
+3,4,54,427,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,45,6
+3,4,54,428,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,88,12
+3,4,54,429,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,16,3
+3,4,54,430,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,86,13
+3,4,54,431,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,14,3
+3,4,54,432,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,98,13
+3,4,54,433,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,45,6
+3,4,54,434,#Pisanio_Cym,#Imogen_Cym #Pisanio_Cym,73,9
+3,4,54,435,#Imogen_Cym,#Imogen_Cym #Pisanio_Cym,4,1
+3,5,55,436,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,5,1
+3,5,55,437,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,23,4
+3,5,55,438,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,21,4
+3,5,55,439,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,20,3
+3,5,55,440,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,20,3
+3,5,55,441,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,4,1
+3,5,55,442,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,14,2
+3,5,55,443,#Lucius_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,12,2
+3,5,55,444,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Lucius_Cym #Queen_Cym,15,2
+3,5,56,445,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,14,2
+3,5,56,446,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,12,2
+3,5,56,447,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,46,6
+3,5,56,448,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,12,2
+3,5,56,449,#Cymbeline_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,65,8
+3,5,56,450,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,46,7
+3,5,57,451,#Cymbeline_Cym,#ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,10,2
+3,5,57,452,#ATTENDANTS.0.1_Cym,#ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,22,3
+3,5,57,453,#Queen_Cym,#ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,54,7
+3,5,57,454,#Cymbeline_Cym,#ATTENDANTS.0.1_Cym #ATTENDANTS_Cym #Cloten_Cym #Cymbeline_Cym #Queen_Cym,15,3
+3,5,58,455,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,6,1
+3,5,58,456,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,15,2
+3,5,58,457,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,3,1
+3,5,59,458,#Queen_Cym,#ATTENDANTS_Cym #Queen_Cym,83,10
+3,5,60,459,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,4,1
+3,5,60,460,#Cloten_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,18,3
+3,5,60,461,#Queen_Cym,#ATTENDANTS_Cym #Cloten_Cym #Queen_Cym,12,2
+3,5,61,462,#Cloten_Cym,#Cloten_Cym,83,11
+3,5,62,463,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,30,4
+3,5,62,464,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,62,465,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,46,6
+3,5,62,466,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,17,3
+3,5,62,467,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,17,3
+3,5,62,468,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,62,469,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,31,5
+3,5,62,470,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,13,3
+3,5,62,471,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,11,2
+3,5,62,472,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,20,3
+3,5,62,473,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,1,1
+3,5,62,474,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,16,2
+3,5,62,475,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,5,1
+3,5,62,476,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,62,477,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,72,8
+3,5,62,478,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,62,479,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,39,5
+3,5,62,480,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,3,1
+3,5,62,481,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,17,3
+3,5,62,482,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,21,2
+3,5,62,483,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,17,2
+3,5,62,484,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,63,485,#Cloten_Cym,#Cloten_Cym,161,18
+3,5,64,486,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,64,487,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,4,1
+3,5,64,488,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,10,1
+3,5,64,489,#Pisanio_Cym,#Cloten_Cym #Pisanio_Cym,6,1
+3,5,64,490,#Cloten_Cym,#Cloten_Cym #Pisanio_Cym,57,6
+3,5,65,491,#Pisanio_Cym,#Pisanio_Cym,53,6
+3,6,66,492,#Imogen_Cym,#Imogen_Cym,233,27
+3,6,67,493,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,70,9
+3,6,67,494,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+3,6,67,495,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,9,1
+3,6,67,496,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,18,2
+3,6,67,497,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,17,4
+3,6,67,498,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+3,6,67,499,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,17,3
+3,6,68,500,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,68,10
+3,6,68,501,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,2,1
+3,6,68,502,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,20,3
+3,6,68,503,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,21,3
+3,6,68,504,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,2,1
+3,6,68,505,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,3,1
+3,6,68,506,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,3,1
+3,6,68,507,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,29,4
+3,6,68,508,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,43,6
+3,6,68,509,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,23,3
+3,6,68,510,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,39,5
+3,6,68,511,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,30,6
+3,6,68,512,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,5,1
+3,6,68,513,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,5,1
+3,6,68,514,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,12,2
+3,6,68,515,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,2,1
+3,6,68,516,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,52,8
+3,6,68,517,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,36,5
+3,6,68,518,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,3,1
+3,6,68,519,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,12,2
+3,6,68,520,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,2,1
+3,6,68,521,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,4,1
+3,7,69,522,#SENATORS.1_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES_Cym,70,10
+3,7,70,523,#TRIBUNES.0.1_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym,6,1
+3,7,70,524,#SENATORS.2_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym,1,1
+3,7,70,525,#TRIBUNES.0.1_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym,4,1
+3,7,70,526,#SENATORS.1_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym,31,5
+3,7,70,527,#TRIBUNES.0.1_Cym,#SENATORS.1_Cym #SENATORS.2_Cym #TRIBUNES.0.1_Cym #TRIBUNES_Cym,5,1
+4,1,71,528,#Cloten_Cym,#Cloten_Cym,240,26
+4,2,72,529,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,15,2
+4,2,72,530,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,7,2
+4,2,72,531,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,22,3
+4,2,72,532,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,8,1
+4,2,72,533,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,88,10
+4,2,72,534,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,21,3
+4,2,72,535,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,3,1
+4,2,72,536,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,53,6
+4,2,72,537,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,48,7
+4,2,72,538,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,2,1
+4,2,72,539,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,72,540,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,6,1
+4,2,72,541,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,49,7
+4,2,72,542,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,17,3
+4,2,72,543,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,12,2
+4,2,72,544,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,16,3
+4,2,72,545,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,5,1
+4,2,72,546,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,10,2
+4,2,72,547,#Imogen_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,8,2
+4,2,72,548,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,73,549,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,10,2
+4,2,73,550,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,2,73,551,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,23,3
+4,2,73,552,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,44,6
+4,2,73,553,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,15,3
+4,2,73,554,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,16,3
+4,2,73,555,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,8,1
+4,2,74,556,#Cloten_Cym,#Arviragus_Cym #Belarius_Cym #Cloten_Cym #Guiderius_Cym,13,2
+4,2,74,557,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Cloten_Cym #Guiderius_Cym,40,5
+4,2,74,558,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Cloten_Cym #Guiderius_Cym,21,3
+4,2,75,559,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,20,3
+4,2,75,560,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,14,3
+4,2,75,561,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,11,2
+4,2,75,562,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,45,5
+4,2,75,563,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,9,2
+4,2,75,564,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,19,4
+4,2,75,565,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,8,2
+4,2,75,566,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,20,3
+4,2,75,567,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,9,2
+4,2,75,568,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,3,1
+4,2,75,569,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,3,1
+4,2,75,570,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,22,3
+4,2,75,571,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,18,3
+4,2,75,572,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,12,2
+4,2,75,573,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,3,1
+4,2,75,574,#Guiderius_Cym,#Cloten_Cym #Guiderius_Cym,16,2
+4,2,75,575,#Cloten_Cym,#Cloten_Cym #Guiderius_Cym,33,5
+4,2,76,576,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym,3,1
+4,2,76,577,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym,9,1
+4,2,76,578,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym,41,5
+4,2,76,579,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym,21,3
+4,2,76,580,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym,25,4
+4,2,77,581,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,2,77,582,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,41,5
+4,2,77,583,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,2,77,584,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,48,7
+4,2,77,585,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,2,77,586,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,53,7
+4,2,77,587,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,129,17
+4,2,77,588,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,14,3
+4,2,77,589,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,18,3
+4,2,77,590,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,46,6
+4,2,78,591,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym,18,3
+4,2,78,592,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym,44,7
+4,2,78,593,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym,39,6
+4,2,78,594,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym,24,4
+4,2,79,595,#Belarius_Cym,#Belarius_Cym,111,15
+4,2,80,596,#Guiderius_Cym,#Belarius_Cym #Guiderius_Cym,22,4
+4,2,80,597,#Belarius_Cym,#Belarius_Cym #Guiderius_Cym,18,3
+4,2,80,598,#Guiderius_Cym,#Belarius_Cym #Guiderius_Cym,4,1
+4,2,80,599,#Belarius_Cym,#Belarius_Cym #Guiderius_Cym,5,1
+4,2,80,600,#Guiderius_Cym,#Belarius_Cym #Guiderius_Cym,41,7
+4,2,81,601,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,18,3
+4,2,81,602,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,36,5
+4,2,81,603,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,19,3
+4,2,81,604,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,47,7
+4,2,81,605,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,26,4
+4,2,81,606,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,1,1
+4,2,81,607,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,27,4
+4,2,81,608,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,29,4
+4,2,81,609,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,87,12
+4,2,81,610,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,33,5
+4,2,81,611,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,6,2
+4,2,81,612,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,5,1
+4,2,81,613,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,37,5
+4,2,81,614,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,26,4
+4,2,81,615,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,81,616,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,75,9
+4,2,81,617,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,16,4
+4,2,81,618,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,13,3
+4,2,82,619,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,17,2
+4,2,82,620,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,2,1
+4,2,82,621,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,6,1
+4,2,82,622,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,2,1
+4,2,82,623,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,37,6
+4,2,82,624,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,41,6
+4,2,82,625,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,6,1
+4,2,82,626,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,82,627,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,5,1
+4,2,82,628,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,6,1
+4,2,82,629,#Arviragus_Cym #Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,13,2
+4,2,82,630,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,82,631,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,5,1
+4,2,82,632,#Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,4,1
+4,2,82,633,#Arviragus_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,5,1
+4,2,82,634,#Arviragus_Cym #Guiderius_Cym,#Arviragus_Cym #Guiderius_Cym #Imogen_Cym,8,2
+4,2,83,635,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,9,1
+4,2,83,636,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym #Imogen_Cym,68,8
+4,2,84,637,#Imogen_Cym,#Imogen_Cym,360,42
+4,2,85,638,#SOLDIERS.ROMAN.0.1_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,28,4
+4,2,85,639,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+4,2,85,640,#SOLDIERS.ROMAN.0.1_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,29,5
+4,2,85,641,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+4,2,85,642,#SOLDIERS.ROMAN.0.1_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,7,1
+4,2,85,643,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,30,4
+4,2,85,644,#Soothsayer_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,53,7
+4,2,85,645,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,58,8
+4,2,85,646,#SOLDIERS.ROMAN.0.1_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+4,2,85,647,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,61,8
+4,2,85,648,#Imogen_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,57,8
+4,2,85,649,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,20,3
+4,2,85,650,#Imogen_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,25,3
+4,2,85,651,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,2,1
+4,2,85,652,#Imogen_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,2,1
+4,2,85,653,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,61,7
+4,2,85,654,#Imogen_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,67,9
+4,2,85,655,#Lucius_Cym,#Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN.0.1_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,70,9
+4,3,86,656,#Cymbeline_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,99,12
+4,3,86,657,#Pisanio_Cym,#ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,37,6
+4,3,87,658,#ATTENDANTS.0.2_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,42,6
+4,3,87,659,#Cymbeline_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,16,3
+4,3,87,660,#ATTENDANTS.0.2_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,26,4
+4,3,87,661,#Cymbeline_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,14,2
+4,3,87,662,#ATTENDANTS.0.2_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,34,6
+4,3,87,663,#Cymbeline_Cym,#ATTENDANTS.0.2_Cym #ATTENDANTS_Cym #Cymbeline_Cym #Pisanio_Cym,29,4
+4,3,88,664,#Pisanio_Cym,#ATTENDANTS.0.2_Cym #Pisanio_Cym,99,11
+4,4,89,665,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,6,1
+4,4,89,666,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,4,89,667,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,14,2
+4,4,89,668,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,33,5
+4,4,89,669,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,58,8
+4,4,89,670,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,15,3
+4,4,89,671,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,42,6
+4,4,89,672,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,73,10
+4,4,89,673,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,32,5
+4,4,89,674,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,76,10
+4,4,89,675,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,36,5
+4,4,89,676,#Arviragus_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,4,1
+4,4,89,677,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Guiderius_Cym,63,8
+5,1,90,678,#Posthumus_Cym,#Posthumus_Cym,274,33
+5,2,91,679,#Iachimo_Cym,#Iachimo_Cym,83,10
+5,2,92,680,#Belarius_Cym,#Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym,22,3
+5,2,92,681,#Guiderius_Cym,#Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym,4,1
+5,2,93,682,#Lucius_Cym,#Iachimo_Cym #Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN_Cym,20,3
+5,2,93,683,#Iachimo_Cym,#Iachimo_Cym #Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN_Cym,4,1
+5,2,93,684,#Lucius_Cym,#Iachimo_Cym #Imogen_Cym #Lucius_Cym #SOLDIERS.ROMAN_Cym,12,2
+5,3,94,685,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,8,1
+5,3,94,686,#Posthumus_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,10,2
+5,3,94,687,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,1,1
+5,3,94,688,#Posthumus_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,86,11
+5,3,94,689,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,4,1
+5,3,94,690,#Posthumus_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,312,40
+5,3,94,691,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,13,2
+5,3,94,692,#Posthumus_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,52,6
+5,3,94,693,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,5,1
+5,3,94,694,#Posthumus_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,38,5
+5,3,94,695,#ATTENDANTS.3_Cym,#ATTENDANTS.3_Cym #Posthumus_Cym,3,1
+5,3,95,696,#Posthumus_Cym,#Posthumus_Cym,183,21
+5,3,96,697,#SOLDIERS.BRITON.0.1_Cym,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON_Cym,17,2
+5,3,97,698,#SOLDIERS.BRITON.0.2_Cym,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON_Cym,15,2
+5,3,97,699,#SOLDIERS.BRITON.0.1_Cym,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON_Cym,13,2
+5,3,97,700,#Posthumus_Cym,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON_Cym,14,3
+5,3,97,701,#SOLDIERS.BRITON.0.2_Cym,#Posthumus_Cym #SOLDIERS.BRITON.0.1_Cym #SOLDIERS.BRITON.0.2_Cym #SOLDIERS.BRITON_Cym,36,5
+5,4,98,702,#JAILERS.1_Cym,#JAILERS.1_Cym #JAILERS.2_Cym #Posthumus_Cym,17,2
+5,4,98,703,#JAILERS.2_Cym,#JAILERS.1_Cym #JAILERS.2_Cym #Posthumus_Cym,4,1
+5,4,99,704,#Posthumus_Cym,#Posthumus_Cym,224,28
+5,4,100,705,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,68,13
+5,4,100,706,#GHOSTS.Mother_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,27,5
+5,4,100,707,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,22,4
+5,4,100,708,#GHOSTS.BROTHERS.1_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,32,6
+5,4,100,709,#GHOSTS.Mother_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,23,5
+5,4,100,710,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,30,6
+5,4,100,711,#GHOSTS.BROTHERS.2_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,32,6
+5,4,100,712,#GHOSTS.BROTHERS.1_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,29,6
+5,4,100,713,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,18,4
+5,4,100,714,#GHOSTS.Mother_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,10,2
+5,4,100,715,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,22,4
+5,4,100,716,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,10,2
+5,4,101,717,#Jupiter_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Jupiter_Cym #Posthumus_Cym,154,21
+5,4,102,718,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,45,6
+5,4,102,719,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,2,1
+5,4,102,720,#GHOSTS.Father_Cym,#GHOSTS.BROTHERS.1_Cym #GHOSTS.BROTHERS.2_Cym #GHOSTS.Father_Cym #GHOSTS.Mother_Cym #Posthumus_Cym,23,3
+5,4,103,721,#Posthumus_Cym,#Posthumus_Cym,233,28
+5,4,104,722,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,7,1
+5,4,104,723,#Posthumus_Cym,#JAILERS.1_Cym #Posthumus_Cym,5,1
+5,4,104,724,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,15,2
+5,4,104,725,#Posthumus_Cym,#JAILERS.1_Cym #Posthumus_Cym,15,2
+5,4,104,726,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,138,15
+5,4,104,727,#Posthumus_Cym,#JAILERS.1_Cym #Posthumus_Cym,10,1
+5,4,104,728,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,47,5
+5,4,104,729,#Posthumus_Cym,#JAILERS.1_Cym #Posthumus_Cym,5,1
+5,4,104,730,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,67,7
+5,4,104,731,#Posthumus_Cym,#JAILERS.1_Cym #Posthumus_Cym,26,3
+5,4,104,732,#JAILERS.1_Cym,#JAILERS.1_Cym #Posthumus_Cym,30,3
+5,4,105,733,#MESSENGERS.2_Cym,#JAILERS.1_Cym #MESSENGERS.2_Cym #Posthumus_Cym,10,2
+5,4,105,734,#Posthumus_Cym,#JAILERS.1_Cym #MESSENGERS.2_Cym #Posthumus_Cym,11,2
+5,4,105,735,#JAILERS.1_Cym,#JAILERS.1_Cym #MESSENGERS.2_Cym #Posthumus_Cym,4,1
+5,4,105,736,#Posthumus_Cym,#JAILERS.1_Cym #MESSENGERS.2_Cym #Posthumus_Cym,13,2
+5,4,106,737,#JAILERS.1_Cym,#JAILERS.1_Cym,87,9
+5,5,107,738,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,57,7
+5,5,107,739,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,24,4
+5,5,107,740,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,4,1
+5,5,107,741,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,14,2
+5,5,107,742,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,41,5
+5,5,107,743,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,22,4
+5,5,107,744,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cymbeline_Cym #Guiderius_Cym #Pisanio_Cym,25,4
+5,5,108,745,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,23,3
+5,5,108,746,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,14,3
+5,5,108,747,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,28,4
+5,5,108,748,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,45,6
+5,5,108,749,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,2,1
+5,5,108,750,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,26,4
+5,5,108,751,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,20,3
+5,5,108,752,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,36,5
+5,5,108,753,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,14,2
+5,5,108,754,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,99,13
+5,5,108,755,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,6,1
+5,5,108,756,#LADIES.QUEEN_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,6,1
+5,5,108,757,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #LADIES.QUEEN_Cym #Pisanio_Cym,55,7
+5,5,109,758,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,49,6
+5,5,109,759,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,145,19
+5,5,109,760,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,64,9
+5,5,109,761,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,762,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,2
+5,5,109,763,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,25,4
+5,5,109,764,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,28,4
+5,5,109,765,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,34,5
+5,5,109,766,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,22,3
+5,5,109,767,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,768,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,13,2
+5,5,109,769,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,13,2
+5,5,109,770,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,2,1
+5,5,109,771,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,2
+5,5,109,772,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,7,1
+5,5,109,773,#Arviragus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,18,3
+5,5,109,774,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,775,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,25,3
+5,5,109,776,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,777,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,778,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,17,3
+5,5,109,779,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,48,8
+5,5,109,780,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,14,2
+5,5,109,781,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,782,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,10,2
+5,5,109,783,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,15,2
+5,5,109,784,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,2,1
+5,5,109,785,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,52,7
+5,5,109,786,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,787,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,22,3
+5,5,109,788,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,27,3
+5,5,109,789,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,128,17
+5,5,109,790,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,8,2
+5,5,109,791,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,75,10
+5,5,109,792,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,793,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,236,31
+5,5,109,794,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,135,19
+5,5,109,795,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,2
+5,5,109,796,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,14,2
+5,5,109,797,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,22,4
+5,5,109,798,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,799,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,6,1
+5,5,109,800,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,801,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,2
+5,5,109,802,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,803,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,18,3
+5,5,109,804,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,805,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,29,3
+5,5,109,806,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,807,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,808,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,41,7
+5,5,109,809,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,810,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,76,10
+5,5,109,811,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,8,1
+5,5,109,812,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,6,2
+5,5,109,813,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,814,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,21,3
+5,5,109,815,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,10,2
+5,5,109,816,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,21,3
+5,5,109,817,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,818,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,2
+5,5,109,819,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,13,3
+5,5,109,820,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,7,1
+5,5,109,821,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,27,3
+5,5,109,822,#Pisanio_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,104,15
+5,5,109,823,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,9,2
+5,5,109,824,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,24,4
+5,5,109,825,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,8,1
+5,5,109,826,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,827,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,53,6
+5,5,109,828,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,20,3
+5,5,109,829,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,9,2
+5,5,109,830,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,9,2
+5,5,109,831,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,42,6
+5,5,109,832,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,24,4
+5,5,109,833,#Arviragus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,6,1
+5,5,109,834,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,6,1
+5,5,109,835,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,39,5
+5,5,109,836,#Arviragus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,837,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,838,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,3
+5,5,109,839,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,8,2
+5,5,109,840,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,18,3
+5,5,109,841,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,10,2
+5,5,109,842,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,25,4
+5,5,109,843,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,844,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,57,7
+5,5,109,845,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,846,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,170,21
+5,5,109,847,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,37,5
+5,5,109,848,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,52,8
+5,5,109,849,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,16,3
+5,5,109,850,#Belarius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,24,4
+5,5,109,851,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,43,6
+5,5,109,852,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,45,6
+5,5,109,853,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,854,#Arviragus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,855,#Guiderius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,12,2
+5,5,109,856,#Cornelius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,6,1
+5,5,109,857,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,143,22
+5,5,109,858,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,14,2
+5,5,109,859,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,17,3
+5,5,109,860,#Imogen_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,9,2
+5,5,109,861,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,3,1
+5,5,109,862,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,21,3
+5,5,109,863,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,38,6
+5,5,109,864,#Iachimo_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,44,6
+5,5,109,865,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,28,4
+5,5,109,866,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,14,3
+5,5,109,867,#Arviragus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,19,3
+5,5,109,868,#Posthumus_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,67,9
+5,5,109,869,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,1,1
+5,5,109,870,#Soothsayer_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,871,#Lucius_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,5,1
+5,5,109,872,#Soothsayer_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,132,20
+5,5,109,873,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,4,1
+5,5,109,874,#Soothsayer_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,40,6
+5,5,109,875,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,51,8
+5,5,109,876,#Soothsayer_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,81,11
+5,5,109,877,#Cymbeline_Cym,#ATTENDANTS_Cym #Arviragus_Cym #Belarius_Cym #Cornelius_Cym #Cymbeline_Cym #Guiderius_Cym #Iachimo_Cym #Imogen_Cym #LADIES.QUEEN_Cym #Lucius_Cym #Pisanio_Cym #Posthumus_Cym #SOLDIERS.BRITON_Cym #SOLDIERS.ROMAN_Cym #Soothsayer_Cym,76,10

@@ -1,0 +1,311 @@
+act,scene,stagegroup,speaker,onstage,n_tokens,n_lines
+1,1,1,#RichardIII_R3,#RichardIII_R3,307,42
+1,1,2,#Brakenbury_R3,#Brakenbury_R3 #Clarence_3H6 #GUARDS_R3 #RichardIII_R3,55,7
+1,1,2,#Clarence_3H6,#Brakenbury_R3 #Clarence_3H6 #GUARDS_R3 #RichardIII_R3,162,23
+1,1,2,#RichardIII_R3,#Brakenbury_R3 #Clarence_3H6 #GUARDS_R3 #RichardIII_R3,357,48
+1,1,3,#RichardIII_R3,#RichardIII_R3,42,5
+1,1,4,#Hastings_3H6,#Hastings_3H6 #RichardIII_R3,71,10
+1,1,4,#RichardIII_R3,#Hastings_3H6 #RichardIII_R3,94,13
+1,1,5,#RichardIII_R3,#RichardIII_R3,151,18
+1,2,6,#LadyAnne_R3,#GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3,249,33
+1,2,7,#LadyAnne_R3,#GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3 #RichardIII_R3,12,2
+1,2,7,#RichardIII_R3,#GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3 #RichardIII_R3,27,3
+1,2,8,#GENTLEMEN.0.1_R3,#GENTLEMEN.0.1_R3 #GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3 #RichardIII_R3,9,1
+1,2,8,#LadyAnne_R3,#GENTLEMEN.0.1_R3 #GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3 #RichardIII_R3,601,88
+1,2,8,#RichardIII_R3,#GENTLEMEN.0.1_R3 #GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #LadyAnne_R3 #RichardIII_R3,861,117
+1,2,9,#GENTLEMEN.0.1_R3,#GENTLEMEN.0.1_R3 #GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #RichardIII_R3,4,1
+1,2,9,#RichardIII_R3,#GENTLEMEN.0.1_R3 #GENTLEMEN_R3 #GUARDS_R3 #HenryVI_1H6 #RichardIII_R3,7,1
+1,2,10,#RichardIII_R3,#GENTLEMEN.0.1_R3 #RichardIII_R3,288,38
+1,3,11,#Grey_R3,#Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6,52,6
+1,3,11,#QueenElizabeth_3H6,#Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6,58,7
+1,3,11,#Rivers_3H6,#Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6,21,4
+1,3,12,#Buckingham_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6 #Stanley_R3,46,6
+1,3,12,#Grey_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6 #Stanley_R3,8,1
+1,3,12,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6 #Stanley_R3,80,10
+1,3,12,#Stanley_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #QueenElizabeth_3H6 #Rivers_3H6 #Stanley_R3,60,8
+1,3,13,#Grey_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,9,1
+1,3,13,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,180,25
+1,3,13,#RichardIII_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,314,43
+1,3,13,#Rivers_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,9,2
+1,3,14,#Buckingham_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,44,6
+1,3,14,#Dorset_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,23,3
+1,3,14,#Hastings_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,32,4
+1,3,14,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,55,7
+1,3,14,#QueenMargaret_1H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,998,133
+1,3,14,#RichardIII_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,381,49
+1,3,14,#Rivers_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #QueenMargaret_1H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,51,7
+1,3,15,#Buckingham_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,10,1
+1,3,15,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,8,1
+1,3,15,#RichardIII_R3,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,93,11
+1,3,15,#Rivers_3H6,#Buckingham_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,26,3
+1,3,16,#Catesby_R3,#Buckingham_R3 #Catesby_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,16,3
+1,3,16,#QueenElizabeth_3H6,#Buckingham_R3 #Catesby_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,9,1
+1,3,16,#Rivers_3H6,#Buckingham_R3 #Catesby_R3 #Dorset_R3 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,5,1
+1,3,17,#RichardIII_R3,#RichardIII_R3,123,15
+1,3,18,#MURDERERS.1_R3,#MURDERERS.1_R3 #MURDERERS.2_R3 #RichardIII_R3,45,5
+1,3,18,#MURDERERS.1_R3 #MURDERERS.2_R3,#MURDERERS.1_R3 #MURDERERS.2_R3 #RichardIII_R3,5,1
+1,3,18,#RichardIII_R3,#MURDERERS.1_R3 #MURDERERS.2_R3 #RichardIII_R3,88,13
+1,4,19,#Clarence_3H6,#Clarence_3H6 #Jailer_R3,520,69
+1,4,19,#Jailer_R3,#Clarence_3H6 #Jailer_R3,68,8
+1,4,20,#Brakenbury_R3,#Brakenbury_R3 #Clarence_3H6 #Jailer_R3,56,8
+1,4,21,#Brakenbury_R3,#Brakenbury_R3 #Clarence_3H6 #Jailer_R3 #MURDERERS.1_R3 #MURDERERS.2_R3,69,10
+1,4,21,#MURDERERS.1_R3,#Brakenbury_R3 #Clarence_3H6 #Jailer_R3 #MURDERERS.1_R3 #MURDERERS.2_R3,30,5
+1,4,21,#MURDERERS.2_R3,#Brakenbury_R3 #Clarence_3H6 #Jailer_R3 #MURDERERS.1_R3 #MURDERERS.2_R3,12,2
+1,4,22,#Clarence_3H6,#Clarence_3H6 #MURDERERS.1_R3 #MURDERERS.2_R3,592,74
+1,4,22,#MURDERERS.1_R3,#Clarence_3H6 #MURDERERS.1_R3 #MURDERERS.2_R3,314,51
+1,4,22,#MURDERERS.1_R3 #MURDERERS.2_R3,#Clarence_3H6 #MURDERERS.1_R3 #MURDERERS.2_R3,2,1
+1,4,22,#MURDERERS.2_R3,#Clarence_3H6 #MURDERERS.1_R3 #MURDERERS.2_R3,368,54
+1,4,23,#MURDERERS.2_R3,#MURDERERS.2_R3,20,3
+1,4,24,#MURDERERS.1_R3,#MURDERERS.1_R3 #MURDERERS.2_R3,21,4
+1,4,24,#MURDERERS.2_R3,#MURDERERS.1_R3 #MURDERERS.2_R3,29,3
+1,4,25,#MURDERERS.1_R3,#MURDERERS.1_R3,46,5
+2,1,26,#Buckingham_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,87,11
+2,1,26,#Dorset_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,13,2
+2,1,26,#EdwardIV_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,188,26
+2,1,26,#Hastings_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,21,3
+2,1,26,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,15,2
+2,1,26,#Rivers_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Rivers_3H6 #Scales_R3 #Woodeville_R3,28,3
+2,1,27,#Buckingham_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Woodeville_R3,9,1
+2,1,27,#Dorset_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Woodeville_R3,18,2
+2,1,27,#EdwardIV_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Woodeville_R3,45,6
+2,1,27,#QueenElizabeth_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Woodeville_R3,40,5
+2,1,27,#RichardIII_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Woodeville_R3,272,36
+2,1,28,#EdwardIV_3H6,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Stanley_R3 #Woodeville_R3,291,35
+2,1,28,#Stanley_R3,#Buckingham_R3 #Dorset_R3 #EdwardIV_3H6 #Grey_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Scales_R3 #Stanley_R3 #Woodeville_R3,37,5
+2,1,29,#Buckingham_R3,#Buckingham_R3 #Ratcliffe_R3 #RichardIII_R3,5,1
+2,1,29,#RichardIII_R3,#Buckingham_R3 #Ratcliffe_R3 #RichardIII_R3,50,6
+2,2,30,#ClarencesBoy_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #DuchessOfYork_R3,137,17
+2,2,30,#ClarencesDaughter_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #DuchessOfYork_R3,21,3
+2,2,30,#DuchessOfYork_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #DuchessOfYork_R3,92,14
+2,2,31,#ClarencesBoy_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,18,2
+2,2,31,#ClarencesBoy_R3 #ClarencesDaughter_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,26,3
+2,2,31,#ClarencesDaughter_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,11,2
+2,2,31,#Dorset_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,53,7
+2,2,31,#DuchessOfYork_R3,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,230,29
+2,2,31,#QueenElizabeth_3H6,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,159,20
+2,2,31,#Rivers_3H6,#ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #Rivers_3H6,41,6
+2,2,32,#Buckingham_R3,#Buckingham_R3 #ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,148,20
+2,2,32,#DuchessOfYork_R3,#Buckingham_R3 #ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,15,2
+2,2,32,#Hastings_3H6,#Buckingham_R3 #ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,4,1
+2,2,32,#RichardIII_R3,#Buckingham_R3 #ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,127,16
+2,2,32,#Rivers_3H6,#Buckingham_R3 #ClarencesBoy_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #Hastings_3H6 #QueenElizabeth_3H6 #Ratcliffe_R3 #RichardIII_R3 #Rivers_3H6 #Stanley_R3,59,8
+2,2,33,#Buckingham_R3,#Buckingham_R3 #RichardIII_R3,42,5
+2,2,33,#RichardIII_R3,#Buckingham_R3 #RichardIII_R3,30,4
+2,3,34,#CITIZENS.1_R3,#CITIZENS.1_R3 #CITIZENS.2_R3,13,2
+2,3,34,#CITIZENS.2_R3,#CITIZENS.1_R3 #CITIZENS.2_R3,30,4
+2,3,35,#CITIZENS.1_R3,#CITIZENS.1_R3 #CITIZENS.2_R3 #CITIZENS.3_R3,52,6
+2,3,35,#CITIZENS.2_R3,#CITIZENS.1_R3 #CITIZENS.2_R3 #CITIZENS.3_R3,74,9
+2,3,35,#CITIZENS.3_R3,#CITIZENS.1_R3 #CITIZENS.2_R3 #CITIZENS.3_R3,230,30
+2,4,36,#Archbishop_R3,#Archbishop_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #York_R3,24,3
+2,4,36,#DuchessOfYork_R3,#Archbishop_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #York_R3,118,13
+2,4,36,#QueenElizabeth_3H6,#Archbishop_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #York_R3,29,4
+2,4,36,#York_R3,#Archbishop_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #York_R3,147,20
+2,4,37,#Archbishop_R3,#Archbishop_R3 #DuchessOfYork_R3 #MESSENGERS.X.1_R3 #QueenElizabeth_3H6 #York_R3,54,8
+2,4,37,#DuchessOfYork_R3,#Archbishop_R3 #DuchessOfYork_R3 #MESSENGERS.X.1_R3 #QueenElizabeth_3H6 #York_R3,98,14
+2,4,37,#MESSENGERS.X.1_R3,#Archbishop_R3 #DuchessOfYork_R3 #MESSENGERS.X.1_R3 #QueenElizabeth_3H6 #York_R3,61,8
+2,4,37,#QueenElizabeth_3H6,#Archbishop_R3 #DuchessOfYork_R3 #MESSENGERS.X.1_R3 #QueenElizabeth_3H6 #York_R3,61,10
+3,1,38,#Buckingham_R3,#ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #RichardIII_R3,8,1
+3,1,38,#EdwardV_R3,#ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #RichardIII_R3,33,4
+3,1,38,#RichardIII_R3,#ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #RichardIII_R3,96,13
+3,1,39,#EdwardV_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #MayorOfLondon_R3 #RichardIII_R3,47,5
+3,1,39,#MayorOfLondon_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #MayorOfLondon_R3 #RichardIII_R3,9,1
+3,1,40,#Buckingham_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3,152,20
+3,1,40,#Cardinal_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3,74,9
+3,1,40,#EdwardV_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3,17,2
+3,1,40,#Hastings_3H6,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3,43,6
+3,1,41,#Buckingham_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Catesby_R3 #EdwardV_R3 #MayorOfLondon_R3 #RichardIII_R3,23,4
+3,1,41,#EdwardV_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Catesby_R3 #EdwardV_R3 #MayorOfLondon_R3 #RichardIII_R3,153,20
+3,1,41,#RichardIII_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Catesby_R3 #EdwardV_R3 #MayorOfLondon_R3 #RichardIII_R3,78,10
+3,1,42,#Buckingham_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3 #York_R3,38,5
+3,1,42,#EdwardV_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3 #York_R3,96,12
+3,1,42,#RichardIII_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3 #York_R3,122,17
+3,1,42,#York_R3,#ATTENDANTS.0_R3 #ATTENDANTS_R3 #Buckingham_R3 #Cardinal_R3 #Catesby_R3 #EdwardV_R3 #Hastings_3H6 #MayorOfLondon_R3 #RichardIII_R3 #York_R3,192,24
+3,1,43,#Buckingham_R3,#ATTENDANTS.0_R3 #Buckingham_R3 #Catesby_R3 #RichardIII_R3,193,25
+3,1,43,#Catesby_R3,#ATTENDANTS.0_R3 #Buckingham_R3 #Catesby_R3 #RichardIII_R3,42,5
+3,1,43,#RichardIII_R3,#ATTENDANTS.0_R3 #Buckingham_R3 #Catesby_R3 #RichardIII_R3,81,10
+3,1,44,#Buckingham_R3,#ATTENDANTS.0_R3 #Buckingham_R3 #RichardIII_R3,26,3
+3,1,44,#RichardIII_R3,#ATTENDANTS.0_R3 #Buckingham_R3 #RichardIII_R3,57,7
+3,2,45,#MESSENGERS.X.2_R3,#MESSENGERS.X.2_R3,4,1
+3,2,46,#Hastings_3H6,#Hastings_3H6 #MESSENGERS.X.2_R3,136,19
+3,2,46,#MESSENGERS.X.2_R3,#Hastings_3H6 #MESSENGERS.X.2_R3,114,15
+3,2,47,#Catesby_R3,#Catesby_R3 #Hastings_3H6,117,15
+3,2,47,#Hastings_3H6,#Catesby_R3 #Hastings_3H6,189,23
+3,2,48,#Hastings_3H6,#Catesby_R3 #Hastings_3H6 #Stanley_R3,81,9
+3,2,48,#Stanley_R3,#Catesby_R3 #Hastings_3H6 #Stanley_R3,108,13
+3,2,49,#Hastings_3H6,#Catesby_R3 #Hastings_3H6 #Pursuivant_R3 #Stanley_R3,9,1
+3,2,50,#Hastings_3H6,#Hastings_3H6 #Pursuivant_R3,76,9
+3,2,50,#Pursuivant_R3,#Hastings_3H6 #Pursuivant_R3,20,3
+3,2,51,#Hastings_3H6,#Hastings_3H6 #SirJohn_R3,28,3
+3,2,51,#SirJohn_R3,#Hastings_3H6 #SirJohn_R3,16,2
+3,2,52,#Buckingham_R3,#Buckingham_R3 #Hastings_3H6,53,7
+3,2,52,#Hastings_3H6,#Buckingham_R3 #Hastings_3H6,37,5
+3,3,53,#Grey_R3,#GUARDS_R3 #Grey_R3 #Ratcliffe_R3 #Rivers_3H6 #Vaughan_R3,41,5
+3,3,53,#Ratcliffe_R3,#GUARDS_R3 #Grey_R3 #Ratcliffe_R3 #Rivers_3H6 #Vaughan_R3,16,2
+3,3,53,#Rivers_3H6,#GUARDS_R3 #Grey_R3 #Ratcliffe_R3 #Rivers_3H6 #Vaughan_R3,131,18
+3,3,53,#Vaughan_R3,#GUARDS_R3 #Grey_R3 #Ratcliffe_R3 #Rivers_3H6 #Vaughan_R3,9,1
+3,4,54,#BishopOfEly_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,16,3
+3,4,54,#Buckingham_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,60,7
+3,4,54,#Hastings_3H6,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,81,10
+3,4,54,#Stanley_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,6,1
+3,4,55,#BishopOfEly_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,17,2
+3,4,55,#Buckingham_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,25,3
+3,4,55,#RichardIII_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,77,9
+3,4,56,#Buckingham_R3,#ATTENDANTS_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,7,1
+3,4,56,#RichardIII_R3,#ATTENDANTS_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,45,6
+3,4,57,#Stanley_R3,#ATTENDANTS_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,34,4
+3,4,58,#BishopOfEly_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,14,2
+3,4,58,#Hastings_3H6,#ATTENDANTS_R3 #BishopOfEly_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,71,9
+3,4,58,#Stanley_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #Stanley_R3,15,2
+3,4,59,#Hastings_3H6,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,41,5
+3,4,59,#RichardIII_R3,#ATTENDANTS_R3 #BishopOfEly_R3 #Buckingham_R3 #Hastings_3H6 #Lovell_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,130,16
+3,4,60,#Hastings_3H6,#Hastings_3H6 #Lovell_R3 #Ratcliffe_R3,196,25
+3,4,60,#Lovell_R3,#Hastings_3H6 #Lovell_R3 #Ratcliffe_R3,7,1
+3,4,60,#Ratcliffe_R3,#Hastings_3H6 #Lovell_R3 #Ratcliffe_R3,19,3
+3,5,61,#Buckingham_R3,#Buckingham_R3 #RichardIII_R3,55,8
+3,5,61,#RichardIII_R3,#Buckingham_R3 #RichardIII_R3,42,6
+3,5,62,#Buckingham_R3,#Buckingham_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,5,2
+3,5,62,#RichardIII_R3,#Buckingham_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,9,2
+3,5,63,#Buckingham_R3,#Buckingham_R3 #MayorOfLondon_R3 #RichardIII_R3,15,2
+3,5,63,#RichardIII_R3,#Buckingham_R3 #MayorOfLondon_R3 #RichardIII_R3,7,1
+3,5,64,#Buckingham_R3,#Buckingham_R3 #Lovell_R3 #MayorOfLondon_R3 #Ratcliffe_R3 #RichardIII_R3,168,22
+3,5,64,#Lovell_R3,#Buckingham_R3 #Lovell_R3 #MayorOfLondon_R3 #Ratcliffe_R3 #RichardIII_R3,13,2
+3,5,64,#MayorOfLondon_R3,#Buckingham_R3 #Lovell_R3 #MayorOfLondon_R3 #Ratcliffe_R3 #RichardIII_R3,69,9
+3,5,64,#RichardIII_R3,#Buckingham_R3 #Lovell_R3 #MayorOfLondon_R3 #Ratcliffe_R3 #RichardIII_R3,140,18
+3,5,65,#Buckingham_R3,#Buckingham_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,41,5
+3,5,65,#RichardIII_R3,#Buckingham_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,195,27
+3,5,66,#RichardIII_R3,#Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,24,4
+3,5,67,#RichardIII_R3,#RichardIII_R3,33,4
+3,6,68,#Scrivener_R3,#Scrivener_R3,116,14
+3,7,69,#Buckingham_R3,#Buckingham_R3 #RichardIII_R3,364,47
+3,7,69,#RichardIII_R3,#Buckingham_R3 #RichardIII_R3,65,9
+3,7,70,#Buckingham_R3,#Buckingham_R3 #CITIZENS_R3 #MayorOfLondon_R3,16,2
+3,7,71,#Buckingham_R3,#Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3,47,6
+3,7,71,#Catesby_R3,#Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3,50,7
+3,7,72,#Buckingham_R3,#Buckingham_R3 #CITIZENS_R3 #MayorOfLondon_R3,84,11
+3,7,72,#MayorOfLondon_R3,#Buckingham_R3 #CITIZENS_R3 #MayorOfLondon_R3,9,1
+3,7,73,#Buckingham_R3,#Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3,40,5
+3,7,73,#Catesby_R3,#Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3,33,4
+3,7,74,#Buckingham_R3,#Buckingham_R3 #CITIZENS_R3 #MayorOfLondon_R3,21,3
+3,7,75,#Buckingham_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,551,77
+3,7,75,#Catesby_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,8,1
+3,7,75,#MayorOfLondon_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,16,2
+3,7,75,#RichardIII_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,371,47
+3,7,76,#Catesby_R3,#BISHOPS_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,18,2
+3,7,76,#RichardIII_R3,#BISHOPS_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,31,4
+3,7,77,#BISHOPS_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS.0_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,1,1
+3,7,77,#Buckingham_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS.0_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,37,5
+3,7,77,#MayorOfLondon_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS.0_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,11,1
+3,7,77,#RichardIII_R3,#BISHOPS_R3 #Buckingham_R3 #CITIZENS.0_R3 #CITIZENS_R3 #Catesby_R3 #MayorOfLondon_R3 #RichardIII_R3,110,14
+4,1,78,#DuchessOfYork_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,38,5
+4,1,78,#LadyAnne_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,34,5
+4,1,78,#QueenElizabeth_3H6,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,15,2
+4,1,79,#Brakenbury_R3,#Brakenbury_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,45,6
+4,1,79,#DuchessOfYork_R3,#Brakenbury_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,9,1
+4,1,79,#LadyAnne_R3,#Brakenbury_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,29,3
+4,1,79,#QueenElizabeth_3H6,#Brakenbury_R3 #ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6,56,7
+4,1,80,#Dorset_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6 #Stanley_R3,15,2
+4,1,80,#DuchessOfYork_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6 #Stanley_R3,81,12
+4,1,80,#LadyAnne_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6 #Stanley_R3,259,32
+4,1,80,#QueenElizabeth_3H6,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6 #Stanley_R3,171,22
+4,1,80,#Stanley_R3,#ClarencesDaughter_R3 #Dorset_R3 #DuchessOfYork_R3 #LadyAnne_R3 #QueenElizabeth_3H6 #Stanley_R3,90,13
+4,2,81,#Buckingham_R3,#ATTENDANTS.0.1_R3 #ATTENDANTS_R3 #Buckingham_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,53,9
+4,2,81,#RichardIII_R3,#ATTENDANTS.0.1_R3 #ATTENDANTS_R3 #Buckingham_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,144,19
+4,2,82,#ATTENDANTS.0.1_R3,#ATTENDANTS.0.1_R3 #ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,36,6
+4,2,82,#Catesby_R3,#ATTENDANTS.0.1_R3 #ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,9,1
+4,2,82,#RichardIII_R3,#ATTENDANTS.0.1_R3 #ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,54,9
+4,2,83,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3,32,4
+4,2,84,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,89,11
+4,2,84,#Stanley_R3,#ATTENDANTS_R3 #Catesby_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,20,3
+4,2,85,#RichardIII_R3,#ATTENDANTS_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,48,6
+4,2,86,#RichardIII_R3,#ATTENDANTS_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3 #Tyrrel_R3,87,11
+4,2,86,#Tyrrel_R3,#ATTENDANTS_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3 #Tyrrel_R3,45,6
+4,2,87,#Buckingham_R3,#ATTENDANTS_R3 #Buckingham_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,108,16
+4,2,87,#RichardIII_R3,#ATTENDANTS_R3 #Buckingham_R3 #Lovell_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,162,22
+4,2,88,#Buckingham_R3,#Buckingham_R3,35,4
+4,3,89,#Tyrrel_R3,#Tyrrel_R3,167,23
+4,3,90,#RichardIII_R3,#RichardIII_R3 #Tyrrel_R3,52,8
+4,3,90,#Tyrrel_R3,#RichardIII_R3 #Tyrrel_R3,56,8
+4,3,91,#RichardIII_R3,#RichardIII_R3,65,8
+4,3,92,#Ratcliffe_R3,#Ratcliffe_R3 #RichardIII_R3,27,4
+4,3,92,#RichardIII_R3,#Ratcliffe_R3 #RichardIII_R3,72,10
+4,4,93,#QueenMargaret_1H6,#QueenMargaret_1H6,57,9
+4,4,94,#DuchessOfYork_R3,#DuchessOfYork_R3 #QueenElizabeth_3H6 #QueenMargaret_1H6,96,14
+4,4,94,#QueenElizabeth_3H6,#DuchessOfYork_R3 #QueenElizabeth_3H6 #QueenMargaret_1H6,154,20
+4,4,94,#QueenMargaret_1H6,#DuchessOfYork_R3 #QueenElizabeth_3H6 #QueenMargaret_1H6,696,88
+4,4,95,#DuchessOfYork_R3,#DuchessOfYork_R3 #QueenElizabeth_3H6,41,5
+4,4,95,#QueenElizabeth_3H6,#DuchessOfYork_R3 #QueenElizabeth_3H6,34,5
+4,4,96,#DuchessOfYork_R3,#ATTENDANTS_R3 #Catesby_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #RichardIII_R3,276,39
+4,4,96,#QueenElizabeth_3H6,#ATTENDANTS_R3 #Catesby_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #RichardIII_R3,51,6
+4,4,96,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #DuchessOfYork_R3 #QueenElizabeth_3H6 #RichardIII_R3,137,21
+4,4,97,#QueenElizabeth_3H6,#ATTENDANTS_R3 #Catesby_R3 #QueenElizabeth_3H6 #RichardIII_R3,948,123
+4,4,97,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #QueenElizabeth_3H6 #RichardIII_R3,932,125
+4,4,98,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #RichardIII_R3,6,1
+4,4,99,#Catesby_R3,#ATTENDANTS_R3 #Catesby_R3 #Ratcliffe_R3 #RichardIII_R3,31,5
+4,4,99,#Ratcliffe_R3,#ATTENDANTS_R3 #Catesby_R3 #Ratcliffe_R3 #RichardIII_R3,47,7
+4,4,99,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #Ratcliffe_R3 #RichardIII_R3,71,12
+4,4,100,#Ratcliffe_R3,#ATTENDANTS_R3 #Ratcliffe_R3 #RichardIII_R3,18,2
+4,4,100,#RichardIII_R3,#ATTENDANTS_R3 #Ratcliffe_R3 #RichardIII_R3,13,2
+4,4,101,#RichardIII_R3,#ATTENDANTS_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,208,27
+4,4,101,#Stanley_R3,#ATTENDANTS_R3 #Ratcliffe_R3 #RichardIII_R3 #Stanley_R3,135,17
+4,4,102,#MESSENGERS.1_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #Ratcliffe_R3 #RichardIII_R3,33,5
+4,4,103,#MESSENGERS.2_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #Ratcliffe_R3 #RichardIII_R3,23,3
+4,4,104,#MESSENGERS.3_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #Ratcliffe_R3 #RichardIII_R3,47,7
+4,4,104,#RichardIII_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #Ratcliffe_R3 #RichardIII_R3,45,6
+4,4,105,#MESSENGERS.4_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #MESSENGERS.4_R3 #Ratcliffe_R3 #RichardIII_R3,78,10
+4,4,105,#RichardIII_R3,#ATTENDANTS_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #MESSENGERS.4_R3 #Ratcliffe_R3 #RichardIII_R3,26,3
+4,4,106,#Catesby_R3,#ATTENDANTS_R3 #Catesby_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #MESSENGERS.4_R3 #Ratcliffe_R3 #RichardIII_R3,34,4
+4,4,106,#RichardIII_R3,#ATTENDANTS_R3 #Catesby_R3 #MESSENGERS.1_R3 #MESSENGERS.2_R3 #MESSENGERS.3_R3 #MESSENGERS.4_R3 #Ratcliffe_R3 #RichardIII_R3,29,4
+4,5,107,#SirChristopher_R3,#SirChristopher_R3 #Stanley_R3,58,8
+4,5,107,#Stanley_R3,#SirChristopher_R3 #Stanley_R3,99,13
+5,1,108,#Buckingham_R3,#Buckingham_R3 #GUARDS_R3 #Sheriff_R3,219,28
+5,1,108,#Sheriff_R3,#Buckingham_R3 #GUARDS_R3 #Sheriff_R3,9,2
+5,2,109,#Blunt_R3,#Blunt_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,19,2
+5,2,109,#HenryVII_R3,#Blunt_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,147,20
+5,2,109,#Herbert_R3,#Blunt_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,10,1
+5,2,109,#Oxford_3H6,#Blunt_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,13,2
+5,3,110,#Norfolk_R3,#Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #Surrey_R3,21,3
+5,3,110,#RichardIII_R3,#Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #Surrey_R3,114,15
+5,3,110,#Surrey_R3,#Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #Surrey_R3,9,1
+5,3,111,#Blunt_R3,#Blunt_R3 #Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,48,6
+5,3,111,#HenryVII_R3,#Blunt_R3 #Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,160,21
+5,3,112,#HenryVII_R3,#Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #SOLDIERS.RICHMOND_R3,17,3
+5,3,113,#Catesby_R3,#Brandon_R3 #Catesby_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Norfolk_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,17,2
+5,3,113,#Norfolk_R3,#Brandon_R3 #Catesby_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Norfolk_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,9,2
+5,3,113,#RichardIII_R3,#Brandon_R3 #Catesby_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Norfolk_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,51,7
+5,3,114,#Catesby_R3,#Brandon_R3 #Catesby_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,2,1
+5,3,114,#RichardIII_R3,#Brandon_R3 #Catesby_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,27,5
+5,3,115,#Ratcliffe_R3,#Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,29,5
+5,3,115,#RichardIII_R3,#Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,94,13
+5,3,116,#HenryVII_R3,#Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #Stanley_R3,60,8
+5,3,116,#Stanley_R3,#Brandon_R3 #Dorset_R3 #HenryVII_R3 #Herbert_R3 #Oxford_3H6 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #Stanley_R3,158,21
+5,3,117,#HenryVII_R3,#HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,77,10
+5,3,118,#PrinceEdward_3H6,#HenryVII_R3 #PrinceEdward_3H6 #RichardIII_R3 #SOLDIERS.RICHARD_R3,44,8
+5,3,119,#HenryVI_1H6,#HenryVII_R3 #HenryVI_1H6 #RichardIII_R3 #SOLDIERS.RICHARD_R3,54,7
+5,3,120,#Clarence_3H6,#Clarence_3H6 #HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,64,9
+5,3,121,#Grey_R3,#Grey_R3 #HenryVII_R3 #RichardIII_R3 #Rivers_3H6 #SOLDIERS.RICHARD_R3 #Vaughan_R3,8,1
+5,3,121,#Grey_R3 #Rivers_3H6 #Vaughan_R3,#Grey_R3 #HenryVII_R3 #RichardIII_R3 #Rivers_3H6 #SOLDIERS.RICHARD_R3 #Vaughan_R3,16,2
+5,3,121,#Rivers_3H6,#Grey_R3 #HenryVII_R3 #RichardIII_R3 #Rivers_3H6 #SOLDIERS.RICHARD_R3 #Vaughan_R3,16,2
+5,3,121,#Vaughan_R3,#Grey_R3 #HenryVII_R3 #RichardIII_R3 #Rivers_3H6 #SOLDIERS.RICHARD_R3 #Vaughan_R3,14,2
+5,3,122,#EdwardV_R3 #York_R3,#EdwardV_R3 #HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3 #York_R3,65,9
+5,3,123,#Hastings_3H6,#Hastings_3H6 #HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,33,5
+5,3,124,#LadyAnne_R3,#HenryVII_R3 #LadyAnne_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,58,9
+5,3,125,#Buckingham_R3,#Buckingham_R3 #HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,83,11
+5,3,126,#RichardIII_R3,#HenryVII_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,239,30
+5,3,127,#Ratcliffe_R3,#HenryVII_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,40,6
+5,3,127,#RichardIII_R3,#HenryVII_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,83,11
+5,3,128,#ATTENDANTS.RICHMOND_R3,#ATTENDANTS.RICHMOND_R3 #HenryVII_R3,3,1
+5,3,128,#HenryVII_R3,#ATTENDANTS.RICHMOND_R3 #HenryVII_R3,14,2
+5,3,129,#ATTENDANTS.RICHMOND.0.1_R3,#ATTENDANTS.RICHMOND.0.1_R3 #ATTENDANTS.RICHMOND_R3 #HenryVII_R3,11,2
+5,3,129,#HenryVII_R3,#ATTENDANTS.RICHMOND.0.1_R3 #ATTENDANTS.RICHMOND_R3 #HenryVII_R3,347,45
+5,3,130,#Ratcliffe_R3,#ATTENDANTS.RICHMOND.0.1_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,23,4
+5,3,130,#RichardIII_R3,#ATTENDANTS.RICHMOND.0.1_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,115,15
+5,3,131,#Norfolk_R3,#ATTENDANTS.RICHMOND.0.1_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,23,3
+5,3,131,#RichardIII_R3,#ATTENDANTS.RICHMOND.0.1_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,407,56
+5,3,132,#MESSENGERS.X.3_R3,#ATTENDANTS.RICHMOND.0.1_R3 #MESSENGERS.X.3_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,7,1
+5,3,132,#Norfolk_R3,#ATTENDANTS.RICHMOND.0.1_R3 #MESSENGERS.X.3_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,15,2
+5,3,132,#RichardIII_R3,#ATTENDANTS.RICHMOND.0.1_R3 #MESSENGERS.X.3_R3 #Norfolk_R3 #Ratcliffe_R3 #RichardIII_R3 #SOLDIERS.RICHARD_R3,53,7
+5,4,133,#Catesby_R3,#Catesby_R3 #Norfolk_R3 #SOLDIERS.RICHARD_R3,48,6
+5,4,134,#Catesby_R3,#Catesby_R3 #RichardIII_R3,9,1
+5,4,134,#RichardIII_R3,#Catesby_R3 #RichardIII_R3,53,6
+5,5,135,#HenryVII_R3,#ATTENDANTS.RICHMOND_R3 #HenryVII_R3 #SOLDIERS.RICHMOND_R3 #Stanley_R3,244,32
+5,5,135,#Stanley_R3,#ATTENDANTS.RICHMOND_R3 #HenryVII_R3 #SOLDIERS.RICHMOND_R3 #Stanley_R3,71,9
