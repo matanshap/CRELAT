@@ -32,6 +32,45 @@ def extract_entity_contexts(tokens, entities, context_window=10):
 
     return entity_contexts
 
+def inference_bert_single(context, model = 'bert-base-uncased'):
+    """
+    Get embedding vector for a single context using BERT.
+    
+    Args:
+        context: A string containing the context text
+        model: Model name (default: 'bert-base-uncased')
+    
+    Returns:
+        embedding: A torch tensor containing the context embedding vector (mean pooling of all tokens)
+    """
+    # Step 1: Load pre-trained BERT model and tokenizer
+    model_name = model
+    tokenizer = BertTokenizer.from_pretrained(model_name)
+    model = BertModel.from_pretrained(model_name)
+    model.eval()
+    
+    # Step 2: Tokenize the context text
+    text = context
+    tokenized_text = tokenizer.tokenize(text)
+    indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
+    tokens_tensor = torch.tensor([indexed_tokens])
+    
+    # Step 3: Move the model and input tensors to the GPU if available
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+    tokens_tensor = tokens_tensor.to(device)
+    
+    # Step 4: Obtain the model's output
+    with torch.no_grad():
+        outputs = model(tokens_tensor)
+        hidden_states = outputs[0]  # The hidden states from all layers
+    
+    # Step 5: Compute mean pooling (average of all token embeddings) as the context embedding
+    # Shape: hidden_states[0] is [seq_len, hidden_size]
+    # Average across all tokens to get a single vector representation
+    context_embedding = torch.mean(hidden_states[0], dim=0)  # Mean pooling over all tokens
+    
+    return context_embedding
 
 def inference_bert(entities_contexts, model = 'bert-base-uncased'):
     # Step 1: Load pre-trained BERT model and tokenizer
@@ -46,30 +85,40 @@ def inference_bert(entities_contexts, model = 'bert-base-uncased'):
         cls_per_context[entity] = []
         contexts = entities_contexts[entity]
         for cont in contexts:
-            # Step 2: Define your text and mask a specific token
+            # Step 2: Tokenize the context text with BERT
             text = cont
-            masked_token = entity  # Replace with the token you want to mask
-            # Step 3: Tokenize the text and identify the index of the masked token
+            target_entity = entity  # The entity we want to extract embedding for
+            
+            # Tokenize the full context
             tokenized_text = tokenizer.tokenize(text)
-            indexed_tokens = []
-            for token in tokenized_text:
-                if token in tokenizer.vocab:
-                    indexed_tokens.append(tokenizer.convert_tokens_to_ids(token))
-                else:
-                    indexed_tokens.append(
-                        tokenizer.convert_tokens_to_ids('[UNK]'))  # Replace with [UNK] token or other handling logic
-
-
-            # Step 4: Find the index of the masked token or handle it gracefully
-            tokens_sep_by_space = text.split(" ")
-            try:
-                masked_token_index = tokens_sep_by_space.index(masked_token)
-            except ValueError:
-                # Handle case where token is not found (e.g., replace with [MASK] token)
-                print(f"Token '{masked_token}' not found in vocabulary. Handling gracefully...")
-                masked_token_index = None  # Or set to an index or handle according to your logic
+            indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
             tokens_tensor = torch.tensor([indexed_tokens])
 
+            # Step 3: Find the entity position in BERT tokenized sequence
+            # Tokenize the entity itself to get its subword tokens
+            entity_tokens = tokenizer.tokenize(target_entity)
+            
+            # Find where the entity tokens appear in the tokenized context
+            entity_token_indices = []
+            for i in range(len(tokenized_text) - len(entity_tokens) + 1):
+                if tokenized_text[i:i+len(entity_tokens)] == entity_tokens:
+                    entity_token_indices = list(range(i, i+len(entity_tokens)))
+                    break
+            
+            # If entity not found, try case-insensitive matching
+            if not entity_token_indices:
+                entity_lower_tokens = tokenizer.tokenize(target_entity.lower())
+                for i in range(len(tokenized_text) - len(entity_lower_tokens) + 1):
+                    if tokenized_text[i:i+len(entity_lower_tokens)] == entity_lower_tokens:
+                        entity_token_indices = list(range(i, i+len(entity_lower_tokens)))
+                        break
+
+            # Step 4: Handle case where entity is not found
+            if not entity_token_indices:
+                print(f"Warning: Entity '{target_entity}' not found in context. Using CLS token embedding.")
+                # Use CLS token (index 0) as fallback
+                entity_token_indices = [0]
+            
             # Step 5: Move the model and input tensors to the GPU
             device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
             model.to(device)
@@ -80,9 +129,15 @@ def inference_bert(entities_contexts, model = 'bert-base-uncased'):
                 outputs = model(tokens_tensor)
                 hidden_states = outputs[0]  # The hidden states from all layers
 
-            # Step 7: Print the contextual embedding for the masked token
-            masked_token_embedding = hidden_states[0, masked_token_index]
-            entities_embeddings_per_context[entity].append(masked_token_embedding)
+            # Step 7: Extract embedding for the entity (average if it spans multiple subword tokens)
+            if len(entity_token_indices) == 1:
+                entity_embedding = hidden_states[0, entity_token_indices[0]]
+            else:
+                # Average the embeddings of all subword tokens that make up the entity
+                entity_embeddings = hidden_states[0, entity_token_indices]
+                entity_embedding = torch.mean(entity_embeddings, dim=0)
+            
+            entities_embeddings_per_context[entity].append(entity_embedding)
 
             cls = outputs.last_hidden_state[:, 0, :]
             cls_per_context[entity].append(cls)

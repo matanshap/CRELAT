@@ -4,6 +4,10 @@ from scipy import spatial
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import torch
+import torch.nn.functional as F
+
+from transformers import BertTokenizer, BertModel
 
 class XMLParser:
     namespaces = {
@@ -103,16 +107,42 @@ class XMLParser:
             for speech in scene.findall('tei:sp', XMLParser.namespaces):
                 speech_info = {
                     'speaker': speech.get('who'),
-                    'speech': "",
+                    'text': "",
+                    'average_bert_embedding': None,
                 }
                 # Should be only one tei:ab in each sp tag
                 for word in speech.find('tei:ab', XMLParser.namespaces):
                     speech_info['speech_text'] += word.text
+                speech_info['average_bert_embedding'] = BERT_Inference_Without_Finetune.inference_bert_single(speech_info['text'])
+
                 scene_speeches.append(speech_info)
             characters_speeches.append(scene_speeches)
         return characters_speeches # list(list(dict))
 
-    
+    def __generate_speech_pairs(self):
+        """
+        Returns dict of speech pairs
+        Each pair is a tuple of two characters
+        Each value is a list of tuples (speech of char1, speech of char2)
+        """
+        speech_pairs = {(char1, char2): [] for char1 in self.characters for char2 in self.characters if char1 != char2}
+        
+        # Iterate through each scene
+        for scene in self.characters_speeches:
+            # Look for consecutive speeches between different characters
+            for speech_idx in range(len(scene) - 1):
+                speaker1 = scene[speech_idx]['speaker']
+                speech1 = scene[speech_idx]['speech']
+                
+                speaker2 = scene[speech_idx + 1]['speaker']
+                speech2 = scene[speech_idx + 1]['speech']
+                
+                # Only add pairs if the speakers are different and both are valid characters
+                if speaker1 != speaker2 and speaker1 in self.characters and speaker2 in self.characters:
+                    speech_pairs[(speaker1, speaker2)].append((speech1, speech2))
+        
+        return speech_pairs
+        
     def __calculate_co_occurrences(self):
         co_occurrences = {k: {k: 0 for k in self.characters} for k in self.characters}
         for scene in self.characters_speeches:
@@ -132,19 +162,27 @@ class XMLParser:
         return co_occurrences
 
     def __calculate_cosine_similarity(self):
-        cosine_similarity = {k: {k: 0 for k in self.characters} for k in self.characters}
-        entities_contexts = {k: [] for k in self.characters}
-        for scene in self.characters_speeches:
-            for speech in scene:
-                speaker = speech['speaker']
-                speech_text = speech['speech']
-                entities_contexts[speaker].append(speech_text)
-        entities_embeddings_per_context, cls_per_context = BERT_Inference_Without_Finetune.inference_bert(entities_contexts)
+        cosine_similarities = {k: {k: 0 for k in self.characters} for k in self.characters}
 
-        for speaker in self.characters:
-            for other_speaker in self.characters:
-                if speaker != other_speaker:
-                    cosine_similarity[speaker][other_speaker] = 1 - spatial.distance.cosine(entities_embeddings_per_context[speaker], entities_embeddings_per_context[other_speaker])
-        return cosine_similarity
+        for scene in self.characters_speeches:
+            for speech_idx in range(len(scene) - 1):
+                speaker = scene[speech_idx]['speaker']
+                # speech = scene[speech_idx]['speech']
+
+                next_speaker = scene[speech_idx + 1]['speaker']
+                # next_speech = scene[speech_idx + 1]['speech']
+
+                # TODO: Check if there is a character that speaks twice in a row
+                if speaker != next_speaker:
+                    import torch.nn.functional as F
+
+                # If embeddings are 1D tensors, add a dimension for batch processing
+                cosine_similarities[speaker][next_speaker] += F.cosine_similarity(
+                    scene[speech_idx]['average_bert_embedding'].unsqueeze(0),
+                    scene[speech_idx + 1]['average_bert_embedding'].unsqueeze(0)
+                ).item()
+                cosine_similarities[next_speaker][speaker] = cosine_similarities[speaker][next_speaker]
+
+        return cosine_similarities
 
     
