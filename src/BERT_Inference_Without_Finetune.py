@@ -3,6 +3,101 @@ import torch
 from scipy import spatial
 
 
+class BERTModelManager:
+    """
+    Manages BERT model and tokenizer to avoid reloading them on every inference call.
+    This significantly improves performance when processing multiple texts.
+    """
+    _instances = {}
+    
+    def __init__(self, model_name='bert-base-uncased'):
+        self.model_name = model_name
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        print(f"Loading BERT model '{model_name}' on {self.device}...")
+        self.tokenizer = BertTokenizer.from_pretrained(model_name)
+        self.model = BertModel.from_pretrained(model_name)
+        self.model.eval()
+        self.model.to(self.device)
+        print(f"BERT model loaded successfully!")
+    
+    @classmethod
+    def get_instance(cls, model_name='bert-base-uncased'):
+        """Get or create a singleton instance for the given model name."""
+        if model_name not in cls._instances:
+            cls._instances[model_name] = cls(model_name)
+        return cls._instances[model_name]
+    
+    def get_embedding(self, text):
+        """
+        Get embedding vector for a single text using the cached BERT model.
+        
+        Args:
+            text: A string containing the text
+        
+        Returns:
+            embedding: A torch tensor containing the text embedding vector (mean pooling of all tokens)
+        """
+        # Tokenize the text
+        tokenized_text = self.tokenizer.tokenize(text)
+        indexed_tokens = self.tokenizer.convert_tokens_to_ids(tokenized_text)
+        tokens_tensor = torch.tensor([indexed_tokens]).to(self.device)
+        
+        # Get model output
+        with torch.no_grad():
+            outputs = self.model(tokens_tensor)
+            hidden_states = outputs[0]  # The hidden states from all layers
+        
+        # Compute mean pooling (average of all token embeddings)
+        context_embedding = torch.mean(hidden_states[0], dim=0)  # Mean pooling over all tokens
+        
+        return context_embedding
+    
+    def get_embeddings_batch(self, texts, batch_size=32):
+        """
+        Get embeddings for multiple texts in batches for better performance.
+        
+        Args:
+            texts: List of strings
+            batch_size: Number of texts to process at once
+        
+        Returns:
+            embeddings: List of torch tensors
+        """
+        embeddings = []
+        
+        for i in range(0, len(texts), batch_size):
+            batch_texts = texts[i:i+batch_size]
+            
+            # Tokenize batch
+            encoded = self.tokenizer(
+                batch_texts,
+                padding=True,
+                truncation=True,
+                max_length=512,
+                return_tensors='pt'
+            )
+            encoded = {k: v.to(self.device) for k, v in encoded.items()}
+            
+            # Get model output
+            with torch.no_grad():
+                outputs = self.model(**encoded)
+                hidden_states = outputs[0]  # [batch_size, seq_len, hidden_size]
+            
+            # Compute mean pooling for each text in batch (ignoring padding tokens)
+            attention_mask = encoded['attention_mask']  # [batch_size, seq_len]
+            for j in range(len(batch_texts)):
+                # Mask out padding tokens
+                mask = attention_mask[j].unsqueeze(-1)  # [seq_len, 1]
+                masked_hidden = hidden_states[j] * mask  # [seq_len, hidden_size]
+                # Sum and divide by number of non-padding tokens
+                sum_embeddings = torch.sum(masked_hidden, dim=0)
+                num_tokens = torch.sum(attention_mask[j])
+                embedding = sum_embeddings / num_tokens
+                embeddings.append(embedding)
+        
+        return embeddings
+
+
 def extract_entity_contexts(tokens, entities, context_window=10):
     # Tokenize the book text
     # Find the positions of each entity in the tokenized text
@@ -32,45 +127,23 @@ def extract_entity_contexts(tokens, entities, context_window=10):
 
     return entity_contexts
 
-def inference_bert_single(context, model = 'bert-base-uncased'):
+def inference_bert_single(context, model='bert-base-uncased', model_manager=None):
     """
     Get embedding vector for a single context using BERT.
+    Uses cached model manager for better performance.
     
     Args:
         context: A string containing the context text
         model: Model name (default: 'bert-base-uncased')
+        model_manager: Optional BERTModelManager instance to reuse (for performance)
     
     Returns:
         embedding: A torch tensor containing the context embedding vector (mean pooling of all tokens)
     """
-    # Step 1: Load pre-trained BERT model and tokenizer
-    model_name = model
-    tokenizer = BertTokenizer.from_pretrained(model_name)
-    model = BertModel.from_pretrained(model_name)
-    model.eval()
+    if model_manager is None:
+        model_manager = BERTModelManager.get_instance(model)
     
-    # Step 2: Tokenize the context text
-    text = context
-    tokenized_text = tokenizer.tokenize(text)
-    indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
-    tokens_tensor = torch.tensor([indexed_tokens])
-    
-    # Step 3: Move the model and input tensors to the GPU if available
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model.to(device)
-    tokens_tensor = tokens_tensor.to(device)
-    
-    # Step 4: Obtain the model's output
-    with torch.no_grad():
-        outputs = model(tokens_tensor)
-        hidden_states = outputs[0]  # The hidden states from all layers
-    
-    # Step 5: Compute mean pooling (average of all token embeddings) as the context embedding
-    # Shape: hidden_states[0] is [seq_len, hidden_size]
-    # Average across all tokens to get a single vector representation
-    context_embedding = torch.mean(hidden_states[0], dim=0)  # Mean pooling over all tokens
-    
-    return context_embedding
+    return model_manager.get_embedding(context)
 
 def inference_bert(entities_contexts, model = 'bert-base-uncased'):
     # Step 1: Load pre-trained BERT model and tokenizer
