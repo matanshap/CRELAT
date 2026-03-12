@@ -1,0 +1,71 @@
+nohup: ignoring input
+2026-01-18 19:17:59.771704: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+llama_context: n_ctx_per_seq (2048) < n_ctx_train (4096) -- the full capacity of the model will not be utilized
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Loading BERT model 'bert-base-uncased'...
+Traceback (most recent call last):
+  File "/home/shapirma/CRELAT/src/RunCRELAT_Corpus.py", line 22, in <module>
+    main()
+  File "/home/shapirma/CRELAT/src/RunCRELAT_Corpus.py", line 10, in main
+    corpus.load_parsers()
+  File "/home/shapirma/CRELAT/src/xml_corpus_parser.py", line 124, in load_parsers
+    parser.parse()
+  File "/home/shapirma/CRELAT/src/xmlparser.py", line 28, in parse
+    self.characters_speeches = self.__get_characters_speeches()
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/shapirma/CRELAT/src/xmlparser.py", line 111, in __get_characters_speeches
+    add_embeddings_to_speech_info("olmo")
+  File "/home/shapirma/CRELAT/src/xmlparser.py", line 67, in add_embeddings_to_speech_info
+    embeddings = get_embeddings_olmo(
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/home/shapirma/CRELAT/src/OLMo_Embeddings.py", line 194, in get_embeddings_batch
+    embedding_data = model.embed(text)
+                     ^^^^^^^^^^^^^^^^^
+  File "/home/shapirma/.local/lib/python3.11/site-packages/llama_cpp/llama.py", line 1108, in embed
+    decode_batch(s_batch)
+  File "/home/shapirma/.local/lib/python3.11/site-packages/llama_cpp/llama.py", line 1045, in decode_batch
+    self._ctx.decode(self._batch)
+  File "/home/shapirma/.local/lib/python3.11/site-packages/llama_cpp/_internals.py", line 327, in decode
+    raise RuntimeError(f"llama_decode returned {return_code}")
+RuntimeError: llama_decode returned -1
+double free or corruption (out)

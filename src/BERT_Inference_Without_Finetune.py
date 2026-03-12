@@ -1,4 +1,4 @@
-from transformers import BertTokenizer, BertModel
+from transformers import AutoTokenizer, AutoModel
 import torch
 from scipy import spatial
 
@@ -14,8 +14,8 @@ class BERTModelManager:
         self.model_name = model_name
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         print(f"Loading BERT model '{model_name}' on {self.device}...")
-        self.tokenizer = BertTokenizer.from_pretrained(model_name)
-        self.model = BertModel.from_pretrained(model_name)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_name)
+        self.model = AutoModel.from_pretrained(model_name)
         self.model.eval()
         self.model.to(self.device)
         print(f"BERT model loaded successfully!")
@@ -96,6 +96,63 @@ class BERTModelManager:
                 embeddings.append(embedding)
         
         return embeddings
+
+
+def get_embeddings_batch(texts, model_name='bert-base-uncased', batch_size=32):
+    """
+    Get embeddings for multiple texts in batches using BERT.
+    This function is independent of BERTModelManager class.
+    
+    Args:
+        texts: List of strings to get embeddings for
+        model_name: Name of the BERT model to use (default: 'bert-base-uncased')
+        batch_size: Number of texts to process at once (default: 32)
+    
+    Returns:
+        embeddings: List of torch tensors, one for each input text
+    """
+    # Load tokenizer and model
+    print(f"Loading BERT model '{model_name}'...")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModel.from_pretrained(model_name)
+    model.eval()
+    model.to(device)
+    
+    embeddings = []
+    
+    for i in range(0, len(texts), batch_size):
+        batch_texts = texts[i:i+batch_size]
+        
+        # Tokenize batch
+        encoded = tokenizer(
+            batch_texts,
+            padding=True,
+            truncation=True,
+            max_length=512,
+            return_tensors='pt'
+        )
+        encoded = {k: v.to(device) for k, v in encoded.items()}
+        
+        # Get model output
+        with torch.no_grad():
+            outputs = model(**encoded)
+            hidden_states = outputs[0]  # [batch_size, seq_len, hidden_size]
+        
+        # Compute mean pooling for each text in batch (ignoring padding tokens)
+        attention_mask = encoded['attention_mask']  # [batch_size, seq_len]
+        for j in range(len(batch_texts)):
+            # Mask out padding tokens
+            mask = attention_mask[j].unsqueeze(-1)  # [seq_len, 1]
+            masked_hidden = hidden_states[j] * mask  # [seq_len, hidden_size]
+            # Sum and divide by number of non-padding tokens
+            sum_embeddings = torch.sum(masked_hidden, dim=0)
+            num_tokens = torch.sum(attention_mask[j])
+            embedding = sum_embeddings / num_tokens
+            embeddings.append(embedding)
+    
+    return embeddings
+
 
 
 def extract_entity_contexts(tokens, entities, context_window=10):
