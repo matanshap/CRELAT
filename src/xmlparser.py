@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 import re
+import math
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
@@ -9,36 +10,159 @@ from BERT_Inference_Without_Finetune import get_embeddings_batch as get_embeddin
 from OLMo_Embeddings import get_embeddings_batch as get_embeddings_olmo
 import torch.nn.functional as F
 
+
+# ---------------------------------------------------------------------------
+# Model registry – maps short names to HuggingFace identifiers + backend.
+# "transformers" backend → uses AutoModel/AutoTokenizer (any HF model).
+# "olmo"          backend → uses llama_cpp via OLMo_Embeddings (GGUF models).
+#
+# Any HuggingFace model name that is NOT in the registry is automatically
+# treated as a "transformers" backend model, so you can pass e.g.
+# "sentence-transformers/all-MiniLM-L6-v2" directly.
+# ---------------------------------------------------------------------------
+MODEL_REGISTRY: dict[str, dict] = {
+    "bert": {
+        "hf_name": "bert-base-uncased",
+        "backend": "transformers",
+    },
+    "macberth": {
+        "hf_name": "emanjavacas/MacBERTh",
+        "backend": "transformers",
+    },
+    "olmo": {
+        "hf_name": "mradermacher/OLMo-1B-Base-shakespeare-GGUF",
+        "backend": "olmo",
+        "olmo_filename": "OLMo-1B-Base-shakespeare.IQ3_M.gguf",
+        "olmo_n_ctx": 2048,
+        "olmo_n_threads": 8,
+    },
+}
+
+
+def slugify_transformer_model(model_name):
+    """Stable suffix for speech embedding keys: average_<slug>_embedding."""
+    s = re.sub(r"[^a-zA-Z0-9]+", "_", (model_name or "").strip()).strip("_").lower()
+    return s or "model"
+
+
+def resolve_model(name: str) -> tuple[str, str, dict]:
+    """Return (slug, backend, config) for a model short-name or HF identifier.
+
+    * Known short names are looked up in MODEL_REGISTRY.
+    * Unknown names are assumed to be HuggingFace transformer model IDs.
+    """
+    if name in MODEL_REGISTRY:
+        entry = MODEL_REGISTRY[name]
+        return name, entry["backend"], entry
+    slug = slugify_transformer_model(name)
+    return slug, "transformers", {"hf_name": name, "backend": "transformers"}
+
+
+def read_tei_play_title(xml_path):
+    """
+    Folger TEI: first ``<title>`` under ``teiHeader/fileDesc/titleStmt`` (e.g. Coriolanus).
+    Returns None if missing or unreadable.
+    """
+    ns = {"tei": "http://www.tei-c.org/ns/1.0"}
+    try:
+        root = ET.parse(xml_path).getroot()
+    except (ET.ParseError, OSError):
+        return None
+    header = root.find("tei:teiHeader", ns)
+    if header is None:
+        return None
+    fd = header.find("tei:fileDesc", ns)
+    if fd is None:
+        return None
+    ts = fd.find("tei:titleStmt", ns)
+    if ts is None:
+        return None
+    for title_el in ts.findall("tei:title", ns):
+        t = (title_el.text or "").strip()
+        if t:
+            return t
+    return None
+
+
 class XMLParser:
     namespaces = {
         'tei': 'http://www.tei-c.org/ns/1.0',
         "xml": 'http://www.w3.org/XML/1998/namespace',
     }
 
-    def __init__(self, xml_path, options={"co-oc", "bert-base-uncased", "olmo"}):
+    def __init__(
+        self,
+        xml_path,
+        options={"co-oc", "bert"},
+        model=None,
+        embedding_batch_size=16,
+        # Deprecated – kept for backward compat; prefer ``model``.
+        transformer_model_name=None,
+    ):
+        """
+        Parameters
+        ----------
+        xml_path : str
+            Path to a Folger TEI XML play file.
+        options : set[str]
+            Toggles.  ``"co-oc"`` enables co-occurrence counts.
+            Any model short-name (``"bert"``, ``"olmo"``, ``"macberth"``)
+            or full HuggingFace identifier (e.g.
+            ``"sentence-transformers/all-MiniLM-L6-v2"``) in the set will
+            compute embeddings + cosine similarities with that model.
+            ``"w2v"`` enables Word2Vec similarity.
+        model : str, optional
+            Convenience shorthand – equivalent to adding the name to
+            *options*.  Accepts any key from ``MODEL_REGISTRY`` or any
+            HuggingFace model name.
+        embedding_batch_size : int
+            Batch size for transformer inference.
+        """
         self.xml_path = xml_path
-        self.options = options
+        self.options = set(options)
+        if model is not None:
+            self.options.add(model)
+        if transformer_model_name is not None:
+            self.options.add(transformer_model_name)
+        self.embedding_batch_size = embedding_batch_size
         self.text = None
         self.entities = None
+
+        # Resolve which embedding models to run.
+        self._model_configs: dict[str, tuple[str, dict]] = {}
+        non_model_opts = {"co-oc", "w2v"}
+        for opt in self.options:
+            if opt in non_model_opts:
+                continue
+            slug, backend, cfg = resolve_model(opt)
+            self._model_configs[slug] = (backend, cfg)
+
+        # Cosine-similarity dicts keyed by model slug, populated by parse().
+        self.cosine_similarities: dict[str, dict] = {}
+        self.speech_interactions = []
+        self.play_title = read_tei_play_title(self.xml_path) or os.path.basename(self.xml_path)
     
     def parse(self):
         with open(self.xml_path, 'r') as file:
             self.xml = file.read()
             self.root = ET.fromstring(self.xml)
 
-        # Don't load models here - load them lazily when needed
-        self.bert_manager = None
-        self.olmo_manager = None
-
         self.characters = [*self.__get_characters(), '[UNKNOWN]']
         self.characters_speeches = self.__get_characters_speeches()
 
         if "co-oc" in self.options:
             self.co_occurrences = self.__calculate_co_occurrences()
-        if "bert" in self.options:
-            self.cosine_similarity_bert = self.__calculate_cosine_similarity(embedding_type='bert')
-        if "olmo" in self.options:
-            self.cosine_similarity_olmo = self.__calculate_cosine_similarity(embedding_type='olmo')
+
+        for slug in self._model_configs:
+            self.cosine_similarities[slug] = self.__calculate_cosine_similarity(
+                embedding_type=slug)
+
+        # Backward-compat aliases
+        if "bert" in self.cosine_similarities:
+            self.cosine_similarity_bert = self.cosine_similarities["bert"]
+        if "olmo" in self.cosine_similarities:
+            self.cosine_similarity_olmo = self.cosine_similarities["olmo"]
+
         if "w2v" in self.options:
             self.cosine_similarity_w2v = self.__calculate_w2v_similarity()
 
@@ -153,12 +277,28 @@ class XMLParser:
         results = self.root.findall(f'.//tei:{tag_name}', XMLParser.namespaces)
         return results
         
+    def _normalize_speaker_id(self, speaker_id):
+        if not speaker_id or speaker_id == '[UNKNOWN]':
+            return speaker_id
+        
+        # Current play code from filename (e.g., R3, 1H6, Ham)
+        play_code = os.path.splitext(os.path.basename(self.xml_path))[0]
+        
+        # If the ID has a suffix, replace it with the current play code.
+        # Otherwise, append the current play code.
+        if '_' in speaker_id:
+            base = speaker_id.rsplit('_', 1)[0]
+            return f"{base}_{play_code}"
+        
+        return f"{speaker_id}_{play_code}"
+
     def __get_characters(self):
         persons = self.find_tag_occurrences('person')
         persons.extend(self.find_tag_occurrences('personGrp'))
         characters = []
         for person in persons:
-            characters.append(person.get(f'{{{XMLParser.namespaces["xml"]}}}id'))
+            raw_id = person.get(f'{{{XMLParser.namespaces["xml"]}}}id')
+            characters.append(self._normalize_speaker_id(raw_id))
         return characters
 
     def __get_characters_speeches(self):
@@ -171,58 +311,68 @@ class XMLParser:
 
         characters_speeches = []
 
-        def add_embeddings_to_speech_info(model_name):
-            
-            if model_name == 'bert':
-                embeddings = get_embeddings_transformers(speeches_texts, batch_size=16, model_name='bert-base-uncased')
-            elif model_name == 'olmo':
-                embeddings = get_embeddings_olmo(
-                    texts=speeches_texts, 
-                    repo_id="mradermacher/OLMo-1B-Base-shakespeare-GGUF",
-                    filename="OLMo-1B-Base-shakespeare.IQ3_M.gguf", 
-                    n_ctx=2048, 
-                    n_threads=8, 
-                    batch_size=16
+        def _compute_embeddings(slug, backend, cfg, texts):
+            """Run inference for one model and return a list of embedding tensors."""
+            if backend == "olmo":
+                return get_embeddings_olmo(
+                    texts=texts,
+                    repo_id=cfg.get("hf_name",
+                                    "mradermacher/OLMo-1B-Base-shakespeare-GGUF"),
+                    filename=cfg.get("olmo_filename",
+                                     "OLMo-1B-Base-shakespeare.IQ3_M.gguf"),
+                    n_ctx=cfg.get("olmo_n_ctx", 2048),
+                    n_threads=cfg.get("olmo_n_threads", 8),
+                    batch_size=self.embedding_batch_size,
                 )
-            # Assign embeddings back to speeches (flattened list)
+            # Default: HuggingFace transformers backend
+            return get_embeddings_transformers(
+                texts,
+                batch_size=self.embedding_batch_size,
+                model_name=cfg["hf_name"],
+            )
+
+        def _store_embeddings(slug, embeddings):
             idx = 0
             for scene in characters_speeches:
                 for speech_info in scene:
-                    speech_info[f'average_{model_name}_embedding'] = embeddings[idx]
+                    speech_info[f'average_{slug}_embedding'] = embeddings[idx]
                     idx += 1
 
         scenes = self.find_tag_occurrences('div2')
         
+        def _extract_folger_text(elem):
+            res = ""
+            for child in elem:
+                if child.tag.endswith('speaker') or child.tag.endswith('stage') or child.tag.endswith('sound'):
+                    continue
+                if child.tag.endswith('lb'):
+                    res += '\n'
+                elif child.tag.endswith('w') or child.tag.endswith('c') or child.tag.endswith('pc'):
+                    if child.text:
+                        res += child.text
+                res += _extract_folger_text(child)
+            return res
+
         # Collect all speeches first
         for scene in scenes:
             scene_speeches = []
             for speech in scene.findall('tei:sp', XMLParser.namespaces):
-                who = speech.get('who') # Remove the # symbol from the speaker id
+                who = speech.get('who')
+                raw_speaker = who.split()[0][1:] if who is not None else '[UNKNOWN]'
                 speech_info = {
-                    # TODO: Handle multiple speakers in a single speech
-                    'speaker': who.split()[0][1:] if who is not None else '[UNKNOWN]', # Remove the # symbol from the speaker id
-                    'text': "",
-                    'average_bert_embedding': None,
-                    'average_olmo_embedding': None,
+                    'speaker': self._normalize_speaker_id(raw_speaker),
+                    'text': _extract_folger_text(speech).strip(),
                 }
-                # Should be only one tei:ab in each sp tag
-                ab_element = speech.find('tei:ab', XMLParser.namespaces)
-                if ab_element is not None:
-                    # milestone_correspondence = speech.get('corresp').split(' ')
-                    for word in ab_element:
-                        speech_info['text'] += word.text if word.text is not None else ""
                 scene_speeches.append(speech_info)
             characters_speeches.append(scene_speeches)
             
         speeches_texts = [speech['text'] for scene in characters_speeches for speech in scene]
-        # Process BERT embeddings in batch for better performance
-        if "bert" in self.options:
-            add_embeddings_to_speech_info("bert")
-        # Process OLMo embeddings in batch for better performance (lazy loading)
-        if "olmo" in self.options:
-            add_embeddings_to_speech_info("olmo")
-        
-        return characters_speeches # list(list(dict))
+
+        for slug, (backend, cfg) in self._model_configs.items():
+            embeddings = _compute_embeddings(slug, backend, cfg, speeches_texts)
+            _store_embeddings(slug, embeddings)
+
+        return characters_speeches
 
     def __generate_speech_pairs(self):
         """
@@ -293,24 +443,38 @@ class XMLParser:
     def __calculate_cosine_similarity(self, embedding_type='bert'):
         cosine_similarities = {k: {k: 0 for k in self.characters} for k in self.characters}
         embedding_key = f'average_{embedding_type}_embedding'
+        scene_labels = self.__get_scene_labels()
 
-        for scene in self.characters_speeches:
+        for scene_idx, scene in enumerate(self.characters_speeches):
+            scene_label = scene_labels[scene_idx] if scene_idx < len(scene_labels) else f"Scene {scene_idx+1}"
             for speech_idx in range(len(scene) - 1):
                 speaker = scene[speech_idx]['speaker']
-                # speech = scene[speech_idx]['speech']
-
                 next_speaker = scene[speech_idx + 1]['speaker']
-                # next_speech = scene[speech_idx + 1]['speech']
 
-                # TODO: Check if there is a character that speaks twice in a row
                 if speaker != next_speaker:
-
                     # If embeddings are 1D tensors, add a dimension for batch processing
-                    cosine_similarities[speaker][next_speaker] += F.cosine_similarity(
+                    sim = F.cosine_similarity(
                         scene[speech_idx][embedding_key].unsqueeze(0),
                         scene[speech_idx + 1][embedding_key].unsqueeze(0)
                     ).item()
+                    
+                    # Guard against NaN (e.g. from zero-vector embeddings)
+                    if math.isnan(sim):
+                        continue
+                    
+                    cosine_similarities[speaker][next_speaker] += sim
                     cosine_similarities[next_speaker][speaker] = cosine_similarities[speaker][next_speaker]
+
+                    self.speech_interactions.append({
+                        'play': self.play_title,
+                        'scene': scene_label,
+                        'speaker1': speaker,
+                        'speaker2': next_speaker,
+                        'text1': scene[speech_idx]['text'],
+                        'text2': scene[speech_idx + 1]['text'],
+                        'cosine_similarity': sim,
+                        'model': embedding_type
+                    })
 
         return cosine_similarities
 
@@ -436,11 +600,14 @@ class XMLParser:
         min_cooc_threshold=0,
         footer_text=None,
         left_panel_text=None,
+        output_path=None,
     ):
         """
         Internal helper: scatter plot with X = interactions (co-occurrence) per pair,
         Y = cosine similarity per pair (or cosine/interactions if use_y_ratio=True).
         Pairs with co_occurrence < min_cooc_threshold are excluded.
+        If output_path is set, the figure is saved there (dirs created); otherwise
+        output_dir/{sanitized_play_name}_{filename_suffix}.svg.
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for interactions scatter plot")
@@ -530,11 +697,154 @@ class XMLParser:
             plt.legend()
         plt.tight_layout()
 
-        os.makedirs(output_dir, exist_ok=True)
         safe_name = play_name.replace(' ', '_').replace('/', '_').replace('\\', '_')
-        path = output_dir.rstrip('/') + '/'
-        plt.savefig(os.path.join(path, f'{safe_name}_{filename_suffix}.svg'))
+        if output_path:
+            outp = os.path.abspath(output_path)
+            os.makedirs(os.path.dirname(outp) or '.', exist_ok=True)
+            plt.savefig(outp)
+        else:
+            os.makedirs(output_dir, exist_ok=True)
+            path = output_dir.rstrip('/') + '/'
+            plt.savefig(os.path.join(path, f'{safe_name}_{filename_suffix}.svg'))
         plt.close()
+
+    def _plot_interactions_isolation_scatters(
+        self,
+        cosine_similarity_dict,
+        play_name,
+        ref_y_label,
+        characters_filter=None,
+        min_cooc_threshold=0,
+        use_y_ratio=True,
+        output_path_xy=None,
+        output_path_dy=None,
+    ):
+        """
+        For each character pair (same set as the normalized interactions scatter), X = co-occurrence.
+        Y1 = mean Euclidean distance from this pair's point to every other pair's point in the
+        original scatter plane (interactions × ref_y_value).
+        Y2 = mean absolute difference in ref_y_value vs. every other pair (1D isolation in y).
+        """
+        if "co-oc" not in self.options:
+            raise ValueError("co-oc option required for isolation scatter plots")
+        characters = list(self.co_occurrences.keys())
+        if characters_filter is not None:
+            characters = [c for c in characters if c in characters_filter]
+
+        pairs_data = []
+        for i, char1 in enumerate(characters):
+            for char2 in characters[i + 1:]:
+                cooc = self.co_occurrences[char1][char2]
+                if cooc < min_cooc_threshold:
+                    continue
+                cosim = cosine_similarity_dict[char1][char2]
+                if use_y_ratio and cooc == 0:
+                    continue
+                y_val = (cosim / cooc) if use_y_ratio else cosim
+                pairs_data.append(
+                    {
+                        "char1": char1,
+                        "char2": char2,
+                        "co_occurrence": cooc,
+                        "y_val": y_val,
+                    }
+                )
+
+        if len(pairs_data) < 2:
+            return
+
+        x_vals = np.array([p["co_occurrence"] for p in pairs_data], dtype=float)
+        y_vals = np.array([p["y_val"] for p in pairs_data], dtype=float)
+        labels = [f"{p['char1']}-{p['char2']}" for p in pairs_data]
+
+        xy = np.column_stack([x_vals, y_vals])
+        diff = xy[:, np.newaxis, :] - xy[np.newaxis, :, :]
+        dist = np.sqrt(np.sum(diff ** 2, axis=2))
+        np.fill_diagonal(dist, np.nan)
+        mean_dist_xy = np.nanmean(dist, axis=1)
+
+        dy = np.abs(y_vals[:, np.newaxis] - y_vals[np.newaxis, :])
+        np.fill_diagonal(dy, np.nan)
+        mean_dist_y = np.nanmean(dy, axis=1)
+
+        title_suffix = (
+            f" (min interactions: {min_cooc_threshold})" if min_cooc_threshold > 0 else ""
+        )
+
+        def _one_scatter(y_plot, y_label, out_path, footer):
+            plt.figure(figsize=(12, 8))
+            scatter = plt.scatter(
+                x_vals, y_plot, alpha=0.6, s=100, c=y_plot, cmap="viridis"
+            )
+            try:
+                from adjustText import adjust_text
+
+                texts = []
+                for x, y, lab in zip(x_vals, y_plot, labels):
+                    t = plt.annotate(
+                        lab, (x, y), fontsize=7, alpha=0.8, ha="center", va="bottom"
+                    )
+                    texts.append(t)
+                adjust_text(
+                    texts,
+                    arrowprops=dict(arrowstyle="->", color="gray", lw=0.5, alpha=0.5),
+                )
+            except ImportError:
+                x_range = x_vals.max() - x_vals.min() or 1
+                y_range = y_plot.max() - y_plot.min() or 1
+                offset_dist = min(x_range, y_range) * 0.08
+                for idx, (x, y, lab) in enumerate(zip(x_vals, y_plot, labels)):
+                    angle = (idx * 137.5) % 360
+                    ox = offset_dist * np.cos(np.radians(angle))
+                    oy = offset_dist * np.sin(np.radians(angle))
+                    plt.annotate(
+                        lab,
+                        (x + ox, y + oy),
+                        fontsize=6,
+                        alpha=0.7,
+                        ha="center",
+                        va="center",
+                        bbox=dict(
+                            boxstyle="round,pad=0.3",
+                            facecolor="white",
+                            edgecolor="gray",
+                            alpha=0.7,
+                            lw=0.5,
+                        ),
+                    )
+
+            plt.xlabel("Interactions (co-occurrence count)", fontsize=12)
+            plt.ylabel(y_label, fontsize=12)
+            plt.title(
+                f"{play_name} — {y_label}{title_suffix}", fontsize=14
+            )
+            plt.colorbar(scatter, label=y_label)
+            plt.grid(True, alpha=0.3)
+            plt.gcf().text(0.01, 0.01, footer, fontsize=9, ha="left", va="bottom")
+            plt.tight_layout()
+            outp = os.path.abspath(out_path)
+            os.makedirs(os.path.dirname(outp) or ".", exist_ok=True)
+            plt.savefig(outp)
+            plt.close()
+
+        if output_path_xy:
+            _one_scatter(
+                mean_dist_xy,
+                f"Mean distance to other pairs (interactions × {ref_y_label})",
+                output_path_xy,
+                "Mean Euclidean distance from each point to all others in the interactions × "
+                + ref_y_label
+                + " plane.",
+            )
+        if output_path_dy:
+            _one_scatter(
+                mean_dist_y,
+                f"Mean |Δ({ref_y_label})| vs. other pairs",
+                output_path_dy,
+                "Mean absolute difference in "
+                + ref_y_label
+                + " between this pair and every other pair.",
+            )
 
     def _plot_similarity_scatter(
         self,
@@ -694,18 +1004,14 @@ class XMLParser:
         """
         Compute mean cosine similarity over consecutive speeches per character pair.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for interaction cosine normalization")
-        if embedding_type == "bert" and "bert" not in self.options:
-            raise ValueError("bert option required for interaction cosine mean")
-        if embedding_type == "olmo" and "olmo" not in self.options:
-            raise ValueError("olmo option required for interaction cosine mean")
 
-        interaction_similarity_sum = (
-            self.cosine_similarity_bert if embedding_type == "bert" else self.cosine_similarity_olmo
-        )
+        interaction_similarity_sum = self.cosine_similarities[embedding_type]
         interaction_similarity_mean = {
             k: {k: 0 for k in self.characters} for k in self.characters
         }
@@ -734,10 +1040,10 @@ class XMLParser:
         - centroid cosine within scene
         Returns list of dicts with scene_idx, char1, char2, cooc, interaction_cos, centroid_cos.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for scene pair stats")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         from scipy import spatial
 
@@ -849,10 +1155,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for interactions scatter plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for centroid similarity plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         centroid_similarity = self._compute_centroid_similarity(embedding_type=embedding_type)
         self._plot_interactions_scatter(
@@ -882,14 +1188,10 @@ class XMLParser:
         X = cosine similarity between consecutive speeches (mean over interactions),
         Y = cosine similarity between per-character centroid embeddings.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for centroid similarity plot")
-        if embedding_type == "bert" and "bert" not in self.options:
-            raise ValueError("bert option required for interaction cosine plot")
-        if embedding_type == "olmo" and "olmo" not in self.options:
-            raise ValueError("olmo option required for interaction cosine plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         centroid_similarity = self._compute_centroid_similarity(embedding_type=embedding_type)
         interaction_similarity_mean = self.__compute_interaction_cosine_mean(embedding_type=embedding_type)
@@ -926,10 +1228,10 @@ class XMLParser:
         Y = cosine similarity between per-scene character centroids.
         Each point corresponds to a character pair within a scene.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for scene centroid plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         from scipy import spatial
 
@@ -1143,10 +1445,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for hidden relationships plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for hidden relationships plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         centroid_similarity = self._compute_centroid_similarity(embedding_type=embedding_type)
         characters = list(self.co_occurrences.keys())
@@ -1235,10 +1537,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for graph-distance plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for graph-distance plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         import networkx as nx
 
@@ -1324,10 +1626,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for semantic outliers plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for semantic outliers plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         centroid_similarity = self._compute_centroid_similarity(embedding_type=embedding_type)
         characters = list(self.co_occurrences.keys())
@@ -1414,10 +1716,10 @@ class XMLParser:
         Heatmap of per-character semantic drift across consecutive scenes.
         Drift is 1 - cosine similarity between a character's scene centroids.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for scene drift plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         from scipy import spatial
         import seaborn as sns
@@ -1509,10 +1811,10 @@ class XMLParser:
         PCA trajectory plot of per-scene character centroids.
         Each character is a line through scene-wise PCA positions.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for scene trajectory plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         scene_centroids = self.__compute_scene_character_centroids(embedding_type=embedding_type)
         scene_labels = self.__get_scene_labels()
@@ -1594,10 +1896,10 @@ class XMLParser:
         Args:
             min_cooc_threshold: Minimum interactions to include a pair (default: 0).
         """
-        if "bert" not in self.options:
+        if "bert" not in self.cosine_similarities:
             raise ValueError("bert option required for BERT scatter plot")
         self._plot_interactions_scatter(
-            self.cosine_similarity_bert,
+            self.cosine_similarities["bert"],
             play_name,
             y_label='BERT Similarity Sum',
             filename_suffix='bert_interactions_scatter',
@@ -1617,10 +1919,10 @@ class XMLParser:
         Args:
             min_cooc_threshold: Minimum interactions to include a pair (default: 0).
         """
-        if "bert" not in self.options:
+        if "bert" not in self.cosine_similarities:
             raise ValueError("bert option required for BERT scatter plot")
         self._plot_interactions_scatter(
-            self.cosine_similarity_bert,
+            self.cosine_similarities["bert"],
             play_name,
             y_label='BERT Cosine Similarity / Interactions',
             filename_suffix='bert_interactions_scatter_normalized',
@@ -1671,10 +1973,10 @@ class XMLParser:
         Line plot: X = scene index, Y = PCA1 of per-scene character centroids.
         Each character has a line across scenes where they speak.
         """
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for scene PCA plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         scene_centroids = self.__compute_scene_character_centroids(embedding_type=embedding_type)
         scene_labels = self.__get_scene_labels()
@@ -1771,10 +2073,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for co-presence plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for co-presence plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         copresence = self.__calculate_scene_copresence(
             min_speeches_per_scene=min_speeches_per_scene,
@@ -1862,10 +2164,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for lagged similarity plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for lagged similarity plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         from scipy import spatial
 
@@ -1987,10 +2289,10 @@ class XMLParser:
         """
         if "co-oc" not in self.options:
             raise ValueError("co-oc option required for role similarity plot")
-        if embedding_type not in {"bert", "olmo"}:
-            raise ValueError("embedding_type must be 'bert' or 'olmo'")
-        if embedding_type not in self.options:
-            raise ValueError(f"{embedding_type} option required for role similarity plot")
+        if embedding_type not in self.cosine_similarities:
+            raise ValueError(
+                f"embedding_type '{embedding_type}' not computed. "
+                f"Available: {list(self.cosine_similarities)}")
 
         from scipy import spatial
 

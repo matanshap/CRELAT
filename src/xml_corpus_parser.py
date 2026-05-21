@@ -251,12 +251,18 @@ class XMLCorpusParser:
 
     @staticmethod
     def _get_cosine_map(parser, embedding_name):
+        from xmlparser import resolve_model
+        slug, _, _ = resolve_model(embedding_name)
+        if slug in parser.cosine_similarities:
+            return parser.cosine_similarities[slug]
+        # Backward compat: substring match for callers using e.g. "BERT"
         name = embedding_name.lower()
-        if "bert" in name:
-            return parser.cosine_similarity_bert
-        if "olmo" in name:
-            return parser.cosine_similarity_olmo
-        raise ValueError(f"Unknown embedding name: {embedding_name}")
+        for key in parser.cosine_similarities:
+            if key in name or name in key:
+                return parser.cosine_similarities[key]
+        raise ValueError(
+            f"Unknown embedding name: {embedding_name}. "
+            f"Available: {list(parser.cosine_similarities)}")
 
     @staticmethod
     def _play_name_from_path(xml_path):

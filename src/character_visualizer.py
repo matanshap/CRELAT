@@ -1,3 +1,5 @@
+import os
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -61,7 +63,20 @@ class CharacterVisualizer:
         else:
             raise ValueError(f"Unknown normalization method: {method}. Must be one of: 'max', 'minmax', 'sum', None")
 
-    def visualize_scatter(self, play_name, characters_filter=None, normalize_cooc=None):
+    def visualize_scatter(
+        self,
+        play_name,
+        characters_filter=None,
+        normalize_cooc=None,
+        *,
+        cosine_ylabel=None,
+        colorbar_label=None,
+        plot_title=None,
+        output_path=None,
+        output_dir="output",
+        filename_suffix="cooc_vs_cosine_scatter.svg",
+        show=True,
+    ):
         """
         Create a scatter plot: X = co-occurrences, Y = cosine similarity
         
@@ -71,6 +86,13 @@ class CharacterVisualizer:
                               where both characters are in this list will be displayed.
             normalize_cooc: Normalization method for co-occurrences only (cosine similarity is already 
                           normalized). Options: 'max', 'minmax', 'sum', None (default: None)
+            cosine_ylabel: Y-axis label (default: Cosine Similarity (BERT))
+            colorbar_label: Colorbar label (default: Cosine Similarity)
+            plot_title: Full plot title (default: derived from play_name)
+            output_path: If set, save figure to this path (dirs created as needed).
+            output_dir: Used with filename_suffix when output_path is None (default: output)
+            filename_suffix: Filename part after sanitized play_name (default: cooc_vs_cosine_scatter.svg)
+            show: If True, call plt.show() after save; if False, plt.close() (default: True)
         """
         # Prepare data
         pairs_data = []
@@ -144,11 +166,19 @@ class CharacterVisualizer:
         elif normalize_cooc == 'sum':
             cooc_label = 'Co-occurrences (normalized by sum)'
         
+        if cosine_ylabel is None:
+            cosine_ylabel = "Cosine Similarity (BERT)"
+        if colorbar_label is None:
+            colorbar_label = "Cosine Similarity"
+        if plot_title is None:
+            plot_title = (
+                f"{play_name} - Character Relationships: Co-occurrences vs Semantic Similarity"
+            )
+
         plt.xlabel(cooc_label, fontsize=12)
-        plt.ylabel('Cosine Similarity (BERT)', fontsize=12)
-        title = f'{play_name} - Character Relationships: Co-occurrences vs Semantic Similarity'
-        plt.title(title, fontsize=14)
-        plt.colorbar(scatter, label='Cosine Similarity')
+        plt.ylabel(cosine_ylabel, fontsize=12)
+        plt.title(plot_title, fontsize=14)
+        plt.colorbar(scatter, label=colorbar_label)
         plt.grid(True, alpha=0.3)
         plt.gcf().text(
             0.01, 0.01,
@@ -157,18 +187,29 @@ class CharacterVisualizer:
         )
         
         # Add trend line
-        z = np.polyfit(df['co_occurrence'], df['cosine_similarity'], 1)
-        p = np.poly1d(z)
-        plt.plot(df['co_occurrence'], p(df['co_occurrence']), "r--", alpha=0.8, label='Trend')
-        plt.legend()
+        if len(df) >= 2:
+            z = np.polyfit(df["co_occurrence"], df["cosine_similarity"], 1)
+            p = np.poly1d(z)
+            plt.plot(df["co_occurrence"], p(df["co_occurrence"]), "r--", alpha=0.8, label="Trend")
+            plt.legend()
         
         plt.tight_layout()
         # Sanitize play_name for filename (replace spaces and special chars)
         safe_name = play_name.replace(' ', '_').replace('/', '_').replace('\\', '_')
-        filename = f'output/{safe_name}_cooc_vs_cosine_scatter.svg'
+        if output_path:
+            filename = output_path
+            out_dir = os.path.dirname(os.path.abspath(filename))
+            if out_dir:
+                os.makedirs(out_dir, exist_ok=True)
+        else:
+            os.makedirs(output_dir, exist_ok=True)
+            filename = os.path.join(output_dir, f"{safe_name}_{filename_suffix}")
         plt.savefig(filename)
-        plt.show()
-        
+        if show:
+            plt.show()
+        else:
+            plt.close()
+
         return df
 
     def visualize_cooc_minus_cosine(self, play_name, characters_filter=None, normalize_before_diff=None, normalize_difference=None):
