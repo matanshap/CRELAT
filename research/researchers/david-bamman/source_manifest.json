@@ -1,0 +1,425 @@
+{
+  "researcher_id": "david-bamman",
+  "catalog_source": "https://people.ischool.berkeley.edu/~dbamman/",
+  "catalog_reviewed": "2026-07-01",
+  "catalog_scope": "Official profile, CV, publication list, and official course pages reviewed. Local full-text corpus includes open-access/author-linked PDFs plus indexed official course HTML; books/interviews without source text are marked as explicit gaps.",
+  "works": [
+    {
+      "id": "logic-discovery-textual-allusion-2008",
+      "title": "The Logic and Discovery of Textual Allusion",
+      "year": 2008,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/latech2008.pdf",
+      "sha256": "8fc6a03f7eb8e0404dbee7ad3423bc2e07a40d4aca03e4d46a83bcf5b7ed877c",
+      "local_path": "research/researchers/david-bamman/corpus/papers/logic-discovery-textual-allusion-2008/source.pdf"
+    },
+    {
+      "id": "ancient-greek-latin-dependency-treebanks-2011",
+      "title": "The Ancient Greek and Latin Dependency Treebanks",
+      "year": 2011,
+      "type": "book_chapter",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/latech2011.pdf",
+      "sha256": "f8ea36b2cdaf30c894f1be42c88a2ea491cb96b7e2ab5f61dc35af2568df8de1",
+      "local_path": "research/researchers/david-bamman/corpus/chapters/ancient-greek-latin-dependency-treebanks-2011/source.pdf"
+    },
+    {
+      "id": "censorship-deletion-chinese-social-media-2012",
+      "title": "Censorship and Deletion Practices in Chinese Social Media",
+      "year": 2012,
+      "type": "article",
+      "core": true,
+      "status": "html_available_not_indexed",
+      "source_url": "http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3943/3169",
+      "gap": "Available as HTML; current researcher ingest expects local PDFs."
+    },
+    {
+      "id": "latent-personas-film-characters-2013",
+      "title": "Learning Latent Personas of Film Characters",
+      "year": 2013,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/P13-1035.pdf",
+      "sha256": "04aa087c4e87bb1c9e847cde08cda2ad6f8cb628252dd9637e49af63f4c1c4dc",
+      "local_path": "research/researchers/david-bamman/corpus/papers/latent-personas-film-characters-2013/source.pdf"
+    },
+    {
+      "id": "bayesian-mixed-effects-literary-character-2014",
+      "title": "A Bayesian Mixed Effects Model of Literary Character",
+      "year": 2014,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/P14-1035.pdf",
+      "sha256": "f094656e7decc82343101583fa7f610b16a11b93dcad2b49020f66fc5160d4b2",
+      "local_path": "research/researchers/david-bamman/corpus/papers/bayesian-mixed-effects-literary-character-2014/source.pdf"
+    },
+    {
+      "id": "gender-identity-lexical-variation-2014",
+      "title": "Gender Identity and Lexical Variation in Social Media",
+      "year": 2014,
+      "type": "article",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/1210.4567",
+      "sha256": "0587dd0abfc4f6b97b8caad9b3230757e2d44bec7a3f881e6d5071892561434c",
+      "local_path": "research/researchers/david-bamman/corpus/papers/gender-identity-lexical-variation-2014/source.pdf"
+    },
+    {
+      "id": "beyond-canonical-texts-fanfiction-2016",
+      "title": "Beyond Canonical Texts: A Computational Analysis of Fanfiction",
+      "year": 2016,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/D16-1218.pdf",
+      "sha256": "79dd25e280088ff6bc555781e961b821d5410531a73e2b891f39c1794b3dabe3",
+      "local_path": "research/researchers/david-bamman/corpus/papers/beyond-canonical-texts-fanfiction-2016/source.pdf"
+    },
+    {
+      "id": "transformation-gender-fiction-2018",
+      "title": "The Transformation of Gender in English-Language Fiction",
+      "year": 2018,
+      "type": "article",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/ca2018.pdf",
+      "sha256": "a2effe064d6513047d1349c6b02a70762aadc6119d474e00d1b179ddda99a277",
+      "local_path": "research/researchers/david-bamman/corpus/papers/transformation-gender-fiction-2018/source.pdf"
+    },
+    {
+      "id": "annotated-dataset-literary-entities-2019",
+      "title": "An Annotated Dataset of Literary Entities",
+      "year": 2019,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf",
+      "sha256": "63f18416b0bcc0c79518c15d057b2821cad7e8544ce8eec78a6c97fb10c9e5da",
+      "local_path": "research/researchers/david-bamman/corpus/papers/annotated-dataset-literary-entities-2019/source.pdf"
+    },
+    {
+      "id": "literary-event-detection-2019",
+      "title": "Literary Event Detection",
+      "year": 2019,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf",
+      "sha256": "6a89ba220f5bc38b6d24e40967e88ad24b3b43651df81a4af6e03c1d57e01782",
+      "local_path": "research/researchers/david-bamman/corpus/papers/literary-event-detection-2019/source.pdf"
+    },
+    {
+      "id": "litbank-coreference-literature-2020",
+      "title": "An Annotated Dataset of Coreference in English Literature",
+      "year": 2020,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/1912.01140",
+      "sha256": "21b55244ce110fa3b64692d689804cc88273a0c024e3f4138214568f75a74166",
+      "local_path": "research/researchers/david-bamman/corpus/papers/litbank-coreference-literature-2020/source.pdf"
+    },
+    {
+      "id": "born-literary-nlp-2020",
+      "title": "Born-Literary Natural Language Processing",
+      "year": 2020,
+      "type": "book_chapter",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/Bamman_DH_Debates_CompHum.pdf",
+      "sha256": "94c165760167752cbfd8a15fe5c9d1b1bea14559e1dd9da1c216dbc55d00c546",
+      "local_path": "research/researchers/david-bamman/corpus/chapters/born-literary-nlp-2020/source.pdf"
+    },
+    {
+      "id": "latin-bert-2020",
+      "title": "Latin BERT: A Contextual Language Model for Classical Philology",
+      "year": 2020,
+      "type": "preprint",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/2009.10053",
+      "sha256": "78c64c15e2228269f21090590b554feac7ffd2fb67f2df09a561c06aacb6c79b",
+      "local_path": "research/researchers/david-bamman/corpus/papers/latin-bert-2020/source.pdf"
+    },
+    {
+      "id": "narrative-theory-computational-narrative-understanding-2021",
+      "title": "Narrative Theory for Computational Narrative Understanding",
+      "year": 2021,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2021.emnlp-main.26.pdf",
+      "sha256": "7de3de58b59d9fa5520c5c64f0ec345d4e1e0a034e85903a457b06c3149fb249",
+      "local_path": "research/researchers/david-bamman/corpus/papers/narrative-theory-computational-narrative-understanding-2021/source.pdf"
+    },
+    {
+      "id": "representation-bias-gpt3-stories-2021",
+      "title": "Gender and Representation Bias in GPT-3 Generated Stories",
+      "year": 2021,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2021.nuse-1.5.pdf",
+      "sha256": "eb3c09a313043f6a4186d16940004ab80851f9d20c5f8bb91f826ea89f3391c2",
+      "local_path": "research/researchers/david-bamman/corpus/papers/representation-bias-gpt3-stories-2021/source.pdf"
+    },
+    {
+      "id": "grounding-characters-places-narrative-2023",
+      "title": "Grounding Characters and Places in Narrative Text",
+      "year": 2023,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2023.acl-long.655.pdf",
+      "sha256": "38259fa75cb722198fc6fdc3ff2da80c119344a2f442cb7e05d97e327ba24894",
+      "local_path": "research/researchers/david-bamman/corpus/papers/grounding-characters-places-narrative-2023/source.pdf"
+    },
+    {
+      "id": "dramatic-conversation-disentanglement-2023",
+      "title": "Dramatic Conversation Disentanglement",
+      "year": 2023,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2023.findings-acl.248.pdf",
+      "sha256": "6c357e39f21c3a0d7921c76cde34295cc936905f407cfe72216909a2d57631ed",
+      "local_path": "research/researchers/david-bamman/corpus/papers/dramatic-conversation-disentanglement-2023/source.pdf"
+    },
+    {
+      "id": "diversity-hollywood-2024",
+      "title": "Measuring Diversity in Hollywood through the Large-Scale Computational Analysis of Film",
+      "year": 2024,
+      "type": "article",
+      "core": true,
+      "status": "download_blocked",
+      "source_url": "https://www.pnas.org/doi/10.1073/pnas.2409770121",
+      "gap": "Official PNAS PDF endpoint returned HTTP 403 during automated download; acquire manually or use another lawful open source."
+    },
+    {
+      "id": "classification-llms-cultural-analytics-2024",
+      "title": "On Classification with Large Language Models in Cultural Analytics",
+      "year": 2024,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://ceur-ws.org/Vol-3834/paper119.pdf",
+      "sha256": "d717642c2c30362f487e7da08a6c5c1f3e2e16216f932c2388a9104610459b56",
+      "local_path": "research/researchers/david-bamman/corpus/papers/classification-llms-cultural-analytics-2024/source.pdf"
+    },
+    {
+      "id": "small-worlds-character-mobility-2024",
+      "title": "Small Worlds: Measuring the Mobility of Characters in English-Language Fiction",
+      "year": 2024,
+      "type": "article",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://tuprints.ulb.tu-darmstadt.de/27393/",
+      "gap": "Official profile links to repository landing page; direct PDF URL not resolved during automated download."
+    },
+    {
+      "id": "stories-contemporary-songs-2025",
+      "title": "Measuring the Stories in Contemporary Songs",
+      "year": 2025,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://anthology.ach.org/volumes/vol0003/measuring-stories-in-contemporary-songs/10.63744@w9C0wDxmZTVt.pdf",
+      "sha256": "c62c0c3923a8d7eae7ced3b47c3601233f4c0a4cca66526acb36a1b91267ec0b",
+      "local_path": "research/researchers/david-bamman/corpus/papers/stories-contemporary-songs-2025/source.pdf"
+    },
+    {
+      "id": "culture-is-not-trivia-2025",
+      "title": "Culture is Not Trivia: Sociocultural Theory for Cultural NLP",
+      "year": 2025,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/2502.12057",
+      "sha256": "29a15c24884c5bd9b200afa74d67b353d361286b4704f11a20fa520f61121c3b",
+      "local_path": "research/researchers/david-bamman/corpus/papers/culture-is-not-trivia-2025/source.pdf"
+    },
+    {
+      "id": "themes-abstractive-retellings-2025",
+      "title": "Tell, Don't Show: Leveraging Language Models' Abstractive Retellings to Model Literary Themes",
+      "year": 2025,
+      "type": "paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/2505.23166",
+      "sha256": "1f5294edf60737395ffb472733dc599e2d9b0764e159db3437f679f4277e7808",
+      "local_path": "research/researchers/david-bamman/corpus/papers/themes-abstractive-retellings-2025/source.pdf"
+    },
+    {
+      "id": "multimodal-conversation-structure-2026",
+      "title": "Multimodal Conversation Structure Understanding",
+      "year": 2026,
+      "type": "paper",
+      "core": false,
+      "status": "open_access_local_indexed",
+      "source_url": "https://arxiv.org/pdf/2505.17536",
+      "sha256": "a0f49fa92f28369f4942956802484a232778d7d92fdcad74689406e37d98bece",
+      "local_path": "research/researchers/david-bamman/corpus/papers/multimodal-conversation-structure-2026/source.pdf"
+    },
+    {
+      "id": "ephilology-books-talk-to-readers-2007",
+      "title": "ePhilology: When the Books Talk to Their Readers",
+      "year": 2007,
+      "type": "book_chapter",
+      "core": false,
+      "status": "metadata_only",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/bammanCV.pdf",
+      "gap": "Listed in official CV; no lawful local full text located during automated search.",
+      "container_title": "A Companion to Digital Literary Studies"
+    },
+    {
+      "id": "applied-natural-language-processing",
+      "title": "Applied Natural Language Processing (INFO 256)",
+      "year": 2024,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://people.ischool.berkeley.edu/~dbamman/info256.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/applied-natural-language-processing/source.html",
+      "sha256": "ee583a1b08d18862f5964b5a7c8932884abf4cdd335eae72329c0c62340ef4a7"
+    },
+    {
+      "id": "deconstructing-data-science-2016",
+      "title": "Deconstructing Data Science (INFO 290), Spring 2016",
+      "year": 2016,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://courses.ischool.berkeley.edu/i290-dds/s16/",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/deconstructing-data-science-2016/source.html",
+      "sha256": "977ede175d410e879d09e730b6438612135f6b88cbc30a30d75c99cecbe511e7"
+    },
+    {
+      "id": "deconstructing-data-science-2017",
+      "title": "Deconstructing Data Science (INFO 290), Spring 2017",
+      "year": 2017,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://courses.ischool.berkeley.edu/i290-dds/s17/",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/deconstructing-data-science-2017/source.html",
+      "sha256": "a0adaa127e0d361cf60d49179d441fe9ae08f4a20cff6e78e2608cf79d7f5234"
+    },
+    {
+      "id": "natural-language-processing-2017",
+      "title": "Natural Language Processing (INFO 159/259), Fall 2017",
+      "year": 2017,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://people.ischool.berkeley.edu/~dbamman/nlp17.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2017/source.html",
+      "sha256": "97f0fc128279e80ef71cf7cd279c2aa8713b904b0d05f0780cffd0b5dbe6d8d3"
+    },
+    {
+      "id": "natural-language-processing-2018",
+      "title": "Natural Language Processing (INFO 159/259), Fall 2018",
+      "year": 2018,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://people.ischool.berkeley.edu/~dbamman/nlp18.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2018/source.html",
+      "sha256": "e6b00d37560f35da69c56faf4e2e74fba7a04fe95cbb7f2b148b2f334cf6c2c8"
+    },
+    {
+      "id": "natural-language-processing-2020",
+      "title": "Natural Language Processing (INFO 159/259), Spring 2020",
+      "year": 2020,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "http://people.ischool.berkeley.edu/~dbamman/nlp20.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2020/source.html",
+      "sha256": "6ea8647e1c935062cf21ae0f528239076799d978def25a04ce406def5d549800"
+    },
+    {
+      "id": "natural-language-processing-2021",
+      "title": "Natural Language Processing (INFO 159/259), Spring 2021",
+      "year": 2021,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/nlp21.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2021/source.html",
+      "sha256": "d6a2db08d378d547fa753217a67ea69aaacca3b0535bf89e0ea1ed8b4f0e99ad"
+    },
+    {
+      "id": "natural-language-processing-2022",
+      "title": "Natural Language Processing (INFO 159/259), Spring 2022",
+      "year": 2022,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/nlp22.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2022/source.html",
+      "sha256": "b7fa0f94273a9451e7d7cf1d9667e4d2f753f6c306b32a369e73a6a5918ecb98"
+    },
+    {
+      "id": "natural-language-processing-2023",
+      "title": "Natural Language Processing (INFO 159/259), Spring 2023",
+      "year": 2023,
+      "type": "course_page",
+      "core": false,
+      "status": "html_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/nlp23.html",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-2023/source.html",
+      "sha256": "8f0e142fa3f84fbb31b8f69ddaddf4cd4989c54735bda068e701a9b0be7a6ad2"
+    },
+    {
+      "id": "natural-language-processing-long-tail-2017",
+      "title": "Natural Language Processing for the Long Tail",
+      "year": 2017,
+      "type": "talk",
+      "core": false,
+      "status": "open_access_local_indexed",
+      "source_url": "https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/dh2017.pdf",
+      "local_path": "research/researchers/david-bamman/corpus/lectures/natural-language-processing-long-tail-2017/source.pdf",
+      "sha256": "b47387f352c4747b28311134da64ea919e661c8332d71fa275ac742d4010afe4"
+    }
+  ],
+  "local_index": {
+    "chunks_path": "research/researchers/david-bamman/index/chunks.jsonl",
+    "lexical_index_path": "research/researchers/david-bamman/index/lexical.sqlite3",
+    "indexed_work_count": 31,
+    "indexed_chunk_count": 476,
+    "semantic_index": "not_built",
+    "indexed_source_types": [
+      "article",
+      "chapter",
+      "course_page",
+      "paper",
+      "preprint",
+      "talk"
+    ]
+  },
+  "books": {
+    "status": "no_authored_monographs_found",
+    "reviewed_sources": [
+      "https://people.ischool.berkeley.edu/~dbamman/",
+      "https://people.ischool.berkeley.edu/~dbamman/bammanCV.pdf"
+    ],
+    "note": "No authored monographs were found; book-related material is represented as book chapters, papers about books, datasets, and course material."
+  },
+  "interviews": {
+    "status": "no_transcript_interviews_found",
+    "reviewed_sources": [
+      "https://people.ischool.berkeley.edu/~dbamman/",
+      "https://people.ischool.berkeley.edu/~dbamman/bammanCV.pdf"
+    ],
+    "note": "Press mentions are cataloged under reception/press and should be treated as reception/context rather than Bamman-authored primary evidence."
+  },
+  "reception": {
+    "press_manifest": "research/researchers/david-bamman/reception/press/press_manifest.json",
+    "status": "metadata_only_not_indexed"
+  }
+}

@@ -1,0 +1,6 @@
+left_table: data/processed/stylometry_features.parquet
+right_table: data/processed/play_features_bert.parquet
+left_feature: pca1
+right_feature: y_mean
+left_name: stylometry
+right_name: bert_y_mean

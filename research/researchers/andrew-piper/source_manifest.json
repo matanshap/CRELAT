@@ -1,0 +1,716 @@
+{
+  "researcher_id": "andrew-piper",
+  "catalog_source": "https://andrewpiper.ai/about/publications",
+  "catalog_reviewed": "2026-07-01",
+  "catalog_scope": "Official publication list, about page, and local corpus reviewed. Local full-text corpus includes open PDFs/HTML from official links and locally supplied book PDFs; missing books, interviews, lectures, and failed downloads are marked explicitly.",
+  "works": [
+    {
+      "id": "dreaming-in-books-2009",
+      "title": "Dreaming in Books",
+      "year": 2009,
+      "type": "book",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://press.uchicago.edu/ucp/books/book/chicago/D/bo6680443.html",
+      "gap": "No lawful local full-text source is present in corpus/books for this book."
+    },
+    {
+      "id": "book-was-there-2012",
+      "title": "Book Was There",
+      "year": 2012,
+      "type": "book",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://press.uchicago.edu/ucp/books/book/chicago/B/bo13118323.html",
+      "gap": "No lawful local full-text source is present in corpus/books for this book."
+    },
+    {
+      "id": "novel-devotions-2015",
+      "title": "Novel Devotions",
+      "year": 2015,
+      "type": "article",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://andrewpiper.ai/about/publications"
+    },
+    {
+      "id": "fictionality-2016",
+      "title": "Fictionality.",
+      "year": 2016,
+      "type": "journal_article",
+      "core": true,
+      "status": "download_failed",
+      "source_url": "http://culturalanalytics.org/2016/12/fictionality/",
+      "gap": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "id": "think-small-2017",
+      "title": "Think Small: On Literary Modeling",
+      "year": 2017,
+      "type": "article",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://doi.org/10.1632/pmla.2017.132.3.651"
+    },
+    {
+      "id": "enumerations-2018",
+      "title": "Enumerations: Data and Literary Study",
+      "year": 2018,
+      "type": "book",
+      "core": true,
+      "status": "locally_supplied_pdf_indexed",
+      "source_url": "https://www.press.uchicago.edu/ucp/books/book/chicago/E/bo28465405.html",
+      "local_path": "research/researchers/andrew-piper/corpus/books/enumerations-2018/source.pdf",
+      "sha256": "86c4f225b5a8beb9cc7a0af51fa6e0eff5a52001b0da722800d4d9a100520620"
+    },
+    {
+      "id": "social-characters-2019",
+      "title": "Social Characters",
+      "year": 2019,
+      "type": "article",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://culturalanalytics.org/article/11064-social-characters"
+    },
+    {
+      "id": "can-we-be-wrong-2020",
+      "title": "Can We Be Wrong?",
+      "year": 2020,
+      "type": "book",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://www.cambridge.org/core/books/can-we-be-wrong-the-problem-of-textual-evidence-in-a-time-of-data/86A68A9A055DE5815F29AAE66F2AFF9A",
+      "gap": "No lawful local full-text source is present in corpus/books for this book."
+    },
+    {
+      "id": "narrative-theory-2021",
+      "title": "Narrative Theory for Computational Narrative Understanding",
+      "year": 2021,
+      "type": "conference_paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2021.emnlp-main.26.pdf",
+      "sha256": "7de3de58b59d9fa5520c5c64f0ec345d4e1e0a034e85903a457b06c3149fb249",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/narrative-theory-2021/source.pdf"
+    },
+    {
+      "id": "computational-narrative-2023",
+      "title": "Computational Narrative Understanding - A Big Picture Analysis",
+      "year": 2023,
+      "type": "conference_paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2023.bigpicture-1.3.pdf",
+      "sha256": "3dfe2aa3a489f9c2b1a0b8ab06e96fdbfb1b8097a2de69862caaea0289c704d8",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/computational-narrative-2023/source.pdf"
+    },
+    {
+      "id": "what-do-characters-do-2023",
+      "title": "What Do Characters Do? The Embodied Agency of Fictional Characters",
+      "year": 2023,
+      "type": "journal_article",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://jcls.io/article/3589/galley/3840/download/",
+      "sha256": "d890696810c8141e68182e325e4e0d5e2658fb02c30e6c314477182c12f3daf6",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/what-do-characters-do-2023/source.pdf"
+    },
+    {
+      "id": "social-lives-2024",
+      "title": "The Social Lives of Literary Characters",
+      "year": 2024,
+      "type": "conference_paper",
+      "core": true,
+      "status": "open_access_local_indexed",
+      "source_url": "https://aclanthology.org/2024.nlp4dh-1.45.pdf",
+      "sha256": "61247b51c9ee747888bbc4e33d2fd56755b311245bdfad4026fff7850e1f9450",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/social-lives-2024/source.pdf"
+    },
+    {
+      "id": "narrative-morals-2025",
+      "title": "Probing Narrative Morals",
+      "year": 2025,
+      "type": "paper",
+      "core": true,
+      "status": "metadata_only",
+      "source_url": "https://aclanthology.org/"
+    },
+    {
+      "id": "why-read-fiction-2026",
+      "title": "Why You Should Read More Fiction",
+      "year": 2026,
+      "type": "book",
+      "core": false,
+      "status": "forthcoming",
+      "source_url": "https://press.jhu.edu/books/title/54264/why-you-should-read-more-fiction",
+      "gap": "Forthcoming book; metadata only until publication and lawful local acquisition."
+    },
+    {
+      "id": "egologies-goethe-entoptics-and-the-instruments-of-writing-life-2013",
+      "title": "Egologies: Goethe, Entoptics, and the Instruments of Writing Life.",
+      "year": 2013,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_Egologies.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "korpus-brentano-das-buch-und-die-mobilisierung-eines-literarischen-2007",
+      "title": "Korpus. Brentano, das Buch und die Mobilisierung eines literarischen und politischen Körpers.",
+      "year": 2007,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Korpus.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "mapping-vision-goethe-cartography-and-the-novel-2010",
+      "title": "Mapping Vision: Goethe, Cartography and the Novel.",
+      "year": 2010,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/MappingVision.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "the-art-of-sharing-reading-in-the-romantic-miscellany-2009",
+      "title": "The Art of Sharing: Reading in the Romantic Miscellany.",
+      "year": 2009,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/RomanticMiscellany.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "the-werther-effect-i-goethe-topologically-2014",
+      "title": "The Werther Effect I: Goethe Topologically.",
+      "year": 2014,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/WertherEffect1.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "transitional-figures-image-translation-and-the-ballad-from-broadside-2011",
+      "title": "Transitional Figures: Image, Translation and the Ballad from Broadside to Photography.",
+      "year": 2011,
+      "type": "chapter",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/TransitionalFigures_Reduced.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "a-quantitative-study-of-fictional-things-2022",
+      "title": "A quantitative study of fictional things.",
+      "year": 2022,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://ceur-ws.org/Vol-3290/long_paper1576.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/a-quantitative-study-of-fictional-things-2022/source.pdf",
+      "sha256": "d348c227ed2c098063f94d58398c30cc6324c192a41c09e964900a373d7e2f62"
+    },
+    {
+      "id": "a-theoretical-framework-for-evaluating-narrative-surprise-in-large-2025",
+      "title": "A Theoretical Framework for Evaluating Narrative Surprise in Large Language Models.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.wnu-1.7.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/a-theoretical-framework-for-evaluating-narrative-surprise-in-large-2025/source.pdf",
+      "sha256": "042e8dbed017c799bd1ad8dcd1826b9fd40ea6ff61394a84509b0d0a4f9a12af"
+    },
+    {
+      "id": "annotating-characters-in-literary-corpora-a-scheme-the-charles-2016",
+      "title": "Annotating Characters in Literary Corpora: A Scheme, the Charles Tool, and an Annotated Novel.",
+      "year": 2016,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "http://www.lrec-conf.org/proceedings/lrec2016/pdf/1130_Paper.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/annotating-characters-in-literary-corpora-a-scheme-the-charles-2016/source.pdf",
+      "sha256": "35a4a6d7178cbb3234cc8f57abbef16762721eca3d261cd6f71a920da586664e"
+    },
+    {
+      "id": "causality-mining-in-fiction-2022",
+      "title": "Causality Mining in Fiction.",
+      "year": 2022,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "http://ceur-ws.org/Vol-3117/paper3.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/causality-mining-in-fiction-2022/source.pdf",
+      "sha256": "f9b793dcce69d3322db3fe440a0325b4cd0017ab986ef09db5a4b84950b317a0"
+    },
+    {
+      "id": "cr4-narremote-an-open-vocabulary-dataset-of-narrative-emotions-2025",
+      "title": "CR4-NarrEmote: An Open Vocabulary Dataset of Narrative Emotions Derived Using Citizen Science.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.emnlp-main.493.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/cr4-narremote-an-open-vocabulary-dataset-of-narrative-emotions-2025/source.pdf",
+      "sha256": "d60437ff62014fb9ed6ad28150c393e05bc05f5f6fda77e37b672cee495e5996"
+    },
+    {
+      "id": "cultural-capitals-modeling-minor-european-literature-2021",
+      "title": "Cultural Capitals: Modeling 'Minor' European Literature.",
+      "year": 2021,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://culturalanalytics.org/article/21182-cultural-capitals-modeling-minor-european-literature",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/cultural-capitals-modeling-minor-european-literature-2021/source.html",
+      "sha256": "e977dba1c03ab96a38cda4e51e14234c554da8a08a5ea83789340057ab63abe8"
+    },
+    {
+      "id": "deleafing-the-history-of-losing-print-2013",
+      "title": "Deleafing: The History of Losing Print.",
+      "year": 2013,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_Deleafing_2015.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "detecting-footnotes-in-32-million-pages-of-ecco-2018",
+      "title": "Detecting Footnotes in 32 million pages of ECCO.",
+      "year": 2018,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://culturalanalytics.org/2018/12/detecting-footnotes-in-32-million-pages-of-ecco/",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/detecting-footnotes-in-32-million-pages-of-ecco-2018/source.html",
+      "sha256": "eee6c5e63b3c8b42c35d3126e645c8fe5391ac8156ce8adeb125cb7d0fa14c70"
+    },
+    {
+      "id": "detecting-narrativity-across-long-time-scales-2021",
+      "title": "Detecting Narrativity Across Long Time Scales.",
+      "year": 2021,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "http://ceur-ws.org/Vol-2989/long_paper49.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/detecting-narrativity-across-long-time-scales-2021/source.pdf",
+      "sha256": "51e8bd3d4d6621c7b8eed33ad76f973b84249db94e0161c13238febf27f9d53d"
+    },
+    {
+      "id": "evaluating-large-language-models-for-narrative-topic-labeling-2025",
+      "title": "Evaluating Large Language Models for Narrative Topic Labeling.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.nlp4dh-1.25.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/evaluating-large-language-models-for-narrative-topic-labeling-2025/source.pdf",
+      "sha256": "89199f70a9ff646a585404cd6ab3f9df0b35e7ef365eb91edf01aa058e6c2f72"
+    },
+    {
+      "id": "evaluating-taxonomy-free-character-role-labeling-tf-crl-in-2025",
+      "title": "Evaluating Taxonomy Free Character Role Labeling (TF-CRL) in News Stories using Large Language Models.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.emnlp-main.750.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/evaluating-taxonomy-free-character-role-labeling-tf-crl-in-2025/source.pdf",
+      "sha256": "1f47a463680e782c0f9761efdf31b2c07e0d33973c497a99a257fa42c1705b67"
+    },
+    {
+      "id": "goodreads-vs-amazon-the-effect-of-decoupling-book-reviewing-2015",
+      "title": "Goodreads vs Amazon: The Effect Of Decoupling Book Reviewing And Book Selling.",
+      "year": 2015,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Goodreads_ICWSM_2015.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "hathi-1m-introducing-a-million-page-historical-prose-dataset-2022",
+      "title": "HATHI 1M: Introducing a Million Page Historical Prose Dataset in English from the Hathi Trust.",
+      "year": 2022,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.71/",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 308: Permanent Redirect"
+    },
+    {
+      "id": "how-cultural-capital-works-prizewinning-novels-bestsellers-and-the-2016",
+      "title": "How Cultural Capital Works: Prizewinning Novels, Bestsellers, and the Time of Reading.",
+      "year": 2016,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://post45.research.yale.edu/2016/05/how-cultural-capital-works-prizewinning-novels-bestsellers-and-the-time-of-reading/",
+      "status": "download_failed",
+      "gap": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'post45.research.yale.edu'. (_ssl.c:1007)>"
+    },
+    {
+      "id": "large-scale-narrative-messaging-around-climate-change-a-cross-2024",
+      "title": "Large Scale Narrative Messaging around Climate Change: A Cross-Cultural Comparison",
+      "year": 2024,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2024.climatenlp-1.11.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/large-scale-narrative-messaging-around-climate-change-a-cross-2024/source.pdf",
+      "sha256": "5877879cd57ad9269829d76fee454e3811eabfcddf2c1c0d1ed9c48bee18f194"
+    },
+    {
+      "id": "measuring-unreading-2020",
+      "title": "Measuring Unreading.",
+      "year": 2020,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://txtlab.org/wp-content/uploads/2020/09/Piper_Unreading_GY_2020.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/measuring-unreading-2020/source.pdf",
+      "sha256": "e90e2146b92ce80c69174e845a41d2d3d12f0572609eb418309749e15187db70"
+    },
+    {
+      "id": "media-and-metamorphosis-on-books-and-notes-2010",
+      "title": "Media and Metamorphosis: On Books and Notes.",
+      "year": 2010,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://mediacommons.futureofthebook.org/tne/pieces/media-and-metamorphosis-notes-and-books",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "mini-worldlit-a-dataset-of-contemporary-fiction-from-13-2025",
+      "title": "Mini Worldlit: A Dataset of Contemporary Fiction from 13 Countries, Nine Languages, and Five Continents.",
+      "year": 2025,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.248",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/mini-worldlit-a-dataset-of-contemporary-fiction-from-13-2025/source.html",
+      "sha256": "77f4322624994d0150402a2504a7918230468a3794ddd281d9e411dfb53b0fbe"
+    },
+    {
+      "id": "mr-bennet-his-coachman-and-the-archbishop-walk-into-2015",
+      "title": "Mr. Bennet, his coachman, and the Archbishop walk into a bar but only one of them gets recognized: On The Difficulty of Detecting Characters in Literary Texts.",
+      "year": 2015,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Vala_EMNLP_2015.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "narrabench-a-comprehensive-framework-for-narrative-benchmarking-2025",
+      "title": "NarraBench: A comprehensive framework for narrative benchmarking",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2026.eacl-long.176.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/narrabench-a-comprehensive-framework-for-narrative-benchmarking-2025/source.pdf",
+      "sha256": "926ed3151865f9b8e38844a40b19a570d13efb06a98797f63b01e447b02226fe"
+    },
+    {
+      "id": "narradetect-an-annotated-dataset-for-the-task-of-narrative-2025",
+      "title": "NarraDetect: An annotated dataset for the task of narrative detection.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.wnu-1.1.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/narradetect-an-annotated-dataset-for-the-task-of-narrative-2025/source.pdf",
+      "sha256": "60ea0cac8fec63d0b2fab261c9b01017ef67efcd0a1b6695a057ede4815344be"
+    },
+    {
+      "id": "novel-devotions-conversional-reading-computational-modeling-and-the-modern-2015",
+      "title": "Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel.",
+      "year": 2015,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_NovelConversions.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "of-automatics-sophie-von-la-roche-and-the-life-2014",
+      "title": "Of Automatics: Sophie von la Roche and the Life of the Writer's Desk.",
+      "year": 2014,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_Automatics.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "on-the-evolution-of-library-and-information-science-doctoral-1960",
+      "title": "On the Evolution of Library and Information Science Doctoral Dissertation Topics in North America (1960-2013).",
+      "year": 1960,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Shu_EvolutionOfInformationScience_2016.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "paraphrasis-goethe-the-novella-and-forms-of-translational-knowledge-2010",
+      "title": "Paraphrasis: Goethe, the Novella, and Forms of Translational Knowledge.",
+      "year": 2010,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Paraphrasis.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "probing-narrative-morals-a-new-character-focused-mft-framework-2025",
+      "title": "Probing Narrative Morals: A New Character-Focused MFT Framework for Use with Large Language Models.",
+      "year": 2025,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2025.emnlp-main.1449.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/probing-narrative-morals-a-new-character-focused-mft-framework-2025/source.pdf",
+      "sha256": "edc3e30e1226f9b559dd0bf157bdf8f4b42ba2bddc2632e00e6c07433ce4da17"
+    },
+    {
+      "id": "publication-power-and-patronage-on-inequality-and-academic-publishing-2017",
+      "title": "Publication, Power and Patronage: On Inequality and Academic Publishing.",
+      "year": 2017,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://criticalinquiry.uchicago.edu/publication_power_and_patronage_on_inequality_and_academic_publishing/",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/publication-power-and-patronage-on-inequality-and-academic-publishing-2017/source.html",
+      "sha256": "06fb33699b1dbcd6cb0369e710ee440a5c3fa729df57bf0f3e8b597347a5b42d"
+    },
+    {
+      "id": "reading-s-refrain-from-bibliography-to-topology-2013",
+      "title": "Reading's Refrain: From Bibliography to Topology.",
+      "year": 2013,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_ReadingsRefrain.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "rethinking-the-print-object-goethe-and-the-book-of-2006",
+      "title": "Rethinking the Print Object: Goethe and the Book of Everything.",
+      "year": 2006,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/GoetheandtheBookofEverything.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "romantic-cultures-of-print-from-miscellaneity-to-dialectic-2010",
+      "title": "Romantic Cultures of Print: From Miscellaneity to Dialectic.",
+      "year": 2010,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://www.erudit.org/revue/ravon/2010/v/n57-58/1006508ar.html?lang=en",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/romantic-cultures-of-print-from-miscellaneity-to-dialectic-2010/source.html",
+      "sha256": "d6b3de5c3d11ed68bc566d55ad15fc3e3ba2596b420830a2cb35733255cc479d"
+    },
+    {
+      "id": "small-worlds-measuring-the-mobility-of-characters-in-english-2024",
+      "title": "Small Worlds. Measuring the Mobility of Characters in English-Language Fiction",
+      "year": 2024,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://jcls.io/article/id/3917/",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/small-worlds-measuring-the-mobility-of-characters-in-english-2024/source.html",
+      "sha256": "f8c7c1ad0c215f33f1b6efa13eb67833c2340391b96ca4f7e83ca90fdd4a7b84"
+    },
+    {
+      "id": "social-characters-the-hierarchy-of-gender-in-contemporary-english-2019",
+      "title": "Social Characters: The Hierarchy of Gender in Contemporary English-Language Fiction.",
+      "year": 2019,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://culturalanalytics.org/2019/01/social-characters-the-hierarchy-of-gender-in-contemporary-english-language-fiction/",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/social-characters-the-hierarchy-of-gender-in-contemporary-english-2019/source.html",
+      "sha256": "589ef0013a6d9c2f435e1acc1a06d1df583ba2ff130e527ffd9e705c4689159a"
+    },
+    {
+      "id": "story-morals-surfacing-value-driven-narrative-schemas-using-large-2024",
+      "title": "Story Morals: Surfacing value-driven narrative schemas using large language models",
+      "year": 2024,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2024.emnlp-main.723.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/story-morals-surfacing-value-driven-narrative-schemas-using-large-2024/source.pdf",
+      "sha256": "ba8dc8dbc7728a83b47fe593ee970dcd21315e8b1a6ba660da1da094decbbe17"
+    },
+    {
+      "id": "techniqe-and-the-time-of-reading-2018",
+      "title": "Techniqe and the Time of Reading.",
+      "year": 2018,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_Tempos_PMLA_2018.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "the-covid-that-wasn-t-counterfactual-journalism-using-gpt-2022",
+      "title": "The COVID That Wasn't: Counterfactual Journalism Using GPT.",
+      "year": 2022,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2022.latechclfl-1.11.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/the-covid-that-wasn-t-counterfactual-journalism-using-gpt-2022/source.pdf",
+      "sha256": "fb7c5d4fbb1f48fdbe240844be678543437c90748a47dc7f879e4aa53d953396"
+    },
+    {
+      "id": "the-making-of-transnational-textual-communities-german-women-translators-2006",
+      "title": "The Making of Transnational Textual Communities: German Women Translators 1800-1850.",
+      "year": 2006,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/GermanWomenTranslators1800-1850.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "the-more-antecedents-the-merrier-tackling-multiple-antecedents-in-2016",
+      "title": "The More Antecedents the Merrier: Tackling Multiple Antecedents in Anaphor Resolution.",
+      "year": 2016,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://www.aclweb.org/anthology/P/P16/P16-1216.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/the-more-antecedents-the-merrier-tackling-multiple-antecedents-in-2016/source.pdf",
+      "sha256": "a0a0821d72f773746b8756d3d8fff5e4b4b3345dd188422609da1d9ebac72dd2"
+    },
+    {
+      "id": "the-predictability-of-literary-translation-2022",
+      "title": "The predictability of literary translation.",
+      "year": 2022,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2022.nlp4dh-1.19.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/the-predictability-of-literary-translation-2022/source.pdf",
+      "sha256": "42af8879faa8cf882e28b4088037c356617e4002fd7d4210e39b88f3475f90f7"
+    },
+    {
+      "id": "the-scientization-of-literary-study-2019",
+      "title": "The Scientization of Literary Study.",
+      "year": 2019,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://www.aclweb.org/anthology/W19-2503.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/the-scientization-of-literary-study-2019/source.pdf",
+      "sha256": "56e44aa8be0edb9de9fea65d6cf9717370756594dfdc9298a725b522c377b9a2"
+    },
+    {
+      "id": "think-small-on-literary-modeling-2017",
+      "title": "Think Small: On Literary Modeling.",
+      "year": 2017,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Piper_Think_Small_PMLA_2017.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "towards-a-perspectival-moral-history-of-the-novel-using-2025",
+      "title": "Towards a perspectival moral history of the novel using LLMs",
+      "year": 2025,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "https://jcls.io/article/id/4168/",
+      "status": "html_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/towards-a-perspectival-moral-history-of-the-novel-using-2025/source.html",
+      "sha256": "2fb64e759f8d6d8f24bbebf4a737dca2e7acaebd485264bdd49e66c9cf204d3b"
+    },
+    {
+      "id": "using-large-language-models-for-understanding-narrative-discourse-2024",
+      "title": "Using Large Language Models for Understanding Narrative Discourse",
+      "year": 2024,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2024.wnu-1.4.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/using-large-language-models-for-understanding-narrative-discourse-2024/source.pdf",
+      "sha256": "9290b5604ac35e64aa1fba78d474ee22f54bcdba1f1de0f230005ba639736b1b"
+    },
+    {
+      "id": "vanishing-points-the-heterotopia-of-the-romantic-book-2012",
+      "title": "Vanishing Points: The Heterotopia of the Romantic Book.",
+      "year": 2012,
+      "type": "journal_article",
+      "core": false,
+      "source_url": "http://piperlab.mcgill.ca/pdfs/Vanishingpoints.pdf",
+      "status": "download_failed",
+      "gap": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "where-do-people-tell-stories-online-story-detection-across-2024",
+      "title": "Where Do People Tell Stories Online? Story Detection Across Online Communities",
+      "year": 2024,
+      "type": "conference_paper",
+      "core": false,
+      "source_url": "https://aclanthology.org/2024.acl-long.383.pdf",
+      "status": "open_access_local_indexed",
+      "local_path": "research/researchers/andrew-piper/corpus/papers/where-do-people-tell-stories-online-story-detection-across-2024/source.pdf",
+      "sha256": "d2adfbbec65509a3c8727ff86696edd80baa08d7b6470bca24246620b16954ee"
+    }
+  ],
+  "books": {
+    "status": "partial_local_full_text",
+    "indexed": [
+      "enumerations-2018"
+    ],
+    "metadata_only_or_missing": [
+      "dreaming-in-books-2009",
+      "book-was-there-2012",
+      "interacting-with-print-2018",
+      "can-we-be-wrong-2020",
+      "why-read-fiction-2026"
+    ],
+    "note": "Only locally supplied or open full-text books are indexed. Other books remain metadata-only until lawful local copies are supplied."
+  },
+  "interviews": {
+    "status": "metadata_only_not_indexed",
+    "reviewed_source": "https://andrewpiper.ai/about/about",
+    "note": "Official about page mentions interview appearances on CBC, NBC News, Financial Times, and La Presse, but no transcript/source text is locally indexed."
+  },
+  "lectures": {
+    "status": "no_transcript_or_course_source_indexed",
+    "note": "No stable lecture transcript/slides/course source was found during this pass. Add source files under corpus/lectures/<id>/ when available."
+  },
+  "reception": {
+    "press_manifest": "research/researchers/andrew-piper/reception/press/press_manifest.json",
+    "status": "metadata_only_not_indexed"
+  },
+  "local_index": {
+    "chunks_path": "research/researchers/andrew-piper/index/chunks.jsonl",
+    "lexical_index_path": "research/researchers/andrew-piper/index/lexical.sqlite3",
+    "indexed_work_count": 33,
+    "indexed_chunk_count": 644,
+    "semantic_index": "not_built",
+    "indexed_source_types": [
+      "book",
+      "conference_paper",
+      "journal_article"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+catalog: data/catalog/plays.yaml
+model: bert
+batch_size: 16
+play_ids: []
+top_n: 8
+min_interactions: 3
+y_mean_mode: pair
+features:
+  - y_mean
+  - y_std_of_averages
+  - y_average_of_std_devs
+input_table: data/processed/speech_interactions_bert.parquet
+speech_table: data/processed/speeches_bert.parquet

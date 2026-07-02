@@ -1,0 +1,17 @@
+id: andrew-piper
+name: Andrew Piper
+affiliation: McGill University
+roles:
+- Professor, Languages Literatures and Cultures
+- Director, .txtlab
+fields:
+- book history
+- digital humanities
+- computational literary studies
+- computational narrative understanding
+official_profile: https://andrewpiper.ai/about/about
+official_publications: https://andrewpiper.ai/about/publications
+corpus_policy: Official bibliography metadata plus locally indexed open PDFs/HTML
+  and locally supplied book PDFs; missing books/interviews/lectures and failed downloads
+  are explicit in source_manifest.json.
+last_catalog_review: '2026-07-01'

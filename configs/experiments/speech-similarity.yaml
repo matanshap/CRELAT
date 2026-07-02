@@ -1,0 +1,5 @@
+input_table: data/processed/speech_interactions_bert.parquet
+play_id: ant
+tokenizer: bert-base-uncased
+max_sequence_length: 512
+bootstrap_iterations: 5000

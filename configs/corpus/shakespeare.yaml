@@ -1,0 +1,4 @@
+catalog: data/catalog/plays.yaml
+xml_root: data/raw/folger/xml
+raw_text_root: data/raw/folger/text
+expected_plays: 37

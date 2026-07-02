@@ -1,0 +1,12 @@
+# Verified BGU ECE GPU environment. Keep this separate from portable package metadata.
+python==3.9.21
+torch==2.9.0
+transformers==4.57.1
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+PyYAML==6.0.3
+pyarrow==22.0.0

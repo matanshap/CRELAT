@@ -1,0 +1,41 @@
+version: 1
+source: Folger Shakespeare Library digital texts
+exclusions: [Son, Ven, Luc, PhT, TNK]
+plays:
+  - {id: err, folger_code: Err, title: The Comedy of Errors, genre: comedy, year: 1594, xml: data/raw/folger/xml/Err.xml}
+  - {id: tgv, folger_code: TGV, title: The Two Gentlemen of Verona, genre: comedy, year: 1594, xml: data/raw/folger/xml/TGV.xml}
+  - {id: shr, folger_code: Shr, title: The Taming of the Shrew, genre: comedy, year: 1593, xml: data/raw/folger/xml/Shr.xml}
+  - {id: lll, folger_code: LLL, title: Love's Labour's Lost, genre: comedy, year: 1595, xml: data/raw/folger/xml/LLL.xml}
+  - {id: mnd, folger_code: MND, title: A Midsummer Night's Dream, genre: comedy, year: 1595, xml: data/raw/folger/xml/MND.xml}
+  - {id: mv, folger_code: MV, title: The Merchant of Venice, genre: comedy, year: 1596, xml: data/raw/folger/xml/MV.xml}
+  - {id: wiv, folger_code: Wiv, title: The Merry Wives of Windsor, genre: comedy, year: 1597, xml: data/raw/folger/xml/Wiv.xml}
+  - {id: ado, folger_code: Ado, title: Much Ado About Nothing, genre: comedy, year: 1598, xml: data/raw/folger/xml/Ado.xml}
+  - {id: ayl, folger_code: AYL, title: As You Like It, genre: comedy, year: 1599, xml: data/raw/folger/xml/AYL.xml}
+  - {id: tn, folger_code: TN, title: Twelfth Night, genre: comedy, year: 1601, xml: data/raw/folger/xml/TN.xml}
+  - {id: aww, folger_code: AWW, title: All's Well That Ends Well, genre: comedy, year: 1602, xml: data/raw/folger/xml/AWW.xml}
+  - {id: mm, folger_code: MM, title: Measure for Measure, genre: comedy, year: 1604, xml: data/raw/folger/xml/MM.xml}
+  - {id: tit, folger_code: Tit, title: Titus Andronicus, genre: tragedy, year: 1593, xml: data/raw/folger/xml/Tit.xml}
+  - {id: rom, folger_code: Rom, title: Romeo and Juliet, genre: tragedy, year: 1595, xml: data/raw/folger/xml/Rom.xml}
+  - {id: jc, folger_code: JC, title: Julius Caesar, genre: tragedy, year: 1599, xml: data/raw/folger/xml/JC.xml}
+  - {id: ham, folger_code: Ham, title: Hamlet, genre: tragedy, year: 1600, xml: data/raw/folger/xml/Ham.xml}
+  - {id: oth, folger_code: Oth, title: Othello, genre: tragedy, year: 1604, xml: data/raw/folger/xml/Oth.xml}
+  - {id: lr, folger_code: Lr, title: King Lear, genre: tragedy, year: 1606, xml: data/raw/folger/xml/Lr.xml}
+  - {id: mac, folger_code: Mac, title: Macbeth, genre: tragedy, year: 1606, xml: data/raw/folger/xml/Mac.xml}
+  - {id: ant, folger_code: Ant, title: Antony and Cleopatra, genre: tragedy, year: 1607, xml: data/raw/folger/xml/Ant.xml}
+  - {id: cor, folger_code: Cor, title: Coriolanus, genre: tragedy, year: 1608, xml: data/raw/folger/xml/Cor.xml}
+  - {id: tim, folger_code: Tim, title: Timon of Athens, genre: tragedy, year: 1608, xml: data/raw/folger/xml/Tim.xml}
+  - {id: tro, folger_code: Tro, title: Troilus and Cressida, genre: tragedy, year: 1602, xml: data/raw/folger/xml/Tro.xml}
+  - {id: 1h6, folger_code: 1H6, title: Henry VI Part 1, genre: history, year: 1591, xml: data/raw/folger/xml/1H6.xml}
+  - {id: 2h6, folger_code: 2H6, title: Henry VI Part 2, genre: history, year: 1591, xml: data/raw/folger/xml/2H6.xml}
+  - {id: 3h6, folger_code: 3H6, title: Henry VI Part 3, genre: history, year: 1591, xml: data/raw/folger/xml/3H6.xml}
+  - {id: r3, folger_code: R3, title: Richard III, genre: history, year: 1592, xml: data/raw/folger/xml/R3.xml}
+  - {id: r2, folger_code: R2, title: Richard II, genre: history, year: 1595, xml: data/raw/folger/xml/R2.xml}
+  - {id: jn, folger_code: Jn, title: King John, genre: history, year: 1596, xml: data/raw/folger/xml/Jn.xml}
+  - {id: 1h4, folger_code: 1H4, title: Henry IV Part 1, genre: history, year: 1597, xml: data/raw/folger/xml/1H4.xml}
+  - {id: 2h4, folger_code: 2H4, title: Henry IV Part 2, genre: history, year: 1598, xml: data/raw/folger/xml/2H4.xml}
+  - {id: h5, folger_code: H5, title: Henry V, genre: history, year: 1599, xml: data/raw/folger/xml/H5.xml}
+  - {id: h8, folger_code: H8, title: Henry VIII, genre: history, year: 1613, xml: data/raw/folger/xml/H8.xml}
+  - {id: per, folger_code: Per, title: Pericles, genre: comedy, year: 1608, xml: data/raw/folger/xml/Per.xml}
+  - {id: cym, folger_code: Cym, title: Cymbeline, genre: comedy, year: 1610, xml: data/raw/folger/xml/Cym.xml}
+  - {id: wt, folger_code: WT, title: The Winter's Tale, genre: comedy, year: 1611, xml: data/raw/folger/xml/WT.xml}
+  - {id: tmp, folger_code: Tmp, title: The Tempest, genre: comedy, year: 1611, xml: data/raw/folger/xml/Tmp.xml}

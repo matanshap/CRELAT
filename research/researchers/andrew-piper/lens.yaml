@@ -1,0 +1,23 @@
+entry_works:
+  - dreaming-in-books-2009
+  - book-was-there-2012
+  - enumerations-2018
+  - can-we-be-wrong-2020
+  - what-do-characters-do-2023
+important_periods:
+  - label: book-history-and-reading
+    years: 2006-2014
+  - label: computational-literary-modeling
+    years: 2015-2020
+  - label: narrative-character-and-ai
+    years: 2021-present
+interpretive_warnings:
+  - Do not reduce the early work to a pre-computational phase; media, embodiment, and material form remain relevant.
+  - Do not equate computational reading with the rejection of interpretation or close reading.
+  - Distinguish arguments about evidence and generalization from endorsement of any particular model.
+  - Treat recent narrative-AI work as a development, not a timeless summary of the entire career.
+required_counter_lenses:
+  - sampling and corpus construction
+  - historical specificity
+  - construct validity
+  - model and annotation bias

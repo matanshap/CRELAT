@@ -1,5 +1,40 @@
 test/
-src/results
-src/__pycache__
+src/results/
 output/
 models/
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.venv/
+
+# Local caches and editor state
+.cache/
+.idea/
+.vscode/
+.cursor/
+
+# Immutable experiment outputs (manifests may be curated into reports/)
+results/runs/*
+!results/runs/.gitkeep
+
+# Local/private intake requests and generated intake plans
+intake/inbox/*
+!intake/inbox/.gitkeep
+results/intake/*
+!results/intake/.gitkeep
+
+# Derived datasets
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Researcher source material and generated indexes
+research/researchers/**/corpus/**/source.*
+research/researchers/**/index/*
+!research/researchers/**/index/.gitkeep

@@ -1,0 +1,26 @@
+created: 2026-06-22
+git_commit: 51955324aca4f29cecaeab41a001deee56ce8c29
+worktree_dirty: true
+policy: Existing modified, deleted, and untracked files are user-owned and must not be restored or discarded.
+baseline_tests:
+  command: .venv/bin/python -m unittest discover -s tests -v
+  result: 4 passed before restructuring
+active_artifacts:
+  output/genre_analysis_data_bert.json: 8357bec12a74db9d82f408fb1d63ba598654524db73f68a1d8c4cdd789575fab
+  output/genre_y_isolation_bert.csv: 389c98824a0a685b159fa04aa6e6044f6b84af3eb8dc71a5a9cffb6035d95cde
+  output/speech_interactions_bert.csv: 313673852d86457256f00908605105a8093808d906340d3b8c864adf3957bf1b
+  output/speech_interactions_macberth_antony_and_cleopatra.csv: 26e45905121a650fb2956be896bcab59274630a28cb385402831dd47eb0619fa
+  output/speech_interactions_mpnet_antony_and_cleopatra.csv: 45e41980f1ab25c7dbcf8bd896bcab59274630a28cb385402831dd47eb0619fa
+  output/speech_length_similarity_antony_and_cleopatra.csv: fd6c3fb9244a2af3427954f1b257435466785d60205ba02d629fe863c00937c9
+  output/speech_length_similarity_macberth_antony_and_cleopatra.csv: f5224d650894a3ef54b00b7d222676f05a9abb395bbe40230c248d180e7adb90
+  output/speech_length_similarity_mpnet_antony_and_cleopatra.csv: 1d259a978b22d81b85b29db89c08fc9b48d0f54d23cea3efd0256d590b8d9570
+  output/play_tfidf_similarity_matrix.csv: 519ab65eaf301b5568bf6dfc65c1389e284a58a06a96cfbcaa33f220edc58ef4
+  output/stylometry_analysis_data.json: 6f39af00ed42004be8a3ea5659a7bdfd8ce3297b5ba723295f32f0c99fda61ef
+  output/stylometry_pca_results.csv: c26f4cc7494a9cdc131adbbb6ecb182fdc81d1666707053d28214bd451a5ffa1
+  output/stylometry_vs_bert_y_distance.csv: 8303d2b6f9e5d7069d3aa0ae52e798a9927036d8e0ddd0ade86c49c8dd53d254
+documented_commands:
+  genre_bert: >-
+    srun -p shared_a6000 --gres=gpu:1 --cpus-per-task=4 --mem=8G --time=01:00:00
+    .venv/bin/python -u src/genre_analysis.py --separate-plots
+    --features y_mean,y_variance_of_averages,y_average_of_variances
+  cpu_tests: .venv/bin/python -m unittest discover -s tests -v

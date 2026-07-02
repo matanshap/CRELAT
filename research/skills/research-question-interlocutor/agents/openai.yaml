@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Question Interlocutor"
+  short_description: "Evidence-grounded researcher lenses"
+  default_prompt: "Use $research-question-interlocutor to generate and scrutinize research questions through an evidence-grounded researcher lens."

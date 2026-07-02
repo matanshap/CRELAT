@@ -1,49 +1,64 @@
 # CRELAT
-CRELAT - Characters Relationships Analyzing Tool
 
+CRELAT is a reproducible research toolkit for computational analysis of character relationships in Shakespeare's plays. The maintained system parses Folger TEI, embeds speeches, builds consecutive-speech interactions, computes semantic and stylometric features, and writes immutable experiment runs.
 
-![image](https://github.com/omrir7/CRELAT/assets/71921802/be4b5cd5-847b-4081-91e7-0f9eb89e6349)
+The historical Book/Corpus implementation remains available under `legacy/` but is unsupported and is not imported by `crelat`.
 
+## Setup
 
-The **CRELAT** is a tool designed to facilitate the analysis of character relationships within books. Understanding the dynamics and interactions between characters is crucial for in-depth literary analysis, and this tool aims to streamline the process.
+```bash
+python -m venv .venv
+.venv/bin/python -m pip install -e '.[dev]'
+```
 
-## Features
+Optional model and researcher-corpus support:
 
-- **Automated Analysis:** The tool extracts character interactions, dialogues, and mentions from the text, providing a comprehensive overview of how characters relate to each other.
+```bash
+.venv/bin/python -m pip install -e '.[transformers,research]'
+```
 
-- **Visualization:** Visualize character relationship networks through graphs, making it easier to identify key relationships, alliances, conflicts, and character centrality.
+## Data and configuration
 
-- **Interactive Interface:** Navigate through character profiles, explore relationship details, and access specific excerpts from the book for context.
+- `data/catalog/plays.yaml` is the only maintained play catalog.
+- `data/raw/folger/` contains immutable Folger XML and text.
+- `configs/models/` records model identities and sequence limits.
+- `configs/experiments/` records analysis choices and seeds.
 
-- **Sentiment Analysis:** Gain insights into the emotional tone of character interactions using sentiment analysis, helping to identify themes and plot developments.
+## Pipelines
 
-- **Export and Sharing:** Export relationship graphs, character profiles, and analysis reports to share with fellow enthusiasts or incorporate into your literary projects.
+CPU stylometry:
 
-## Getting Started
+```bash
+.venv/bin/python pipelines/analyze_stylometry.py \
+  --config configs/experiments/stylometry.yaml
+```
 
-1. **Clone the Repository:** Start by cloning this repository to your local machine using `git clone https://github.com/omrir7/CRELAT.git'.
+GPU interaction extraction must run through Slurm:
 
-2. **Install Dependencies:** Navigate to the project directory and install the required dependencies by running `pip install -r requirements.txt`.
+```bash
+srun -p shared_a6000 --gres=gpu:1 --cpus-per-task=4 --mem=8G \
+  --time=01:00:00 ./scripts/run_gpu_container.sh python \
+  pipelines/build_interactions.py \
+  --config configs/experiments/genre-analysis.yaml
+```
 
-3. **Run the Tool:** Launch the tool by running `python src/RunCRELAT_Book.py --book <path-to-book-file> --ent <path-to-entities-file>` in your terminal. Follow the on-screen instructions to choose the book and set analysis options.
+Every pipeline creates `results/runs/<timestamp>-<pipeline>-<config-hash>/` with resolved configuration, provenance, tables, figures, logs, and checksums. Pipelines never overwrite `reports/`.
 
-4. **Explore Results:** Once the analysis is complete, explore the generated graphs and character profiles in the `output` directory.
+## Researcher lens
 
-## Contributing
+The repository includes an evidence-grounded research-question skill and an Andrew Piper pilot archive under `research/`. Local books and PDFs are intentionally excluded from Git.
+Researcher-lens sessions should also read `docs/research-direction.md` so questions are judged against CRELAT's current project direction rather than against the external researcher alone.
 
-We welcome contributions to enhance the functionality and usability of the Book Characters Relationship Analyzer. Feel free to open issues for suggestions or bug reports. If you'd like to contribute code, fork the repository, create a feature branch, commit your changes, and open a pull request.
+```bash
+./scripts/install_researcher_lens.sh
+```
 
-## Acknowledgments
+The lens reconstructs documented positions, marks speculation, consults criticism, and cites source pages. It does not impersonate the researcher.
 
-This tool was inspired by the need for a more structured approach to character relationship analysis in literature. 
-We extend our gratitude to the open-source community for their valuable libraries and tools that make projects like this possible.
+## Tests
 
----
+```bash
+MPLCONFIGDIR=/tmp/crelat-mpl .venv/bin/python -m pytest
+```
 
-Happy analyzing! Your feedback and contributions are highly appreciated. For questions or support, please reach out to [omrirafa@post.bgu.ac.il](omrirafa@post.bgu.ac.il).
-Just copy and paste the above Markdown code into your repository's README.md file, and it should display with the appropriate formatting.
-
-**Please Note: This project is currently in active development and is not yet considered complete.**
-
-
-
+See [architecture](docs/architecture.md) and [HPC execution](docs/hpc.md).

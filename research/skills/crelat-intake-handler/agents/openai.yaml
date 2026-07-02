@@ -1,0 +1,4 @@
+interface:
+  display_name: "CRELAT Intake Handler"
+  short_description: "Plan CRELAT intake requests"
+  default_prompt: "Use $crelat-intake-handler to process the latest CRELAT intake request and write a plan under results/intake."

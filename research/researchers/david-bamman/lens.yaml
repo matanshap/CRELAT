@@ -1,0 +1,28 @@
+entry_works:
+  - ancient-greek-latin-dependency-treebanks-2011
+  - bayesian-mixed-effects-literary-character-2014
+  - litbank-coreference-literature-2020
+  - born-literary-nlp-2020
+  - narrative-theory-computational-narrative-understanding-2021
+  - diversity-hollywood-2024
+  - culture-is-not-trivia-2025
+important_periods:
+  - label: cultural-heritage-and-classical-nlp
+    years: 2008-2012
+  - label: social-language-and-character-modeling
+    years: 2013-2017
+  - label: born-literary-nlp-and-literary-datasets
+    years: 2018-2021
+  - label: cultural-analytics-film-literature-and-llms
+    years: 2022-present
+interpretive_warnings:
+  - Do not collapse Bamman's work into generic NLP; the official profile foregrounds underserved domains such as literature and cultural material.
+  - Distinguish method-building for cultural domains from domain claims about literature, film, music, or social media.
+  - Treat datasets and annotations as central research objects, not merely infrastructure.
+  - Do not infer current positions from publication titles alone; verify claims against primary texts once a local corpus exists.
+required_counter_lenses:
+  - annotation and dataset validity
+  - domain adaptation and underserved-domain performance
+  - cultural representation and measurement
+  - model interpretability
+  - corpus construction and selection effects

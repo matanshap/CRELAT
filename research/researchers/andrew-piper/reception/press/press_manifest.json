@@ -1,0 +1,58 @@
+{
+  "source": "https://andrewpiper.ai/about/about",
+  "reviewed": "2026-07-01",
+  "status": "metadata_only_not_indexed",
+  "note": "Official about page says Piper has appeared in interviews on CBC, NBC News, Financial Times, and La Presse, and that his work has appeared in The Atlantic, The New Republic, Public Books, The Guardian, Slate, Le Devoir. These are reception/context unless source text is acquired.",
+  "items": [
+    {
+      "outlet": "CBC",
+      "type": "interview_appearance",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "NBC News",
+      "type": "interview_appearance",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "Financial Times",
+      "type": "interview_appearance",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "La Presse",
+      "type": "interview_appearance",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "The Atlantic",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "The New Republic",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "Public Books",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "The Guardian",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "Slate",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    },
+    {
+      "outlet": "Le Devoir",
+      "type": "reception_or_public_writing",
+      "status": "not_locally_indexed"
+    }
+  ]
+}
